@@ -1,5 +1,5 @@
 * 技巧
-  * [域名注册解析](/技巧/域名注册解析.md ':encrypted')
+  * [域名注册解析](/技巧/域名注册解析.md)
   * [conda管理python](/技巧/conda管理python.md)
   * [git-简明指南](/技巧/git-简明指南.md)
   * [Github搜索技巧](/技巧/Github搜索技巧.md)
