@@ -9,3 +9,9 @@
   * [MarkdownSyntax](/技巧/MarkdownSyntax.md)
 * 数学
   * [数学符号](/数学/数学符号.md)
+* 分享
+  * [不确定性](/分享/不确定性.md)
+  * [自我管理](/分享/自我管理.md)
+  * [Done_is_better_than_Perfection](/分享/Done_is_better_than_Perfection.md)
+  * [Experience_sharing](/分享/Experience_sharing.md)
+  * [Nat_Friedman](/分享/Nat_Friedman.md)
