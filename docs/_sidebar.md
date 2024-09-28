@@ -1,5 +1,4 @@
 * 经济学原理
-  * [微观经济学](/经济学原理/微观经济学.md)
 * 技巧
   * [域名注册解析](/技巧/域名注册解析.md)
   * [conda管理python](/技巧/conda管理python.md)
@@ -7,6 +6,7 @@
   * [Github搜索技巧](/技巧/Github搜索技巧.md)
   * [Hexo版本升级指南](/技巧/Hexo版本升级指南.md)
   * [MarkdownSyntax](/技巧/MarkdownSyntax.md)
+  * [提问躺枪.md](/技巧/提问躺枪.md)
 * 数学
   * [数学符号](/数学/数学符号.md)
 * 分享
@@ -15,3 +15,10 @@
   * [Done_is_better_than_Perfection](/分享/Done_is_better_than_Perfection.md)
   * [Experience_sharing](/分享/Experience_sharing.md)
   * [Nat_Friedman](/分享/Nat_Friedman.md)
+* 读书笔记
+  * [The_Modern_Mind](/读书笔记/The_Modern_Mind.md)
+  * [微观经济学](/读书笔记/经济学原理/微观经济学.md)
+  * [非暴力沟通.md](/读书笔记/非暴力沟通.md)
+  * [学会提问--批判性思维指南](/读书笔记/学会提问--批判性思维指南.md)
+  * [战略论-间接路线](/读书笔记/战略论-间接路线.md)
+  * [how_bad_do_you_want_it](/读书笔记/how_bad_do_you_want_it.md)
