@@ -15,6 +15,7 @@
   * [Done_is_better_than_Perfection](/分享/Done_is_better_than_Perfection.md)
   * [Experience_sharing](/分享/Experience_sharing.md)
   * [Nat_Friedman](/分享/Nat_Friedman.md)
+  * [自救指南](/分享/自救指南.md)
 * 读书笔记
   * [The_Modern_Mind](/读书笔记/The_Modern_Mind.md)
   * 经济学原理
