@@ -1,4 +1,3 @@
-* 经济学原理
 * 技巧
   * [域名注册解析](/技巧/域名注册解析.md)
   * [conda管理python](/技巧/conda管理python.md)
