@@ -15,6 +15,19 @@
       loadSidebar: true,
       repo: '',
       logo: '/images/favicon.ico',
+      plugins: [
+        function (hook, vm) {
+          hook.beforeEach(function (content) {
+            //格式：ENCRYPTED.加密方式(加密内容)
+            let matchResult = content.match(/ENCRYPTED\.(\w+)\((\S+)\)/);
+            if (matchResult) {
+              //等待访问者输入密钥返回解密后的内容
+              return inputSecretKeydecryptContent(matchResult[1], matchResult[2]);
+            }
+            return content;
+          });
+        }
+      ],
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md',
       },
