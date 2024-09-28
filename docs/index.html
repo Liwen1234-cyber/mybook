@@ -15,19 +15,13 @@
       loadSidebar: true,
       repo: '',
       logo: '/images/favicon.ico',
-      plugins: [
-        function (hook, vm) {
-          hook.beforeEach(function (content) {
-            //格式：ENCRYPTED.加密方式(加密内容)
-            let matchResult = content.match(/ENCRYPTED\.(\w+)\((\S+)\)/);
-            if (matchResult) {
-              //等待访问者输入密钥返回解密后的内容
-              return inputSecretKeydecryptContent(matchResult[1], matchResult[2]);
-            }
-            return content;
-          });
-        }
-      ],
+      auth: {
+        enable: true, // 是否开启
+        use: "sha256",
+        password: "3086799E8777A328B2B4BE414CE65542", // md5密码
+        title: "请输入密码以访问文档：", // 设置标题
+        paths: ["/分享/自救指南.md"] // 需要认证的路径，支持正则表达式匹配
+      },
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md',
       },
@@ -51,8 +45,8 @@
   <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/docsify/4.12.2/docsify.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/crypto-js@4.1.1/crypto-js.min.js"></script>
-  <script src="./js/docsify-decrypt-content.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/js-sha256@0.9.0/build/sha256.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-auth@1.2.0/dist/docsify-auth.min.js"></script>
 </body>
 
 </html>
