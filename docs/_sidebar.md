@@ -5,7 +5,7 @@
   * [Github搜索技巧](/技巧/Github搜索技巧.md)
   * [Hexo版本升级指南](/技巧/Hexo版本升级指南.md)
   * [MarkdownSyntax](/技巧/MarkdownSyntax.md)
-  * [提问躺枪.md](/技巧/提问躺枪.md)
+  * [提问躺枪](/技巧/提问躺枪.md)
 * 数学
   * [数学符号](/数学/数学符号.md)
   * [矩阵求导](/数学/矩阵求导.md)
