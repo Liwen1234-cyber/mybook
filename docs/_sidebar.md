@@ -17,6 +17,7 @@
   * [Nat_Friedman](/分享/Nat_Friedman.md)
   * [自救指南](/分享/自救指南.md)
   * [人人都是施b辰](/分享/人人都是施b辰.md)
+  * [翻墙](/分享/翻墙.md)
 * 读书笔记
   * [The_Modern_Mind](/读书笔记/The_Modern_Mind.md)
   * 经济学原理
