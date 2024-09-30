@@ -1,13 +1,3 @@
----
-title: Done is better than Perfection
-tags:
-  - 工程师
-categories: 经验
-toc: true
-abbrlink: 7a66
-date: 2024-04-10 00:34:14
----
-
 ## Done is better than Perfection
 
 Perfectionism means setting extremely high standards for yourself and ace in everything you are doing. You won’t stop until you are completely satisfied with your end results.
