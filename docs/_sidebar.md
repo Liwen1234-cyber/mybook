@@ -22,6 +22,8 @@
   * [The_Modern_Mind](读书笔记/The_Modern_Mind)
   * [西方现代思想讲义](读书笔记/西方现代思想讲义)
   * [Steal_Like_an_Artist](读书笔记/Steal_Like_an_Artist)
+  * [Reality_Is_Broken](读书笔记/Reality_Is_Broken)
+  * [what's_our_problem](读书笔记/what's_our_problem)
   * 经济学原理
     * [微观经济学](读书笔记/经济学原理/微观经济学)
   * [非暴力沟通](读书笔记/非暴力沟通)
