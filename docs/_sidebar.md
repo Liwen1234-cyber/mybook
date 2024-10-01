@@ -10,6 +10,7 @@
   * [数学符号](数学/数学符号)
   * [矩阵求导](数学/矩阵求导)
 * **分享**
+  * [MrBeast](分享/MrBeast)
   * [不确定性](分享/不确定性)
   * [自我管理](分享/自我管理)
   * [Done_is_better_than_Perfection](分享/Done_is_better_than_Perfection)
@@ -19,7 +20,6 @@
   * [人人都是施b辰](分享/人人都是施b辰)
   * [翻墙](分享/翻墙)
   * [好玩的网站、工具](分享/好玩的网站、工具)
-  * [MrBeast](分享/MrBeast)
 * **[读书笔记](读书笔记/)**
   * [The_Modern_Mind](读书笔记/The_Modern_Mind)
   * [西方现代思想讲义](读书笔记/西方现代思想讲义)
