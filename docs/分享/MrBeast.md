@@ -42,7 +42,7 @@ I spent basically 5 years of my life locked in a room studying virality on Youtu
 
 Now let's jump over to the second metric that matters. AVD. This is how long on average people watch a given video. The cool thing about Youtube is they give us super detailed graphs for every video that show the exact second we lose a viewer on every single video.
 
-![img](images\wps1.png)
+![img](/images/wps1.png)
 
 See that blue line in the image above? That represents the attention span of the 60 million people that clicked on this video. It’s crazy but we can see exactly when every single person who clicked on this video clicks off. As with almost every video on Youtube, the first minute has the most loss (go look). This is why we freak out so much about the first minute and go so above and beyond to   make it the best we freakin can. On this particular video we lost 21 million viewers in the first minute of the video (which surprisingly compared to other channels is above average) and could have been much worse. Let’s say the start of the video wasn’t well-lit, I didn’t match the expectations of the clickbait, I didn’t pre plan what I’d say, and we didn’t front load some interesting stuff for the first minute of content, we would have lost much less then 21 million people. Because it wouldn’t have even got 21 million views lol. But if the views were hypothetically fixed then instead of still having 39 million viewers at the 1 minute mark it would be more like 20 million viewers. The first minute of each video is the most important minute of each video.
 
@@ -56,7 +56,7 @@ The above paragraphs are why you’ll hear us ask what minute mark in the video 
 
 And since we’re on the topic of retention graphs here is a cool visual.
 
-![img](images\wps9.png)
+![img](/images/wps9.png)
 
 The last of the 3 trackable metrics that matters to virality is AVP and tbh this doesn’t matter as much to you. Usually the length of the video will be decided by me or Tyler. I just need you to make people watch as long as possible.
 
@@ -152,9 +152,9 @@ Obviously everyone has their roles in the company and tbh if you can consistentl
 
 Youtube has a feature that compares a new upload’s performance to the previous 9 videos and tells you how the views rank in the first hour, two hours, three hours, 4 hours, etc. This is what it looks like.
 
-![img](images\wps21.png)
+![img](/images/wps21.png)
 
-![img](images\wps22.png)
+![img](/images/wps22.png)
 
 So if you hear someone ask what a video was out of 10, this is what they are asking for.
 
@@ -214,7 +214,7 @@ This is where things get subjective and my brain is probably going to turn into 
 
 Like I said at the start of this the metrics you care about in regards to virality are CTR, AVD, and AV P. If you want to know if the contents of a video are good, just look at the AVD and AVP of a video after we upload it. Because based   on how long people watch and what percentage of the video they watched, you can clearly see if they enjoyed it. To show this in action below is the retention data for two separate videos of almost identical length from the channel. (All avd and avp data I share will be first day data to make it apples to apples, if you don’t know what this means that’s okay it’s mostly incase mario gets his hands on this haha). One video has 120 million views and the other only 45 million. Look at these retention numbers and see if you can pick which one got triple the views.
 
-![img](images\wps28.png)
+![img](/images/wps28.png)
 
  The answer is the lower image. People on average watched this video a minute and 38 seconds longer than the other video of the same length!! OF COURSE IT GOT TRIPLE THE VIEWS, IT’S CLEAR AS DAY FOR YOUTUBE THAT PEOPLE LIKED THIS VIDEO MUCH MORE! For your videos to do well you must get their AVD and AVP as high as possible. The longer people watch, the better a video will do. This is why I’m such a stickler about every single second of   content. Hook people at the start of the video, transition them to an amazing story that they are invested in, have no dull moments, and then have a satisfying payoff at the end of the video with an abrupt ending.
 
@@ -228,9 +228,9 @@ Throughout the history of this channel we’ve been through many formats. A big 
 
 Here are screenshots from the backend. (Europe is a big % but it’s broken up into countries so it doesn’t seem like it)
 
-![img](images\wps30.png)
+![img](/images/wps30.png)
 
-![img](images\wps31.png)
+![img](/images/wps31.png)
 
  Our content is consumed by everyone at this point. Kids watch the videos with their mom, even though our female viewership is only 30%. That's still 9 figure views a month from women, and it’s worldwide (but not to worldwide, 50%+ is still America and europe.) But despite saying all that, at its core if I had to describe it, I'd say the average MrBeast viewer is a teenage memer that likes video games.
 
@@ -242,7 +242,7 @@ If you’re going to be working for the Beast brand you should be a fan of the B
 
 If you watch a lot of youtube you’ll probably notice that when someone does a brand deal it’s boring and sounds like they’re reading a script. We take a different approach to brand deals, we like to integrate them into the content so it doesn’t nuke our retention and boosts conversion. Remember that I told you we could see the exact moment when viewers click off our videos? Here is a retention chart for when we used to do brand deals the old way.
 
-![img](images\wps33.png)
+![img](/images/wps33.png)
 
 Notice the crater where the brand deal is, that means people skipped it and also clicked off the video. Now here is a retention chart with a new style brand deal in it.
 
