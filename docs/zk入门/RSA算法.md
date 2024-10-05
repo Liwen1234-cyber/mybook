@@ -15,13 +15,13 @@ RSA（Rivest–Shamir–Adleman）算法由 Ron Rivest、Adi Shamir 和 Leonard 
   - 离散对数问题：设$g$为$Z_p^*$的原根，任给元素$y∈Z_p^*$，求唯一的$x$，$1≤x≤p-1$，满足$g^x=y\pmod{p}$，称$x$为模$p$以$g$为底$y$的离散对数。
 - **应用广泛：** 距离 RSA 发明已经将近 50 年了，它仍然被广泛应用于加密通信、数字证书、身份验证等方面。
 
-![img](images\MS01-1.png)
+![img](/images/MS01-1.png)
 
 ## 2. 算法步骤
 
 RSA 算法分为 3 步：生成一对公钥和私钥，使用公钥加密明文，使用私钥解密并恢复明文。下面我们逐步讲解。
 
-![img](images\MS01-2.png)
+![img](/images/MS01-2.png)
 
 ### 第 1 步 密钥生成
 
