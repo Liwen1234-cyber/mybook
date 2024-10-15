@@ -2,7 +2,12 @@
 
 RSA（Rivest–Shamir–Adleman）算法由 Ron Rivest、Adi Shamir 和 Leonard Adleman 在 1977 年发明，由他们姓名的首字母命名。
 
+{{encrypt}}
+
 > PS:一个在英国情报中心（GCHQ）叫Clifford Cocks的数学家于1973的内部文件中提出了一个同样的系统。然而他的探究因为涉及绝密所以直到1997年才为人所知。
+
+{{/encrypt}}
+
 
 - **公钥密码学：**
   - 私钥密码学的缺陷：
