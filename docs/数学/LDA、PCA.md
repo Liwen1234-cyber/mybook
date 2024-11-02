@@ -43,7 +43,7 @@ $$
 $$
 最终我们可以得到下面的公式，表示 LDA 投影到$w$后的损失函数：
 $$
-J(w)=\frac{\abs{\widetilde{m}_1-\widetilde{m}_2}^2}{\widetilde{s}_1^2+\widetilde{s}_2^2}
+J(w)=\frac{\left|\widetilde{m}_1-\widetilde{m}_2\right|^2}{\tilde{s}_1^2+\tilde{s}_2^2}
 $$
 分类的目标是，使得类别内的点距离越近越好（集中），类别间的点越远越好。分母表示每一个类别内的方差之和，方差越大表示一个类别内的点越分散，分子为两个类别各自的中心点的距离的平方，我们最大化$J(w)$就可以求出最优的$w$了。
 
@@ -65,7 +65,7 @@ $$
 $$
 同样的将$J(w)$分子化为：
 $$
-\abs{\widetilde{m}_1-\widetilde{m}_2}^2=w^T(m_1-m_2)(m_1-m_2)^Tw=w^TS_Bw
+\left|\widetilde{m}_1-\widetilde{m}_2\right|^2=w^T(m_1-m_2)(m_1-m_2)^Tw=w^TS_Bw
 $$
 这样损失函数可以化成下面的形式：
 $$
