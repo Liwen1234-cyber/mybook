@@ -92,8 +92,19 @@
         displayMath  : [['$$', '$$']],               // default
       },
       plugins: [
-        function(hook, vm) {
-          hook.afterEach(function(html, next) {
+        function (hook, vm) {
+          // Mermaid初始化
+          hook.ready(function () {
+            mermaid.initialize({ startOnLoad: false });
+          });
+
+          // 处理每个页面加载完成后的逻辑
+          hook.doneEach(function () {
+            mermaid.init(undefined, ".mermaid");
+          });
+
+          // 处理加密内容
+          hook.afterEach(function (html, next) {
             // 查找所有加密内容
             let encryptedContent = html.match(/\{\{encrypt\}\}([\s\S]*?)\{\{\/encrypt\}\}/g);
             
@@ -115,16 +126,8 @@
             next(html);
           });
         },
-        function (hook, vm) {
-          hook.ready(function () {
-            mermaid.initialize({ startOnLoad: false });
-          });
-
-          hook.doneEach(function () {
-            mermaid.init(undefined, ".mermaid");
-          });
-        },
       ],
+      
       markdown: {
         renderer: {
           code: function (code, lang) {
