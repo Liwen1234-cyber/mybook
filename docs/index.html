@@ -11,8 +11,6 @@
    <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
    <link rel="stylesheet" media="(prefers-color-scheme: light)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
 
-   <!-- 流程图 -->
-   <link rel="stylesheet" href="//unpkg.com/mermaid/dist/mermaid.min.css" />
    <!-- Custom Styles -->
    <style>
     :root{
@@ -92,19 +90,8 @@
         displayMath  : [['$$', '$$']],               // default
       },
       plugins: [
-        function (hook, vm) {
-          // Mermaid初始化
-          hook.ready(function () {
-            mermaid.initialize({ startOnLoad: false });
-          });
-
-          // 处理每个页面加载完成后的逻辑
-          hook.doneEach(function () {
-            mermaid.init(undefined, ".mermaid");
-          });
-
-          // 处理加密内容
-          hook.afterEach(function (html, next) {
+        function(hook, vm) {
+          hook.afterEach(function(html, next) {
             // 查找所有加密内容
             let encryptedContent = html.match(/\{\{encrypt\}\}([\s\S]*?)\{\{\/encrypt\}\}/g);
             
@@ -125,21 +112,8 @@
             }
             next(html);
           });
-        },
+        }
       ],
-      
-      markdown: {
-        renderer: {
-          code: function (code, lang) {
-            var html = "";
-            if (lang === "mermaid") {
-              html = '<div class="mermaid">' + code + '</div>';
-              return html;
-            }
-            return this.origin.code.apply(this, arguments);
-          },
-        },
-      },
     }
 
     //解密函数
@@ -177,9 +151,6 @@
    <!-- mathjax -->
    <script src="//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
    <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
-
-   <!-- 流程图 -->
-   <script type="text/javascript" src="//unpkg.com/mermaid/dist/mermaid.min.js"></script>
 </body>
 </html>
 
