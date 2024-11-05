@@ -6,3 +6,13 @@
 .sidebar a {
 	color: #333; /* 替换为你想要的文字颜色 */
 }
+/* 表格 */
+table {
+    border-collapse: collapse; /* 合并边框 */
+    width: 100%; /* 设置表格宽度 */
+}
+th, td {
+    border: 1px solid #000; /* 设置单元格边框 */
+    padding: 2px; /* 单元格内边距 */
+    text-align: center; /* 文本水平居中 */
+}

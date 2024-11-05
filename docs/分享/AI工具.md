@@ -2,8 +2,9 @@
 
 ## AI对话
 
-|   OpenAl    |    [ChatGPT](https://chat.openai.com/)     |
+|    公司     |                   AI名称                   |
 | :---------: | :----------------------------------------: |
+|   OpenAl    |    [ChatGPT](https://chat.openai.com/)     |
 |  Anthropic  |        [Claude](https://claude.ai/)        |
 |   Google    |  [Gemini](https://gemini.google.com/app)   |
 |  字节跳动   |    [字节豆包](https://www.doubao.com/)     |
@@ -17,46 +18,51 @@
 
 ## AI搜索
 
-| Perplexity | [Perplexity](https://www.perplexity.ai/) |
+|    公司    |                  AI名称                  |
 | :--------: | :--------------------------------------: |
+| Perplexity | [Perplexity](https://www.perplexity.ai/) |
 |  秘塔科技  |       [秘塔Al](https://metaso.cn/)       |
 | Toolify Al |  [Toolify Al](https://www.toolify.ai/)   |
 |  知乎直达  |   [知乎直达](https://zhida.zhihu.com)    |
 
 ## AI绘画
 
-|  Midjourney  |   [Midjourney](https://www.midjourney.com/)    |
+|     公司     |                     AI名称                     |
 | :----------: | :--------------------------------------------: |
+|  Midjourney  |   [Midjourney](https://www.midjourney.com/)    |
 | Stability Al |   [Stable Diffusion](https://stability.ai/)    |
 |    OpenAl    | [DALL-E 3](https://openai.com/index/dall-e-3/) |
 | 黑森林实验室 |          [Flux.1](https://flux1.ai/)           |
 
 ## AI声音
 
-| GPT-SoVITS | [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) |
+|    公司    |                        AI名称                        |
 | :--------: | :--------------------------------------------------: |
+| GPT-SoVITS | [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) |
 |  ChatTTS   |           [ChatTTS](https://chattts.com/)            |
 |  VITS TTS  |     [VITS TTS](https://github.com/SWivid/F5-TTS)     |
 
 ## AI视频
 
-| OpenAl |            [Sora](https://openai.com/index/sora/)            |
+|  公司  |                            AI名称                            |
 | :----: | :----------------------------------------------------------: |
+| OpenAl |            [Sora](https://openai.com/index/sora/)            |
 | Runway |         [Gen-3](https://runwayml.com/research/gen-3)         |
 | Runway | [Act One](https://runwayml.com/research/introducing-act-one) |
-|        |                                                              |
 
 ## AI文档
 
-| Napkin Al | [Napkin Al](https://www.napkin.ai/) |
+|   公司    |               AI名称                |
 | :-------: | :---------------------------------: |
+| Napkin Al | [Napkin Al](https://www.napkin.ai/) |
 |   txyZ    |    [txyZ](https://www.txyz.ai/)     |
 |  WPS AI   |   [WPS AI](https://www.wps.com/)    |
 
 ## AI编程
 
-|    Cursor    |            [Cursor](https://www.cursor.so)            |
+|     公司     |                        AI名称                         |
 | :----------: | :---------------------------------------------------: |
+|    Cursor    |            [Cursor](https://www.cursor.so)            |
 |    GitHub    | [GitHub Copilot](https://github.com/features/copilot) |
 |  Anthropic   |             [Claude](https://claude.ai/)              |
 | ScreenshotTo | [ScreenshotTo](https://github.com/abi/screenshot-to)  |
@@ -64,20 +70,23 @@
 
 ## 大模型
 
-| Llama |    [Llama](https://www.Ilama.com/)     |
+| 公司  |                 AI名称                 |
 | :---: | :------------------------------------: |
+| Llama |    [Llama](https://www.Ilama.com/)     |
 |  GPT  | [GPT](https://openai.com/index/gpt-4/) |
 
 ## RAG
 
-| AnythingLLM | [AnythingLLM](https://anythingllm.com/) |
+|    公司     |                 AI名称                  |
 | :---------: | :-------------------------------------: |
+| AnythingLLM | [AnythingLLM](https://anythingllm.com/) |
 |   RAGFlow   |     [RAGFlow](https://ragflow.io/)      |
 
 ## 开发
 
-| Hugging Face |   [Hugging Face](https://huggingface.co/)   |
+|     公司     |                   AI名称                    |
 | :----------: | :-----------------------------------------: |
+| Hugging Face |   [Hugging Face](https://huggingface.co/)   |
 |    ollama    |        [LLMOps](https://ollama.com/)        |
 |  LangChain   | [LLM Framework](https://www.langchain.com/) |
 |    Gradio    | [机器学习Web Demo](https://www.gradio.app/) |
@@ -86,14 +95,16 @@
 
 ## AI信息
 
-| 通往AGl之路 | [通往AGl之路](https://www.waytoagi.com/) |
+|    公司     |                  AI名称                  |
 | :---------: | :--------------------------------------: |
+| 通往AGl之路 | [通往AGl之路](https://www.waytoagi.com/) |
 | Latent Box  |     [Latent Box](https://ai-bot.cn/)     |
 
 ## Other
 
-|       WordArt        | [WordArt](https://www.modelscope.cn/studios/WordArt/WordArt) |
+|         公司         |                            AI名称                            |
 | :------------------: | :----------------------------------------------------------: |
+|       WordArt        | [WordArt](https://www.modelscope.cn/studios/WordArt/WordArt) |
 |     VideoScribe      |          [VideoScribe](https://www.videoscribe.co/)          |
 |        Manim         |            [Manim](https://www.manim.community/)             |
 |        Quora         |                    [Poe](https://poe.com)                    |
