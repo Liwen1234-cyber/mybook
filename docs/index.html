@@ -11,11 +11,13 @@
     <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
     <link rel="stylesheet" media="(prefers-color-scheme: light)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
     <!-- Custom Styles -->
+    <!-- sidebar -->
+    <link rel="stylesheet" href="css/my.css">
     <style>
       :root{ 
         --base-font-family: -apple-system, BlinkMacSystemFont, "LXGW Wenkai", "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
         --base-font-size: 16px;
-        --base-background-color: #e2dbcb;
+        --base-background-color: #CCE8CF;
         --theme-color: #4776fc;
 
         --code-inline-background: #c7d3e4;
@@ -91,14 +93,10 @@
         },
         tabs: {
           persist: true,
-          // default
           sync: true,
-          // default
           theme: 'classic',
-          // default
           tabComments: true,
-          // default
-          tabHeadings: true // default
+          tabHeadings: true
         },
         plugins: [function(hook, vm) {
           hook.afterEach(function(html, next) {
@@ -125,21 +123,21 @@
     }
 
     //解密函数
-                  function decryptContent(id, encryptedContent) {
-                    let password = document.getElementById(`pwd - $ {
-                      id
-                    }`).value;
-                    try {
-                      let decrypted = CryptoJS.AES.decrypt(encryptedContent, password).toString(CryptoJS.enc.Utf8);
-                      if (decrypted) {
-                        document.getElementById(id).innerHTML = decrypted;
-                      } else {
-                        alert('密码错误！');
-                      }
-                    } catch(e) {
-                      alert('解密失败，请检查密码！');
-                    }
-                  }</script>
+    function decryptContent(id, encryptedContent) {
+      let password = document.getElementById(`pwd - $ {
+        id
+      }`).value;
+      try {
+        let decrypted = CryptoJS.AES.decrypt(encryptedContent, password).toString(CryptoJS.enc.Utf8);
+        if (decrypted) {
+          document.getElementById(id).innerHTML = decrypted;
+        } else {
+          alert('密码错误！');
+        }
+      } catch(e) {
+        alert('解密失败，请检查密码！');
+      }
+    }</script>
     <!-- Required -->
     <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
