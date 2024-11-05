@@ -43,6 +43,9 @@
       --heading-h5-margin: 20px 0px -8px;
       --heading-h6-margin: 20px 0px -5px;
 
+      --docsifytabs-border-color: #ededed;
+      --docsifytabs-tab-highlight-color: purple;
+
     }
 
     em{
@@ -91,6 +94,13 @@
     },
     mermaidConfig: {
       querySelector: ".mermaid"
+    },
+    tabs: {
+      persist: true, // default
+      sync: true, // default
+      theme: 'classic', // default
+      tabComments: true, // default
+      tabHeadings: true // default
     },
     plugins: [
       function(hook, vm) {
@@ -163,6 +173,10 @@
   window.mermaid = mermaid;
   </script>
   <script src="//unpkg.com/docsify-mermaid@2.0.1/dist/docsify-mermaid.js"></script>
+  <!-- docsify (latest v4.x.x)-->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
+  <!-- docsify-tabs (latest v1.x.x) -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
 </body>
 </html>
 
