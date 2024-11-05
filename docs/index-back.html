@@ -11,8 +11,6 @@
    <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
    <link rel="stylesheet" media="(prefers-color-scheme: light)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
 
-   <!-- 流程图 -->
-   <link rel="stylesheet" href="//unpkg.com/mermaid/dist/mermaid.min.css" />
    <!-- Custom Styles -->
    <style>
     :root{
@@ -56,47 +54,43 @@
 <body>
   <div id="app">77 is waiting for...</div>
 
-  <script>
-    // Docsify Configuration
-    window.$docsify = {
+   <script>
+     // Docsify Configuration
+     window.$docsify = {
       el: '#app',
       name: "Coisini's document",
       repo: '',
       coverpage: false,
       loadSidebar: true,
-      loadNavbar: false,
+      loadNavbar: false
+      ,
       subMaxLevel: 3,
       auto2top: true,
       alias: {
         '/.*/_sidebar.md': '/_sidebar.md'
       },
-      count: {
-        countable: true,
-        fontsize: '0.9em',
-        color: 'rgb(90,90,90)',
-        language: 'chinese'
+      // pagination: {
+      //   previousText: 'Previous',
+      //   nextText: 'Next',
+      //   crossChapter: true,
+      //   crossChapterText: true,
+      // },
+      count:{
+        countable:true,
+        fontsize:'0.9em',
+        color:'rgb(90,90,90)',
+        language:'chinese'
       },
       cusdis: {
         host: 'https://cusdis.com',
         appId: '838a37e7-c0e1-4ace-9fd0-bbc828b300c8',
       },
       latex: {
-        inlineMath: [['$', '$'], ['\\(', '\\)']], // default
-        displayMath: [['$$', '$$']],               // default
+        inlineMath   : [['$', '$'], ['\\(', '\\)']], // default
+        displayMath  : [['$$', '$$']],               // default
       },
       plugins: [
         function(hook, vm) {
-          // Mermaid初始化
-          hook.ready(function () {
-            mermaid.initialize({ startOnLoad: false });
-          });
-  
-          // 处理每个页面加载完成后的逻辑
-          hook.doneEach(function () {
-            mermaid.init(undefined, ".mermaid");
-          });
-  
-          // 加密内容处理
           hook.afterEach(function(html, next) {
             // 查找所有加密内容
             let encryptedContent = html.match(/\{\{encrypt\}\}([\s\S]*?)\{\{\/encrypt\}\}/g);
@@ -121,8 +115,8 @@
         }
       ],
     }
-  
-    // 解密函数
+
+    //解密函数
     function decryptContent(id, encryptedContent) {
       let password = document.getElementById(`pwd-${id}`).value;
       try {
@@ -136,7 +130,7 @@
         alert('解密失败，请检查密码！');
       }
     }
-  </script>
+   </script>
 
    <!-- Required -->
    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
@@ -157,9 +151,6 @@
    <!-- mathjax -->
    <script src="//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
    <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
-
-   <!-- 流程图 -->
-   <script type="text/javascript" src="//unpkg.com/mermaid/dist/mermaid.min.js"></script>
 </body>
 </html>
 

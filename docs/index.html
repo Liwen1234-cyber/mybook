@@ -89,6 +89,9 @@
         inlineMath   : [['$', '$'], ['\\(', '\\)']], // default
         displayMath  : [['$$', '$$']],               // default
       },
+      plantuml: {
+        skin: 'classic',
+      },
       plugins: [
         function(hook, vm) {
           hook.afterEach(function(html, next) {
@@ -151,6 +154,8 @@
    <!-- mathjax -->
    <script src="//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
    <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
+   <!-- 流程图 -->
+   <script src="//unpkg.com/docsify-plantuml/dist/docsify-plantuml.min.js"></script>
 </body>
 </html>
 
