@@ -54,108 +54,113 @@
 <body>
   <div id="app">77 is waiting for...</div>
 
-   <script>
-     // Docsify Configuration
-     window.$docsify = {
-      el: '#app',
-      name: "Coisini's document",
-      repo: '',
-      coverpage: false,
-      loadSidebar: true,
-      loadNavbar: false
-      ,
-      subMaxLevel: 3,
-      auto2top: true,
-      alias: {
-        '/.*/_sidebar.md': '/_sidebar.md'
-      },
-      // pagination: {
-      //   previousText: 'Previous',
-      //   nextText: 'Next',
-      //   crossChapter: true,
-      //   crossChapterText: true,
-      // },
-      count:{
-        countable:true,
-        fontsize:'0.9em',
-        color:'rgb(90,90,90)',
-        language:'chinese'
-      },
-      cusdis: {
-        host: 'https://cusdis.com',
-        appId: '838a37e7-c0e1-4ace-9fd0-bbc828b300c8',
-      },
-      latex: {
-        inlineMath   : [['$', '$'], ['\\(', '\\)']], // default
-        displayMath  : [['$$', '$$']],               // default
-      },
-      plantuml: {
-        skin: 'classic',
-      },
-      plugins: [
-        function(hook, vm) {
-          hook.afterEach(function(html, next) {
-            // 查找所有加密内容
-            let encryptedContent = html.match(/\{\{encrypt\}\}([\s\S]*?)\{\{\/encrypt\}\}/g);
-            
-            if (encryptedContent) {
-              encryptedContent.forEach(function(content) {
-                let decrypted = content.replace(/\{\{encrypt\}\}([\s\S]*?)\{\{\/encrypt\}\}/, function(match, p1) {
-                  let id = Math.random().toString(36).substring(7);
-                  return `
-                    <div id="${id}">
-                      <p>这是加密内容。请输入密码查看：</p>
-                      <input type="password" id="pwd-${id}">
-                      <button onclick="decryptContent('${id}', '${CryptoJS.AES.encrypt(p1, '020718').toString()}')">解密</button>
-                    </div>
-                  `;
-                });
-                html = html.replace(content, decrypted);
+  <script>
+    // Docsify Configuration
+    window.$docsify = {
+    el: '#app',
+    name: "Coisini's document",
+    repo: '',
+    coverpage: false,
+    loadSidebar: true,
+    loadNavbar: false
+    ,
+    subMaxLevel: 3,
+    auto2top: true,
+    alias: {
+      '/.*/_sidebar.md': '/_sidebar.md'
+    },
+    // pagination: {
+    //   previousText: 'Previous',
+    //   nextText: 'Next',
+    //   crossChapter: true,
+    //   crossChapterText: true,
+    // },
+    count:{
+      countable:true,
+      fontsize:'0.9em',
+      color:'rgb(90,90,90)',
+      language:'chinese'
+    },
+    cusdis: {
+      host: 'https://cusdis.com',
+      appId: '838a37e7-c0e1-4ace-9fd0-bbc828b300c8',
+    },
+    latex: {
+      inlineMath   : [['$', '$'], ['\\(', '\\)']], // default
+      displayMath  : [['$$', '$$']],               // default
+    },
+    mermaidConfig: {
+      querySelector: ".mermaid"
+    },
+    plugins: [
+      function(hook, vm) {
+        hook.afterEach(function(html, next) {
+          // 查找所有加密内容
+          let encryptedContent = html.match(/\{\{encrypt\}\}([\s\S]*?)\{\{\/encrypt\}\}/g);
+          
+          if (encryptedContent) {
+            encryptedContent.forEach(function(content) {
+              let decrypted = content.replace(/\{\{encrypt\}\}([\s\S]*?)\{\{\/encrypt\}\}/, function(match, p1) {
+                let id = Math.random().toString(36).substring(7);
+                return `
+                  <div id="${id}">
+                    <p>这是加密内容。请输入密码查看：</p>
+                    <input type="password" id="pwd-${id}">
+                    <button onclick="decryptContent('${id}', '${CryptoJS.AES.encrypt(p1, '020718').toString()}')">解密</button>
+                  </div>
+                `;
               });
-            }
-            next(html);
-          });
-        }
-      ],
-    }
-
-    //解密函数
-    function decryptContent(id, encryptedContent) {
-      let password = document.getElementById(`pwd-${id}`).value;
-      try {
-        let decrypted = CryptoJS.AES.decrypt(encryptedContent, password).toString(CryptoJS.enc.Utf8);
-        if (decrypted) {
-          document.getElementById(id).innerHTML = decrypted;
-        } else {
-          alert('密码错误！');
-        }
-      } catch (e) {
-        alert('解密失败，请检查密码！');
+              html = html.replace(content, decrypted);
+            });
+          }
+          next(html);
+        });
       }
+    ],
+  }
+
+  //解密函数
+  function decryptContent(id, encryptedContent) {
+    let password = document.getElementById(`pwd-${id}`).value;
+    try {
+      let decrypted = CryptoJS.AES.decrypt(encryptedContent, password).toString(CryptoJS.enc.Utf8);
+      if (decrypted) {
+        document.getElementById(id).innerHTML = decrypted;
+      } else {
+        alert('密码错误！');
+      }
+    } catch (e) {
+      alert('解密失败，请检查密码！');
     }
-   </script>
+  }
+  </script>
 
-   <!-- Required -->
-   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
-   <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+  <!-- Required -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
 
-   <!-- Recommended -->
-   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
-   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
-   <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
-   <!-- <script src="https://unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script> -->
-   <!--crypt-->
-   <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
-   <script src="./js/docsify-decrypt-content.js"></script>
+  <!-- Recommended -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+  <!-- <script src="https://unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script> -->
+  <!--crypt-->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+  <script src="./js/docsify-decrypt-content.js"></script>
 
-   <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
-   <!-- comment -->
-   <script src="https://cusdis.com/js/cusdis.docsify.js"></script> <!-- cusdis核心库 -->
-   <!-- mathjax -->
-   <script src="//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-   <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
-   <!-- 流程图 -->
-   <script src="//unpkg.com/docsify-plantuml/dist/docsify-plantuml.min.js"></script>
+  <script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+  <!-- comment -->
+  <script src="https://cusdis.com/js/cusdis.docsify.js"></script> <!-- cusdis核心库 -->
+  <!-- mathjax -->
+  <script src="//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
+  <!-- 流程图 -->
+  <script type="module">
+  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs";
+  mermaid.initialize({ startOnLoad: true });
+  window.mermaid = mermaid;
+  </script>
+  <script src="//unpkg.com/docsify-mermaid@2.0.1/dist/docsify-mermaid.js"></script>
 </body>
 </html>
 
