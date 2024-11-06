@@ -7,6 +7,7 @@
   * [MarkdownSyntax](技巧/MarkdownSyntax)
   * [提问躺枪](技巧/提问躺枪)
 * **数学**
+  * [DFT](数学/DFT)
   * [LDA、PCA](数学/LDA、PCA)
   * [奇异值分解](数学/奇异值分解)
   * [Latex常用数学符号](数学/Latex常用数学符号)
