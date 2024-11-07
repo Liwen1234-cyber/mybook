@@ -46,7 +46,7 @@
   * [不要再忽悠孩子了](思考/不要再忽悠孩子了)
   * [蓝眼睛和红眼睛](思考/蓝眼睛和红眼睛)
 * **学习**
-  * [DFT](数学/DFT)
+  * [DFT](学习/DFT)
   * [information_theory](学习/information_theory)
 * **LeetCode**
   * **刷题进展**
