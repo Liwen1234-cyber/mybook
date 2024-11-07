@@ -36,7 +36,7 @@
 
 定义两个多项式如下：
 $$
-A(x)=\sum_{i=0}^na_ix^i\\B(x)=\sum_{i=0}^nb_ix^i
+A(x)=\sum_{i=0}^na_ix^i,\\B(x)=\sum_{i=0}^nb_ix^i
 $$
 
 -   加法：$A(x)+B(x)=\sum_{i=0}^n(a_i+b_i)x^i$
@@ -46,7 +46,7 @@ $$
 > 一般情况下，我们可以通过补零的方式，将两个次数不同的多项式调整到次数相同。这里我们都补充到 n 的长度
 
 $$
-c_i=\sum_{j=0}^ia_jb_{i-j}\\A(x)B(x)=\sum_{i=0}^{2n}c_ix^i
+c_i=\sum_{j=0}^ia_jb_{i-j},\\A(x)B(x)=\sum_{i=0}^{2n}c_ix^i
 $$
 
 我们称这个系数向量 c 为向量 a,b 的卷积，记作 $a\otimes b$
@@ -79,7 +79,7 @@ $$
 
 定义:
 $$
-C=[c_0,c_1,c_2,\ldots,c_{n-1}]^T\\h(x)=\sum_{i=0}^{n-1}c_ix^i
+C=[c_0,c_1,c_2,\ldots,c_{n-1}]^T,\\h(x)=\sum_{i=0}^{n-1}c_ix^i
 $$
 令$x=\omega$代入后得$[\mathrm{~}h(\omega^0),h(\omega^1),h(\omega^2),\ldots,h(\omega^{n-1})\mathrm{~}]^T$，两个多项式的乘积的可用点值表示，DFT 实际上所做的事情是**插值**
 
@@ -125,7 +125,7 @@ $$
    相应地，可以通过把输入信号和每一种频率的正余弦信号做内积，从而得到原始信号与每种频率的关联程度，这个结果便是我们所要的傅立叶变换结果：
    $$
    ReX[k] = \sum_{k=0}^{N-1} x[i]\cos(2\pi ki/N)
-   \\ImX[k]=-\sum_{k=0}^{N-1} x[i]\sin(2\pi ki/N)
+   ,\\ImX[k]=-\sum_{k=0}^{N-1} x[i]\sin(2\pi ki/N)
    $$
    第二个式子中加了个负号，是为了保持复数形式的一致
 
@@ -143,7 +143,7 @@ $$
 复数形式的DFT正向变换等式:
 $$
 X[k]=\frac{1}{N}\sum_{n=0}^{N-1}x[n](\cos(2\pi kn/N)-j\sin(2\pi kn/N))
-\\=\frac{1}{N}\sum_{n=0}^{N-1}x[n]e^{-j2\pi kn/N}
+,\\=\frac{1}{N}\sum_{n=0}^{N-1}x[n]e^{-j2\pi kn/N}
 $$
 其中，k的取值范围是0 ~ N-1 (也可以表达成0 ~ 2π)，当中的0 ~ N/2（或0 ~ π）是正频部分，N/2 ~ N-1（π~ 2π）是负频部分，由于正余弦函数的对称性，所以我们把 –π~ 0表示成π~ 2π，这是出于计算上方便的考虑。
 
@@ -154,13 +154,13 @@ $$
 对于$f(x)=c_0+c_1x+c_2x^2+\cdots+c_{n-1}x^{n-1}$，分离其奇数项和偶数项，构造出另外两个向量
 
 $$
-f_{even}(x)=c_0+c_2x+c_4x^2+\cdots+c_{n-2}x^{\frac n2-1}\\f_{odd}(x)=c_1+c_3x+c_5x^2+\cdots+c_{n-1}x^{\frac n2-1}
+f_{even}(x)=c_0+c_2x+c_4x^2+\cdots+c_{n-2}x^{\frac n2-1},\\f_{odd}(x)=c_1+c_3x+c_5x^2+\cdots+c_{n-1}x^{\frac n2-1}
 $$
 不难发现：$f(x)=f_{even}(x^2)+xf_{odd}(x^2)$
 
 所以$x=\omega$代入得
 $$
-f(\omega_n^k)=f_{even}(\omega_{\frac n2}^k)+\omega_n^kf_{odd}(\omega_{\frac n2}^k)\\f(\omega_n^{k+\frac n2})=f_{even}(\omega_{\frac n2}^k)-\omega_n^kf_{odd}(\omega_{\frac n2}^k)
+f(\omega_n^k)=f_{even}(\omega_{\frac n2}^k)+\omega_n^kf_{odd}(\omega_{\frac n2}^k),\\f(\omega_n^{k+\frac n2})=f_{even}(\omega_{\frac n2}^k)-\omega_n^kf_{odd}(\omega_{\frac n2}^k)
 $$
 于是，可以递归分治，其时间为 $T(n)=2T(n/2)+O(n)$，故复杂度为 $T(n)=O(nlogn)$。还要考虑一点，要保证长度为 $2^k$ 才能保证可以正确的分治
 
