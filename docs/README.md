@@ -18,3 +18,4 @@ Bonjour!
 Ciao!
 
 <!-- tabs:end -->
+<a href="https://doc.minddiy.top" target="_top" title="安排"><img src="/images/qianduan-b6d3ccb4-bd13-447e-b88d-f0016b57da49.png" alt="logo"></a>
