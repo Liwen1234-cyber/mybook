@@ -53,6 +53,7 @@
   * [DFT](学习/DFT)
   * [information_theory](学习/information_theory)
 * 📘**码农**
+  * [八股文](码农/八股文.md) 
   * 📙刷题进展
     * [数组](码农/刷题记录/数组)
     * [链表](码农/刷题记录/链表)
