@@ -30,6 +30,6 @@ blockquote {
 blockquote p {
     margin: 0 !important; 
     line-height: 1.6 !important; 
-    font-size: 15px !important; 
+    font-size: 0.7em !important; 
     color: #4a4a4a !important; 
 }
