@@ -16,3 +16,12 @@ th, td {
     padding: 2px; /* 单元格内边距 */
     text-align: center; /* 文本水平居中 */
 }
+blockquote {
+    border-left: 3px solid #007acc !important; /* 边框颜色和宽度 */
+    padding: 5px 10px !important; /* 内边距 */
+    margin: 10px 0 !important; /* 外边距 */
+    background-color: #f9f9f9 !important; /* 背景颜色 */
+    color: #333 !important; /* 字体颜色 */
+    font-size: 0.7em !important; /* 设置字体大小为主体字体的90% */
+    line-height: 1.4 !important; /* 行高 */
+}
