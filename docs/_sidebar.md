@@ -7,7 +7,6 @@
   * [MarkdownSyntax](技巧/MarkdownSyntax)
   * [提问躺枪](技巧/提问躺枪)
 * 📘**数学**
-* 
   * [LDA、PCA](数学/LDA、PCA)
   * [奇异值分解](数学/奇异值分解)
   * [Latex常用数学符号](数学/Latex常用数学符号)
@@ -51,6 +50,7 @@
   * [不要再忽悠孩子了](思考/不要再忽悠孩子了)
   * [蓝眼睛和红眼睛](思考/蓝眼睛和红眼睛)
 * 📘**学习**
+  * [通信笔记](学习/通信笔记.md)
   * [DFT](学习/DFT)
   * [information_theory](学习/information_theory)
 * 📘**码农**
