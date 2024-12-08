@@ -1,16 +1,17 @@
 class Solution {
-    public int largestRectangleArea(int[] heights) {
+    public int trap(int[] height) {
+        if(height.length < 3) return 0;
         int res = 0;
         Deque<Integer> deque = new LinkedList<>();
-        for (int i = 0; i < heights.length; i++) {
-            while (!deque.isEmpty() && heights[deque.peek()] > heights[i]) {
-                int cur = deque.pop();
-                if(!deque.isEmpty()){
-                    int max_hight = Math.max(heights[deque.peek()], heights[i]);
-                    int min_hight = Math.max(heights[deque.peek()], heights[i]);
+        for (int i = 0; i < height.length; i++) {
+            while (!deque.isEmpty() && height[i] > height[deque.peek()]) {
+                int bottom = deque.pop();
+                int hold = 0;
+                if (!deque.isEmpty()) {
+                    int width = i - deque.peek() - 1;// 宽度
+                    hold = (Math.min(height[deque.peek()], height[i]) - height[bottom]) * width;
                 }
-                int left = deque.isEmpty() ? -1 : deque.peek();
-                res = Math.max(res, (i - left - 1) * heights[cur]);
+                res += hold;
             }
             deque.push(i);
         }
