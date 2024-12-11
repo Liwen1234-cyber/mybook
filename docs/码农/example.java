@@ -1,16 +1,21 @@
 import java.util.*;
 
-class Main{
-    public static void main(String[] args){
-        List<List<Integer>> list = new ArrayList<>();
+public class Main{
+    public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
-        int N = in.nextInt(); // 节点
-        int M = in.nextInt(); // 边
-        int[][] edges = new int[M][2];
-        for(int i = 0; i < M; i++){
-            edges[i][0] = in.nextInt();
-            edges[i][1] = in.nextInt();
+        int N = in.nextInt();
+        int M = in.nextInt();
+        int[][] arr = new int[N+2][M+2];
+        for(int i = 1; i <= N; i++){
+            for(int j = 1; j <= M; j++){
+                arr[i][j] = in.nextInt();
+            }
         }
 
+    }
+
+
+    private static void dfs(int[][] arr){
+        
     }
 }
