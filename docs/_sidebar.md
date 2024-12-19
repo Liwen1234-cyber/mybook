@@ -50,6 +50,7 @@
   * [不要再忽悠孩子了](思考/不要再忽悠孩子了)
   * [蓝眼睛和红眼睛](思考/蓝眼睛和红眼睛)
 * 📘**学习**
+  * [Csi-feedback](学习/Csi-feedback.md)
   * [通信笔记](学习/通信笔记.md)
   * [DFT](学习/DFT)
   * [information_theory](学习/information_theory)
