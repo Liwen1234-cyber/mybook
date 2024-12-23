@@ -54,7 +54,7 @@
   * [通信笔记](学习/通信笔记.md)
   * [DFT](学习/DFT)
   * [information_theory](学习/information_theory)
-  * 
+  * [1](学习/1.md)
 * 📘**复习**
   * [随机过程](复习/随机过程.md)
 * 📘**码农**
