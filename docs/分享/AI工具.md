@@ -1,115 +1,51 @@
-# AI工具
+# AI Tools
 
-## AI对话
+## General Assistance
+1. **Perplexity** – AI-powered search engine and research assistant
+2. **Claude (Anthropic)** – General chatbot, great for projects and sharing work
+3. **ChatGPT** – You know this one, but check out Advanced Voice Mode to talk to AI
 
-|    公司     |                   AI名称                   |
-| :---------: | :----------------------------------------: |
-|   OpenAl    |    [ChatGPT](https://chat.openai.com/)     |
-|  Anthropic  |        [Claude](https://claude.ai/)        |
-|   Google    |  [Gemini](https://gemini.google.com/app)   |
-|  字节跳动   |    [字节豆包](https://www.doubao.com/)     |
-|   智谱AI    |      [智谱清言](https://chatglm.cn/)       |
-|    百度     |    [文心一言](https://yiyan.baidu.com)     |
-|    阿里     |   [通义千问](https://tongyi.aliyun.com/)   |
-|  科大讯飞   |   [讯飞星火](https://xinghuo.xfyun.cn/)    |
-| Moonshot Al |     [Kimi](https://kimi.moonshot.cn/)      |
-|   智谱AI    |     [天工AI](https://www.tiangong.cn/)     |
-|    腾讯     | [混元大模型](https://hunyuan.tencent.com/) |
+## Get Work Done
+1. **Granola** – AI notetaker that listens to your meetings and formats the transcript into notes
+2. **Wispr Flow** – AI voice dictation that turns your speech into text in any app
+3. **Gamma** – Make decks, docs, and websites to present your ideas with AI
+4. **Adobe** – Summarize and chat with PDFs
+5. **Cubby** – A workspace built for collaborative research
+6. **Cora** – AI email assistant that organizes your inbox and automates responses
+7. **Lindy** – Build AI agents to automate your workflows
 
-## AI搜索
+## Build an Audience
+1. **Delphi** – AI text, voice, and video clones to chat with your audience
+2. **HeyGen** – AI avatars to scale your content production or translate your videos
+3. **Argil** – AI avatars for social media videos
+4. **Overlap Opus** – Turn your long-form videos into short viral clips with AI
+5. **Persona** – AI agent builder for creators
+6. **Captions** – AI avatars and video editing (e.g., auto-captions, correct eye contact)
 
-|    公司    |                  AI名称                  |
-| :--------: | :--------------------------------------: |
-| Perplexity | [Perplexity](https://www.perplexity.ai/) |
-|  秘塔科技  |       [秘塔Al](https://metaso.cn/)       |
-| Toolify Al |  [Toolify Al](https://www.toolify.ai/)   |
-|  知乎直达  |   [知乎直达](https://zhida.zhihu.com)    |
+## Build a Product
+1. **Cursor** – AI code editor that knows your codebase
+2. **Replit** – AI agents to make apps and sites from natural language
+3. **Anychat** – Use any AI model in one place
+4. **Codeium** – AI-powered autocomplete for your code
 
-## AI绘画
+## Get Creative
+1. **ElevenLabs** – Realistic AI voices
+2. **Suno, Udio** – Create songs/music from text prompts
+3. **Midjourney, Ideogram, Playground** – AI image generation
+4. **Runway, Kling, Vidge** – AI video generation
+5. **Krea** – AI creative canvas to make and enhance images and video
+6. **PhotoRoom** – AI image editor, great for product photos and visuals
 
-|     公司     |                     AI名称                     |
-| :----------: | :--------------------------------------------: |
-|  Midjourney  |   [Midjourney](https://www.midjourney.com/)    |
-| Stability Al |   [Stable Diffusion](https://stability.ai/)    |
-|    OpenAl    | [DALL-E 3](https://openai.com/index/dall-e-3/) |
-| 黑森林实验室 |          [Flux.1](https://flux1.ai/)           |
+## Learn or Grow
+1. **Rosebud** – Interactive journal that uses AI to surface insights
+2. **Good Inside** – Parenting co-pilot with personalized support
+3. **Ada Health** – Get an AI-powered assessment of medical symptoms
+4. **Ash** – Personalized AI counselor/coach
+5. **NotebookLM** – Turn any document into an AI podcast
+6. **Summari** – AI app that combines multiple articles into summarized stories
 
-## AI声音
-
-|    公司    |                        AI名称                        |
-| :--------: | :--------------------------------------------------: |
-| GPT-SoVITS | [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS) |
-|  ChatTTS   |           [ChatTTS](https://chattts.com/)            |
-|  VITS TTS  |     [VITS TTS](https://github.com/SWivid/F5-TTS)     |
-
-## AI视频
-
-|  公司  |                            AI名称                            |
-| :----: | :----------------------------------------------------------: |
-| OpenAl |            [Sora](https://openai.com/index/sora/)            |
-| Runway |         [Gen-3](https://runwayml.com/research/gen-3)         |
-| Runway | [Act One](https://runwayml.com/research/introducing-act-one) |
-
-## AI文档
-
-|   公司    |               AI名称                |
-| :-------: | :---------------------------------: |
-| Napkin Al | [Napkin Al](https://www.napkin.ai/) |
-|   txyZ    |    [txyZ](https://www.txyz.ai/)     |
-|  WPS AI   |   [WPS AI](https://www.wps.com/)    |
-
-## AI编程
-
-|     公司     |                        AI名称                         |
-| :----------: | :---------------------------------------------------: |
-|    Cursor    |            [Cursor](https://www.cursor.so)            |
-|    GitHub    | [GitHub Copilot](https://github.com/features/copilot) |
-|  Anthropic   |             [Claude](https://claude.ai/)              |
-| ScreenshotTo | [ScreenshotTo](https://github.com/abi/screenshot-to)  |
-|    vO.dev    |               [vO.dev](https://v0.dev/)               |
-
-## 大模型
-
-| 公司  |                 AI名称                 |
-| :---: | :------------------------------------: |
-| Llama |    [Llama](https://www.Ilama.com/)     |
-|  GPT  | [GPT](https://openai.com/index/gpt-4/) |
-
-## RAG
-
-|    公司     |                 AI名称                  |
-| :---------: | :-------------------------------------: |
-| AnythingLLM | [AnythingLLM](https://anythingllm.com/) |
-|   RAGFlow   |     [RAGFlow](https://ragflow.io/)      |
-
-## 开发
-
-|     公司     |                   AI名称                    |
-| :----------: | :-----------------------------------------: |
-| Hugging Face |   [Hugging Face](https://huggingface.co/)   |
-|    ollama    |        [LLMOps](https://ollama.com/)        |
-|  LangChain   | [LLM Framework](https://www.langchain.com/) |
-|    Gradio    | [机器学习Web Demo](https://www.gradio.app/) |
-|   pinokio    |    [pinokio](https://pinokio.computer/)     |
-| CodeWithGPU  | [CodeWithGPU](https://www.codewithgpu.com/) |
-
-## AI信息
-
-|    公司     |                  AI名称                  |
-| :---------: | :--------------------------------------: |
-| 通往AGl之路 | [通往AGl之路](https://www.waytoagi.com/) |
-| Latent Box  |     [Latent Box](https://ai-bot.cn/)     |
-
-## Other
-
-|         公司         |                            AI名称                            |
-| :------------------: | :----------------------------------------------------------: |
-|       WordArt        | [WordArt](https://www.modelscope.cn/studios/WordArt/WordArt) |
-|     VideoScribe      |          [VideoScribe](https://www.videoscribe.co/)          |
-|        Manim         |            [Manim](https://www.manim.community/)             |
-|        Quora         |                    [Poe](https://poe.com)                    |
-|       IdeoGram       |               [IdeoGram](https://ideogram.ai/)               |
-|      ProPainter      |      [ProPainter](https://github.com/sczhou/ProPainter)      |
-|        Google        |           [NotebookLM](https://notebooklm.google/)           |
-| 秘塔科技(医学大模型) |             [MediSearch](https://medisearch.io/)             |
-
+## Have Fun
+1. **Remix** – Social app for creating and sharing AI images and video
+2. **Emu** – AI image game to make images of yourself, family, and friends in Meta apps
+3. **Grok** – Chat for work in Slack (use it here!)
+4. **Cohere** – Try tools to build AI voiceovers
