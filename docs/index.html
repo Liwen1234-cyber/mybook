@@ -128,11 +128,13 @@
         }
       ],
     }
-    window.addEventListener('load', function() {
-    if (window.location.pathname !== '/' && !document.querySelector('h1')) {
+    
+    window.onload = function() {
+    if (window.location.pathname !== '/' && !document.querySelector('#app')) {
         window.location.replace('/');
     }
-    });
+    };
+
     //解密函数
     function decryptContent(id, encryptedContent) {
       let password = document.getElementById(`pwd - $ {
