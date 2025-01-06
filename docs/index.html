@@ -60,7 +60,6 @@
     <script>// Docsify Configuration
       window.$docsify = {
         routerMode: 'history',
-        notFoundPage: '/_404.md',
         el: '#app',
         name: "Coisini's document",
         repo: '',
@@ -128,7 +127,7 @@
         }
       ],
     }
-    
+
     window.onload = function() {
     if (window.location.pathname !== '/' && !document.querySelector('#app')) {
         window.location.replace('/');
