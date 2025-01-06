@@ -59,6 +59,7 @@
     <div id="app">77 is waiting for...</div>
     <script>// Docsify Configuration
       window.$docsify = {
+        routerMode: 'history',
         notFoundPage: '/_404.md',
         el: '#app',
         name: "Coisini's document",
@@ -127,14 +128,11 @@
         }
       ],
     }
-    // 清除URL中的哈希部分
-    window.onload = function() {
-    if (window.location.hash) {
-        window.history.replaceState(null, null, window.location.href.split('#')[0]);
+    window.addEventListener('load', function() {
+    if (window.location.pathname !== '/' && !document.querySelector('h1')) {
+        window.location.replace('/');
     }
-    };
-
-
+    });
     //解密函数
     function decryptContent(id, encryptedContent) {
       let password = document.getElementById(`pwd - $ {
