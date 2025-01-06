@@ -60,7 +60,7 @@
     <script>// Docsify Configuration
       window.$docsify = {
         routerMode: 'history',
-        notFoundPage: 'docsify/_404.md',
+        notFoundPage: '/_404.md',
         el: '#app',
         name: "Coisini's document",
         repo: '',
@@ -178,12 +178,5 @@
     <!-- sidebar -->
     <script src="https://cdn.jsdelivr.net/npm/docsify-plugin-toc@1.1.0/dist/docsify-plugin-toc.min.js"></script>
     <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
-    <script>
-      window.addEventListener('load', function() {
-          if (window.location.pathname !== '/' && !document.querySelector('h1')) {
-              window.location.replace('/');
-          }
-      });
-    </script>      
   </body>
 </html>
