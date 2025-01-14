@@ -1,0 +1,1 @@
+(self.webpackChunkmybook=self.webpackChunkmybook||[]).push([[741],{8122:()=>{}}]);
