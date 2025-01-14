@@ -7,6 +7,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'Liwen1234-cyber',
+  
   projectName: 'mybook',
   trailingSlash: true,
   themeConfig: {
