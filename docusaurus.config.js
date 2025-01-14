@@ -7,7 +7,7 @@ module.exports = {
   onBrokenMarkdownLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'Liwen1234-cyber',
-  deploymentBranch: 'main', // 部署的分支，默认 gh-pages
+  deploymentBranch: 'gh-pages', // 部署的分支，默认 gh-pages
   projectName: 'mybook',
   trailingSlash: true,
   themeConfig: {
