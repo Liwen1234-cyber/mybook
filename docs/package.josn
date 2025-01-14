@@ -1,0 +1,25 @@
+{
+  "name": "docsify-pdf-embed",
+  "version": "1.0.0",
+  "description": "A simple plugin for embedding PDF in Docsify with the use of PDFObject.js",
+  "main": "src/docsify-pdf-embed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lazypanda10117/docsify-pdf-embed.git"
+  },
+  "keywords": [
+    "docsify",
+    "pdf",
+    "embed",
+    "plugin"
+  ],
+  "author": "lazypanda10117",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lazypanda10117/docsify-pdf-embed/issues"
+  },
+  "homepage": "https://github.com/lazypanda10117/docsify-pdf-embed#readme"
+}
