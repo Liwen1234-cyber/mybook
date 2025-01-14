@@ -11,18 +11,18 @@ Singletons allow you to keep track of the state of something on the blockchain, 
 
 The official Chia wallet has a reference implementation for the following in Python:
 
-- [Create singleton solution](https://github.com/Chia-Network/chia-blockchain/blob/e07f9196ffd8fcb6d6e7e9dc9079f2bb9bcfe464/chia/wallet/nft_wallet/nft_wallet.py#L777)
+- [Create singleton solution](https://github.com/Liwen1234-cyber/chia-blockchain/blob/e07f9196ffd8fcb6d6e7e9dc9079f2bb9bcfe464/chia/wallet/nft_wallet/nft_wallet.py#L777)
 
 ### chia-rs
 
 Wallet code can use the following reference methods:
 
-- [Puzzle and solution types](https://github.com/Chia-Network/chia_rs/blob/wallet-dev/chia-primitives/src/primitives/singleton.rs)
-- [Create singleton solution](https://github.com/Chia-Network/chia_rs/blob/2334c842f694444da317fa7432f308f159f62d70/chia-wallet/src/wallet.rs#L1130)
+- [Puzzle and solution types](https://github.com/Liwen1234-cyber/chia_rs/blob/wallet-dev/chia-primitives/src/primitives/singleton.rs)
+- [Create singleton solution](https://github.com/Liwen1234-cyber/chia_rs/blob/2334c842f694444da317fa7432f308f159f62d70/chia-wallet/src/wallet.rs#L1130)
 
 ## Singleton Code {#code}
 
-This is the source code of the singleton, which can also be found in the chia-blockchain repository in the puzzle [`singleton_top_layer_v1_1.clvm`](https://github.com/Chia-Network/chia-blockchain/blob/8b70466a70388d0fff437d138192ba38faf92be8/chia/wallet/puzzles/singleton_top_layer_v1_1.clvm).
+This is the source code of the singleton, which can also be found in the chia-blockchain repository in the puzzle [`singleton_top_layer_v1_1.clvm`](https://github.com/Liwen1234-cyber/chia-blockchain/blob/8b70466a70388d0fff437d138192ba38faf92be8/chia/wallet/puzzles/singleton_top_layer_v1_1.clvm).
 
 An explanation is provided within the dropdown:
 
@@ -321,7 +321,7 @@ The singleton launcher is used to ensure only one is created with the same id, s
 
 Additionally, the singleton's id is used for referencing it, as well as any metadata associated with it that is stored and can't be changed later.
 
-This is the source code, which can also be found in the chia-blockchain repository in the puzzle [`singleton_launcher.clvm`](https://github.com/Chia-Network/chia-blockchain/blob/fad414132e6950e79e805629427af76bf9ddcbc5/chia/wallet/puzzles/singleton_launcher.clvm).
+This is the source code, which can also be found in the chia-blockchain repository in the puzzle [`singleton_launcher.clvm`](https://github.com/Liwen1234-cyber/chia-blockchain/blob/fad414132e6950e79e805629427af76bf9ddcbc5/chia/wallet/puzzles/singleton_launcher.clvm).
 
 An explanation is provided within the dropdown:
 
@@ -378,7 +378,7 @@ Now that you understand how a singleton functions, we can now look at an example
 
 The idea is that you curry in the necessary information to calculate the singleton's puzzle hash and then assert an announcement from the singleton that says that it is time to claim the funds locked up in the puzzle. Since the puzzle hash will be unique to that singleton (due to the launcher id being curried in), only that singleton will be able to create the appropriate announcement.
 
-This is the source code, which can also be found in the chia-blockchain repository in the puzzle [`p2_singleton`](https://github.com/Chia-Network/chia-blockchain/blob/fad414132e6950e79e805629427af76bf9ddcbc5/chia/wallet/puzzles/p2_singleton.clvm).
+This is the source code, which can also be found in the chia-blockchain repository in the puzzle [`p2_singleton`](https://github.com/Liwen1234-cyber/chia-blockchain/blob/fad414132e6950e79e805629427af76bf9ddcbc5/chia/wallet/puzzles/p2_singleton.clvm).
 
 <details>
   <summary>Pay to Singleton</summary>

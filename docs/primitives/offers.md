@@ -11,13 +11,13 @@ Offers are a way to enable peer-to-peer asset exchange on the Chia blockchain. I
 
 The official Chia wallet has a reference implementation for the following in Python:
 
-- [Offer multiple assets](https://github.com/Chia-Network/chia-blockchain/blob/010cedf83718aa8e4d97da76f892fe69387a5d82/chia/wallet/trade_manager.py#L410)
+- [Offer multiple assets](https://github.com/Liwen1234-cyber/chia-blockchain/blob/010cedf83718aa8e4d97da76f892fe69387a5d82/chia/wallet/trade_manager.py#L410)
 
 ### chia-rs
 
 Wallet code can use the following reference methods:
 
-- [Offer NFT1 for CAT2](https://github.com/Chia-Network/chia_rs/blob/2334c842f694444da317fa7432f308f159f62d70/chia-wallet/src/wallet.rs#L101)
+- [Offer NFT1 for CAT2](https://github.com/Liwen1234-cyber/chia_rs/blob/2334c842f694444da317fa7432f308f159f62d70/chia-wallet/src/wallet.rs#L101)
 
 ## Offer Files
 
@@ -31,7 +31,7 @@ You can use a wallet to generate an offer file for a given trade, then distribut
 
 ## Settlement Payments Code {#code}
 
-This is the source code of the settlement payments puzzle, which can also be found in the chia-blockchain repository in the puzzle [`settlement_payments.clvm`](https://github.com/Chia-Network/chia-blockchain/blob/8224d2fd657780b224a1fc40d3081ce734d70016/chia/wallet/puzzles/settlement_payments.clsp).
+This is the source code of the settlement payments puzzle, which can also be found in the chia-blockchain repository in the puzzle [`settlement_payments.clvm`](https://github.com/Liwen1234-cyber/chia-blockchain/blob/8224d2fd657780b224a1fc40d3081ce734d70016/chia/wallet/puzzles/settlement_payments.clsp).
 
 <details>
   <summary>Expand Settlement Payments Puzzle</summary>

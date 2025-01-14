@@ -100,15 +100,15 @@ jobs:
       image: registry.gitlab.com/cmmarslender/kubectl-helm:v3
     environment:
       name: Review ${{ github.event.pull_request.number }}
-      url: https://${{ github.event.pull_request.number }}.chialisp-web.chia.net
+      url: https://${{ github.event.pull_request.number }}.mybook.chia.net
     steps:
       - uses: actions/checkout@v4
 
       - name: Vault Login
-        uses: Chia-Network/actions/vault/login@main
+        uses: Liwen1234-cyber/actions/vault/login@main
         with:
           vault_url: ${{ secrets.VAULT_URL }}
-          role_name: github-chialisp-web
+          role_name: github-mybook
 
       - name: Get secrets from vault
         uses: hashicorp/vault-action@v3
@@ -119,7 +119,7 @@ jobs:
             secret/data/fmt/k8s/k8s-fmt api_server_url | K8S_API_SERVER_URL;
 
       - name: Login to k8s cluster
-        uses: Chia-Network/actions/vault/k8s-login@main
+        uses: Liwen1234-cyber/actions/vault/k8s-login@main
         with:
           vault_url: ${{ secrets.VAULT_URL }}
           vault_token: ${{ env.VAULT_TOKEN }}
@@ -129,16 +129,16 @@ jobs:
 
       - name: Install certificate
         run: |
-          kubectl create namespace chialisp-web || true
-          kubectl apply -n chialisp-web -f ./k8s/certificate.yaml
+          kubectl create namespace mybook || true
+          kubectl apply -n mybook -f ./k8s/certificate.yaml
 
-      - uses: Chia-Network/actions/helm/deploy@main
+      - uses: Liwen1234-cyber/actions/helm/deploy@main
         env:
           DOCKER_TAG: "sha-${{ github.sha }}"
           REVIEW_SLUG: ${{ github.event.pull_request.number }}
         with:
-          namespace: "chialisp-web"
-          app_name: "chialisp-web-${{ env.REVIEW_SLUG }}"
-          helm_chart_repo: "https://chia-network.github.io/helm-charts"
+          namespace: "mybook"
+          app_name: "mybook-${{ env.REVIEW_SLUG }}"
+          helm_chart_repo: "https://Liwen1234-cyber.github.io/helm-charts"
           helm_chart: "generic"
           helm_values: "./k8s/review.yaml"

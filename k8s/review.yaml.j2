@@ -1,5 +1,5 @@
 image:
-  repository: ghcr.io/chia-network/chialisp-web
+  repository: ghcr.io/Liwen1234-cyber/mybook
   tag: "{{ DOCKER_TAG }}"
 
 service:
@@ -10,9 +10,9 @@ ingress:
   annotations:
     ingress.kubernetes.io/ssl-redirect: "true"
   hosts:
-    - host: {{ REVIEW_SLUG }}.chialisp-web.chia.net
+    - host: {{ REVIEW_SLUG }}.mybook.chia.net
       paths:
         - path: /
           pathType: Prefix
   tlsEnabled: true
-  tlsSecretName: "chialisp-web-star-tls"
+  tlsSecretName: "mybook-star-tls"

@@ -178,7 +178,7 @@ Post-softfork, this also returns `()` at a cost of `cost`, but may also fail if 
 
 We take the cost of running the program inside the `softfork` boundary and ensure it exactly matches `cost`, and raise an exception if it's wrong. That way, the program really does have the same cost pre-softfork and post-softfork (or it fails post-softfork).
 
-## [CHIP-0011](https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0011.md) Operators
+## [CHIP-0011](https://github.com/Liwen1234-cyber/chips/blob/main/CHIPs/chip-0011.md) Operators
 
 :::info
 These operators will be usable within the `softfork` operator starting at block height 4,510,000.

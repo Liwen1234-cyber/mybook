@@ -15,7 +15,7 @@ There are two kinds of conditions. Some require something to be true (such as ti
 
 Be vigilant when using `ASSERT_MY_COIN_ID` as a shortcut for validating the parent coin ID, puzzle hash, and amount. If they are passed into the solution separately, then validated all at once by hashing them together, it is possible to shift the bytes to the left or right and manipulate the values.
 
-You are recommended to use the `coinid` operator when computing coin IDs. This operator was introduced with [CHIP-11](https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0011.md). It verifies that hashes are indeed 32 bytes in length, at no extra CLVM cost versus verifying the parent ID, puzzle hash, and amount individually. The `coinid` operator, as well as the other CHIP-11 operators, are described on the [operators page](/operators#chip-0011-operators).
+You are recommended to use the `coinid` operator when computing coin IDs. This operator was introduced with [CHIP-11](https://github.com/Liwen1234-cyber/chips/blob/main/CHIPs/chip-0011.md). It verifies that hashes are indeed 32 bytes in length, at no extra CLVM cost versus verifying the parent ID, puzzle hash, and amount individually. The `coinid` operator, as well as the other CHIP-11 operators, are described on the [operators page](/operators#chip-0011-operators).
 
 :::
 
@@ -102,7 +102,7 @@ This condition has no parameters.
 ### 43 `AGG_SIG_PARENT` {#agg-sig-parent}
 
 :::info
-This condition is part of [CHIP-0011](https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0011.md), and will be available at block height 5,496,000.
+This condition is part of [CHIP-0011](https://github.com/Liwen1234-cyber/chips/blob/main/CHIPs/chip-0011.md), and will be available at block height 5,496,000.
 :::
 
 :::note
@@ -128,7 +128,7 @@ The following parameters are expected:
 ### 44 `AGG_SIG_PUZZLE` {#agg-sig-puzzle}
 
 :::info
-This condition is part of [CHIP-0011](https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0011.md), and will be available at block height 5,496,000.
+This condition is part of [CHIP-0011](https://github.com/Liwen1234-cyber/chips/blob/main/CHIPs/chip-0011.md), and will be available at block height 5,496,000.
 :::
 
 :::note
@@ -154,7 +154,7 @@ The following parameters are expected:
 ### 45 `AGG_SIG_AMOUNT` {#agg-sig-amount}
 
 :::info
-This condition is part of [CHIP-0011](https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0011.md), and will be available at block height 5,496,000.
+This condition is part of [CHIP-0011](https://github.com/Liwen1234-cyber/chips/blob/main/CHIPs/chip-0011.md), and will be available at block height 5,496,000.
 :::
 
 :::note
@@ -180,7 +180,7 @@ The following parameters are expected:
 ### 46 `AGG_SIG_PUZZLE_AMOUNT` {#agg-sig-puzzle-amount}
 
 :::info
-This condition is part of [CHIP-0011](https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0011.md), and will be available at block height 5,496,000.
+This condition is part of [CHIP-0011](https://github.com/Liwen1234-cyber/chips/blob/main/CHIPs/chip-0011.md), and will be available at block height 5,496,000.
 :::
 
 :::note
@@ -207,7 +207,7 @@ The following parameters are expected:
 ### 47 `AGG_SIG_PARENT_AMOUNT` {#agg-sig-parent-amount}
 
 :::info
-This condition is part of [CHIP-0011](https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0011.md), and will be available at block height 5,496,000.
+This condition is part of [CHIP-0011](https://github.com/Liwen1234-cyber/chips/blob/main/CHIPs/chip-0011.md), and will be available at block height 5,496,000.
 :::
 
 :::note
@@ -234,7 +234,7 @@ The following parameters are expected:
 ### 48 `AGG_SIG_PARENT_PUZZLE` {#agg-sig-parent-puzzle}
 
 :::info
-This condition is part of [CHIP-0011](https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0011.md), and will be available at block height 5,496,000.
+This condition is part of [CHIP-0011](https://github.com/Liwen1234-cyber/chips/blob/main/CHIPs/chip-0011.md), and will be available at block height 5,496,000.
 :::
 
 :::note
@@ -266,7 +266,7 @@ This condition adds an additional [CLVM cost](https://docs.chia.net/coin-set-cos
 
 Format: `(49 public_key message)`
 
-Verifies a signature for a given message. For [security reasons](https://github.com/Chia-Network/post-mortem/blob/main/2023-05/2023-05-08-AGG_SIG_UNSAFE-can-mimic-AGG_SIG_ME-condition.md), domain strings are not permitted at the end of `AGG_SIG_UNSAFE` messages.
+Verifies a signature for a given message. For [security reasons](https://github.com/Liwen1234-cyber/post-mortem/blob/main/2023-05/2023-05-08-AGG_SIG_UNSAFE-can-mimic-AGG_SIG_ME-condition.md), domain strings are not permitted at the end of `AGG_SIG_UNSAFE` messages.
 
 The following parameters are expected:
 
@@ -450,14 +450,14 @@ The following parameters are expected:
 ### 66 `SEND_MESSAGE`
 
 :::info
-This condition is part of [CHIP-0025](https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0025.md), and became available at block height 5,716,000.
+This condition is part of [CHIP-0025](https://github.com/Liwen1234-cyber/chips/blob/main/CHIPs/chip-0025.md), and became available at block height 5,716,000.
 :::
 
 Format: `(66 mode message ...)`
 
 Sends a `message` using the specified `mode` and `...` parameters. See the sections on the [mode](#about-message-conditions-mode-parameter) and [varargs](#about-message-conditions-varargs-parameter) parameters for more info.
 
-For more info about the thought process that led to the creation of this condition, see [CHIP-25](https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0025.md#mode-parameter).
+For more info about the thought process that led to the creation of this condition, see [CHIP-25](https://github.com/Liwen1234-cyber/chips/blob/main/CHIPs/chip-0025.md#mode-parameter).
 
 Note 1: If this condition's `message` is not received in the same block where this condition is used, the spend bundle containing this condition will fail.
 
@@ -484,7 +484,7 @@ The parameters after `message` depends on which bits are set in `mode`. They ide
 ### 67 `RECEIVE_MESSAGE`
 
 :::info
-This condition is part of [CHIP-0025](https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0025.md), and became available at block height 5,716,000.
+This condition is part of [CHIP-0025](https://github.com/Liwen1234-cyber/chips/blob/main/CHIPs/chip-0025.md), and became available at block height 5,716,000.
 :::
 
 Format: `(67 mode message ...)`
@@ -493,7 +493,7 @@ Asserts that exactly one of the source coin issues exactly one corresponding `SE
 
 See the sections on the [mode](#about-message-conditions-mode-parameter) and [varargs](#about-message-conditions-varargs-parameter) parameters
 
-For more info about the thought process that led to the creation of this condition, see [CHIP-25](https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0025.md#mode-parameter).
+For more info about the thought process that led to the creation of this condition, see [CHIP-25](https://github.com/Liwen1234-cyber/chips/blob/main/CHIPs/chip-0025.md#mode-parameter).
 
 The following parameters are expected:
 
@@ -720,7 +720,7 @@ The following parameters are expected:
 ### 90 `SOFTFORK` {#softfork}
 
 :::info
-This condition is part of [CHIP-0011](https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0011.md), and will be available at block height 5,496,000.
+This condition is part of [CHIP-0011](https://github.com/Liwen1234-cyber/chips/blob/main/CHIPs/chip-0011.md), and will be available at block height 5,496,000.
 :::
 
 :::note

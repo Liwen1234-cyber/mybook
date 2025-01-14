@@ -25,27 +25,27 @@ Additionally, fungible tokens can be split apart and merged together, whereas no
 
 The official Chia wallet has a reference implementation for the following in Python:
 
-- [Spend CAT coins](https://github.com/Chia-Network/chia-blockchain/blob/010cedf83718aa8e4d97da76f892fe69387a5d82/chia/wallet/cat_wallet/cat_wallet.py#L784)
+- [Spend CAT coins](https://github.com/Liwen1234-cyber/chia-blockchain/blob/010cedf83718aa8e4d97da76f892fe69387a5d82/chia/wallet/cat_wallet/cat_wallet.py#L784)
 
 ### chia-rs
 
 Wallet code can use the following reference methods:
 
-- [Puzzle and solution types](https://github.com/Chia-Network/chia_rs/blob/wallet-dev/chia-primitives/src/primitives/cat.rs)
-- [Issue new CAT](https://github.com/Chia-Network/chia_rs/blob/2334c842f694444da317fa7432f308f159f62d70/chia-wallet/src/wallet.rs#L209)
-- [Spend CAT coins](https://github.com/Chia-Network/chia_rs/blob/2334c842f694444da317fa7432f308f159f62d70/chia-wallet/src/wallet.rs#L545)
-- [Send CATs to puzzle hash](https://github.com/Chia-Network/chia_rs/blob/2334c842f694444da317fa7432f308f159f62d70/chia-wallet/src/wallet.rs#L399)
+- [Puzzle and solution types](https://github.com/Liwen1234-cyber/chia_rs/blob/wallet-dev/chia-primitives/src/primitives/cat.rs)
+- [Issue new CAT](https://github.com/Liwen1234-cyber/chia_rs/blob/2334c842f694444da317fa7432f308f159f62d70/chia-wallet/src/wallet.rs#L209)
+- [Spend CAT coins](https://github.com/Liwen1234-cyber/chia_rs/blob/2334c842f694444da317fa7432f308f159f62d70/chia-wallet/src/wallet.rs#L545)
+- [Send CATs to puzzle hash](https://github.com/Liwen1234-cyber/chia_rs/blob/2334c842f694444da317fa7432f308f159f62d70/chia-wallet/src/wallet.rs#L399)
 
 ### chia-wallet-lib
 
-The [Chia wallet library NPM package](https://github.com/Chia-Network/node-chia-wallet-lib) has the following reference implementation:
+The [Chia wallet library NPM package](https://github.com/Liwen1234-cyber/node-chia-wallet-lib) has the following reference implementation:
 
-- [Issue new CAT](https://github.com/Chia-Network/node-chia-wallet-lib/blob/6c8d564538be121079596e492fa0da497c9dd39c/src/types/puzzles/AssetToken.ts#L63)
-- [Spend CAT coins](https://github.com/Chia-Network/node-chia-wallet-lib/blob/6c8d564538be121079596e492fa0da497c9dd39c/src/types/puzzles/AssetToken.ts#L102)
+- [Issue new CAT](https://github.com/Liwen1234-cyber/node-chia-wallet-lib/blob/6c8d564538be121079596e492fa0da497c9dd39c/src/types/puzzles/AssetToken.ts#L63)
+- [Spend CAT coins](https://github.com/Liwen1234-cyber/node-chia-wallet-lib/blob/6c8d564538be121079596e492fa0da497c9dd39c/src/types/puzzles/AssetToken.ts#L102)
 
 ## CAT Code {#code}
 
-This is the source code of the CAT, which can also be found in the chia-blockchain repository in the puzzle [`cat_v2.clvm`](https://github.com/Chia-Network/chia-blockchain/blob/fad414132e6950e79e805629427af76bf9ddcbc5/chia/wallet/puzzles/cat_v2.clvm):
+This is the source code of the CAT, which can also be found in the chia-blockchain repository in the puzzle [`cat_v2.clvm`](https://github.com/Liwen1234-cyber/chia-blockchain/blob/fad414132e6950e79e805629427af76bf9ddcbc5/chia/wallet/puzzles/cat_v2.clvm):
 
 <details>
   <summary>Expand CAT2 puzzle</summary>
@@ -458,7 +458,7 @@ Additionally, there are a few standard TAIL puzzles.
 
 The single-issuance TAIL prevents melting and requires the parent to be a specific coin. This is currently the default way to issue CATs, since it ensures the supply will never increase.
 
-This is the source code, which can also be found in the chia-blockchain repository in the puzzle [`genesis_by_coin_id.clvm`](https://github.com/Chia-Network/chia-blockchain/blob/fad414132e6950e79e805629427af76bf9ddcbc5/chia/wallet/puzzles/genesis_by_coin_id.clvm):
+This is the source code, which can also be found in the chia-blockchain repository in the puzzle [`genesis_by_coin_id.clvm`](https://github.com/Liwen1234-cyber/chia-blockchain/blob/fad414132e6950e79e805629427af76bf9ddcbc5/chia/wallet/puzzles/genesis_by_coin_id.clvm):
 
 <details>
   <summary>Expand Genesis By Coin ID puzzle</summary>
@@ -498,7 +498,7 @@ This is the source code, which can also be found in the chia-blockchain reposito
 
 The multi-issuance TAIL allows any action to be taken, providing the original issuance key is used. Each spend that makes supply changes must be signed separately using this same key.
 
-This is the source code, which can also be found in the chia-blockchain repository in the puzzle [`everything_with_signature.clvm`](https://github.com/Chia-Network/chia-blockchain/blob/fad414132e6950e79e805629427af76bf9ddcbc5/chia/wallet/puzzles/everything_with_signature.clvm):
+This is the source code, which can also be found in the chia-blockchain repository in the puzzle [`everything_with_signature.clvm`](https://github.com/Liwen1234-cyber/chia-blockchain/blob/fad414132e6950e79e805629427af76bf9ddcbc5/chia/wallet/puzzles/everything_with_signature.clvm):
 
 <details>
   <summary>Expand Everything With Signature puzzle</summary>
@@ -525,7 +525,7 @@ This is the source code, which can also be found in the chia-blockchain reposito
 
 This TAIL provides a balance between security and flexibility. It's similar to the previous TAIL, but the signature can be reused for the puzzle it's signed with, allowing the TAIL to change over time. The creator can publish the signature, allowing any owner to run the TAIL on their CAT, but any permissions granted can never be revoked.
 
-This is the source code, which can also be found in the chia-blockchain repository in the puzzle [`delegated_tail.clvm`](https://github.com/Chia-Network/chia-blockchain/blob/fad414132e6950e79e805629427af76bf9ddcbc5/chia/wallet/puzzles/delegated_tail.clvm):
+This is the source code, which can also be found in the chia-blockchain repository in the puzzle [`delegated_tail.clvm`](https://github.com/Liwen1234-cyber/chia-blockchain/blob/fad414132e6950e79e805629427af76bf9ddcbc5/chia/wallet/puzzles/delegated_tail.clvm):
 
 <details>
   <summary>Expand Delegated TAIL puzzle</summary>

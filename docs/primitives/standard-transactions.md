@@ -15,20 +15,20 @@ Before you read this page, it may be worth checking out this [Agg Sigs, Taproot,
 
 The official Chia wallet has a reference implementation for the following in Python:
 
-- [Spend standard transaction](https://github.com/Chia-Network/chia-blockchain/blob/e07f9196ffd8fcb6d6e7e9dc9079f2bb9bcfe464/chia/wallet/wallet.py#L421)
+- [Spend standard transaction](https://github.com/Liwen1234-cyber/chia-blockchain/blob/e07f9196ffd8fcb6d6e7e9dc9079f2bb9bcfe464/chia/wallet/wallet.py#L421)
 
 ### chia-rs
 
 Wallet code can use the following reference methods:
 
-- [Puzzle and solution types](https://github.com/Chia-Network/chia_rs/blob/wallet-dev/chia-primitives/src/primitives/standard_puzzle.rs)
-- [Spend standard transaction](https://github.com/Chia-Network/chia_rs/blob/2334c842f694444da317fa7432f308f159f62d70/chia-wallet/src/wallet.rs#L1166)
+- [Puzzle and solution types](https://github.com/Liwen1234-cyber/chia_rs/blob/wallet-dev/chia-primitives/src/primitives/standard_puzzle.rs)
+- [Spend standard transaction](https://github.com/Liwen1234-cyber/chia_rs/blob/2334c842f694444da317fa7432f308f159f62d70/chia-wallet/src/wallet.rs#L1166)
 
 ### chia-wallet-lib
 
-The [Chia wallet library NPM package](https://github.com/Chia-Network/node-chia-wallet-lib) has the following reference implementation:
+The [Chia wallet library NPM package](https://github.com/Liwen1234-cyber/node-chia-wallet-lib) has the following reference implementation:
 
-- [Spend standard transaction](https://github.com/Chia-Network/node-chia-wallet-lib/blob/6c8d564538be121079596e492fa0da497c9dd39c/src/types/puzzles/StandardTransaction.ts#L27)
+- [Spend standard transaction](https://github.com/Liwen1234-cyber/node-chia-wallet-lib/blob/6c8d564538be121079596e492fa0da497c9dd39c/src/types/puzzles/StandardTransaction.ts#L27)
 
 ## Terminology
 
@@ -47,7 +47,7 @@ A puzzle that is initially hidden and can be revealed and used as an alternate w
 
 ## Standard Transaction Code {#code}
 
-This is the source code of the standard transaction, which can also be found in the `chia-blockchain` repository in the puzzle [`p2_delegated_puzzle_or_hidden_puzzle.clvm`](https://github.com/Chia-Network/chia-blockchain/blob/fad414132e6950e79e805629427af76bf9ddcbc5/chia/wallet/puzzles/p2_delegated_puzzle_or_hidden_puzzle.clvm).
+This is the source code of the standard transaction, which can also be found in the `chia-blockchain` repository in the puzzle [`p2_delegated_puzzle_or_hidden_puzzle.clvm`](https://github.com/Liwen1234-cyber/chia-blockchain/blob/fad414132e6950e79e805629427af76bf9ddcbc5/chia/wallet/puzzles/p2_delegated_puzzle_or_hidden_puzzle.clvm).
 
 ```chialisp title="p2_delegated_puzzle_or_hidden_puzzle.clvm"
 (mod

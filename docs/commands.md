@@ -6,7 +6,7 @@ slug: /commands
 
 Chialisp has a set of commands that make developing, compiling, and running programs easy.
 
-You will need to install [chia-dev-tools](https://github.com/Chia-Network/chia-dev-tools) globally or inside of a virtual environment to get started.
+You will need to install [chia-dev-tools](https://github.com/Liwen1234-cyber/chia-dev-tools) globally or inside of a virtual environment to get started.
 
 :::note
 

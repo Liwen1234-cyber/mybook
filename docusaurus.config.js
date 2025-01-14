@@ -37,7 +37,7 @@ module.exports = {
           position: 'right',
         },
         {
-          href: 'https://github.com/Chia-Network/',
+          href: 'https://github.com/Liwen1234-cyber/',
           label: 'GitHub',
           position: 'right',
         },
@@ -86,7 +86,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/Chia-Network/clvm',
+              href: 'https://github.com/Liwen1234-cyber/clvm',
             },
           ],
         },
@@ -96,7 +96,7 @@ module.exports = {
         src: 'img/full_logo_white.svg',
         href: '/',
       },
-      copyright: `© ${new Date().getFullYear()} Chia Network Inc., Licensed under the <a href="https://github.com/Chia-Network/chialisp-web/blob/main/LICENSE" target="_blank">Apache License, Version 2.0</a> | <a href="https://www.chia.net/terms">Terms</a>`,
+      copyright: `© ${new Date().getFullYear()} Chia Network Inc., Licensed under the <a href="https://github.com/Liwen1234-cyber/mybook/blob/main/LICENSE" target="_blank">Apache License, Version 2.0</a> | <a href="https://www.chia.net/terms">Terms</a>`,
     },
   },
   presets: [
@@ -110,7 +110,7 @@ module.exports = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/Chia-Network/chialisp-web/blob/main/',
+            'https://github.com/Liwen1234-cyber/mybook/blob/main/',
         },
       },
     ],

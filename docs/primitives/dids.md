@@ -13,19 +13,19 @@ More functionality will be added to the DID standard in the future, allowing for
 
 The official Chia wallet has a reference implementation for the following in Python:
 
-- [Mint new DID](https://github.com/Chia-Network/chia-blockchain/blob/010cedf83718aa8e4d97da76f892fe69387a5d82/chia/wallet/did_wallet/did_wallet.py#L1217)
-- [Create update DID spend](https://github.com/Chia-Network/chia-blockchain/blob/010cedf83718aa8e4d97da76f892fe69387a5d82/chia/wallet/did_wallet/did_wallet.py#L534)
+- [Mint new DID](https://github.com/Liwen1234-cyber/chia-blockchain/blob/010cedf83718aa8e4d97da76f892fe69387a5d82/chia/wallet/did_wallet/did_wallet.py#L1217)
+- [Create update DID spend](https://github.com/Liwen1234-cyber/chia-blockchain/blob/010cedf83718aa8e4d97da76f892fe69387a5d82/chia/wallet/did_wallet/did_wallet.py#L534)
 
 ### chia-rs
 
 Wallet code can use the following reference methods:
 
-- [Puzzle and solution types](https://github.com/Chia-Network/chia_rs/blob/wallet-dev/chia-primitives/src/primitives/did.rs)
-- [Spend DID](https://github.com/Chia-Network/chia_rs/blob/2334c842f694444da317fa7432f308f159f62d70/chia-wallet/src/wallet.rs#L1148)
+- [Puzzle and solution types](https://github.com/Liwen1234-cyber/chia_rs/blob/wallet-dev/chia-primitives/src/primitives/did.rs)
+- [Spend DID](https://github.com/Liwen1234-cyber/chia_rs/blob/2334c842f694444da317fa7432f308f159f62d70/chia-wallet/src/wallet.rs#L1148)
 
 ## DID Code {#code}
 
-This is the source code of the DID inner puzzle, which can also be found in the chia-blockchain repository in the puzzle [`did_innerpuz.clvm`](https://github.com/Chia-Network/chia-blockchain/blob/164fd158c8626893bc45ba00b87ae69d2ab5f8b7/chia/wallet/puzzles/did_innerpuz.clvm).
+This is the source code of the DID inner puzzle, which can also be found in the chia-blockchain repository in the puzzle [`did_innerpuz.clvm`](https://github.com/Liwen1234-cyber/chia-blockchain/blob/164fd158c8626893bc45ba00b87ae69d2ab5f8b7/chia/wallet/puzzles/did_innerpuz.clvm).
 
 <details>
   <summary>Expand DID Inner Puzzle</summary>

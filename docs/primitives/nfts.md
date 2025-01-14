@@ -13,21 +13,21 @@ They can be used to prove digital ownership of files such as images or videos, a
 
 The official Chia wallet has a reference implementation for the following in Python:
 
-- [Mint NFT](https://github.com/Chia-Network/chia-blockchain/blob/010cedf83718aa8e4d97da76f892fe69387a5d82/chia/wallet/nft_wallet/nft_wallet.py#L321)
-- [Bulk mint NFTs](https://github.com/Chia-Network/chia-blockchain/blob/010cedf83718aa8e4d97da76f892fe69387a5d82/chia/wallet/nft_wallet/nft_wallet.py#L1242)
-- [Spend NFT](https://github.com/Chia-Network/chia-blockchain/blob/010cedf83718aa8e4d97da76f892fe69387a5d82/chia/wallet/nft_wallet/nft_wallet.py#L606)
+- [Mint NFT](https://github.com/Liwen1234-cyber/chia-blockchain/blob/010cedf83718aa8e4d97da76f892fe69387a5d82/chia/wallet/nft_wallet/nft_wallet.py#L321)
+- [Bulk mint NFTs](https://github.com/Liwen1234-cyber/chia-blockchain/blob/010cedf83718aa8e4d97da76f892fe69387a5d82/chia/wallet/nft_wallet/nft_wallet.py#L1242)
+- [Spend NFT](https://github.com/Liwen1234-cyber/chia-blockchain/blob/010cedf83718aa8e4d97da76f892fe69387a5d82/chia/wallet/nft_wallet/nft_wallet.py#L606)
 
 ### chia-rs
 
 Wallet code can use the following reference methods:
 
-- [Puzzle and solution types](https://github.com/Chia-Network/chia_rs/blob/wallet-dev/chia-primitives/src/primitives/nft.rs)
-- [Bulk mint NFTs](https://github.com/Chia-Network/chia_rs/blob/wallet-dev/chia-wallet/src/wallet.rs#L665)
-- [Spend NFT](https://github.com/Chia-Network/chia_rs/blob/2334c842f694444da317fa7432f308f159f62d70/chia-wallet/src/wallet.rs#L1053).
+- [Puzzle and solution types](https://github.com/Liwen1234-cyber/chia_rs/blob/wallet-dev/chia-primitives/src/primitives/nft.rs)
+- [Bulk mint NFTs](https://github.com/Liwen1234-cyber/chia_rs/blob/wallet-dev/chia-wallet/src/wallet.rs#L665)
+- [Spend NFT](https://github.com/Liwen1234-cyber/chia_rs/blob/2334c842f694444da317fa7432f308f159f62d70/chia-wallet/src/wallet.rs#L1053).
 
 ## NFT Code {#code}
 
-This is the source code of the NFT state layer, which can also be found in the chia-blockchain repository in the puzzle [`nft_state_layer.clvm`](https://github.com/Chia-Network/chia-blockchain/blob/164fd158c8626893bc45ba00b87ae69d2ab5f8b7/chia/wallet/puzzles/nft_state_layer.clvm).
+This is the source code of the NFT state layer, which can also be found in the chia-blockchain repository in the puzzle [`nft_state_layer.clvm`](https://github.com/Liwen1234-cyber/chia-blockchain/blob/164fd158c8626893bc45ba00b87ae69d2ab5f8b7/chia/wallet/puzzles/nft_state_layer.clvm).
 
 <details>
   <summary>Expand NFT State Puzzle</summary>
@@ -111,7 +111,7 @@ This is the source code of the NFT state layer, which can also be found in the c
 
 </details>
 
-This is the source code of the NFT ownership layer, which can also be found in the chia-blockchain repository in the puzzle [`nft_ownership_layer.clvm`](https://github.com/Chia-Network/chia-blockchain/blob/164fd158c8626893bc45ba00b87ae69d2ab5f8b7/chia/wallet/puzzles/nft_ownership_layer.clvm).
+This is the source code of the NFT ownership layer, which can also be found in the chia-blockchain repository in the puzzle [`nft_ownership_layer.clvm`](https://github.com/Liwen1234-cyber/chia-blockchain/blob/164fd158c8626893bc45ba00b87ae69d2ab5f8b7/chia/wallet/puzzles/nft_ownership_layer.clvm).
 
 <details>
   <summary>Expand NFT Ownership Puzzle</summary>
@@ -221,7 +221,7 @@ This is the source code of the NFT ownership layer, which can also be found in t
 
 </details>
 
-This is the source code of the default NFT metadata updater, which can also be found in the chia-blockchain repository in the puzzle [`nft_metadata_updater_default.clvm`](https://github.com/Chia-Network/chia-blockchain/blob/164fd158c8626893bc45ba00b87ae69d2ab5f8b7/chia/wallet/puzzles/nft_metadata_updater_default.clvm).
+This is the source code of the default NFT metadata updater, which can also be found in the chia-blockchain repository in the puzzle [`nft_metadata_updater_default.clvm`](https://github.com/Liwen1234-cyber/chia-blockchain/blob/164fd158c8626893bc45ba00b87ae69d2ab5f8b7/chia/wallet/puzzles/nft_metadata_updater_default.clvm).
 
 <details>
   <summary>Expand NFT Metadata Updater Puzzle</summary>

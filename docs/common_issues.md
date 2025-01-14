@@ -68,7 +68,7 @@ The `puzzlehash` would be shortened by one or two bytes, and the `amount` would 
 
 ### How to avoid
 
-In the specific case of calculating a coin's ID, you are recommended to use the new [coinid](https://github.com/Chia-Network/chips/blob/main/CHIPs/chip-0011.md#coinid) operator, introduced in CHIP-11. This operator validates the length of each component of the coin's ID, as well as the coin's value. In addition the CLVM cost of this operator is lower than that of using `sha256` (800 versus 953), so there is no reason not to use it when calculating a coin's ID.
+In the specific case of calculating a coin's ID, you are recommended to use the new [coinid](https://github.com/Liwen1234-cyber/chips/blob/main/CHIPs/chip-0011.md#coinid) operator, introduced in CHIP-11. This operator validates the length of each component of the coin's ID, as well as the coin's value. In addition the CLVM cost of this operator is lower than that of using `sha256` (800 versus 953), so there is no reason not to use it when calculating a coin's ID.
 
 For use cases that involve hashing a concatenated string to do something _other than_ calculate a coin's ID, you will need to use `sha256`. In these cases, prior to running the `sha256` command, be sure to validate that the length of each component is correct.
 

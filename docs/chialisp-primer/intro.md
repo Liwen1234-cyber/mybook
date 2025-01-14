@@ -9,7 +9,7 @@ Throughout this guide you will learn the basics of Chialisp, and by the end you 
 
 ## Installation
 
-You can follow the [Chia Dev Tools installation guide](https://github.com/Chia-Network/chia-dev-tools/#install) to install and use Chia Dev Tools. You will be using these tools and a simple text editor of your choice to write and run snippets of code.
+You can follow the [Chia Dev Tools installation guide](https://github.com/Liwen1234-cyber/chia-dev-tools/#install) to install and use Chia Dev Tools. You will be using these tools and a simple text editor of your choice to write and run snippets of code.
 
 Once you have it set up, run the following command:
 
