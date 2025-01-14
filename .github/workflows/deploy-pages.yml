@@ -27,4 +27,4 @@ jobs:
           git config --global http.postBuffer 10000000
           git config --global user.name 'LiWen'
           git config --global user.email '175311843+Liwen1234-cyber@users.noreply.github.com'
-          GIT_USER=ChiaAutomation GIT_PASS=${{ github.token }} npm run deploy
+          GIT_USER=LiWen GIT_PASS=${{ github.token }} npm run deploy
