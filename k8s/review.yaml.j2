@@ -1,0 +1,18 @@
+image:
+  repository: ghcr.io/Liwen1234-cyber/mybook
+  tag: "{{ DOCKER_TAG }}"
+
+service:
+  enabled: true
+
+ingress:
+  enabled: true
+  annotations:
+    ingress.kubernetes.io/ssl-redirect: "true"
+  hosts:
+    - host: {{ REVIEW_SLUG }}.mybook.chia.net
+      paths:
+        - path: /
+          pathType: Prefix
+  tlsEnabled: true
+  tlsSecretName: "mybook-star-tls"
