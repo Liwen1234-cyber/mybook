@@ -45,60 +45,6 @@ module.exports = {
 
       ],
     },
-    footer: {
-      style: 'dark',
-      links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Operators',
-              to: '/operators',
-            },
-            {
-              label: 'CLVM',
-              to: '/clvm',
-            },
-            {
-              label: 'Chia Docs',
-              href: 'https://docs.chia.net',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Discord',
-              href: 'https://discord.gg/chia',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/chia_project',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              href: 'https://www.chia.net/blog/',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/Liwen1234-cyber/clvm',
-            },
-          ],
-        },
-      ],
-      logo: {
-        alt: 'Chialisp full logo',
-        src: 'img/full_logo_white.svg',
-        href: '/',
-      },
-      copyright: `© ${new Date().getFullYear()} Chia Network Inc., Licensed under the <a href="https://github.com/Liwen1234-cyber/mybook/blob/main/LICENSE" target="_blank">Apache License, Version 2.0</a> | <a href="https://www.chia.net/terms">Terms</a>`,
-    },
   },
   presets: [
     [
