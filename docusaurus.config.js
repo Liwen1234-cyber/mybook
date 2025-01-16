@@ -60,7 +60,6 @@ module.exports = {
   ],
   themes: [
     [
-      '@docusaurus/plugin-mermaid',
       '@easyops-cn/docusaurus-search-local',
       /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
       ({
