@@ -21,23 +21,13 @@ module.exports = {
         alt: 'Chialisp Logo',
         src: 'img/logo.svg',
       },
+      
       items: [
         {
-          href: 'https://docs.chia.net',
-          label: 'Chia Docs',
-          position: 'left',
-        },
-        {
-          href: 'https://docs.chia.net/academy-home/',
-          label: 'Chia Academy',
-          position: 'left',
-        },
-        {
-          href: 'https://github.com/Liwen1234-cyber/',
-          label: 'GitHub',
+          href: 'https://minddiy.top',
+          label: 'Main site',
           position: 'right',
         },
-
       ],
     },
   },
