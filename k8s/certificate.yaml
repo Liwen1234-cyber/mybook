@@ -1,14 +1,14 @@
 apiVersion: cert-manager.io/v1
 kind: Certificate
 metadata:
-  name: mybook-star
-  namespace: mybook
+  name: chialisp-web-star
+  namespace: chialisp-web
   labels:
-    app: mybook
+    app: chialisp-web
 spec:
-  secretName: mybook-star-tls
+  secretName: chialisp-web-star-tls
   dnsNames:
-    - "*.mybook.chia.net"
+    - "*.chialisp-web.chia.net"
   issuerRef:
     kind: ClusterIssuer
     name: letsencrypt-cf
