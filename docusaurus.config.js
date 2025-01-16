@@ -1,5 +1,3 @@
-import remarkMath from 'remark-math';
-import rehypeKatex from 'rehype-katex';
 module.exports = {
   title: 'Coisini',
   tagline: 'Developing with Coisini',
@@ -12,13 +10,6 @@ module.exports = {
   deploymentBranch: 'gh-pages', // 部署的分支，默认 gh-pages
   projectName: 'mybook',
   trailingSlash: true,
-  markdown: {
-    format: 'detect',
-    mermaid: true,
-    preprocessor: ({filePath, fileContent}) => {
-      return fileContent.replaceAll('{{MY_VAR}}', 'MY_VALUE');
-    },
-  },
   themeConfig: {
     prism: {
       darkTheme: require('./src/theme/prism-dark-theme-chialisp'),
@@ -67,8 +58,6 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
             'https://github.com/Liwen1234-cyber/mybook/blob/main/',
-          remarkPlugins: [remarkMath],
-          rehypePlugins: [rehypeKatex],
         },
       },
     ],
