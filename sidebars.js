@@ -1,6 +1,7 @@
 module.exports = {
   someSidebar: [
     'intro',
+    '西方现代思想讲义',
     {
       type: 'category',
       label: 'Chialisp Primer',
@@ -47,9 +48,6 @@ module.exports = {
     'examples',
     'costs',
     'conditions',
-    'optimization',
-    'common_issues',
-    'debugging',
     {
       type: 'category',
       label: 'Primitives',
@@ -63,6 +61,5 @@ module.exports = {
         'primitives/pooling',
       ],
     },
-    'clvm',
   ],
 };
