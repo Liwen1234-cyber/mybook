@@ -21,7 +21,6 @@ module.exports = {
         alt: 'Chialisp Logo',
         src: 'img/logo.svg',
       },
-      
       items: [
         {
           href: 'https://minddiy.top',
