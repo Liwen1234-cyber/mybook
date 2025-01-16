@@ -1,6 +1,7 @@
 import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 import { themes } from 'prism-react-renderer'
+
 module.exports = {
   title: 'Coisini',
   tagline: 'Developing with Coisini',
@@ -22,10 +23,9 @@ module.exports = {
   },
   themeConfig: {
     prism: {
-      darkTheme: require('./src/theme/prism-dark-theme-chialisp'),
-      theme: require('./src/theme/prism-light-theme-chialisp'),
-      additionalLanguages: ['bash', 'json', 'java', 'python', 'php', 'graphql', 'rust', 'toml', 'protobuf', 'diff'],
-      defaultLanguage: 'javascript',
+      theme: themes.oneLight,
+      darkTheme: themes.oneDark,
+      additionalLanguages: ['java', 'python', 'cpp'],
     },
     navbar: {
       title: 'Coisini',
@@ -53,7 +53,7 @@ module.exports = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           remarkPlugins: [remarkMath],
-          rehypePlugins: [[rehypeKatex, {strict: false}]],
+          rehypePlugins: [rehypeKatex],
         },
       },
     ],
