@@ -1,3 +1,6 @@
+import remarkMath from 'remark-math';
+import rehypeKatex from 'rehype-katex';
+import { themes } from 'prism-react-renderer'
 module.exports = {
   title: 'Coisini',
   tagline: 'Developing with Coisini',
@@ -10,10 +13,19 @@ module.exports = {
   deploymentBranch: 'gh-pages', // 部署的分支，默认 gh-pages
   projectName: 'mybook',
   trailingSlash: true,
+  markdown: {
+    format: 'detect',
+    mermaid: true,
+    preprocessor: ({filePath, fileContent}) => {
+      return fileContent.replaceAll('{{MY_VAR}}', 'MY_VALUE');
+    },
+  },
   themeConfig: {
     prism: {
       darkTheme: require('./src/theme/prism-dark-theme-chialisp'),
       theme: require('./src/theme/prism-light-theme-chialisp'),
+      additionalLanguages: ['bash', 'json', 'java', 'python', 'php', 'graphql', 'rust', 'toml', 'protobuf', 'diff'],
+      defaultLanguage: 'javascript',
     },
     navbar: {
       title: 'Coisini',
@@ -40,6 +52,8 @@ module.exports = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
+          remarkPlugins: [remarkMath],
+          rehypePlugins: [[rehypeKatex, {strict: false}]],
         },
       },
     ],
