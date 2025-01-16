@@ -33,11 +33,6 @@ module.exports = {
           position: 'left',
         },
         {
-          href: 'https://chia.net',
-          label: 'Chia.net',
-          position: 'right',
-        },
-        {
           href: 'https://github.com/Liwen1234-cyber/',
           label: 'GitHub',
           position: 'right',
