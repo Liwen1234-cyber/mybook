@@ -59,17 +59,16 @@ module.exports = {
     ],
   ],
   themes: [
-    [
-      '@easyops-cn/docusaurus-search-local',
-      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
-      ({
-        hashed: true,
-        language: ['en', 'zh'],
-        highlightSearchTermsOnTargetPage: true,
-        explicitSearchResultPath: true,
-        docsRouteBasePath: '/',
-      }),
-    ],
+    "@easyops-cn/docusaurus-search-local",
+    /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+    ({
+      hashed: true,
+      language: ['en', 'zh'],
+      highlightSearchTermsOnTargetPage: true,
+      explicitSearchResultPath: true,
+      docsRouteBasePath: '/',
+    }),
+    '@docusaurus/theme-mermaid', // Add Mermaid theme here
   ],
   scripts: [
     {
