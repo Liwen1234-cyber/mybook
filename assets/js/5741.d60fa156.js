@@ -1,0 +1,1 @@
+(self.webpackChunkmybase=self.webpackChunkmybase||[]).push([[5741],{45741:()=>{}}]);
