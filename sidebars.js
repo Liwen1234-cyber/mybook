@@ -61,6 +61,88 @@ module.exports = {
     },
     {
       type: 'category',
+      label: '技巧',
+      collapsible: true,
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        slug: '/技巧',
+        title: '技巧',
+        description:
+          'Tips.',
+      },
+      items: [
+        '技巧/域名注册解析',
+        '技巧/conda管理python',
+        '技巧/git-简明指南',
+        '技巧/Github搜索技巧',
+        '技巧/Hexo版本升级指南',
+        '技巧/MarkdownSyntax',
+        '技巧/提问躺枪',
+      ],
+    },
+    {
+      type: 'category',
+      label: '数学',
+      collapsible: true,
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        slug: '/数学',
+        title: '数学',
+        description:
+          'Mathematics.',
+      },
+      items: [
+        '数学/LDA、PCA',
+        '数学/奇异值分解',
+        '数学/Latex常用数学符号',
+        '数学/散度',
+        '数学/数学符号',
+        '数学/矩阵',
+      ],
+    },
+    {
+      type: 'category',
+      label: '思考',
+      collapsible: true,
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        slug: '/思考',
+        title: '思考',
+        description:
+          'Thinking.',
+      },
+      items: [
+        '思考/如何选择',
+        '思考/小故事',
+        '思考/人间是否值得',
+        '思考/不要再忽悠孩子了',
+        '思考/蓝眼睛和红眼睛',
+      ],
+    },
+    {
+      type: 'category',
+      label: '学习',
+      collapsible: true,
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        slug: '/学习',
+        title: '学习',
+        description:
+          'Learning.',
+      },
+      items: [
+        '学习/Csi-feedback',
+        '学习/通信笔记',
+        '学习/DFT',
+        '学习/information_theory',
+      ],
+    },
+    {
+      type: 'category',
       label: '码农',
       collapsible: true,
       collapsed: true,
@@ -89,6 +171,22 @@ module.exports = {
         '码农/刷题记录/高级数据结构',
         '码农/刷题记录/其他',
         '码农/转码',
+      ],
+    },
+    {
+      type: 'category',
+      label: '毛选',
+      collapsible: true,
+      collapsed: true,
+      link: {
+        type: 'generated-index',
+        slug: '/毛选',
+        title: '毛选',
+        description:
+          'Selection.',
+      },
+      items: [
+        '毛选/目录',
       ],
     },
   ],

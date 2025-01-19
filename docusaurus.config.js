@@ -1,5 +1,3 @@
-import remarkMath from 'remark-math';
-import rehypeKatex from 'rehype-katex';
 import { themes } from 'prism-react-renderer'
 
 module.exports = {
@@ -41,6 +39,9 @@ module.exports = {
         },
       ],
     },
+    mermaid: {
+      theme: { light: 'neutral', dark: 'forest' }, // Optional theme settings for Mermaid
+    },
   },
   presets: [
     [
@@ -52,29 +53,37 @@ module.exports = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          remarkPlugins: [remarkMath],
-          rehypePlugins: [rehypeKatex],
         },
       },
     ],
   ],
   themes: [
-    "@easyops-cn/docusaurus-search-local",
-    /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
-    ({
-      hashed: true,
-      language: ['en', 'zh'],
-      highlightSearchTermsOnTargetPage: true,
-      explicitSearchResultPath: true,
-      docsRouteBasePath: '/',
-    }),
-    '@docusaurus/theme-mermaid', // Add Mermaid theme here
+    [
+      '@easyops-cn/docusaurus-search-local',
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      ({
+        hashed: true,
+        language: ['en', 'zh'],
+        highlightSearchTermsOnTargetPage: true,
+        explicitSearchResultPath: true,
+        docsRouteBasePath: '/',
+      }),
+    ],
+    '@docusaurus/theme-mermaid', // 正确添加 Mermaid 主题
   ],
   scripts: [
     {
       src: '/js/matomo.js',
       async: true,
       defer: true,
+    },
+    {
+      src: '/js/mathjax-init.js',
+      async: true,
+    },
+    {
+      src: 'https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js',
+      async: true,
     },
   ],
 };
