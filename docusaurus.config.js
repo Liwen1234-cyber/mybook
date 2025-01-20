@@ -22,6 +22,15 @@ module.exports = {
       return fileContent.replaceAll('{{MY_VAR}}', 'MY_VALUE');
     },
   },
+  headTags: [
+    {
+      tagName: 'meta',
+      attributes: {
+        name: 'google-site-verification',
+        content: '1FUPX6Qo4y3ecU623ShEurhgnjhSTjK49rRMhEDlzFA',
+      },
+    },
+  ],
   themeConfig: {
     prism: {
       theme: themes.oneLight,

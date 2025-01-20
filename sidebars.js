@@ -55,6 +55,7 @@ module.exports = {
         '读书笔记/The_Modern_Mind',
         '读书笔记/what_is_our_problem',
         '读书笔记/微观经济学',
+        '读书笔记/学会提问--批判性思维指南',
       ],
     },
     {
@@ -77,6 +78,8 @@ module.exports = {
         '技巧/Hexo版本升级指南',
         '技巧/MarkdownSyntax',
         '技巧/提问躺枪',
+        '技巧/提高chrome使用效率',
+        '技巧/Github搜索技巧',
       ],
     },
     {
