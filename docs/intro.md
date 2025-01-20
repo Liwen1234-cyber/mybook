@@ -7,14 +7,6 @@ slug: /
 
 # An awesome document.
 
-#### **Chinese**
-
-你好！
-
-#### **English**
-
-Hello!
-
 #### **French**
 
 Bonjour!
