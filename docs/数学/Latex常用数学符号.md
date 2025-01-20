@@ -1,5 +1,7 @@
 # LaTex常用数学符号整理
 
+<iframe src="/files/刘海洋-latex入门.pdf" width="100%" height="600px"></iframe>
+
 ## 1.常用公式
 
 |       描述       |                写法                |               效果展示               |
