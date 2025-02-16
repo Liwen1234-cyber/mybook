@@ -15,21 +15,24 @@ public class Main{
         }
 
         in.close();
-        for(int i = 0; i < N; i++){ // 遍历左侧和右侧边界
-            if(arr[i][0] == 1) bfs(i, 0, arr);
-            if(arr[i][M-1] == 1) bfs(i, M-1, arr);
+
+        // 从左边界和右边界向中间遍历
+        for(int i = 0; i < N; i++){
+            if(arr[i][0] == 1) dfs(i, 0, arr);
+            if(arr[i][M-1] == 1) dfs(i, M-1, arr);
         }
 
+        // 从上边界和下边界向中间遍历
         for(int j = 0; j < M; j++){ // 遍历上侧和下侧边界
-            if(arr[0][j] == 1) bfs(0, j, arr);
-            if(arr[N-1][j] == 1) bfs(N-1, j, arr);
+            if(arr[0][j] == 1) dfs(0, j, arr);
+            if(arr[N-1][j] == 1) dfs(N-1, j, arr);
         }
 
         count = 0;
         
         for(int i = 0; i < N; i++){
             for(int j = 0; j < M; j++){
-                if(arr[i][j] == 1) bfs(i, j, arr);
+                if(arr[i][j] == 1) dfs(i, j, arr);
             }
         }
 
@@ -38,26 +41,19 @@ public class Main{
     
 
 
-    public static void bfs(int x, int y, int[][] arr){
-        Queue<int[]> queue = new LinkedList<>();
-        count++;
-        queue.add(new int[]{x,y});
+    public static void dfs(int x, int y, int[][] arr){
         arr[x][y] = 0;
+        count++;
 
+        for(int i = 0; i < 4; i++){
+            int newX = x + dir[i][0];
+            int newY = y + dir[i][1]; 
 
-        while(!queue.isEmpty()){
-            int cur_x = queue.peek()[0];
-            int cur_y = queue.poll()[1];
-            for(int k = 0; k < 4; k++){
-                int next_x = cur_x + dir[k][0];
-                int next_y = cur_y + dir[k][1];
-                if(next_x < 0 || next_x >= arr.length || next_y < 0 || next_y >= arr[0].length)
-                    continue;
-                if(arr[next_x][next_y] == 1){
-                    count++;
-                    queue.add(new int[]{next_x,next_y});
-                    arr[next_x][next_y] = 0;
-                }
+            if(newX < 0 || newX >= arr.length || newY < 0 || newY >= arr[0].length)
+                continue;
+
+            if(arr[newX][newY] == 1){
+                dfs(newX, newY, arr);
             }
         }
     }
