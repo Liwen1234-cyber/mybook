@@ -128,8 +128,8 @@ $$
 对于$N(N>2)$分类的问题，有如下结论：
 $$
 S_w=\sum_{i=1}^cS_i
-\\S_B=\sum_{i=1}^cn_i(m_i-m)(m_i-m)^T
-\\S_Bw_i=\lambda S_ww_i
+\\ S_B=\sum_{i=1}^cn_i(m_i-m)(m_i-m)^T
+\\ S_Bw_i=\lambda S_ww_i
 $$
 这同样是一个求特征值的问题，我们求出的第$i$大的特征向量，就是对应的$W_i$了。
 
