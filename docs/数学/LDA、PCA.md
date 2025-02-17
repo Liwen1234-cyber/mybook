@@ -120,8 +120,8 @@ $$
 这样就可以用拉格朗日乘子法了，但是还有一个问题，如果分子、分母是都可以取任意值的，那就会使得有无穷解，我们将分母限制为长度为1（这是用拉格朗日乘子法一个很重要的技巧，在下面将说的 PCA 里面也会用到），并作为拉格朗日乘子法的限制条件，带入得到：
 $$
 c(w)=w^TS_Bw-\lambda(w^TS_ww-1)
-\\\Rightarrow \frac{dc}{dw}=2S_Bw-2\lambda S_ww
-\\\Rightarrow S_B=\lambda S_ww
+\\ \Rightarrow \frac{dc}{dw}=2S_Bw-2\lambda S_ww
+\\ \Rightarrow S_B=\lambda S_ww
 $$
 这样的式子就是一个求特征值的问题了。
 
@@ -186,7 +186,7 @@ $$
 上式的意思很直观，就是对于每一个点，将降维后的点与原始的点之间的距离的平方和加起来，求平均值，我们就要使得这个平均值最小。我们令：
 $$
 \frac{\partial J}{\partial z_{nj}}=0\Rightarrow z_{nj}=x_{n}^{T}u_{j}
-\\\quad\frac{\partial J}{\partial b_{j}}=0\Rightarrow b_{j}=x^{T}u_{j}
+\\ \quad\frac{\partial J}{\partial b_{j}}=0\Rightarrow b_{j}=x^{T}u_{j}
 $$
 将上面得到的z与b带入降维的表达式得：
 $$
