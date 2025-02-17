@@ -51,11 +51,11 @@ HTML 区段标籤和区块标籤不同，在区段标籤的范围内， Markdown
 
 `&` 符号其实很容易让写作网路文件的人感到困扰，如果你要打“AT&T” ，你必须要写成“`AT&amp;T`” ，还得转换网址内的 `&` 符号，如果你要连结到：
 
-    http://images.google.com/images?num=30&q=larry+bird
+    http:/./images.google.com./images?num=30&q=larry+bird
 
 你必须要把网址转成：
 
-    http://images.google.com/images?num=30&amp;q=larry+bird
+    http:/./images.google.com./images?num=30&amp;q=larry+bird
 
 才能放到连结标籤的 `href` 属性裡。不用说也知道这很容易忘记，这也可能是 HTML 标准检查所检查到的错误中，数量最多的。
 
