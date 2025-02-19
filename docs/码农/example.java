@@ -40,7 +40,6 @@ public class Main{
     }
     
 
-
     public static void dfs(int x, int y, int[][] arr){
         arr[x][y] = 0;
         count++;
