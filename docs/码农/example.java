@@ -1,57 +1,66 @@
-import java.util.Scanner;
+import java.util.*;
 
 public class Main{
-    public static int[][] dir = {{1,0},{-1,0},{0,1},{0,-1}};
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
-        int N = scanner.nextInt();
-        int M = scanner.nextInt();
-        int[][] grid = new int[N][M];
-        for (int i = 0; i < N; i++){
-            for (int j = 0; j < M; j++){
-                grid[i][j] = scanner.nextInt();
-            }
-        } 
-
+        int n = scanner.nextInt();
+        scanner.nextLine();
+        String beginStr = scanner.next();
+        String endStr = scanner.next();
+        scanner.nextLine();
         
-        for (int i = 0; i < N; i++){
-            if(grid[i][0] == 1) dfs(grid, i, 0);
-            if(grid[i][M-1] == 1) dfs(grid, i, M-1);
+        List<String> Str = new ArrayList<>();
+        Str.add(beginStr);
+        Str.add(endStr);
+        for(int i = 0; i < n; i++){
+            Str.add(scanner.nextLine());
         }
-        
-        for (int j = 0; j < M; j++){
-            if(grid[0][j] == 1) dfs(grid, 0, j);
-            if(grid[N-1][j] == 1) dfs(grid, N-1, j);
-        }
+        int cnt = dfs(Str, beginStr, endStr);
 
-        for (int i = 0; i < N; i++){
-            for (int j = 0; j < M; j++){
-                if(grid[i][j] == 1) grid[i][j] = 0;
-                else if(grid[i][j] == 2) grid[i][j] = 1;
-            }
-        }
-
-        for (int i = 0; i < N; i++){
-            for (int j = 0; j < M; j++){
-                System.out.print(grid[i][j] + " ");
-            }
-            System.out.println();
-        }
+        System.out.println(cnt);
 
         scanner.close();
 
     }
-    
-    private static void dfs(int[][] grid, int x, int y){
 
-        grid[x][y] = 2;
-        
-        for(int i = 0; i < 4; i++){
-            int next_x = x + dir[i][0];
-            int next_y = y + dir[i][1];
-            if(next_x >= 0 && next_x < grid.length && next_y >= 0 && next_y < grid[0].length && grid[next_x][next_y] == 1){
-                dfs(grid, next_x, next_y);
+    private static int dfs(List<String> Str, String beginStr, String endStr){
+        int len = 1;
+        Set<String> visited = new HashSet<>();
+        Set<String> set = new HashSet<>(Str);
+        Queue<String> queue = new LinkedList<>();
+        visited.add(beginStr);
+        queue.add(beginStr);
+        queue.add(null);
+        while(!queue.isEmpty()){
+            String curStr = queue.remove();
+            
+            if(curStr == null){
+                if(!queue.isEmpty()){
+                    len++;
+                    queue.add(null);
+                }
+                continue;
+            }
+
+            char[] ss = curStr.toCharArray();
+            for(int i = 0; i < ss.length; i++){
+            
+                char old = ss[i];
+                for(char j = 'a'; j <= 'z'; j++){
+                    ss[i] = j;
+                    String newStr = new String(ss);
+                    if(set.contains(newStr) && !visited.contains(newStr)){
+                        queue.add(newStr);
+                        visited.add(newStr);
+                        if(newStr.equals(endStr)){
+                            return len+1;
+                        }
+                    }
+                }
+                ss[i] = old;
             }
         }
+        return 0;
     }
+    
 }
