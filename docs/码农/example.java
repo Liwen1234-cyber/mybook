@@ -3,64 +3,53 @@ import java.util.*;
 public class Main{
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
-        int n = scanner.nextInt();
-        scanner.nextLine();
-        String beginStr = scanner.next();
-        String endStr = scanner.next();
-        scanner.nextLine();
-        
-        List<String> Str = new ArrayList<>();
-        Str.add(beginStr);
-        Str.add(endStr);
-        for(int i = 0; i < n; i++){
-            Str.add(scanner.nextLine());
+        List<List<Integer>> dir = new ArrayList<>();
+        int points = scanner.nextInt();
+        int edges = scanner.nextInt();
+        for(int i = 0; i < points; i++){
+            dir.add(new ArrayList<>());
         }
-        int cnt = dfs(Str, beginStr, endStr);
-
-        System.out.println(cnt);
+        for(int i = 0; i < edges; i++){
+            int a = scanner.nextInt();
+            int b = scanner.nextInt();
+            dir.get(a-1).add(b-1);
+        }
+        boolean[] visited = new boolean[points];
+        // dfs(dir, visited, 0);
+        bfs(dir, visited, 0);
+        for(int i = 0; i < visited.length; i++){
+            if(!visited[i]){
+                System.out.println(-1);
+                return;
+            }
+        }
+        System.out.println(1);
 
         scanner.close();
+    }
+
+    private static void dfs(List<List<Integer>> dir, boolean[] visited, int start){
+        if(visited[start]) return;
+        visited[start] = true;
+        for(int i : dir.get(start)){
+            dfs(dir, visited, i);
+        }
 
     }
 
-    private static int dfs(List<String> Str, String beginStr, String endStr){
-        int len = 1;
-        Set<String> visited = new HashSet<>();
-        Set<String> set = new HashSet<>(Str);
-        Queue<String> queue = new LinkedList<>();
-        visited.add(beginStr);
-        queue.add(beginStr);
-        queue.add(null);
-        while(!queue.isEmpty()){
-            String curStr = queue.remove();
-            
-            if(curStr == null){
-                if(!queue.isEmpty()){
-                    len++;
-                    queue.add(null);
+    private static void bfs(List<List<Integer>> dir, boolean[] visited, int start){
+        Deque<Integer> dequeue = new LinkedList<>();
+        dequeue.offer(start);
+        visited[start] = true;
+        while(!dequeue.isEmpty()){
+            int cur = dequeue.pollLast();
+            for(int i : dir.get(cur)){
+                if(!visited[i]){
+                    dequeue.offer(i);
+                    visited[i] = true;
                 }
-                continue;
-            }
-
-            char[] ss = curStr.toCharArray();
-            for(int i = 0; i < ss.length; i++){
-            
-                char old = ss[i];
-                for(char j = 'a'; j <= 'z'; j++){
-                    ss[i] = j;
-                    String newStr = new String(ss);
-                    if(set.contains(newStr) && !visited.contains(newStr)){
-                        queue.add(newStr);
-                        visited.add(newStr);
-                        if(newStr.equals(endStr)){
-                            return len+1;
-                        }
-                    }
-                }
-                ss[i] = old;
             }
         }
-        return 0;
     }
     
 }
