@@ -1,116 +1,60 @@
 import java.util.*;
 
-class Disjoint{
-    private int[] father;
-
-    public Disjoint(int n){
-        father = new int[n];
-        for(int i = 0; i < n; i++){
-            father[i] = i;
-        }
-    }
-    public int find(int x){
-        return father[x] == x ? x : find(father[x]);
-    }
-
-    public void join(int x, int y){ // x -> y
-        int fx = find(x);
-        int fy = find(y);
-        father[fx] = fy;
-    }
-
-    public boolean isSame(int x, int y){
-        return find(x) == find(y);
-    }
-}
-
-class Edge{
-    int start;
-    int end;
-    
-    public Edge(int start, int end){
-        this.start = start; 
-        this.end = end;
-    }
-}
-
-class Node{
-    int val;
-    int in;
-    int out;
-
-}
-
-
 public class Main{
+
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
-        int n = scanner.nextInt();
-        Disjoint disjoint = new Disjoint(n+1);
-        List<Edge> edges = new ArrayList<>();
-        Node[] nodes = new Node[n+1];
-        for(int i = 1; i <= n; i++){
-            nodes[i] = new Node();
+        
+        int N = scanner.nextInt();
+        int E = scanner.nextInt();
+        List<List<Integer>> graph = new ArrayList<>();
+        int[] inDegree = new int[N]; //记录每个节点的入度
+        List<Integer> res = new ArrayList<>();
+
+        for(int i = 0; i < N; i++){
+            graph.add(new ArrayList<>());
         }
 
-        Integer doubleIn = null;
-        for(int i = 0; i < n; i++){
-            int s = scanner.nextInt();
-            int t = scanner.nextInt();
-
-            edges.add(new Edge(s, t));
-            nodes[t].in++;
-            if(nodes[t].in >= 2) doubleIn = t;
-
+        for(int i = 0; i < E; i++){
+            int start = scanner.nextInt();
+            int end = scanner.nextInt();
+            inDegree[end]++;
+            graph.get(start).add(end);
         }
 
-        Edge res = null;
-        if(doubleIn != null){ // 入为2
-            List<Edge> doubleInEdges = new ArrayList<>();
-            for(Edge edge : edges){
-                if(edge.end == doubleIn){
-                    doubleInEdges.add(edge);
-                }
-
-                if(doubleInEdges.size() == 2) break;
+        Deque<Integer> deque = new LinkedList<>();
+        for(int i = 0; i < N; i++){
+            if(inDegree[i] == 0){
+                deque.offer(i);
             }
-            
-            Edge edge = doubleInEdges.get(1); //先写后一条入为2的边
-            if(isTreeWithExclude(edges, edge, nodes)) res = edge;
-            else res = doubleInEdges.get(0);
-
-        }
-        else{ // 入不为2则就除去环
-            res = RemoveEdge(edges, nodes);
         }
 
+        while(!deque.isEmpty()){
+            int cur = deque.poll();
+            res.add(cur);
 
-        System.out.println(res.start + " " + res.end);
+            for(int next : graph.get(cur)){
+                inDegree[next]--;
+                if(inDegree[next] == 0){
+                    deque.offer(next);
+                }
+            }
+        }
+
+        if(res.size() != N){ //有环
+            System.out.println(-1);
+        }
+        else{
+            for(int i = 0; i < N; i++){
+                if(i == N - 1){
+                    System.out.print(res.get(i));
+                }
+                else System.out.print(res.get(i) + " ");
+
+            }
+        }
 
         scanner.close();
-    }
-    private static boolean isTreeWithExclude(List<Edge> edges, Edge excludedEdge, Node[] nodes){ //判断是否带环
-        Disjoint disjoint = new Disjoint(nodes.length);
-        for(Edge edge : edges){
-            if(edge == excludedEdge) continue;
-
-            if(disjoint.isSame(edge.start, edge.end)){
-                return false;
-            }
-            disjoint.join(edge.start, edge.end);
-        }
-
-        return true;
-    }
-
-    private static Edge RemoveEdge(List<Edge> edges, Node[] nodes){ //找到最后的一条造成环的边
-        Disjoint disjoint = new Disjoint(nodes.length);
-        for(Edge edge : edges){
-            if(disjoint.isSame(edge.start, edge.end)) return edge;
-            
-            disjoint.join(edge.start, edge.end);
-        }
-        return null;
     }
 }
 
