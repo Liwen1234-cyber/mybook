@@ -182,3 +182,26 @@ Stream<Integer> s2 = s.map(n -> n * n);
 
 
 
+## PriorityQueue
+
+```java
+class Pair<U, V>{
+    public final U first;
+    public final V second;
+    public Pair(U first, V second){
+        this.first = first;
+        this.second = second;
+    }
+}
+
+class MyComparator implements Comparator<Pair<Integer, Integer>>{
+    @Override
+    public int compare(Pair<Integer, Integer> a, Pair<Integer, Integer> b){
+        return Integer.compare(a.second, b.second);
+    }
+}
+
+PriorityQueue<Pair<Integer, Integer>> pq = new PriorityQueue<>(new MyComparator());
+
+```
+
