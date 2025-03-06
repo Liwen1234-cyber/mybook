@@ -1,6 +1,6 @@
 # LaTex常用数学符号整理
 
-<iframe src="./files/刘海洋-latex入门.pdf" width="100%" height="500" frameborder="0"></iframe>
+<iframe src="/files/刘海洋-latex入门.pdf" width="100%" height="500" frameborder="0"></iframe>
 
 ## 1.常用公式
 
