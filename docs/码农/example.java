@@ -1,52 +1,35 @@
 class Solution {
-    public int max, len;
-    public Set<String> set = new HashSet<>();
-    public String ss;
 
-    public List<String> removeInvalidParentheses(String s) {
-        ss = s;
+    public int[][] dir = {{1,0},{-1,0},{0,1},{0,-1}};
+    public int[][] highestPeak(int[][] isWater) {
+        if(isWater == null) return null;
+        int m = isWater.length, n = isWater[0].length;
+        int[][] res = new int[m][n];
 
-        int l = 0, r = 0; // l: 多余左括号的数量，r: 多余右括号的数量
-        for(char i : s.toCharArray()){
-            if(i == '(') l++;
-            else if(i == ')'){
-                if(l > 0) l--;
-                else r++;
+        Deque<int[]> deque = new LinkedList<>();
+
+        for(int i = 0; i < m; i++){
+            for(int j = 0; j < n; j++){
+                if(isWater[i][j] == 1){
+                    deque.offer(new int[]{i,j});
+                }
             }
         }
-        len = s.length() - l - r;
 
-        int cur_l = 0, cur_r = 0;
-        for(char i : s.toCharArray()){
-            if(i == '(') cur_l++;
-            else if(i == ')') cur_r++;
-        }
-        max = Math.min(cur_l - l, cur_r - r);
+        while(!deque.isEmpty()){
+            int[] cur = deque.poll();
+            int x = cur[0], y = cur[1];
 
-        dfs("", 0, 0, l, r);
-        return new ArrayList<>(set);
-
-    }
-
-    public void dfs(String cur, int index, int score, int l, int r){ 
-        if(score < 0 || score > max || l < 0 || r < 0) return;
-
-        if(index == ss.length()){
-            if(score == 0 && cur.length() == len) set.add(cur);
-            return;
+            for(int[] d : dir){
+                int next_x = x + d[0], next_y = y + d[1];
+                if(next_x >= 0 && next_x < m && next_y >= 0 && next_y < n && isWater[next_x][next_y] == 0){
+                    isWater[next_x][next_y] = 1;
+                    res[next_x][next_y] = res[x][y] + 1;
+                    deque.offer(new int[]{next_x, next_y});
+                }
+            }
         }
 
-        if(ss.charAt(index) == '('){
-            dfs(cur + "(", index + 1, score + 1, l, r);
-            dfs(cur, index + 1, score, l - 1, r);
-        }
-        else if(ss.charAt(index) == ')'){
-            dfs(cur + ")", index + 1, score - 1, l, r);
-            dfs(cur, index + 1, score, l, r - 1);
-        }
-        else{
-            dfs(cur + ss.charAt(index), index + 1, score, l, r);
-        }
-
+        return res;
     }
 }

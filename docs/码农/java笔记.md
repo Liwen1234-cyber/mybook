@@ -205,3 +205,113 @@ PriorityQueue<Pair<Integer, Integer>> pq = new PriorityQueue<>(new MyComparator(
 
 ```
 
+
+
+## 面试题
+
+**下面这串代码打印的结果是什么**
+
+```java
+public class Test {
+    public static void main(String[] args) {
+        System.out.println(Math.min(Double.MIN_VALUE, 0.0d));
+    }
+}
+```
+
+事实上，`Double. MIN_VALUE` 和` Double. MAX_VALUE` 一样，都是正数，`Double. MIN_VALUE` 的值是 `2^(-1074)`，直接打印 `Double. MIN_VALUE` 的话，输出结果为 `4.9E-324`，因此这道题的正确答案是输出 `0.0`。
+
+
+
+## 赋值 vs 浅拷贝 vs 深拷贝
+
+```java
+// 学生的所学专业
+public class Major {
+    private String majorName; // 专业名称
+    private long majorId;     // 专业代号
+    
+    // ... 其他省略 ...
+}
+
+// 学生
+public class Student {
+    private String name;  // 姓名
+    private int age;      // 年龄
+    private Major major;  // 所学专业
+    
+    // ... 其他省略 ...
+}
+```
+
+
+
+**对象赋值**
+
+赋值是日常编程过程中最常见的操作，最简单的比如：
+
+```java
+Student codeSheep = new Student();
+Student codePig = codeSheep;
+```
+
+严格来说，这种不能算是对象拷贝，因为拷贝的仅仅只是引用关系，并没有生成新的实际对象
+
+**浅拷贝**
+
+浅拷贝属于对象克隆方式的一种,**值类型**的字段会复制一份，而**引用类型**的字段拷贝的仅仅是引用地址，而该引用地址指向的实际对象空间其实只有一份。
+
+![](./images/640.jpg)
+
+```java
+public class Student implements Cloneable {
+
+    private String name;  // 姓名
+    private int age;      // 年龄
+    private Major major;  // 所学专业
+
+    @Override
+    public Object clone() throws CloneNotSupportedException {
+        return super.clone();
+    }
+    
+    // ... 其他省略 ...
+
+}
+```
+
+**深拷贝**
+
+深拷贝相较于上面所示的浅拷贝，除了值类型字段会复制一份，引用类型字段所指向的对象，会在内存中也**创建一个副本**
+
+如果想实现深拷贝，首先需要对更深一层次的引用类`Major`做改造，让其也实现`Cloneable`接口并重写`clone()`方法:
+
+```java
+public class Major implements Cloneable {
+
+    @Override
+    protected Object clone() throws CloneNotSupportedException {
+        return super.clone();
+    }
+    
+    // ... 其他省略 ...
+}
+```
+
+其次我们还需要在**顶层的**调用类中重写`clone`方法，来调用引用类型字段的`clone()`方法实现深度拷贝，对应到本文那就是`Student`类：
+
+```java
+public class Student implements Cloneable {
+
+    @Override
+    public Object clone() throws CloneNotSupportedException {
+        Student student = (Student) super.clone();
+        student.major = (Major) major.clone(); // 重要！！！
+        return student;
+    }
+    
+    // ... 其他省略 ...
+}
+```
+
+此外，还可以i利用**反序列化实现深拷贝**
