@@ -140,6 +140,7 @@ module.exports = {
       },
       items: [
         '学习/Csi-feedback',
+        '学习/原型验证软件平台_总结',
         '学习/通信笔记',
         '学习/DFT',
         '学习/information_theory',
