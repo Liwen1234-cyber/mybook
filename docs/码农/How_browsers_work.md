@@ -1144,7 +1144,7 @@ block 采用的是一个接一个的垂直格式，内嵌内容采用水平格�
 
 ```
 &lt;p&gt;
-  &lt;img style="float: right" src="images/image.gif" width="100" height="100"&gt;
+  &lt;img style="float: right" src="./images/image.gif" width="100" height="100"&gt;
   Lorem ipsum dolor sit amet, consectetuer...
 &lt;/p&gt;
 ```
