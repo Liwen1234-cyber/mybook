@@ -209,7 +209,7 @@ module.exports = {
         description:
           'Left ear hearing.',
       },
-            items: [
+      items: [
         '左耳听风/01-程序员如何用技术变现（上）',
         '左耳听风/02-程序员如何用技术变现（下）',
         '左耳听风/03-Equifax信息泄露始末',
