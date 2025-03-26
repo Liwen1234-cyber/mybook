@@ -204,6 +204,8 @@ module.exports = {
       label: '左耳听风',
       link: {
         type: 'generated-index',
+        slug: '/左耳听风',
+        title: '左耳听风',
         description:
           'Left ear hearing.',
       },
