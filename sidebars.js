@@ -3,7 +3,7 @@ module.exports = {
     'intro',
     {
       type: 'category',
-      label: 'Sharing',
+      label: '分享',
       collapsible: true,
       collapsed: true,
       link: {
@@ -161,6 +161,7 @@ module.exports = {
       },
       items: [
         '码农/自学之路',
+        '码农/面试笔记/index',
         '码农/java笔记',
         '码农/python笔记',
         '码农/刷题记录/数组',
