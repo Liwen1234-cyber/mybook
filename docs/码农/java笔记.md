@@ -315,3 +315,121 @@ public class Student implements Cloneable {
 ```
 
 此外，还可以i利用**反序列化实现深拷贝**
+
+## 语法糖
+
+# 什么是语法糖？
+
+语法糖（Syntactic Sugar）是编程语言中的一种设计概念，它指的是在语法层面上对某些操作提供更简洁、更易读的表示方式。这种表示方式并不会新增语言的功能，而只是使代码更简洁、更直观，便于开发者理解和维护。
+
+语法糖的作用：
+
+- 提高代码可读性：语法糖可以使代码更加贴近自然语言或开发者的思维方式，从而更容易理解。
+- 减少样板代码：语法糖可以减少重复的样板代码，使得开发者可以更专注于业务逻辑。
+- 降低出错率：简化的语法可以减少代码量，从而降低出错的概率。
+
+因此，语法糖不是 Java 语言特有的，它是很多编程语言设计中的一些语法特性，这些特性使代码更加简洁易读，但并不会引入新的功能或能力。
+
+那么，Java中有哪些语法糖呢？
+
+# Java 语法糖
+
+## 自动装箱与拆箱
+
+自动装箱和拆箱 (Autoboxing and Unboxing)是 Java 5 引入的特性，用于在基本数据类型和它们对应的包装类之间自动转换。
+
+```java
+// 自动装箱
+Integer num = 10; // 实际上是 Integer.valueOf(10)
+
+// 自动拆箱
+int n = num; // 实际上是 num.intValue()
+```
+
+## 可变参数
+
+可变参数（Varargs）允许在方法中传递任意数量的参数。
+
+```java
+public void printNumbers(int... numbers) {
+    for (int number : numbers) {
+        System.out.println(number);
+    }
+}
+
+printNumbers(1, 2, 3, 4, 5);
+```
+
+## try-with-resources
+
+try-with-resources 语句用于自动关闭资源，实现了 `AutoCloseable` 接口的资源会在语句结束时自动关闭。
+
+```java
+try (BufferedReader br = new BufferedReader(new FileReader("file.txt"))) {
+    System.out.println(br.readLine());
+} catch (IOException e) {
+    e.printStackTrace();
+}
+```
+
+## Lambda 表达式
+
+Lambda 表达式是 Java 8 引入的特性，使得可以使用更简洁的语法来实现函数式接口（只有一个抽象方法的接口）。
+
+```java
+List<String> list = Arrays.asList("a", "b", "c");
+list.forEach(s -> System.out.println(s));
+```
+
+## 方法引用
+
+方法引用（Method References）是 Lambda 表达式的一种简写形式，用于直接引用已有的方法。
+
+```java
+list.forEach(System.out::println);
+```
+
+## Switch 表达式
+
+Java 12 引入的 Switch 表达式使得 Switch 语句更加简洁和灵活。
+
+```java
+int day = 5;
+String dayName = switch (day) {
+    case 1 -> "Sunday";
+    case 2 -> "Monday";
+    case 3 -> "Tuesday";
+    case 4 -> "Wednesday";
+    case 5 -> "Thursday";
+    case 6 -> "Friday";
+    case 7 -> "Saturday";
+    default -> "Invalid day";
+};
+```
+
+## 类型推断 (Type Inference)
+
+Java 10 引入了局部变量类型推断，通过 `var` 关键字来声明变量，编译器会自动推断变量的类型。
+
+```java
+var list = new ArrayList<String>();
+list.add("Hello");
+```
+
+这些语法糖使得 Java 代码更加简洁和易读，但需要注意的是，它们并不会增加语言本身的功能，只是对已有功能的一种简化和封装。
+
+## 数值字面量
+
+在 java 7 中，数值字面量，不管是整数还是浮点数，都允许在数字之间插入任意多个下划线。这些下划线不会对字面量的数值产生影响，目的就是方便阅读。
+
+比如：
+
+```java
+public class Test {
+    public static void main(String... args) {
+        int i = 10_000;
+        System.out.println(i);
+    }
+}
+```
+
