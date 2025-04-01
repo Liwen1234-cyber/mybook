@@ -1,4 +1,6 @@
-# [Nat Friedman](https://nat.org/)
+# Nat Friedman
+
+[Nat Friedman](https://nat.org/)
 
 Some things I believe:
 
