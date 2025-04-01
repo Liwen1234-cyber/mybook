@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en" dir="ltr" class="docs-wrapper plugin-docs plugin-id-default docs-version-current docs-doc-page docs-doc-id-码农/计算机基础/计算机网络 - 链路层" data-has-hydrated="false">
+<head>
+<meta charset="UTF-8">
+<meta name="generator" content="Docusaurus v3.7.0">
+<title data-rh="true">计算机网络 - 链路层 | Coisini</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:url" content="https://doc.middiy.top/码农/计算机基础/计算机网络 - 链路层/"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docusaurus_version" content="current"><meta data-rh="true" name="docusaurus_tag" content="docs-default-current"><meta data-rh="true" name="docsearch:version" content="current"><meta data-rh="true" name="docsearch:docusaurus_tag" content="docs-default-current"><meta data-rh="true" property="og:title" content="计算机网络 - 链路层 | Coisini"><meta data-rh="true" name="description" content="* 计算机网络 - 链路层"><meta data-rh="true" property="og:description" content="* 计算机网络 - 链路层"><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://doc.middiy.top/码农/计算机基础/计算机网络 - 链路层/"><link data-rh="true" rel="alternate" href="https://doc.middiy.top/码农/计算机基础/计算机网络 - 链路层/" hreflang="en"><link data-rh="true" rel="alternate" href="https://doc.middiy.top/码农/计算机基础/计算机网络 - 链路层/" hreflang="x-default"><meta name="google-site-verification" content="1FUPX6Qo4y3ecU623ShEurhgnjhSTjK49rRMhEDlzFA">
+<link rel="stylesheet" href="/katex/katex.min.css">
+<script src="/js/matomo.js" async defer="defer"></script><link rel="stylesheet" href="/assets/css/styles.53ea8373.css">
+<script src="/assets/js/runtime~main.812b0b98.js" defer="defer"></script>
+<script src="/assets/js/main.773d5050.js" defer="defer"></script>
+</head>
+<body class="navigation-with-keyboard">
+<script>!function(){function t(t){document.documentElement.setAttribute("data-theme",t)}var e=function(){try{return new URLSearchParams(window.location.search).get("docusaurus-theme")}catch(t){}}()||function(){try{return window.localStorage.getItem("theme")}catch(t){}}();t(null!==e?e:"light")}(),function(){try{const n=new URLSearchParams(window.location.search).entries();for(var[t,e]of n)if(t.startsWith("docusaurus-data-")){var a=t.replace("docusaurus-data-","data-");document.documentElement.setAttribute(a,e)}}catch(t){}}()</script><div id="__docusaurus"><div role="region" aria-label="Skip to main content"><a class="skipToContent_fXgn" href="#__docusaurus_skipToContent_fallback">Skip to main content</a></div><nav aria-label="Main" class="navbar navbar--fixed-top"><div class="navbar__inner"><div class="navbar__items"><button aria-label="Toggle navigation bar" aria-expanded="false" class="navbar__toggle clean-btn" type="button"><svg width="30" height="30" viewBox="0 0 30 30" aria-hidden="true"><path stroke="currentColor" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2" d="M4 7h22M4 15h22M4 23h22"></path></svg></button><a class="navbar__brand" href="/"><div class="navbar__logo"><img src="/img/logo.svg" alt="Chialisp Logo" class="themedComponent_mlkZ themedComponent--light_NVdE"><img src="/img/logo.svg" alt="Chialisp Logo" class="themedComponent_mlkZ themedComponent--dark_xIcU"></div><b class="navbar__title text--truncate">Coisini</b></a></div><div class="navbar__items navbar__items--right"><a href="https://minddiy.top" target="_blank" rel="noopener noreferrer" class="navbar__item navbar__link">Main site<svg width="13.5" height="13.5" aria-hidden="true" viewBox="0 0 24 24" class="iconExternalLink_nPIU"><path fill="currentColor" d="M21 13v10h-21v-19h12v2h-10v15h17v-8h2zm3-12h-10.988l4.035 4-6.977 7.07 2.828 2.828 6.977-7.07 4.125 4.172v-11z"></path></svg></a><div class="toggle_vylO colorModeToggle_DEke"><button class="clean-btn toggleButton_gllP toggleButtonDisabled_aARS" type="button" disabled="" title="Switch between dark and light mode (currently light mode)" aria-label="Switch between dark and light mode (currently light mode)" aria-live="polite" aria-pressed="false"><svg viewBox="0 0 24 24" width="24" height="24" class="lightToggleIcon_pyhR"><path fill="currentColor" d="M12,9c1.65,0,3,1.35,3,3s-1.35,3-3,3s-3-1.35-3-3S10.35,9,12,9 M12,7c-2.76,0-5,2.24-5,5s2.24,5,5,5s5-2.24,5-5 S14.76,7,12,7L12,7z M2,13l2,0c0.55,0,1-0.45,1-1s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S1.45,13,2,13z M20,13l2,0c0.55,0,1-0.45,1-1 s-0.45-1-1-1l-2,0c-0.55,0-1,0.45-1,1S19.45,13,20,13z M11,2v2c0,0.55,0.45,1,1,1s1-0.45,1-1V2c0-0.55-0.45-1-1-1S11,1.45,11,2z M11,20v2c0,0.55,0.45,1,1,1s1-0.45,1-1v-2c0-0.55-0.45-1-1-1C11.45,19,11,19.45,11,20z M5.99,4.58c-0.39-0.39-1.03-0.39-1.41,0 c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0s0.39-1.03,0-1.41L5.99,4.58z M18.36,16.95 c-0.39-0.39-1.03-0.39-1.41,0c-0.39,0.39-0.39,1.03,0,1.41l1.06,1.06c0.39,0.39,1.03,0.39,1.41,0c0.39-0.39,0.39-1.03,0-1.41 L18.36,16.95z M19.42,5.99c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06c-0.39,0.39-0.39,1.03,0,1.41 s1.03,0.39,1.41,0L19.42,5.99z M7.05,18.36c0.39-0.39,0.39-1.03,0-1.41c-0.39-0.39-1.03-0.39-1.41,0l-1.06,1.06 c-0.39,0.39-0.39,1.03,0,1.41s1.03,0.39,1.41,0L7.05,18.36z"></path></svg><svg viewBox="0 0 24 24" width="24" height="24" class="darkToggleIcon_wfgR"><path fill="currentColor" d="M9.37,5.51C9.19,6.15,9.1,6.82,9.1,7.5c0,4.08,3.32,7.4,7.4,7.4c0.68,0,1.35-0.09,1.99-0.27C17.45,17.19,14.93,19,12,19 c-3.86,0-7-3.14-7-7C5,9.07,6.81,6.55,9.37,5.51z M12,3c-4.97,0-9,4.03-9,9s4.03,9,9,9s9-4.03,9-9c0-0.46-0.04-0.92-0.1-1.36 c-0.98,1.37-2.58,2.26-4.4,2.26c-2.98,0-5.4-2.42-5.4-5.4c0-1.81,0.89-3.42,2.26-4.4C12.92,3.04,12.46,3,12,3L12,3z"></path></svg></button></div><div class="navbarSearchContainer_Bca1"><div class="navbar__search searchBarContainer_NW3z" dir="ltr"><input placeholder="Search" aria-label="Search" class="navbar__search-input" value=""><div class="loadingRing_RJI3 searchBarLoadingRing_YnHq"><div></div><div></div><div></div><div></div></div></div></div></div></div><div role="presentation" class="navbar-sidebar__backdrop"></div></nav><div id="__docusaurus_skipToContent_fallback" class="main-wrapper mainWrapper_z2l0"><div class="docsWrapper_hBAB"><button aria-label="Scroll back to top" class="clean-btn theme-back-to-top-button backToTopButton_sjWU" type="button"></button><div class="docRoot_UBD9"><main class="docMainContainer_TBSr docMainContainerEnhanced_lQrH"><div class="container padding-top--md padding-bottom--lg"><div class="row"><div class="col docItemCol_VOVn"><div class="docItemContainer_Djhp"><article><div class="tocCollapsible_ETCw theme-doc-toc-mobile tocMobile_ITEo"><button type="button" class="clean-btn tocCollapsibleButton_TO0P">On this page</button></div><div class="theme-doc-markdown markdown"><header><h1>计算机网络 - 链路层</h1></header>
+<ul>
+<li><a href="#%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C---%E9%93%BE%E8%B7%AF%E5%B1%82">计算机网络 - 链路层</a>
+<ul>
+<li><a href="#%E5%9F%BA%E6%9C%AC%E9%97%AE%E9%A2%98">基本问题</a>
+<ul>
+<li><a href="#1-%E5%B0%81%E8%A3%85%E6%88%90%E5%B8%A7">1. 封装成帧</a></li>
+<li><a href="#2-%E9%80%8F%E6%98%8E%E4%BC%A0%E8%BE%93">2. 透明传输</a></li>
+<li><a href="#3-%E5%B7%AE%E9%94%99%E6%A3%80%E6%B5%8B">3. 差错检测</a></li>
+</ul>
+</li>
+<li><a href="#%E4%BF%A1%E9%81%93%E5%88%86%E7%B1%BB">信道分类</a>
+<ul>
+<li><a href="#1-%E5%B9%BF%E6%92%AD%E4%BF%A1%E9%81%93">1. 广播信道</a></li>
+<li><a href="#2-%E7%82%B9%E5%AF%B9%E7%82%B9%E4%BF%A1%E9%81%93">2. 点对点信道</a></li>
+</ul>
+</li>
+<li><a href="#%E4%BF%A1%E9%81%93%E5%A4%8D%E7%94%A8%E6%8A%80%E6%9C%AF">信道复用技术</a>
+<ul>
+<li><a href="#1-%E9%A2%91%E5%88%86%E5%A4%8D%E7%94%A8">1. 频分复用</a></li>
+<li><a href="#2-%E6%97%B6%E5%88%86%E5%A4%8D%E7%94%A8">2. 时分复用</a></li>
+<li><a href="#3-%E7%BB%9F%E8%AE%A1%E6%97%B6%E5%88%86%E5%A4%8D%E7%94%A8">3. 统计时分复用</a></li>
+<li><a href="#4-%E6%B3%A2%E5%88%86%E5%A4%8D%E7%94%A8">4. 波分复用</a></li>
+<li><a href="#5-%E7%A0%81%E5%88%86%E5%A4%8D%E7%94%A8">5. 码分复用</a></li>
+</ul>
+</li>
+<li><a href="#csmacd-%E5%8D%8F%E8%AE%AE">CSMA/CD 协议</a></li>
+<li><a href="#ppp-%E5%8D%8F%E8%AE%AE">PPP 协议</a></li>
+<li><a href="#mac-%E5%9C%B0%E5%9D%80">MAC 地址</a></li>
+<li><a href="#%E5%B1%80%E5%9F%9F%E7%BD%91">局域网</a></li>
+<li><a href="#%E4%BB%A5%E5%A4%AA%E7%BD%91">以太网</a></li>
+<li><a href="#%E4%BA%A4%E6%8D%A2%E6%9C%BA">交换机</a></li>
+<li><a href="#%E8%99%9A%E6%8B%9F%E5%B1%80%E5%9F%9F%E7%BD%91">虚拟局域网</a></li>
+</ul>
+</li>
+</ul>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="基本问题">基本问题<a href="#基本问题" class="hash-link" aria-label="Direct link to 基本问题" title="Direct link to 基本问题">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-封装成帧">1. 封装成帧<a href="#1-封装成帧" class="hash-link" aria-label="Direct link to 1. 封装成帧" title="Direct link to 1. 封装成帧">​</a></h3>
+<p>将网络层传下来的分组添加首部和尾部，用于标记帧的开始和结束。</p>
+<div align="center"> <img decoding="async" loading="lazy" src="./images/29a14735-e154-4f60-9a04-c9628e5d09f4.png" width="300" class="img_ev3q"> </div><br>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-透明传输">2. 透明传输<a href="#2-透明传输" class="hash-link" aria-label="Direct link to 2. 透明传输" title="Direct link to 2. 透明传输">​</a></h3>
+<p>透明表示一个实际存在的事物看起来好像不存在一样。</p>
+<p>帧使用首部和尾部进行定界，如果帧的数据部分含有和首部尾部相同的内容，那么帧的开始和结束位置就会被错误的判定。需要在数据部分出现首部尾部相同的内容前面插入转义字符。如果数据部分出现转义字符，那么就在转义字符前面再加个转义字符。在接收端进行处理之后可以还原出原始数据。这个过程透明传输的内容是转义字符，用户察觉不到转义字符的存在。</p>
+<div align="center"> <img decoding="async" loading="lazy" src="./images/e738a3d2-f42e-4755-ae13-ca23497e7a97.png" width="500" class="img_ev3q"> </div><br>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-差错检测">3. 差错检测<a href="#3-差错检测" class="hash-link" aria-label="Direct link to 3. 差错检测" title="Direct link to 3. 差错检测">​</a></h3>
+<p>目前数据链路层广泛使用了循环冗余检验（CRC）来检查比特差错。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="信道分类">信道分类<a href="#信道分类" class="hash-link" aria-label="Direct link to 信道分类" title="Direct link to 信道分类">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-广播信道">1. 广播信道<a href="#1-广播信道" class="hash-link" aria-label="Direct link to 1. 广播信道" title="Direct link to 1. 广播信道">​</a></h3>
+<p>一对多通信，一个节点发送的数据能够被广播信道上所有的节点接收到。</p>
+<p>所有的节点都在同一个广播信道上发送数据，因此需要有专门的控制方法进行协调，避免发生冲突（冲突也叫碰撞）。</p>
+<p>主要有两种控制方法进行协调，一个是使用信道复用技术，一是使用 CSMA/CD 协议。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-点对点信道">2. 点对点信道<a href="#2-点对点信道" class="hash-link" aria-label="Direct link to 2. 点对点信道" title="Direct link to 2. 点对点信道">​</a></h3>
+<p>一对一通信。</p>
+<p>因为不会发生碰撞，因此也比较简单，使用 PPP 协议进行控制。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="信道复用技术">信道复用技术<a href="#信道复用技术" class="hash-link" aria-label="Direct link to 信道复用技术" title="Direct link to 信道复用技术">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="1-频分复用">1. 频分复用<a href="#1-频分复用" class="hash-link" aria-label="Direct link to 1. 频分复用" title="Direct link to 1. 频分复用">​</a></h3>
+<p>频分复用的所有主机在相同的时间占用不同的频率带宽资源。</p>
+<div align="center"> <img decoding="async" loading="lazy" src="./images/4aa5e057-bc57-4719-ab57-c6fbc861c505.png" width="350" class="img_ev3q"> </div><br>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="2-时分复用">2. 时分复用<a href="#2-时分复用" class="hash-link" aria-label="Direct link to 2. 时分复用" title="Direct link to 2. 时分复用">​</a></h3>
+<p>时分复用的所有主机在不同的时间占用相同的频率带宽资源。</p>
+<div align="center"> <img decoding="async" loading="lazy" src="./images/67582ade-d44a-46a6-8757-3c1296cc1ef9.png" width="350" class="img_ev3q"> </div><br>
+<p>使用频分复用和时分复用进行通信，在通信的过程中主机会一直占用一部分信道资源。但是由于计算机数据的突发性质，通信过程没必要一直占用信道资源而不让出给其它用户使用，因此这两种方式对信道的利用率都不高。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="3-统计时分复用">3. 统计时分复用<a href="#3-统计时分复用" class="hash-link" aria-label="Direct link to 3. 统计时分复用" title="Direct link to 3. 统计时分复用">​</a></h3>
+<p>是对时分复用的一种改进，不固定每个用户在时分复用帧中的位置，只要有数据就集中起来组成统计时分复用帧然后发送。</p>
+<div align="center"> <img decoding="async" loading="lazy" src="./images/6283be2a-814a-4a10-84bf-9592533fe6bc.png" width="350" class="img_ev3q"> </div><br>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="4-波分复用">4. 波分复用<a href="#4-波分复用" class="hash-link" aria-label="Direct link to 4. 波分复用" title="Direct link to 4. 波分复用">​</a></h3>
+<p>光的频分复用。由于光的频率很高，因此习惯上用波长而不是频率来表示所使用的光载波。</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="5-码分复用">5. 码分复用<a href="#5-码分复用" class="hash-link" aria-label="Direct link to 5. 码分复用" title="Direct link to 5. 码分复用">​</a></h3>
+<p>为每个用户分配 m bit 的码片，并且所有的码片正交，对于任意两个码片 <img decoding="async" loading="lazy" src="https://latex.codecogs.com/gif.latex?\vec{S}" class="mathjax-pic img_ev3q"> 和 <img decoding="async" loading="lazy" src="https://latex.codecogs.com/gif.latex?\vec{T}" class="mathjax-pic img_ev3q"> 有</p>
+<div align="center"> <img decoding="async" loading="lazy" src="./images/308a02e9-3346-4251-8c41-bd5536dab491.png" width="100px" class="img_ev3q"> </div><br>
+<p>为了讨论方便，取 m=8，设码片 <img decoding="async" loading="lazy" src="https://latex.codecogs.com/gif.latex?\vec{S}" class="mathjax-pic img_ev3q"> 为 00011011。在拥有该码片的用户发送比特 1 时就发送该码片，发送比特 0 时就发送该码片的反码 11100100。</p>
+<p>在计算时将 00011011 记作 (-1 -1 -1 +1 +1 -1 +1 +1)，可以得到</p>
+<div align="center"> <img decoding="async" loading="lazy" src="./images/6fda1dc7-5c74-49c1-bb79-237a77e43a43.png" width="100px" class="img_ev3q"> </div><br>
+<div align="center"> <img decoding="async" loading="lazy" src="./images/e325a903-f0b1-4fbd-82bf-88913dc2f290.png" width="125px" class="img_ev3q"> </div><br>
+<p>其中 <img decoding="async" loading="lazy" src="https://latex.codecogs.com/gif.latex?\vec{S&#x27;}" class="mathjax-pic img_ev3q"> 为 <img decoding="async" loading="lazy" src="https://latex.codecogs.com/gif.latex?\vec{S}" class="mathjax-pic img_ev3q"> 的反码。</p>
+<p>利用上面的式子我们知道，当接收端使用码片 <img decoding="async" loading="lazy" src="https://latex.codecogs.com/gif.latex?\vec{S}" class="mathjax-pic img_ev3q"> 对接收到的数据进行内积运算时，结果为 0 的是其它用户发送的数据，结果为 1 的是用户发送的比特 1，结果为 -1 的是用户发送的比特 0。</p>
+<p>码分复用需要发送的数据量为原先的 m 倍。</p>
+<div align="center"> <img decoding="async" loading="lazy" src="./images/99b6060e-099d-4201-8e86-f8ab3768a7cf.png" width="500px" class="img_ev3q"> </div><br>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="csmacd-协议">CSMA/CD 协议<a href="#csmacd-协议" class="hash-link" aria-label="Direct link to CSMA/CD 协议" title="Direct link to CSMA/CD 协议">​</a></h2>
+<p>CSMA/CD 表示载波监听多点接入 / 碰撞检测。</p>
+<ul>
+<li><strong>多点接入</strong>  ：说明这是总线型网络，许多主机以多点的方式连接到总线上。</li>
+<li><strong>载波监听</strong>  ：每个主机都必须不停地监听信道。在发送前，如果监听到信道正在使用，就必须等待。</li>
+<li><strong>碰撞检测</strong>  ：在发送中，如果监听到信道已有其它主机正在发送数据，就表示发生了碰撞。虽然每个主机在发送数据之前都已经监听到信道为空闲，但是由于电磁波的传播时延的存在，还是有可能会发生碰撞。</li>
+</ul>
+<p>记端到端的传播时延为 τ，最先发送的站点最多经过 2τ 就可以知道是否发生了碰撞，称 2τ 为   <strong>争用期</strong>  。只有经过争用期之后还没有检测到碰撞，才能肯定这次 发送不会发生碰撞。</p>
+<p>当发生碰撞时，站点要停止发送，等待一段时间再发送。这个时间采用   <strong>截断二进制指数退避算法</strong>   来确定。从离散的整数集合 {0, 1, .., (2<sup>k</sup>-1)} 中随机取出一个数，记作 r，然后取 r 倍的争用期作为重传等待时间。</p>
+<div align="center"> <img decoding="async" loading="lazy" src="./images/19d423e9-74f7-4c2b-9b97-55890e0d5193.png" width="400" class="img_ev3q"> </div><br>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="ppp-协议">PPP 协议<a href="#ppp-协议" class="hash-link" aria-label="Direct link to PPP 协议" title="Direct link to PPP 协议">​</a></h2>
+<p>互联网用户通常需要连接到某个 ISP 之后才能接入到互联网，PPP 协议是用户计算机和 ISP 进行通信时所使用的数据链路层协议。</p>
+<div align="center"> <img decoding="async" loading="lazy" src="./images/e1ab9f28-cb15-4178-84b2-98aad87f9bc8.jpg" width="300" class="img_ev3q"> </div><br>
+<p>PPP 的帧格式：</p>
+<ul>
+<li>F 字段为帧的定界符</li>
+<li>A 和 C 字段暂时没有意义</li>
+<li>FCS 字段是使用 CRC 的检验序列</li>
+<li>信息部分的长度不超过 1500</li>
+</ul>
+<div align="center"> <img decoding="async" loading="lazy" src="./images/759013d7-61d8-4509-897a-d75af598a236.png" width="400" class="img_ev3q"> </div><br>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="mac-地址">MAC 地址<a href="#mac-地址" class="hash-link" aria-label="Direct link to MAC 地址" title="Direct link to MAC 地址">​</a></h2>
+<p>MAC 地址是链路层地址，长度为 6 字节（48 位），用于唯一标识网络适配器（网卡）。</p>
+<p>一台主机拥有多少个网络适配器就有多少个 MAC 地址。例如笔记本电脑普遍存在无线网络适配器和有线网络适配器，因此就有两个 MAC 地址。</p>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="局域网">局域网<a href="#局域网" class="hash-link" aria-label="Direct link to 局域网" title="Direct link to 局域网">​</a></h2>
+<p>局域网是一种典型的广播信道，主要特点是网络为一个单位所拥有，且地理范围和站点数目均有限。</p>
+<p>主要有以太网、令牌环网、FDDI 和 ATM 等局域网技术，目前以太网占领着有线局域网市场。</p>
+<p>可以按照网络拓扑结构对局域网进行分类：</p>
+<div align="center"> <img decoding="async" loading="lazy" src="./images/807f4258-dba8-4c54-9c3c-a707c7ccffa2.jpg" width="800" class="img_ev3q"> </div><br>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="以太网">以太网<a href="#以太网" class="hash-link" aria-label="Direct link to 以太网" title="Direct link to 以太网">​</a></h2>
+<p>以太网是一种星型拓扑结构局域网。</p>
+<p>早期使用集线器进行连接，集线器是一种物理层设备， 作用于比特而不是帧，当一个比特到达接口时，集线器重新生成这个比特，并将其能量强度放大，从而扩大网络的传输距离，之后再将这个比特发送到其它所有接口。如果集线器同时收到两个不同接口的帧，那么就发生了碰撞。</p>
+<p>目前以太网使用交换机替代了集线器，交换机是一种链路层设备，它不会发生碰撞，能根据 MAC 地址进行存储转发。</p>
+<p>以太网帧格式：</p>
+<ul>
+<li><strong>类型</strong>  ：标记上层使用的协议；</li>
+<li><strong>数据</strong>  ：长度在 46-1500 之间，如果太小则需要填充；</li>
+<li><strong>FCS</strong>  ：帧检验序列，使用的是 CRC 检验方法；</li>
+</ul>
+<div align="center"> <img decoding="async" loading="lazy" src="./images/164944d3-bbd2-4bb2-924b-e62199c51b90.png" width="500" class="img_ev3q"> </div><br>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="交换机">交换机<a href="#交换机" class="hash-link" aria-label="Direct link to 交换机" title="Direct link to 交换机">​</a></h2>
+<p>交换机具有自学习能力，学习的是交换表的内容， 交换表中存储着 MAC 地址到接口的映射。</p>
+<p>正是由于这种自学习能力，因此交换机是一种即插即用设备，不需要网络管理员手动配置交换表内容。</p>
+<p>下图中，交换机有 4 个接口，主机 A 向主机 B 发送数据帧时，交换机把主机 A 到接口 1 的映射写入交换表中。为了发送数据帧到 B，先查交换表，此时没有主机 B 的表项，那么主机 A 就发送广播帧，主机 C 和主机 D 会丢弃该帧，主机 B 回应该帧向主机 A 发送数据包时，交换机查找交换表得到主机 A 映射的接口为 1，就发送数据帧到接口 1，同时交换机添加主机 B 到接口 2 的映射。</p>
+<div align="center"> <img decoding="async" loading="lazy" src="./images/a4444545-0d68-4015-9a3d-19209dc436b3.png" width="800" class="img_ev3q"> </div><br>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="虚拟局域网">虚拟局域网<a href="#虚拟局域网" class="hash-link" aria-label="Direct link to 虚拟局域网" title="Direct link to 虚拟局域网">​</a></h2>
+<p>虚拟局域网可以建立与物理位置无关的逻辑组，只有在同一个虚拟局域网中的成员才会收到链路层广播信息。</p>
+<p>例如下图中 (A1, A2, A3, A4) 属于一个虚拟局域网，A1 发送的广播会被 A2、A3、A4 收到，而其它站点收不到。</p>
+<p>使用 VLAN 干线连接来建立虚拟局域网，每台交换机上的一个特殊接口被设置为干线接口，以互连 VLAN 交换机。IEEE 定义了一种扩展的以太网帧格式 802.1Q，它在标准以太网帧上加进了 4 字节首部 VLAN 标签，用于表示该帧属于哪一个虚拟局域网。</p>
+<div align="center"> <img decoding="async" loading="lazy" src="./images/e98e9d20-206b-4533-bacf-3448d0096f38.png" width="500" class="img_ev3q"> </div><br></div></article><nav class="pagination-nav docusaurus-mt-lg" aria-label="Docs pages"></nav></div></div><div class="col col--3"><div class="tableOfContents_bqdL thin-scrollbar theme-doc-toc-desktop"><ul class="table-of-contents table-of-contents__left-border"><li><a href="#基本问题" class="table-of-contents__link toc-highlight">基本问题</a><ul><li><a href="#1-封装成帧" class="table-of-contents__link toc-highlight">1. 封装成帧</a></li><li><a href="#2-透明传输" class="table-of-contents__link toc-highlight">2. 透明传输</a></li><li><a href="#3-差错检测" class="table-of-contents__link toc-highlight">3. 差错检测</a></li></ul></li><li><a href="#信道分类" class="table-of-contents__link toc-highlight">信道分类</a><ul><li><a href="#1-广播信道" class="table-of-contents__link toc-highlight">1. 广播信道</a></li><li><a href="#2-点对点信道" class="table-of-contents__link toc-highlight">2. 点对点信道</a></li></ul></li><li><a href="#信道复用技术" class="table-of-contents__link toc-highlight">信道复用技术</a><ul><li><a href="#1-频分复用" class="table-of-contents__link toc-highlight">1. 频分复用</a></li><li><a href="#2-时分复用" class="table-of-contents__link toc-highlight">2. 时分复用</a></li><li><a href="#3-统计时分复用" class="table-of-contents__link toc-highlight">3. 统计时分复用</a></li><li><a href="#4-波分复用" class="table-of-contents__link toc-highlight">4. 波分复用</a></li><li><a href="#5-码分复用" class="table-of-contents__link toc-highlight">5. 码分复用</a></li></ul></li><li><a href="#csmacd-协议" class="table-of-contents__link toc-highlight">CSMA/CD 协议</a></li><li><a href="#ppp-协议" class="table-of-contents__link toc-highlight">PPP 协议</a></li><li><a href="#mac-地址" class="table-of-contents__link toc-highlight">MAC 地址</a></li><li><a href="#局域网" class="table-of-contents__link toc-highlight">局域网</a></li><li><a href="#以太网" class="table-of-contents__link toc-highlight">以太网</a></li><li><a href="#交换机" class="table-of-contents__link toc-highlight">交换机</a></li><li><a href="#虚拟局域网" class="table-of-contents__link toc-highlight"> 虚拟局域网</a></li></ul></div></div></div></div></main></div></div></div></div>
+</body>
+</html>
