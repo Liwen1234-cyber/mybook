@@ -89,6 +89,77 @@ int gcd(int n, int m) {
 
 
 
+## 进制转换
+
+###  7 进制
+
+[504.Base 7](https://leetcode.com/problems/base-7/description/)
+
+解答：
+
+```java
+// 语法糖
+class Solution {
+    public String convertToBase7(int num) {
+        return Integer.toString(num, 7);
+    }
+}
+
+// 自己实现
+class Solution {
+    public String convertToBase7(int num) {
+        if(num == 0) return "0";
+        else if(num < 0) return "-" + convertToBase7(-num);
+
+        StringBuilder sb = new StringBuilder();
+        while(num > 0){
+            sb.insert(0, num % 7);
+            num /= 7;
+        }
+
+        return sb.toString();
+    }
+}
+```
+
+### 16 进制
+
+[405. Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/description/)
+
+解答：
+
+> `>>>` 是Java中的无符号右移运算符。它将一个数的二进制位向右移动指定的位数，并且在左侧填充0。无符号右移不考虑符号位，而只是简单地移动位。
+
+```java
+class Solution {
+    public String toHex(int num) {
+        char[] map = {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9', 'a', 'b', 'c', 'd', 'e', 'f'};
+        if (num == 0) return "0";
+        StringBuilder sb = new StringBuilder();
+        while (num != 0) {
+            sb.append(map[num & 0b1111]); // 0b是二进制
+            num >>>= 4; // 因为考虑的是补码形式，因此符号位就不能有特殊的意义，需要使用无符号右移，左边填 0
+        }
+        return sb.reverse().toString();
+    }
+}
+```
+
+### 26 进制
+
+[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)
+
+```java
+class Solution {
+    public String convertToTitle(int columnNumber){
+        if(columnNumber == 0) return "";
+        columnNumber--; // To start from A instead of 1
+
+        return convertToTitle(columnNumber/26) + (char)((columnNumber % 26)+'A');
+    }
+}
+```
+
 
 
 未完待续~~~
