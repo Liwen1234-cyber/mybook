@@ -19,6 +19,7 @@ public class HelloWorld {
 
 	public static void main(String[] args) {
 		List<String> list = List.of("Hello", "world");//只读List
+
 		for(Iterator<String> it = list.iterator(); it.hasNext();) {
 			String str = it.next();
 			System.out.print(str);
