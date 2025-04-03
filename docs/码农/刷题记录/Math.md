@@ -160,6 +160,97 @@ class Solution {
 }
 ```
 
+## 阶乘
+
+### 统计阶乘尾部有多少个0
+
+[172. Factorial Trailing Zeroes](https://leetcode-cn.com/problems/factorial-trailing-zeroes/description/)
+
+尾部的 0 由 2 * 5 得来，2 的数量明显多于 5 的数量，因此只要统计有多少个 5 即可。
+
+对于一个数 N，它所包含 5 的个数为：N/5 + N/52 + N/53 + ...，其中 N/5 表示不大于 N 的数中 5 的倍数贡献一个 5，N/52 表示不大于 N 的数中 52 的倍数再贡献一个 5 ...。
+
+解答：
+
+```java
+class Solution {
+    public int trailingZeroes(int n) { // 0的个数就是2*5的个数，所以只需要计算5的个数即可
+        if(n == 0) return 0;
+        return n/5 + trailingZeroes(n/5); //注意25 == 5 * 5
+    }
+}
+```
+
+##  字符串加法减法
+
+### 二进制加法
+
+[67. Add Binary](https://leetcode-cn.com/problems/add-binary/description/)
+
+解答：
+
+```java
+class Solution {
+    public String addBinary(String a, String b) {
+        int len1 = a.length();
+        int len2 = b.length();
+
+        if(len1 == 0 || len2 == 0) return a.length() == 0 ? b : a;
+        if(a.charAt(len1-1) == '0' && b.charAt(len2-1) == '0') {
+            return addBinary(a.substring(0, len1-1), b.substring(0, len2-1)) + "0";
+        }
+        else if(a.charAt(len1-1) == '1' && b.charAt(len2-1) == '1'){
+            return addBinary(addBinary(a.substring(0, len1-1), "1"), b.substring(0, len2-1)) + "0";
+        }
+        else if(a.charAt(len1-1) == '1' || b.charAt(len2-1) == '1'){
+            return addBinary(a.substring(0, len1-1), b.substring(0, len2-1)) + "1";
+        }
+        return "";
+    }
+}
+
+class Solution {
+    public String addBinary(String a, String b) {
+        int carry = 0;
+        StringBuilder sb = new StringBuilder();
+        int i = a.length() - 1, j = b.length() - 1;
+        while (i >= 0 || j >= 0) {
+            if(i >= 0 && a.charAt(i--) == '1') carry++;
+            if(j >= 0 && b.charAt(j--) == '1') carry++;
+            sb.append(carry % 2);
+            carry >>= 1;
+        }
+        if(carry == 1) sb.append("1");
+        return sb.reverse().toString();
+    }
+}
+```
+
+### 字符串加法
+
+[415. Add Strings](https://leetcode-cn.com/problems/add-strings/description/)
+
+字符串的值为非负整数。
+
+解答：
+
+```java
+class Solution {
+    public String addStrings(String num1, String num2) {
+        int carry = 0;
+        StringBuilder sb = new StringBuilder();
+        int i = num1.length() - 1, j = num2.length() - 1;
+        while (i >= 0 || j >= 0 || carry > 0) {
+            if (i >= 0) carry += num1.charAt(i--) - '0';
+            if (j >= 0) carry += num2.charAt(j--) - '0';
+            sb.append(carry % 10);
+            carry = carry / 10;
+        }
+        return sb.reverse().toString();
+    }
+}
+```
+
 
 
 未完待续~~~
