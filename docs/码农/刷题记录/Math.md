@@ -251,6 +251,214 @@ class Solution {
 }
 ```
 
+## 相遇问题
 
+### 改变数组元素使所有的数组元素都相等
 
-未完待续~~~
+[462. Minimum Moves to Equal Array Elements II](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii/description/)
+
+每次可以对一个数组元素加一或者减一，求最小的改变次数。
+
+这是个典型的相遇问题，移动距离最小的方式是所有元素都移动到**中位数**。
+
+解答：
+
+```java
+import java.util.Arrays;
+
+class Solution {
+    public int minMoves2(int[] nums) {
+        int n = nums.length;
+        Arrays.sort(nums);
+        int meannum = nums[n/2];
+        int cnt = 0;
+        for (int num : nums) {
+            cnt += Math.abs(num - meannum);
+        }
+        return cnt;
+    }
+}
+```
+
+## 多数投票问题
+
+### 数组中出现次数多于 n / 2 的元素
+
+[169. Majority Element](https://leetcode-cn.com/problems/majority-element/description/)
+
+先对数组排序，最中间那个数出现次数一定多于 n / 2。
+
+解答：
+
+```java
+// O(n)
+import java.util.HashMap;
+import java.util.Map;
+
+class Solution {
+    public int majorityElement(int[] nums) {
+        Map<Integer, Integer> map = new HashMap<>();
+        for (int num : nums) {
+            map.put(num, map.getOrDefault(num, 0) + 1);
+            if (map.get(num) > nums.length / 2) return num;
+        }
+        return 0;
+    }
+}
+
+// O(nlogn)
+import java.util.Arrays;
+
+class Solution {
+    public int majorityElement(int[] nums) {
+        Arrays.sort(nums);
+        return nums[nums.length/2];
+    }
+}
+```
+
+### 平方数
+
+[367. Valid Perfect Square](https://leetcode-cn.com/problems/valid-perfect-square/description/)
+
+平方序列：1,4,9,16,..
+
+间隔：3,5,7,...
+
+间隔为等差数列，使用这个特性可以得到从 1 开始的平方序列。
+
+解答：
+
+```java
+// O(log(N))
+class Solution {
+    public boolean isPerfectSquare(int num) {
+        if(num == 1) return true;
+        int left = 1, right = num;
+        while(left <= right) {
+            int mid = left + (right - left) / 2;
+            if((long)mid * mid == num) return true;
+            else if((long)mid * mid < num) left = mid + 1;
+            else right = mid - 1;
+        }
+        return false;
+    }
+}
+
+// O(sqrt(N))
+class Solution {
+    public boolean isPerfectSquare(int num) {
+        if(num == 1) return true;
+        int subnum = 1;
+        while(num > 0){
+            num -= subnum;
+            subnum += 2;
+        }
+        return num == 0;
+    }
+}
+```
+
+### 3 的 n 次方
+
+[326. Power of Three](https://leetcode-cn.com/problems/power-of-three/description/)
+
+`-231 <= n <= 231 - 1`
+
+解答：
+
+```java
+// 约数 O(1)
+class Solution {
+    public boolean isPowerOfThree(int n) {
+        return n > 0 && (1162261467 % n == 0);
+    }
+}
+
+// O(log n)
+class Solution {
+    public boolean isPowerOfThree(int n) {
+        if(n <= 0) return false;
+        while(n % 3 == 0) n /= 3;
+        return n == 1;
+    }
+}
+```
+
+### 乘积数组
+
+[238. Product of Array Except Self](https://leetcode-cn.com/problems/product-of-array-except-self/description/)
+
+要求时间复杂度为 O(N)，并且不能使用除法。
+
+解答：
+
+```java
+import java.util.Arrays;
+
+class Solution {
+    public int[] productExceptSelf(int[] nums) {
+        int n = nums.length;
+        int[] res = new int[n];
+        Arrays.fill(res, 1);
+        int left = 1;
+        for(int i = 1; i < n; ++i){
+            left *= nums[i-1];
+            res[i] *= left;
+        }
+        int right = 1;
+        for(int i = n - 2; i >= 0; --i){
+            right *= nums[i+1];
+            res[i] *= right;
+        }
+        return res;
+    }
+}
+```
+
+### 找出数组中的乘积最大的三个数
+
+[628. Maximum Product of Three Numbers](https://leetcode-cn.com/problems/maximum-product-of-three-numbers/description/)
+
+解答：
+
+```java
+import java.util.Arrays;
+
+class Solution {
+    public int maximumProduct(int[] nums) {
+        Arrays.sort(nums);
+        int n = nums.length;
+        if(n == 3 || nums[0] >= 0 || nums[1] >= 0 || nums[n-1] <= 0) return nums[n-1] * nums[n-2] * nums[n-3];
+        return Math.max(nums[0] * nums[1] * nums[n-1], nums[n-1] * nums[n-2] * nums[n-3]);
+    }
+}
+
+// 原理的很重要
+class Solution {
+    public int maximumProduct(int[] nums) {
+        int max1 = Integer.MIN_VALUE, max2 = Integer.MIN_VALUE, max3 = Integer.MIN_VALUE, min1 = Integer.MAX_VALUE, min2 = Integer.MAX_VALUE;
+        for (int n : nums) {
+            if (n > max1) {
+                max3 = max2;
+                max2 = max1;
+                max1 = n;
+            } else if (n > max2) {
+                max3 = max2;
+                max2 = n;
+            } else if (n > max3) {
+                max3 = n;
+            }
+
+            if (n < min1) {
+                min2 = min1;
+                min1 = n;
+            } else if (n < min2) {
+                min2 = n;
+            }
+        }
+        return Math.max(max1*max2*max3, max1*min1*min2);
+    }
+}
+```
+
