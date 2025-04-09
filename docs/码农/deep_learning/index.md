@@ -1,6 +1,8 @@
 # Deep Learning
 
 > 李宏毅 2021 学习笔记
+>
+> [PDF版](./book.pdf)
 
 - Regressiom
   - [Regression_P1](./01_Regression_P1.md)
