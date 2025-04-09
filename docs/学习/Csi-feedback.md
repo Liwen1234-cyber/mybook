@@ -848,14 +848,8 @@ agent3.model_save(model_path)
     Epoch: [39][100/200]	Loss 0.2031	
     NMSE 0.1949 ρ 0.894 time 0.560
 
-
-
-
 ![png](./images/main_11_1.png)
     
-
-
-
 
 ![png](./images/main_11_2.png)
     
@@ -867,9 +861,6 @@ agent3.model_save(model_path)
     Saving the entire model...
     Model saved to models/Csi_Net_model_128.pth
     Model saved!
-
-
-
 
 ![png](./images/main_11_4.png)
     
@@ -1098,14 +1089,8 @@ agent1.model_save(model_path)
     Epoch: [39][100/200]	Loss 0.3446	
     NMSE 0.3365 ρ 0.839 time 1.663
 
-
-
-
 ![png](./images/main_13_1.png)
     
-
-
-
 
 ![png](./images/main_13_2.png)
     
@@ -1117,9 +1102,6 @@ agent1.model_save(model_path)
     Saving the entire model...
     Model saved to models/Csi_Transformer_Net_model_128.pth
     Model saved!
-
-
-
 
 ![png](./images/main_13_4.png)
     
@@ -1352,14 +1334,8 @@ agent2.model_save(model_path)
     Epoch: [39][100/200]	Loss 0.3393	
     NMSE 0.3288 ρ 0.831 time 0.896
 
-
-
-
 ![png](./images/main_15_1.png)
     
-
-
-
 
 ![png](./images/main_15_2.png)
     
@@ -1370,9 +1346,6 @@ agent2.model_save(model_path)
     average time used is: 0.850273048877716
     [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39]
 
-
-
-
 ![png](./images/main_15_4.png)
     
 
@@ -1380,8 +1353,6 @@ agent2.model_save(model_path)
     Saving the entire model...
     Model saved to models/Csi_CNN_Transformer_Net_model_128.pth
     Model saved!
-
-
 
 ```python
 import matplotlib.pyplot as plt

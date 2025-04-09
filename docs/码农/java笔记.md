@@ -6,8 +6,6 @@
 - [Java 虚拟机](./计算机基础/Java%20虚拟机.md)
 - [Java I/O](./计算机基础/Java%20IO.md)
 
-
-
 ## List
 
 ```java
@@ -124,8 +122,6 @@ public class Main {
     }
 }
 
-
-
 //基于Supplier创建的Stream会不断调用Supplier.get()方法来不断产生下一个元素，这种Stream保存的不是元素，而是算法，它可以用来表示无限序列
 ```
 
@@ -143,8 +139,6 @@ public static void main(String[] args) {
 
 把数组变成Stream使用Arrays.stream()方法。对于Collection（List、Set、Queue等），直接调用stream()方法就可以获得Stream。
 上述创建Stream的方法都是把一个现有的序列变为Stream，它的元素是固定的。
-
-
 
 基于`Supplier`创建的`Stream`会不断调用`Supplier.get()`方法来不断产生下一个元素，这种`Stream`保存的不是元素，而是算法，它可以用来表示无限序列
 
@@ -189,8 +183,6 @@ Stream<Integer> s = Stream.of(1, 2, 3, 4, 5);
 Stream<Integer> s2 = s.map(n -> n * n);
 ```
 
-
-
 ## PriorityQueue
 
 ```java
@@ -214,8 +206,6 @@ PriorityQueue<Pair<Integer, Integer>> pq = new PriorityQueue<>(new MyComparator(
 
 ```
 
-
-
 ## 面试题
 
 **下面这串代码打印的结果是什么**
@@ -229,8 +219,6 @@ public class Test {
 ```
 
 事实上，`Double. MIN_VALUE` 和` Double. MAX_VALUE` 一样，都是正数，`Double. MIN_VALUE` 的值是 `2^(-1074)`，直接打印 `Double. MIN_VALUE` 的话，输出结果为 `4.9E-324`，因此这道题的正确答案是输出 `0.0`。
-
-
 
 ## 赋值 vs 浅拷贝 vs 深拷贝
 
@@ -252,8 +240,6 @@ public class Student {
     // ... 其他省略 ...
 }
 ```
-
-
 
 **对象赋值**
 
