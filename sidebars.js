@@ -99,6 +99,7 @@ module.exports = {
           'Mathematics.',
       },
       items: [
+        '数学/似然函数',
         '数学/LDA、PCA',
         '数学/奇异值分解',
         '数学/Latex常用数学符号',
@@ -160,6 +161,7 @@ module.exports = {
           'Coding.',
       },
       items: [
+        '码农/deep_learning/index',
         '码农/Wake-Up',
         '码农/java笔记',
         '码农/python笔记',
