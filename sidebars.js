@@ -14,7 +14,6 @@ module.exports = {
           'Sharing.',
       },
       items: [
-        '分享/共享文件',
         '分享/收藏',
         '分享/windows快捷键',
         '分享/让你吐槽不断的书',
