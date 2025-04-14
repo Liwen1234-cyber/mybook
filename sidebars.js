@@ -161,6 +161,7 @@ module.exports = {
       },
       items: [
         '码农/deep_learning/index',
+        '码农/题库/index',
         '码农/Wake-Up',
         '码农/java笔记',
         '码农/python笔记',
