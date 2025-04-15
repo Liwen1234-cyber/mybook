@@ -68,6 +68,8 @@ for (Map.Entry<String, Integer> entry : map.entrySet()) {
 }//同时遍历key和value
 ```
 
+
+
 ## Set
 
 ```java
@@ -179,9 +181,50 @@ LongStream ls = List.of("1", "2", "3").stream().mapToLong(Long::parseLong);
 所谓`map`操作，就是把一种操作运算，映射到一个序列的每一个元素上
 
 ```java
-Stream<Integer> s = Stream.of(1, 2, 3, 4, 5);
-Stream<Integer> s2 = s.map(n -> n * n);
+Stream<Integer> s = Stream.of(1, 2, 3, 4);
+Stream<Integer> s2 = s.map(i -> i * i);
+s2.forEach(System.out::println);
 ```
+
+如果我们查看`Stream`的源码，会发现`map()`方法接收的对象是`Function`接口对象，它定义了一个`apply()`方法，负责把一个`T`类型转换成`R`类型：
+
+```java
+<R> Stream<R> map(Function<? super T, ? extends R> mapper);
+```
+
+其中，`Function`的定义是：
+
+```java
+@FunctionalInterface
+public interface Function<T, R> {
+    // 将T类型转换为R:
+    R apply(T t);
+}
+```
+
+利用`map()`，不但能完成数学计算，对于字符串操作，以及任何Java对象都是非常有用的。例如：
+
+```java
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Stream;
+
+public class Main {
+    public static void main(String[] args) {
+
+        List<String> list = Arrays.asList("A", "T D", "Esa R", "I N G");
+
+        list.stream()
+        .map(String::trim)
+        .map(String::toLowerCase)
+        .forEach(System.out::println);
+
+    }
+}
+```
+
+
 
 ## PriorityQueue
 
