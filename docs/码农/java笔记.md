@@ -547,3 +547,56 @@ public class Test {
   - 使用Java 8及以上的Stream API初始化集合。
   - Java 9及以上使用`List.of()`, `Set.of()`等工厂方法。
   - 使用`Arrays.asList()`结合构造函数初始化集合。
+
+## Java String 占用内存大小分析
+
+一般而言，Java 对象在虚拟机的结构如下：
+
+- 对象头（object header）：8 个字节（保存对象的 class 信息、ID、在虚拟机中的状态）
+- Java 原始类型数据：如 int, float, char 等类型的数据
+- 引用（reference）：4 个字节
+- 填充符（padding）
+
+jdk 1.8中String对象的成员如下：
+
+```java
+/** The value is used for character storage. */
+private final char value[];
+
+/** Cache the hash code for the string */
+private int hash; // Default to 0
+
+/** use serialVersionUID from JDK 1.0.2 for interoperability */
+private static final long serialVersionUID = -6849794470754667710L;
+```
+
+
+在 Java 里数组也是对象，因而数组也有对象头，故一个数组所占的空间为对象头所占的空间加上数组长度加上数组的引用，即 8 + 4 + 4= 16 字节 。
+
+那么一个空 String 所占空间为：
+
+对象头（8 字节）+ 引用 (4 字节 )  + char 数组（16 字节）+ 1个 int（4字节）+ 1个long（8字节）= 40 字节。
+
+String占用内存计算公式：$40 + 2\times n$，n为字符串长度。
+
+因此在代码中大量使用String对象时，应考虑内存的实际占用情况。
+
+验证：
+
+```java
+@Test
+public void testHeap2() {
+    String[] strs = new String[4000000];
+    for (int i = 0; i < 4000000; i++) {
+        strs[i] = IdUtils.generateShortUUID();
+        System.out.println(i);
+    }
+    while(true){
+ 
+    }
+}
+```
+4,000,000条String，每条长度为32。
+
+若上述分析合理，则保存字符串需要消耗内存为(64 + 40) * 4000000 = 416M。
+
