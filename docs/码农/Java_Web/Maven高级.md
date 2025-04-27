@@ -16,7 +16,7 @@
 ## 1.1 分模块设计与开发
 
 将项目按照功能拆分成若干个子模块，方便项目的管理维护、扩展，也方便模块间的相互调用，资源共享。
-<img src="./Maven高级.assets/image-20231107120904121.png" alt="image-20231107120904121" style="zoom: 67%;" />
+<img src="./images/image-20231107120904121.png" alt="image-20231107120904121" style="zoom: 67%;" />
 
 ### 1.1.1 分模块开发
 
@@ -37,7 +37,7 @@
 
 - 实现：`<parent> … </parent>`
 
-<img src="./Maven高级.assets/image-20231107140524899.png" alt="image-20231107140524899" style="zoom:67%;" />
+<img src="./images/image-20231107140524899.png" alt="image-20231107140524899" style="zoom:67%;" />
 
 1. 打包方式
 
@@ -85,7 +85,7 @@
 
 - 自定义属性/引用属性
 
-  ![image-20231107142245493](./Maven高级.assets/image-20231107142245493.png)
+  ![image-20231107142245493](./images/image-20231107142245493.png)
 
 - `<dependencyManagement>` 与 `<dependencies>` 的区别是什么?
 
@@ -140,7 +140,7 @@
 
 - 私服是一种特殊的远程仓库，它是架设在局域网内的仓库服务，用来代理位于外部的中央仓库，用于解决团队内部的资源共享与资源同步问题。
 
-<img src="./Maven高级.assets/image-20231107143838466.png" alt="image-20231107143838466" style="zoom:67%;" />
+<img src="./images/image-20231107143838466.png" alt="image-20231107143838466" style="zoom:67%;" />
 
 - 依赖查找顺序：
 
@@ -154,7 +154,7 @@
 
 ### 1.3.2 资源上传与下载
 
-<img src="./Maven高级.assets/image-20231107144057180.png" alt="image-20231107144057180" style="zoom: 80%;" />
+<img src="./images/image-20231107144057180.png" alt="image-20231107144057180" style="zoom: 80%;" />
 
 项目版本：
 
