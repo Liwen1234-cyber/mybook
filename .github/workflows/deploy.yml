@@ -56,6 +56,8 @@ jobs:
           # 指定push的分支
           publish_branch: main
           # push 的目录
-          publish_dir: build
+          publish_dir: ./build
           # 是否只保留最新的提交记录
           force_orphan: true
+          user_name: LiWen
+          user_email: 175311843+Liwen1234-cyber@users.noreply.github.com
