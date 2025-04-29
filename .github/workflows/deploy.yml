@@ -50,24 +50,24 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           persist-credentials: true
-          # # Personal Access Token 下面讲 
-          # personal_token: ${{ secrets.PUBLISH_BLOG }}
-          # # 指定push的仓库  
-          # external_repository: Liwen1234-cyber/mywebsite
-          # # 指定push的分支
-          # publish_branch: main
-          # # push 的目录
-          # publish_dir: ./build
-          # # 是否只保留最新的提交记录
-          # force_orphan: true
-          # user_name: LiWen
-          # user_email: 175311843+Liwen1234-cyber@users.noreply.github.com
+          # Personal Access Token 下面讲 
+          personal_token: ${{ secrets.PUBLISH_BLOG }}
+          # 指定push的仓库  
+          external_repository: Liwen1234-cyber/mywebsite
+          # 指定push的分支
+          publish_branch: main
+          # push 的目录
+          publish_dir: ./build
+          # 是否只保留最新的提交记录
+          force_orphan: true
+          user_name: LiWen
+          user_email: 175311843+Liwen1234-cyber@users.noreply.github.com
 
-        run: |
-          echo "doc.minddiy.top" > CNAME
-          git init
-          git checkout -b gh-pages
-          git add -A
-          git -c user.name='LiWen' -c user.email='175311843+Liwen1234-cyber@users.noreply.github.com' commit -m 'new' 
-          git remote add origin https://${{secrets.PUBLISH_BLOG}}@github.com/Liwen1234-cyber/mywebsite.git
-          git push origin gh-pages -f -q
+        # run: |
+        #   echo "doc.minddiy.top" > CNAME
+        #   git init
+        #   git checkout -b gh-pages
+        #   git add -A
+        #   git -c user.name='LiWen' -c user.email='175311843+Liwen1234-cyber@users.noreply.github.com' commit -m 'new' 
+        #   git remote add origin https://${{secrets.PUBLISH_BLOG}}@github.com/Liwen1234-cyber/mywebsite.git
+        #   git push origin gh-pages -f -q
