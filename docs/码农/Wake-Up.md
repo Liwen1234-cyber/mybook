@@ -14,7 +14,7 @@
 
 - [Linux基础](./计算机基础/Linux.md)
 
-## 🌠java web开发
+## 🌠Java Web开发
 
 - [Java_Web笔记](./Java_Web/index.md)
 
