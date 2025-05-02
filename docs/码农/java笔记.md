@@ -98,9 +98,9 @@ Arrays.sort(array, (s1, s2) -> {
 //直接传入方法引用
 public class Main {
     public static void main(String[] args) {
- String[] array = new String[] { "Apple", "Orange", "Banana", "Lemon" };
- Arrays.sort(array, Main::cmp);
- System.out.println(String.join(", ", array));
+        String[] array = new String[] { "Apple", "Orange", "Banana", "Lemon" };
+        Arrays.sort(array, Main::cmp);
+        System.out.println(String.join(", ", array));
     }
 
     static int cmp(String s1, String s2) {
