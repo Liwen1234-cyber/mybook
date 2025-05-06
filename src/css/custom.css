@@ -69,3 +69,33 @@ h4 {
 .icon-button:hover {
   color: #888;
 }
+
+/* Math formula styles */
+.katex {
+  font-size: 1.1em !important;
+}
+
+.katex-display {
+  overflow-x: auto;
+  overflow-y: hidden;
+  -webkit-overflow-scrolling: touch;
+  padding: 0.5rem 0;
+}
+
+.katex-display > .katex {
+  white-space: nowrap;
+}
+
+/* Image center styles */
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+figure img {
+  display: block;
+  margin: 0 auto;
+}
