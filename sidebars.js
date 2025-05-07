@@ -141,6 +141,7 @@ module.exports = {
       },
       items: [
         '周报/index',
+        '学习/华为杯笔记',
         '学习/DOA估计',
         '学习/克拉美-罗界',
         '学习/Csi-feedback',
