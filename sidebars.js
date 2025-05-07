@@ -10,8 +10,7 @@ module.exports = {
         type: 'generated-index',
         slug: '/分享',
         title: 'Sharing',
-        description:
-          'Sharing.',
+        description: 'Sharing.',
       },
       items: [
         '分享/收藏',
@@ -44,8 +43,7 @@ module.exports = {
         type: 'generated-index',
         slug: '/读书笔记',
         title: '读书笔记',
-        description:
-          'Reading notes.',
+        description: 'Reading notes.',
       },
       items: [
         '读书笔记/西方现代思想讲义',
@@ -70,8 +68,7 @@ module.exports = {
         type: 'generated-index',
         slug: '/技巧',
         title: '技巧',
-        description:
-          'Tips.',
+        description: 'Tips.',
       },
       items: [
         '技巧/域名注册解析',
@@ -94,8 +91,7 @@ module.exports = {
         type: 'generated-index',
         slug: '/数学',
         title: '数学',
-        description:
-          'Mathematics.',
+        description: 'Mathematics.',
       },
       items: [
         '数学/似然函数',
@@ -116,8 +112,7 @@ module.exports = {
         type: 'generated-index',
         slug: '/思考',
         title: '思考',
-        description:
-          'Thinking.',
+        description: 'Thinking.',
       },
       items: [
         '思考/如何选择',
@@ -136,8 +131,7 @@ module.exports = {
         type: 'generated-index',
         slug: '/学习',
         title: '学习',
-        description:
-          'Learning.',
+        description: 'Learning.',
       },
       items: [
         '周报/index',
@@ -160,8 +154,7 @@ module.exports = {
         type: 'generated-index',
         slug: '/码农',
         title: '码农',
-        description:
-          'Coding.',
+        description: 'Coding.',
       },
       items: [
         '码农/Wake-Up',
@@ -183,12 +176,9 @@ module.exports = {
         type: 'generated-index',
         slug: '/毛选',
         title: '毛选',
-        description:
-          'Selection.',
+        description: 'Selection.',
       },
-      items: [
-        '毛选/目录',
-      ],
+      items: ['毛选/目录'],
     },
     {
       type: 'category',
@@ -199,8 +189,7 @@ module.exports = {
         type: 'generated-index',
         slug: '/左耳听风',
         title: '左耳听风',
-        description:
-          'Left ear hearing.',
+        description: 'Left ear hearing.',
       },
       items: [
         '左耳听风/程序员如何用技术变现（上）-01',
