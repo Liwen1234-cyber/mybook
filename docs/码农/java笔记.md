@@ -400,15 +400,140 @@ Lambda 表达式是 Java 8 引入的特性，使得可以使用更简洁的语�
 
 ```java
 List<String> list = Arrays.asList("a", "b", "c");
-list.forEach(s -> System.out.println(s));
+list.forEach(s -> {
+    System.out.println(s)
+});
 ```
 
-### 方法引用
+#### 方法引用
 
 方法引用（Method References）是 Lambda 表达式的一种简写形式，用于直接引用已有的方法。
 
 ```java
-list.forEach(System.out::println);
+// Traditional Lambda expression
+List<String> names = Arrays.asList("John", "Jane", "Bob");
+names.forEach(name -> System.out.println(name));
+
+// Using method reference (more elegant)
+names.forEach(System.out::println);
+
+// Example with constructor reference
+List<Integer> numbers = Arrays.asList(1, 2, 3);
+List<String> stringNumbers = numbers.stream()
+    .map(String::valueOf)  // Constructor reference
+    .collect(Collectors.toList());
+
+// Instance method reference
+String prefix = "User_";
+List<String> userNames = names.stream()
+    .map(prefix::concat)   // Instance method reference
+    .collect(Collectors.toList());
+```
+
+#### 用Lambda组合函数
+```java
+public class FunctionComposition {
+    public static void main(String[] args) {
+        Function<Integer, Integer> multiply = x -> x * 2;
+        Function<Integer, Integer> add = x -> x + 3;
+
+        // Using andThen (first multiply, then add)
+        Function<Integer, Integer> multiplyThenAdd = multiply.andThen(add);
+        System.out.println(multiplyThenAdd.apply(5)); // Output: 13
+
+        // Using compose (first add, then multiply)
+        Function<Integer, Integer> addThenMultiply = multiply.compose(add);
+        System.out.println(addThenMultiply.apply(5)); // Output: 16
+    }
+}
+```
+
+#### Effictive use of Predicate Chaining
+
+```java
+public class PredicateChaining {
+    public static void main(String[] args) {
+        List<Person> people = Arrays.asList(
+            new Person("John", 25, "USA"),
+            new Person("Alice", 30, "UK"),
+            new Person("Bob", 20, "USA")
+        );
+
+        Predicate<Person> isAdult = person -> person.getAge() >= 18;
+        Predicate<Person> isFromUSA = person -> "USA".equals(person.getCountry());
+        Predicate<Person> isNameStartsWithJ = person -> person.getName().startsWith("J");
+
+        // Combining predicates
+        Predicate<Person> isAdultFromUSAWithJName = isAdult
+            .and(isFromUSA)
+            .and(isNameStartsWithJ);
+
+        List<Person> filtered = people.stream()
+            .filter(isAdultFromUSAWithJName)
+            .collect(Collectors.toList());
+    }
+}
+
+class Person {
+    private String name;
+    private int age;
+    private String country;
+
+    // Constructor and getters
+}
+```
+
+#### OptionalWithLambda
+
+```java
+public class OptionalWithLambda {
+    public static void main(String[] args) {
+        Map<String, String> settings = new HashMap<>();
+        settings.put("theme", "dark");
+
+        // Using Optional with Lambda
+        String theme = Optional.ofNullable(settings.get("theme"))
+            .map(String::toUpperCase)
+            .orElseGet(() -> {
+                // Complex default value logic
+                return "DEFAULT_THEME";
+            });
+
+        // Handling multiple operations
+        Optional.ofNullable(settings.get("font"))
+            .ifPresentOrElse(
+                font -> System.out.println("Found font: " + font),
+                () -> System.out.println("No font specified")
+            );
+    }
+}
+```
+
+#### 自定义接口方法
+
+```java
+@FunctionalInterface
+interface TriFunction<T, U, V, R> {
+    R apply(T t, U u, V v);
+}
+
+public class CustomFunctionalInterface {
+    public static void main(String[] args) {
+        // Using custom TriFunction
+        TriFunction<String, String, String, String> concat = 
+            (a, b, c) -> a + b + c;
+        
+        String result = concat.apply("Hello", " ", "World");
+        System.out.println(result); // Output: Hello World
+
+        // More practical example
+        TriFunction<Double, Double, Double, Double> calculateVolume = 
+            (length, width, height) -> length * width * height;
+        
+        Double volume = calculateVolume.apply(2.0, 3.0, 4.0);
+        System.out.println("Volume: " + volume); // Output: Volume: 24.0
+    }
+}
 ```
 
 ### Switch 表达式
