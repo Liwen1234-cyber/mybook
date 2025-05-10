@@ -5,6 +5,7 @@ on:
     workflows: ["blog-post-workflow"] # 替换为你想监听的工作流名称
     types:
       - completed
+
 # on:
 #   push:
 #     branches:
