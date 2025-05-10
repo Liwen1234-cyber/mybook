@@ -2,9 +2,8 @@ name: Deploy to GitHub Pages
 
 on:
   workflow_run:
-    workflows: ["blog-post-workflow"] # 替换为你想监听的工作流名称
-    types:
-      - completed
+    workflows: ["blog-post-workflow"]  # 确保名称完全匹配
+    types: [completed]
 
 # on:
 #   push:

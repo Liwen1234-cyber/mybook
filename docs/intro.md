@@ -9,7 +9,7 @@ slug: /
 
 [![](/img/qianduan-b6d3ccb4-bd13-447e-b88d-f0016b57da49.png)](./分享/好玩的网站、工具)
 
-## Latest Li's YOUTUBE VIDEOS
+## 📹Latest Li's YOUTUBE VIDEOS
 <!-- YOUTUBE:START -->
 - [普京红场阅兵演讲：真理和正义都在我们这边；彭博社认为中国政府促进婚育政策已经失败；中国对俄游戏手柄出口激增，被怀疑用于操控军用无人机【雪花每日新闻】](https://www.youtube.com/watch?v=lv3vmtwulHY)
 - [新教皇利奥十四世首次演讲：愿和平与你同在【雪花快报】](https://www.youtube.com/watch?v=-MJqhbph0bQ)
