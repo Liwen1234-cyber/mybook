@@ -59,6 +59,16 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
+        blog: {
+          feedOptions: {
+            type: 'all', // 生成 RSS、Atom、JSON 三种格式
+            title: 'Coisini',
+            description: 'Developing with Coisini',
+            copyright: `Copyright © ${new Date().getFullYear()} LiWen`,
+            language: 'zh-CN',
+            limit: 20, // 可选：订阅中包含的文章数量
+          },
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
