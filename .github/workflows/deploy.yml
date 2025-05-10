@@ -1,22 +1,25 @@
 name: Deploy to GitHub Pages
 
-on:
-  workflow_run:
-    workflows: ["blog-post-workflow"] # 替换为你想监听的工作流名称
-    types:
-      - completed
-
 # on:
-#   push:
-#     branches:
-#       - main
-#     # Review gh actions docs if you want to further define triggers, paths, etc
-#     # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
+#   workflow_run:
+#     workflows: ["blog-post-workflow"] # 替换为你想监听的工作流名称
+#     types:
+#       - completed
+
+on:
+  push:
+    branches:
+      - main
+    # Review gh actions docs if you want to further define triggers, paths, etc
+    # https://docs.github.com/en/actions/using-workflows/workflow-syntax-for-github-actions#on
 
 permissions:
   contents: write
 
 jobs:
+  call-other-workflow:
+    uses: ./.github/workflows/blog-post-workflow.yml
+
   deploy:
     name: Deploy to GitHub Pages
     runs-on: ubuntu-latest
