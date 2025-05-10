@@ -20,4 +20,3 @@ jobs:
           feed_list: "https://onojyun.com/feed/"
           readme_path: "./docs/intro.md"
           max_post_count: 10
-          template: $date
