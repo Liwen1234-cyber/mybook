@@ -10,6 +10,9 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write # To write the generated contents to the readme
+
 jobs:
   build:
 
