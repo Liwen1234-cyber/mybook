@@ -10,28 +10,7 @@ slug: /
 [![](/img/68747470733a2f2f692e696d6775722e636f6d2f5a64686174626a2e6a7067.jpg)](./分享/好玩的网站、工具)
 
 ## 🎯Latest ARTICLES
-<!-- BLOG:START -->
-- [A tool to verify estimates, II: a flexible proof assistant](https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/)
-- [刻板偏见诞生路径](https://onojyun.com/2025/05/09/%e5%88%bb%e6%9d%bf%e5%81%8f%e8%a7%81%e8%af%9e%e7%94%9f%e8%b7%af%e5%be%84/)
-- [关系是如何被精准爆破的？](https://onojyun.com/2025/05/08/%e5%85%b3%e7%b3%bb%e6%98%af%e5%a6%82%e4%bd%95%e8%a2%ab%e7%b2%be%e5%87%86%e7%88%86%e7%a0%b4%e7%9a%84%ef%bc%9f/)
-- [午夜白日梦](https://onojyun.com/2025/05/07/%e5%8d%88%e5%a4%9c%e7%99%bd%e6%97%a5%e6%a2%a6/)
-- [代际雌竞下的替罪羔羊](https://onojyun.com/2025/05/06/%e4%bb%a3%e9%99%85%e9%9b%8c%e7%ab%9e%e4%b8%8b%e7%9a%84%e6%9b%bf%e7%bd%aa%e7%be%94%e7%be%8a/)
-- [社区蟑螂杀虫剂](https://onojyun.com/2025/05/05/%e7%a4%be%e5%8c%ba%e8%9f%91%e8%9e%82%e6%9d%80%e8%99%ab%e5%89%82/)
-- [Orders of infinity](https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/)
-- [A proof of concept tool to verify estimates](https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/)
-- [骂人骂七寸](https://onojyun.com/2025/04/30/%e9%aa%82%e4%ba%ba%e9%aa%82%e4%b8%83%e5%af%b8/)
-- [注定的忒修斯](https://onojyun.com/2025/04/29/%e6%b3%a8%e5%ae%9a%e7%9a%84%e5%bf%92%e4%bf%ae%e6%96%af/)
-- [善良的代价](https://onojyun.com/2025/04/28/%e5%96%84%e8%89%af%e7%9a%84%e4%bb%a3%e4%bb%b7/)
-- [社区蟑螂理论](https://onojyun.com/2025/04/27/%e7%a4%be%e5%8c%ba%e8%9f%91%e8%9e%82%e7%90%86%e8%ae%ba/)
-- [没必要社交](https://onojyun.com/2025/04/26/%e6%b2%a1%e5%bf%85%e8%a6%81%e7%a4%be%e4%ba%a4/)
-- [Stonean spaces, projective objects, the Riesz representation theorem, and &lpar;possibly&rpar; condensed mathematics](https://terrytao.wordpress.com/2025/04/23/stonean-spaces-projective-objects-the-riesz-representation-theorem-and-possibly-condensed-mathematics/)
-- [A suspicious conference](https://terrytao.wordpress.com/2025/04/17/a-suspicious-conference/)
-- [Decomposing a factorial into large factors](https://terrytao.wordpress.com/2025/03/26/decomposing-a-factorial-into-large-factors/)
-- [The three-dimensional Kakeya conjecture, after Wang and Zahl](https://terrytao.wordpress.com/2025/02/25/the-three-dimensional-kakeya-conjecture-after-wang-and-zahl/)
-- [Closing the “green gap”: from the mathematics of the landscape function to lower electricity costs for households](https://terrytao.wordpress.com/2025/02/23/closing-the-green-gap-from-the-mathematics-of-the-landscape-function-to-lower-electricity-costs-for-households/)
-- [Cosmic Distance Ladder videos with Grant Sanderson &lpar;3blue1brown&rpar;: commentary and corrections](https://terrytao.wordpress.com/2025/02/13/cosmic-distance-ladder-video-with-grant-sanderson-3blue1brown-commentary-and-corrections/)
-- [New exponent pairs, zero density estimates, and zero additive energy estimates: a systematic approach](https://terrytao.wordpress.com/2025/01/28/new-exponent-pairs-zero-density-estimates-and-zero-additive-energy-estimates-a-systematic-approach/)
-<!-- BLOG:END -->
+<!-- BLOG:START --><tr><td>A tool to verify estimates, II: a flexible proof assistant</td><td>https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/</td></tr><tr><td>刻板偏见诞生路径</td><td>https://onojyun.com/2025/05/09/%e5%88%bb%e6%9d%bf%e5%81%8f%e8%a7%81%e8%af%9e%e7%94%9f%e8%b7%af%e5%be%84/</td></tr><tr><td>科技爱好者周刊（第 347 期）：冷启动的破解之道</td><td>http://www.ruanyifeng.com/blog/2025/05/weekly-issue-347.html</td></tr><tr><td>关系是如何被精准爆破的？</td><td>https://onojyun.com/2025/05/08/%e5%85%b3%e7%b3%bb%e6%98%af%e5%a6%82%e4%bd%95%e8%a2%ab%e7%b2%be%e5%87%86%e7%88%86%e7%a0%b4%e7%9a%84%ef%bc%9f/</td></tr><tr><td>午夜白日梦</td><td>https://onojyun.com/2025/05/07/%e5%8d%88%e5%a4%9c%e7%99%bd%e6%97%a5%e6%a2%a6/</td></tr><!-- BLOG:END -->
 
 ## 📹Latest VIDEOS
 <!-- YOUTUBE:START -->
