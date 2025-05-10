@@ -17,6 +17,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: "YOUTUBE"
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCrMjr7dY8syS_m9TdqM-g_Q"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCrMjr7dY8syS_m9TdqM-g_Q,https://rrorangeandfriends.site/feed.xml"
           readme_path: "./docs/intro.md"
           max_post_count: 5
+          template: $date
