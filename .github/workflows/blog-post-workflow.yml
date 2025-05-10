@@ -17,6 +17,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "BLOG"
-          feed_list: "https://onojyun.com/feed/"
+          feed_list: "https://onojyun.com/feed/,https://terrytao.wordpress.com/feed/,https://www.ruanyifeng.com/blog/atom.xml"
           readme_path: "./docs/intro.md"
-          max_post_count: 10
+          max_post_count: 20
