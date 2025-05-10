@@ -46,10 +46,6 @@ slug: /
 
 ### All language
 
-* 【2025-05-10】[longbridge / gpui-component](https://github.com/longbridge/gpui-component) - UI components for building fantastic desktop application by using GPUI.
-* 【2025-05-10】[element-plus / element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
-* 【2025-05-10】[mason-org / mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
-* 【2025-05-08】[voideditor / void](https://github.com/voideditor/void) - 
 * 【2025-05-08】[evroon / bracket](https://github.com/evroon/bracket) - Selfhosted tournament system
 * 【2025-05-08】[beekeeper-studio / beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 * 【2025-05-07】[awslabs / agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
