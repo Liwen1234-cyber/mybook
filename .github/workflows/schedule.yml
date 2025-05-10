@@ -2,13 +2,13 @@
 
 name: Daily Github Trending
 
-# on:
-#   schedule:
-#     - cron: "45 0 * * *"
 on:
-  push:
-    branches:
-      - main
+  schedule:
+    - cron: "45 0 * * *"
+# on:
+#   push:
+#     branches:
+#       - main
 
 permissions:
   contents: write # To write the generated contents to the readme
