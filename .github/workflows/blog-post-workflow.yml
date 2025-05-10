@@ -20,14 +20,3 @@ jobs:
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCrMjr7dY8syS_m9TdqM-g_Q"
           readme_path: "./docs/intro.md"
           max_post_count: 10
-      
-      - name: Trigger deploy workflow
-        uses: actions/github-script@v6
-        with:
-          script: |
-            await github.rest.actions.createWorkflowDispatch({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              workflow_id: 'deploy.yml',
-              ref: 'main',
-            });
