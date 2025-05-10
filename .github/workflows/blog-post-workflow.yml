@@ -1,0 +1,32 @@
+name: Latest YouTube Videos
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
+
+jobs:
+  update-readme-with-youtube:
+    name: Update this repo's README with latest videos from YouTube
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCrMjr7dY8syS_m9TdqM-g_Q"
+          readme_path: "README.md"
+      
+      - name: Trigger deploy workflow
+        uses: actions/github-script@v6
+        with:
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'deploy.yml',
+              ref: 'main',
+            });
