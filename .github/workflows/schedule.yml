@@ -41,3 +41,15 @@ jobs:
       run: |
         git diff --exit-code || echo "::set-output name=changed::true"
       continue-on-error: true
+
+    # Runs a set of commands using the runners shell
+    - name: Push to origin main
+      if: steps.git-status.outputs.changed == 'true'
+      run: |
+        echo start push
+        git config --global user.name "LiWen"
+        git config --global user.email "175311843+Liwen1234-cyber@users.noreply.github.com"
+        
+        git add -A
+        git commit -m $(date '+%Y-%m-%d')
+        git push
