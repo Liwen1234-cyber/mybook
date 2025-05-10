@@ -21,9 +21,6 @@ slug: /
 - [习近平称二战确立台湾属于中国，台湾回应：属于中华民国；赖清德纪念欧战胜利，称应捍卫民主反对绥靖；美国人当选新教皇，称利奥十四世【雪花每日新闻】](https://www.youtube.com/watch?v=7OAFSN6uYKA)
 - [无惧风险，习近平开启对俄国事访问；中国唯一反思文革纪念场所“塔园”已被清除【雪花每日新闻】](https://www.youtube.com/watch?v=2iUB-bsdrfw)
 - [湖南大学教授论证马克思祖先来自于中国；胡锡进批山东滕州政府隐瞒恶性交通事故；宁波保时捷车主撞人后无视伤员换车牌，被人质疑家庭背景【雪花每日新闻】](https://www.youtube.com/watch?v=-k9hsQNbl-k)
-<<<<<<< HEAD
-<!-- YOUTUBE:END -->
-=======
 <!-- YOUTUBE:END -->
 
 ### 🎯Latest ARTICLES
@@ -39,4 +36,3 @@ slug: /
 - [社区蟑螂理论](https://onojyun.com/2025/04/27/%e7%a4%be%e5%8c%ba%e8%9f%91%e8%9e%82%e7%90%86%e8%ae%ba/)
 - [没必要社交](https://onojyun.com/2025/04/26/%e6%b2%a1%e5%bf%85%e8%a6%81%e7%a4%be%e4%ba%a4/)
 <!-- BLOG:END -->
->>>>>>> 5b595bac2c92c2a5332447f18676c3c20861b7db
