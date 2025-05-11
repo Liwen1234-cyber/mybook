@@ -15,6 +15,8 @@ module.exports = {
   deploymentBranch: 'gh-pages', // 部署的分支，默认 gh-pages
   projectName: 'mybook',
   trailingSlash: true,
+  onBrokenLinks: 'warn',
+  onBrokenMarkdownLinks: 'warn',
   markdown: {
     format: 'detect',
     mermaid: true,
