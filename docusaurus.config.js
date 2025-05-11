@@ -6,7 +6,7 @@ import rehypeKatex from 'rehype-katex';
 module.exports = {
   title: 'Coisini',
   tagline: 'Developing with Coisini',
-  url: 'https://doc.middiy.top',
+  url: 'https://doc.minddiy.top',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'throw',
