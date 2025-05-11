@@ -11,7 +11,16 @@ slug: /
 
 ## 🎯Latest ARTICLES
 <!-- BLOG:START -->
-<tr><td>A tool to verify estimates, II: a flexible proof assistant</td><td>https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/</td></tr><tr><td>刻板偏见诞生路径</td><td>https://onojyun.com/2025/05/09/%e5%88%bb%e6%9d%bf%e5%81%8f%e8%a7%81%e8%af%9e%e7%94%9f%e8%b7%af%e5%be%84/</td></tr><tr><td>科技爱好者周刊（第 347 期）：冷启动的破解之道</td><td>http://www.ruanyifeng.com/blog/2025/05/weekly-issue-347.html</td></tr><tr><td>关系是如何被精准爆破的？</td><td>https://onojyun.com/2025/05/08/%e5%85%b3%e7%b3%bb%e6%98%af%e5%a6%82%e4%bd%95%e8%a2%ab%e7%b2%be%e5%87%86%e7%88%86%e7%a0%b4%e7%9a%84%ef%bc%9f/</td></tr><tr><td>午夜白日梦</td><td>https://onojyun.com/2025/05/07/%e5%8d%88%e5%a4%9c%e7%99%bd%e6%97%a5%e6%a2%a6/</td></tr>
+- [A tool to verify estimates, II: a flexible proof assistant](https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/)
+- [刻板偏见诞生路径](https://onojyun.com/2025/05/09/%e5%88%bb%e6%9d%bf%e5%81%8f%e8%a7%81%e8%af%9e%e7%94%9f%e8%b7%af%e5%be%84/)
+- [科技爱好者周刊（第 347 期）：冷启动的破解之道](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-347.html)
+- [关系是如何被精准爆破的？](https://onojyun.com/2025/05/08/%e5%85%b3%e7%b3%bb%e6%98%af%e5%a6%82%e4%bd%95%e8%a2%ab%e7%b2%be%e5%87%86%e7%88%86%e7%a0%b4%e7%9a%84%ef%bc%9f/)
+- [午夜白日梦](https://onojyun.com/2025/05/07/%e5%8d%88%e5%a4%9c%e7%99%bd%e6%97%a5%e6%a2%a6/)
+- [代际雌竞下的替罪羔羊](https://onojyun.com/2025/05/06/%e4%bb%a3%e9%99%85%e9%9b%8c%e7%ab%9e%e4%b8%8b%e7%9a%84%e6%9b%bf%e7%bd%aa%e7%be%94%e7%be%8a/)
+- [社区蟑螂杀虫剂](https://onojyun.com/2025/05/05/%e7%a4%be%e5%8c%ba%e8%9f%91%e8%9e%82%e6%9d%80%e8%99%ab%e5%89%82/)
+- [Orders of infinity](https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/)
+- [A proof of concept tool to verify estimates](https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/)
+- [谷歌的 NotebookLM 能生成中文播客了](http://www.ruanyifeng.com/blog/2025/05/notebooklm.html)
 <!-- BLOG:END -->
 
 ## 📹Latest VIDEOS
