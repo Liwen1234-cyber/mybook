@@ -19,4 +19,3 @@ jobs:
           comment_tag_name: "BLOG"
           feed_list: "https://onojyun.com/feed/,https://terrytao.wordpress.com/feed/,http://feeds.feedburner.com/ruanyifeng/"
           readme_path: "./docs/intro.md"
-          template: "<tr><td>$title</td><td>$url</td></tr>"
