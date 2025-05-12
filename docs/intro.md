@@ -26,7 +26,7 @@ slug: /
 ## 📹Latest VIDEOS
 <table style="width:100%; border-collapse: collapse;">
   <thead>
-    <tr style="background-color: #f5f5f5;">
+    <tr>
       <th style="padding: 8px; text-align: center; border-bottom: 1px solid #ddd;">封面</th>
       <th style="padding: 8px; text-align: center; border-bottom: 1px solid #ddd;">标题</th>
       <th style="padding: 8px; text-align: center; border-bottom: 1px solid #ddd;">发布时间</th>
@@ -63,8 +63,7 @@ slug: /
 <td>May 3, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=p9OJzHeWXts"><img width="200px" src="http://img.youtube.com/vi/p9OJzHeWXts/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=p9OJzHeWXts">福州发生汽车撞人事件，官方称系司机操作不当；离婚跑断腿，多地惊现黄牛加价抢离婚号；美国中情局发视频劝中国官员投诚【雪花每日新闻】</a></td>
-<td>May 2, 2025</td></tr>
-<!-- YOUTUBE:END -->
+<td>May 2, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
