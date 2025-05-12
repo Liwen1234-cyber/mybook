@@ -24,6 +24,7 @@ slug: /
 <!-- BLOG:END -->
 
 ## 📹Latest VIDEOS
+<table>
 <!-- YOUTUBE:START -->
 <table><tr><td><a href="https://www.youtube.com/watch?v=lv3vmtwulHY"><img width="140px" src="http://img.youtube.com/vi/lv3vmtwulHY/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lv3vmtwulHY">普京红场阅兵演讲：真理和正义都在我们这边；彭博社认为中国政府促进婚育政策已经失败；中国对俄游戏手柄出口激增，被怀疑用于操控军用无人机【雪花每日新闻】</a><br/>May 9, 2025</td></tr></table>
@@ -40,6 +41,7 @@ slug: /
 <table><tr><td><a href="https://www.youtube.com/watch?v=-k9hsQNbl-k"><img width="140px" src="http://img.youtube.com/vi/-k9hsQNbl-k/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-k9hsQNbl-k">湖南大学教授论证马克思祖先来自于中国；胡锡进批山东滕州政府隐瞒恶性交通事故；宁波保时捷车主撞人后无视伤员换车牌，被人质疑家庭背景【雪花每日新闻】</a><br/>May 6, 2025</td></tr></table>
 <!-- YOUTUBE:END -->
+</table>
 
 ## GitHub Trending
 ### All language
