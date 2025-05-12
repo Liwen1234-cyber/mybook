@@ -34,7 +34,8 @@ slug: /
   </thead>
   <tbody>
     
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=lv3vmtwulHY"><img width="200px" src="http://img.youtube.com/vi/lv3vmtwulHY/maxresdefault.jpg"></a></td>
+<!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=lv3vmtwulHY"><img width="200px" src="http://img.youtube.com/vi/lv3vmtwulHY/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lv3vmtwulHY">普京红场阅兵演讲：真理和正义都在我们这边；彭博社认为中国政府促进婚育政策已经失败；中国对俄游戏手柄出口激增，被怀疑用于操控军用无人机【雪花每日新闻】</a></td>
 <td>May 9, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=-MJqhbph0bQ"><img width="200px" src="http://img.youtube.com/vi/-MJqhbph0bQ/maxresdefault.jpg"></a></td>
