@@ -22,6 +22,6 @@ jobs:
           readme_path: "./docs/intro.md"
           custom_tags: "channelId/yt:channelId/,videoId/yt:videoId/"
           date_format: "mmm d, yyyy"
-          template: '<tr><td><a href="$url"><img width="200px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>$newline<td><a href="$url">$title</a><br/>$date</td></tr>$newline'
+          template: '<tr><td><a href="$url"><img width="200px" src="http://img.youtube.com/vi/$videoId/maxresdefault.jpg"></a></td>$newline<td><a href="$url">$title</a></td>$newline<td>$date</td></tr>$newline'
           max_post_count: 10
           
