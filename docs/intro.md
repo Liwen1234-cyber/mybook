@@ -11,6 +11,7 @@ slug: /
 
 ## 🎯Latest ARTICLES
 <!-- BLOG:START -->
+- [城市的幕布](https://onojyun.com/2025/05/12/%e5%9f%8e%e5%b8%82%e7%9a%84%e5%b9%95%e5%b8%83/)
 - [A tool to verify estimates, II: a flexible proof assistant](https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/)
 - [刻板偏见诞生路径](https://onojyun.com/2025/05/09/%e5%88%bb%e6%9d%bf%e5%81%8f%e8%a7%81%e8%af%9e%e7%94%9f%e8%b7%af%e5%be%84/)
 - [科技爱好者周刊（第 347 期）：冷启动的破解之道](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-347.html)
@@ -20,7 +21,6 @@ slug: /
 - [社区蟑螂杀虫剂](https://onojyun.com/2025/05/05/%e7%a4%be%e5%8c%ba%e8%9f%91%e8%9e%82%e6%9d%80%e8%99%ab%e5%89%82/)
 - [Orders of infinity](https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/)
 - [A proof of concept tool to verify estimates](https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/)
-- [谷歌的 NotebookLM 能生成中文播客了](http://www.ruanyifeng.com/blog/2025/05/notebooklm.html)
 <!-- BLOG:END -->
 
 ## 📹Latest VIDEOS
