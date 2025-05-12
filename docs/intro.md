@@ -11,37 +11,36 @@ slug: /
 
 ## 🎯Latest ARTICLES
 <!-- BLOG:START -->
-- [浙江人，读叔本华吧！](https://stephenleng.com/cn/zhejiang-people-read-schopenhauer/?utm_source=rss&utm_medium=rss&utm_campaign=zhejiang-people-read-schopenhauer)
-- [死猫闭环](https://onojyun.com/2025/05/12/%e6%ad%bb%e7%8c%ab%e9%97%ad%e7%8e%af/)
-- [城市的幕布](https://onojyun.com/2025/05/12/%e5%9f%8e%e5%b8%82%e7%9a%84%e5%b9%95%e5%b8%83/)
-- [A tool to verify estimates, II: a flexible proof assistant](https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/)
-- [刻板偏见诞生路径](https://onojyun.com/2025/05/09/%e5%88%bb%e6%9d%bf%e5%81%8f%e8%a7%81%e8%af%9e%e7%94%9f%e8%b7%af%e5%be%84/)
-- [科技爱好者周刊（第 347 期）：冷启动的破解之道](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-347.html)
-- [关系是如何被精准爆破的？](https://onojyun.com/2025/05/08/%e5%85%b3%e7%b3%bb%e6%98%af%e5%a6%82%e4%bd%95%e8%a2%ab%e7%b2%be%e5%87%86%e7%88%86%e7%a0%b4%e7%9a%84%ef%bc%9f/)
-- [午夜白日梦](https://onojyun.com/2025/05/07/%e5%8d%88%e5%a4%9c%e7%99%bd%e6%97%a5%e6%a2%a6/)
-- [边吃饭，边看手机](https://stephenleng.com/cn/looking-at-cell-phones-while-eating/?utm_source=rss&utm_medium=rss&utm_campaign=looking-at-cell-phones-while-eating)
-- [代际雌竞下的替罪羔羊](https://onojyun.com/2025/05/06/%e4%bb%a3%e9%99%85%e9%9b%8c%e7%ab%9e%e4%b8%8b%e7%9a%84%e6%9b%bf%e7%bd%aa%e7%be%94%e7%be%8a/)
-- [社区蟑螂杀虫剂](https://onojyun.com/2025/05/05/%e7%a4%be%e5%8c%ba%e8%9f%91%e8%9e%82%e6%9d%80%e8%99%ab%e5%89%82/)
-- [Orders of infinity](https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/)
-- [A proof of concept tool to verify estimates](https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/)
-- [谷歌的 NotebookLM 能生成中文播客了](http://www.ruanyifeng.com/blog/2025/05/notebooklm.html)
-- [骂人骂七寸](https://onojyun.com/2025/04/30/%e9%aa%82%e4%ba%ba%e9%aa%82%e4%b8%83%e5%af%b8/)
-- [注定的忒修斯](https://onojyun.com/2025/04/29/%e6%b3%a8%e5%ae%9a%e7%9a%84%e5%bf%92%e4%bf%ae%e6%96%af/)
-- [善良的代价](https://onojyun.com/2025/04/28/%e5%96%84%e8%89%af%e7%9a%84%e4%bb%a3%e4%bb%b7/)
-- [科技爱好者周刊（第 346 期）：未来就是永恒感的丧失](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-346.html)
-- [Stonean spaces, projective objects, the Riesz representation theorem, and &lpar;possibly&rpar; condensed mathematics](https://terrytao.wordpress.com/2025/04/23/stonean-spaces-projective-objects-the-riesz-representation-theorem-and-possibly-condensed-mathematics/)
-- [巨头的新战场：AI 编程 IDE（暨 字节 Trae 调用 MCP 教程）](http://www.ruanyifeng.com/blog/2025/04/trae-mcp.html)
-- [彩礼在“山西大同订婚强奸案”中扮演的角色](https://stephenleng.com/cn/the-role-of-bride-price-in-the-engagement-rape-case-in-datong-shanxi-province/?utm_source=rss&utm_medium=rss&utm_campaign=the-role-of-bride-price-in-the-engagement-rape-case-in-datong-shanxi-province)
-- [办公类 AI 初探：扣子空间](http://www.ruanyifeng.com/blog/2025/04/coze-space.html)
-- [科技爱好者周刊（第 345 期）：HDMI 2.2 影音可能到头了](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-345.html)
-- [A suspicious conference](https://terrytao.wordpress.com/2025/04/17/a-suspicious-conference/)
-- [Now](https://hsu.cy/now/)
-- [你在你所属于的地方吗？](https://stephenleng.com/cn/are-you-where-you-belong/?utm_source=rss&utm_medium=rss&utm_campaign=are-you-where-you-belong)
-- [En Joey](https://hsu.cy/2025/04/en-joey/)
-- [人工智能的兴起和人类精神的大停滞：AI将如何摧毁创造力和天才](https://stephenleng.com/cn/the-rise-of-artificial-intelligence-and-the-great-stagnation-of-the-human-spirit-how-ai-will-destroy-creativity-and-genius/?utm_source=rss&utm_medium=rss&utm_campaign=the-rise-of-artificial-intelligence-and-the-great-stagnation-of-the-human-spirit-how-ai-will-destroy-creativity-and-genius)
-- [不要逃避解释：论「相关」和「有关」在日常写作中的滥用](https://hsu.cy/2025/04/irrelevancy/)
-- [是否跟这个人结婚：人生最重要的决定](https://stephenleng.com/cn/whether-or-not-to-marry-this-person-the-most-important-decision-in-life/?utm_source=rss&utm_medium=rss&utm_campaign=whether-or-not-to-marry-this-person-the-most-important-decision-in-life)
-<!-- BLOG:END -->
+ - [浙江人，读叔本华吧！](https://stephenleng.com/cn/zhejiang-people-read-schopenhauer/?utm_source=rss&utm_medium=rss&utm_campaign=zhejiang-people-read-schopenhauer) - by stephenleng
+ - [死猫闭环](https://onojyun.com/2025/05/12/%e6%ad%bb%e7%8c%ab%e9%97%ad%e7%8e%af/) - by onojyun
+ - [城市的幕布](https://onojyun.com/2025/05/12/%e5%9f%8e%e5%b8%82%e7%9a%84%e5%b9%95%e5%b8%83/) - by onojyun
+ - [A tool to verify estimates, II: a flexible proof assistant](https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/) - by terrytao
+ - [刻板偏见诞生路径](https://onojyun.com/2025/05/09/%e5%88%bb%e6%9d%bf%e5%81%8f%e8%a7%81%e8%af%9e%e7%94%9f%e8%b7%af%e5%be%84/) - by onojyun
+ - [科技爱好者周刊（第 347 期）：冷启动的破解之道](http://www.ruanyifeng.com/blog/2025/05/weekly-issue-347.html) - by ruanyifeng
+ - [关系是如何被精准爆破的？](https://onojyun.com/2025/05/08/%e5%85%b3%e7%b3%bb%e6%98%af%e5%a6%82%e4%bd%95%e8%a2%ab%e7%b2%be%e5%87%86%e7%88%86%e7%a0%b4%e7%9a%84%ef%bc%9f/) - by onojyun
+ - [午夜白日梦](https://onojyun.com/2025/05/07/%e5%8d%88%e5%a4%9c%e7%99%bd%e6%97%a5%e6%a2%a6/) - by onojyun
+ - [边吃饭，边看手机](https://stephenleng.com/cn/looking-at-cell-phones-while-eating/?utm_source=rss&utm_medium=rss&utm_campaign=looking-at-cell-phones-while-eating) - by stephenleng
+ - [代际雌竞下的替罪羔羊](https://onojyun.com/2025/05/06/%e4%bb%a3%e9%99%85%e9%9b%8c%e7%ab%9e%e4%b8%8b%e7%9a%84%e6%9b%bf%e7%bd%aa%e7%be%94%e7%be%8a/) - by onojyun
+ - [社区蟑螂杀虫剂](https://onojyun.com/2025/05/05/%e7%a4%be%e5%8c%ba%e8%9f%91%e8%9e%82%e6%9d%80%e8%99%ab%e5%89%82/) - by onojyun
+ - [Orders of infinity](https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/) - by terrytao
+ - [A proof of concept tool to verify estimates](https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/) - by terrytao
+ - [谷歌的 NotebookLM 能生成中文播客了](http://www.ruanyifeng.com/blog/2025/05/notebooklm.html) - by ruanyifeng
+ - [骂人骂七寸](https://onojyun.com/2025/04/30/%e9%aa%82%e4%ba%ba%e9%aa%82%e4%b8%83%e5%af%b8/) - by onojyun
+ - [注定的忒修斯](https://onojyun.com/2025/04/29/%e6%b3%a8%e5%ae%9a%e7%9a%84%e5%bf%92%e4%bf%ae%e6%96%af/) - by onojyun
+ - [善良的代价](https://onojyun.com/2025/04/28/%e5%96%84%e8%89%af%e7%9a%84%e4%bb%a3%e4%bb%b7/) - by onojyun
+ - [科技爱好者周刊（第 346 期）：未来就是永恒感的丧失](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-346.html) - by ruanyifeng
+ - [Stonean spaces, projective objects, the Riesz representation theorem, and &lpar;possibly&rpar; condensed mathematics](https://terrytao.wordpress.com/2025/04/23/stonean-spaces-projective-objects-the-riesz-representation-theorem-and-possibly-condensed-mathematics/) - by terrytao
+ - [巨头的新战场：AI 编程 IDE（暨 字节 Trae 调用 MCP 教程）](http://www.ruanyifeng.com/blog/2025/04/trae-mcp.html) - by ruanyifeng
+ - [彩礼在“山西大同订婚强奸案”中扮演的角色](https://stephenleng.com/cn/the-role-of-bride-price-in-the-engagement-rape-case-in-datong-shanxi-province/?utm_source=rss&utm_medium=rss&utm_campaign=the-role-of-bride-price-in-the-engagement-rape-case-in-datong-shanxi-province) - by stephenleng
+ - [办公类 AI 初探：扣子空间](http://www.ruanyifeng.com/blog/2025/04/coze-space.html) - by ruanyifeng
+ - [2025#16 人类幻觉](https://weekly.1q43.blog/article/1daca795c95680078a9cf9b7722c48ee) - by 1q43
+ - [科技爱好者周刊（第 345 期）：HDMI 2.2 影音可能到头了](http://www.ruanyifeng.com/blog/2025/04/weekly-issue-345.html) - by ruanyifeng
+ - [A suspicious conference](https://terrytao.wordpress.com/2025/04/17/a-suspicious-conference/) - by terrytao
+ - [Now](https://hsu.cy/now/) - by hsu
+ - [2025#15 风大鱼大](https://weekly.1q43.blog/article/1d4ca795c95680c0afd1c168db8092fb) - by 1q43
+ - [你在你所属于的地方吗？](https://stephenleng.com/cn/are-you-where-you-belong/?utm_source=rss&utm_medium=rss&utm_campaign=are-you-where-you-belong) - by stephenleng
+ - [En Joey](https://hsu.cy/2025/04/en-joey/) - by hsu
+ - [人工智能的兴起和人类精神的大停滞：AI将如何摧毁创造力和天才](https://stephenleng.com/cn/the-rise-of-artificial-intelligence-and-the-great-stagnation-of-the-human-spirit-how-ai-will-destroy-creativity-and-genius/?utm_source=rss&utm_medium=rss&utm_campaign=the-rise-of-artificial-intelligence-and-the-great-stagnation-of-the-human-spirit-how-ai-will-destroy-creativity-and-genius) - by stephenleng<!-- BLOG:END -->
 
 ## 📹Latest VIDEOS
 <table style="width:100%; border-collapse: collapse;">
