@@ -25,26 +25,26 @@ slug: /
 
 ## 📹Latest VIDEOS
 <table>
-<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=lv3vmtwulHY"><img width="140px" src="http://img.youtube.com/vi/lv3vmtwulHY/maxresdefault.jpg"></a><br/>May 9, 2025</td>
-<td><a href="https://www.youtube.com/watch?v=lv3vmtwulHY">普京红场阅兵演讲：真理和正义都在我们这边；彭博社认为中国政府促进婚育政策已经失败；中国对俄游戏手柄出口激增，被怀疑用于操控军用无人机【雪花每日新闻】</a></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=-MJqhbph0bQ"><img width="140px" src="http://img.youtube.com/vi/-MJqhbph0bQ/maxresdefault.jpg"></a><br/>May 9, 2025</td>
-<td><a href="https://www.youtube.com/watch?v=-MJqhbph0bQ">新教皇利奥十四世首次演讲：愿和平与你同在【雪花快报】</a></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=7OAFSN6uYKA"><img width="140px" src="http://img.youtube.com/vi/7OAFSN6uYKA/maxresdefault.jpg"></a><br/>May 9, 2025</td>
-<td><a href="https://www.youtube.com/watch?v=7OAFSN6uYKA">习近平称二战确立台湾属于中国，台湾回应：属于中华民国；赖清德纪念欧战胜利，称应捍卫民主反对绥靖；美国人当选新教皇，称利奥十四世【雪花每日新闻】</a></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=2iUB-bsdrfw"><img width="140px" src="http://img.youtube.com/vi/2iUB-bsdrfw/maxresdefault.jpg"></a><br/>May 8, 2025</td>
-<td><a href="https://www.youtube.com/watch?v=2iUB-bsdrfw">无惧风险，习近平开启对俄国事访问；中国唯一反思文革纪念场所“塔园”已被清除【雪花每日新闻】</a></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=-k9hsQNbl-k"><img width="140px" src="http://img.youtube.com/vi/-k9hsQNbl-k/maxresdefault.jpg"></a><br/>May 6, 2025</td>
-<td><a href="https://www.youtube.com/watch?v=-k9hsQNbl-k">湖南大学教授论证马克思祖先来自于中国；胡锡进批山东滕州政府隐瞒恶性交通事故；宁波保时捷车主撞人后无视伤员换车牌，被人质疑家庭背景【雪花每日新闻】</a></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=7cJZAMouESg"><img width="140px" src="http://img.youtube.com/vi/7cJZAMouESg/maxresdefault.jpg"></a><br/>May 5, 2025</td>
-<td><a href="https://www.youtube.com/watch?v=7cJZAMouESg">山大医学论文中竟然出现男性子宫肌瘤和卵巢癌患者；习近平将于胜利日访俄，网民劝泽连斯基别错过攻击机会【雪花每日新闻】</a></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=9HPsz7F0mJg"><img width="140px" src="http://img.youtube.com/vi/9HPsz7F0mJg/maxresdefault.jpg"></a><br/>May 4, 2025</td>
-<td><a href="https://www.youtube.com/watch?v=9HPsz7F0mJg">【生成式AI時代下的機器學習&lpar;2025&rpar;】第十講：人工智慧的微創手術 — 淺談 Model Editing</a></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=rW1WMJ_TiRA"><img width="140px" src="http://img.youtube.com/vi/rW1WMJ_TiRA/maxresdefault.jpg"></a><br/>May 3, 2025</td>
-<td><a href="https://www.youtube.com/watch?v=rW1WMJ_TiRA">东哥画饼？骑手吐槽京东外卖单价还不如美团；网约车狂卷！天天开满12小时月薪仅5000；乌拒绝胜利日停战，不保证出席红场阅兵他国领导人安全【雪花每日新闻】</a></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=s266BzGNKKc"><img width="140px" src="http://img.youtube.com/vi/s266BzGNKKc/maxresdefault.jpg"></a><br/>May 3, 2025</td>
-<td><a href="https://www.youtube.com/watch?v=s266BzGNKKc">【生成式AI時代下的機器學習&lpar;2025&rpar;】第九講：你這麽認這個評分系統幹什麽啊？談談有關大型語言模型評估的幾件事</a></td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=p9OJzHeWXts"><img width="140px" src="http://img.youtube.com/vi/p9OJzHeWXts/maxresdefault.jpg"></a><br/>May 2, 2025</td>
-<td><a href="https://www.youtube.com/watch?v=p9OJzHeWXts">福州发生汽车撞人事件，官方称系司机操作不当；离婚跑断腿，多地惊现黄牛加价抢离婚号；美国中情局发视频劝中国官员投诚【雪花每日新闻】</a></td></tr>
+<!-- YOUTUBE:START --><tr><td><a href="https://www.youtube.com/watch?v=lv3vmtwulHY"><img width="140px" src="http://img.youtube.com/vi/lv3vmtwulHY/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=lv3vmtwulHY">普京红场阅兵演讲：真理和正义都在我们这边；彭博社认为中国政府促进婚育政策已经失败；中国对俄游戏手柄出口激增，被怀疑用于操控军用无人机【雪花每日新闻】</a><br/>May 9, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=-MJqhbph0bQ"><img width="140px" src="http://img.youtube.com/vi/-MJqhbph0bQ/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-MJqhbph0bQ">新教皇利奥十四世首次演讲：愿和平与你同在【雪花快报】</a><br/>May 9, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=7OAFSN6uYKA"><img width="140px" src="http://img.youtube.com/vi/7OAFSN6uYKA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7OAFSN6uYKA">习近平称二战确立台湾属于中国，台湾回应：属于中华民国；赖清德纪念欧战胜利，称应捍卫民主反对绥靖；美国人当选新教皇，称利奥十四世【雪花每日新闻】</a><br/>May 9, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=2iUB-bsdrfw"><img width="140px" src="http://img.youtube.com/vi/2iUB-bsdrfw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2iUB-bsdrfw">无惧风险，习近平开启对俄国事访问；中国唯一反思文革纪念场所“塔园”已被清除【雪花每日新闻】</a><br/>May 8, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=-k9hsQNbl-k"><img width="140px" src="http://img.youtube.com/vi/-k9hsQNbl-k/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-k9hsQNbl-k">湖南大学教授论证马克思祖先来自于中国；胡锡进批山东滕州政府隐瞒恶性交通事故；宁波保时捷车主撞人后无视伤员换车牌，被人质疑家庭背景【雪花每日新闻】</a><br/>May 6, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=7cJZAMouESg"><img width="140px" src="http://img.youtube.com/vi/7cJZAMouESg/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7cJZAMouESg">山大医学论文中竟然出现男性子宫肌瘤和卵巢癌患者；习近平将于胜利日访俄，网民劝泽连斯基别错过攻击机会【雪花每日新闻】</a><br/>May 5, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=9HPsz7F0mJg"><img width="140px" src="http://img.youtube.com/vi/9HPsz7F0mJg/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=9HPsz7F0mJg">【生成式AI時代下的機器學習&lpar;2025&rpar;】第十講：人工智慧的微創手術 — 淺談 Model Editing</a><br/>May 4, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=rW1WMJ_TiRA"><img width="140px" src="http://img.youtube.com/vi/rW1WMJ_TiRA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rW1WMJ_TiRA">东哥画饼？骑手吐槽京东外卖单价还不如美团；网约车狂卷！天天开满12小时月薪仅5000；乌拒绝胜利日停战，不保证出席红场阅兵他国领导人安全【雪花每日新闻】</a><br/>May 3, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=s266BzGNKKc"><img width="140px" src="http://img.youtube.com/vi/s266BzGNKKc/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=s266BzGNKKc">【生成式AI時代下的機器學習&lpar;2025&rpar;】第九講：你這麽認這個評分系統幹什麽啊？談談有關大型語言模型評估的幾件事</a><br/>May 3, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=p9OJzHeWXts"><img width="140px" src="http://img.youtube.com/vi/p9OJzHeWXts/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=p9OJzHeWXts">福州发生汽车撞人事件，官方称系司机操作不当；离婚跑断腿，多地惊现黄牛加价抢离婚号；美国中情局发视频劝中国官员投诚【雪花每日新闻】</a><br/>May 2, 2025</td></tr>
 <!-- YOUTUBE:END -->
 </table>
 
