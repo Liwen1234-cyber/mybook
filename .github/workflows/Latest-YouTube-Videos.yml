@@ -1,7 +1,7 @@
 name: Latest-YouTube-Videos
 on:
   schedule: # Run workflow automatically
-    - cron: '59 * * * *' # Runs every hour, on the hour
+    - cron: '0 */5 * * *' # Runs every hour, on the hour
   workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
 permissions:
   contents: write # To write the generated contents to the readme
@@ -17,8 +17,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: 'YOUTUBE'
-          feed_list: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCrMjr7dY8syS_m9TdqM-g_Q,https://www.youtube.com/feeds/videos.xml?channel_id=UC2ggjtuuWvxrHHHiaDH1dlQ'
-          feed_names: 'Mr Li, Hung-yi Lee'
+          feed_list: 'https://www.youtube.com/feeds/videos.xml?channel_id=UCrMjr7dY8syS_m9TdqM-g_Q,https://www.youtube.com/feeds/videos.xml?channel_id=UC2ggjtuuWvxrHHHiaDH1dlQ,https://www.youtube.com/feeds/videos.xml?channel_id=UCb3TZ4SD_Ys3j4z0-8o6auA'
           readme_path: './docs/intro.md'
           custom_tags: 'channelId/yt:channelId/,videoId/yt:videoId/'
           date_format: 'mmm d, yyyy'
