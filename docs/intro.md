@@ -21,6 +21,11 @@ slug: /
 - [代际雌竞下的替罪羔羊](https://onojyun.com/2025/05/06/%e4%bb%a3%e9%99%85%e9%9b%8c%e7%ab%9e%e4%b8%8b%e7%9a%84%e6%9b%bf%e7%bd%aa%e7%be%94%e7%be%8a/)
 - [社区蟑螂杀虫剂](https://onojyun.com/2025/05/05/%e7%a4%be%e5%8c%ba%e8%9f%91%e8%9e%82%e6%9d%80%e8%99%ab%e5%89%82/)
 - [Orders of infinity](https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/)
+- [A proof of concept tool to verify estimates](https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/)
+- [谷歌的 NotebookLM 能生成中文播客了](http://www.ruanyifeng.com/blog/2025/05/notebooklm.html)
+- [骂人骂七寸](https://onojyun.com/2025/04/30/%e9%aa%82%e4%ba%ba%e9%aa%82%e4%b8%83%e5%af%b8/)
+- [注定的忒修斯](https://onojyun.com/2025/04/29/%e6%b3%a8%e5%ae%9a%e7%9a%84%e5%bf%92%e4%bf%ae%e6%96%af/)
+- [善良的代价](https://onojyun.com/2025/04/28/%e5%96%84%e8%89%af%e7%9a%84%e4%bb%a3%e4%bb%b7/)
 <!-- BLOG:END -->
 
 ## 📹Latest VIDEOS
