@@ -11,6 +11,7 @@ slug: /
 
 ## 🎯Latest ARTICLES
 <!-- BLOG:START -->
+- [死猫闭环](https://onojyun.com/2025/05/12/%e6%ad%bb%e7%8c%ab%e9%97%ad%e7%8e%af/)
 - [城市的幕布](https://onojyun.com/2025/05/12/%e5%9f%8e%e5%b8%82%e7%9a%84%e5%b9%95%e5%b8%83/)
 - [A tool to verify estimates, II: a flexible proof assistant](https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/)
 - [刻板偏见诞生路径](https://onojyun.com/2025/05/09/%e5%88%bb%e6%9d%bf%e5%81%8f%e8%a7%81%e8%af%9e%e7%94%9f%e8%b7%af%e5%be%84/)
@@ -20,7 +21,6 @@ slug: /
 - [代际雌竞下的替罪羔羊](https://onojyun.com/2025/05/06/%e4%bb%a3%e9%99%85%e9%9b%8c%e7%ab%9e%e4%b8%8b%e7%9a%84%e6%9b%bf%e7%bd%aa%e7%be%94%e7%be%8a/)
 - [社区蟑螂杀虫剂](https://onojyun.com/2025/05/05/%e7%a4%be%e5%8c%ba%e8%9f%91%e8%9e%82%e6%9d%80%e8%99%ab%e5%89%82/)
 - [Orders of infinity](https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/)
-- [A proof of concept tool to verify estimates](https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/)
 <!-- BLOG:END -->
 
 ## 📹Latest VIDEOS
