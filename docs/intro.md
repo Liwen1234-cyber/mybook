@@ -90,6 +90,10 @@ slug: /
 ## GitHub Trending
 ### All language
 
+* 【2025-05-13】[i-am-alice / 3rd-devs](https://github.com/i-am-alice/3rd-devs) - 
+* 【2025-05-13】[bytedance / UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop) - A GUI Agent application based on UI-TARS(Vision-Language Model) that allows you to control your computer using natural language.
+* 【2025-05-13】[Akkudoktor-EOS / EOS](https://github.com/Akkudoktor-EOS/EOS) - This repository features an Energy Optimization System (EOS) that optimizes energy distribution, usage for batteries, heat pumps& household devices. It includes predictive models for electricity prices (planned), load forecasting& dynamic optimization to maximize energy efficiency & minimize costs. Founder Dr. Andreas Schmitz (YouTube @akkudoktor)
+* 【2025-05-13】[ahmedkhaleel2004 / gitdiagram](https://github.com/ahmedkhaleel2004/gitdiagram) - Free, simple, fast interactive diagrams for any GitHub repository
 * 【2025-05-12】[Mail-0 / Zero](https://github.com/Mail-0/Zero) - Experience email the way you want with 0 – the first open source email app that puts your privacy and safety first. Join the discord: https://discord.gg/0email
 * 【2025-05-12】[Lightricks / ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo) - LTX-Video Support for ComfyUI
 * 【2025-05-11】[Blaizzy / mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
@@ -105,6 +109,8 @@ slug: /
 * 【2025-05-11】[jeecgboot / jimureport](https://github.com/jeecgboot/jimureport) - 「数据可视化：报表、大屏、数据看板」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
 ### Python
 
+* 【2025-05-13】[santinic / audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
+* 【2025-05-13】[zhenxun-org / zhenxun_bot](https://github.com/zhenxun-org/zhenxun_bot) - 基于 Nonebot2 开发，实现多平台适配和多Bot管理的，非常可爱的绪山真寻Bot
 * 【2025-05-12】[remsky / Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/CPU ONNX and NVIDIA GPU PyTorch support, handling, and auto-stitching
 * 【2025-05-12】[kijai / ComfyUI-KJNodes](https://github.com/kijai/ComfyUI-KJNodes) - Various custom nodes for ComfyUI
 * 【2025-05-12】[airweave-ai / airweave](https://github.com/airweave-ai/airweave) - Airweave lets agents search any app or database
@@ -122,6 +128,9 @@ slug: /
 * 【2025-05-11】[spm / spm](https://github.com/spm/spm) - SPM (Statistical Parametric Mapping) - Development Version
 ### Markdown
 
+* 【2025-05-13】[zotero-chinese / wiki](https://github.com/zotero-chinese/wiki) - Zotero 中文用户文档、中文开发文档、CSL 文档中文译文
+* 【2025-05-13】[coderjojo / creative-profile-readme](https://github.com/coderjojo/creative-profile-readme) - A Collection of GitHub Profiles with awesome readme
+* 【2025-05-13】[privacyguides / privacyguides.org](https://github.com/privacyguides/privacyguides.org) - Protect your data against global mass surveillance programs.
 * 【2025-05-12】[KaiserY / trpl-zh-cn](https://github.com/KaiserY/trpl-zh-cn) - Rust 程序设计语言（2024 edition 施工中）
 * 【2025-05-12】[Evavic44 / portfolio-ideas](https://github.com/Evavic44/portfolio-ideas) - A curation of awesome portfolio website ideas for developers and designers to draw inspiration from. Raise a pull request to add more. 💜
 * 【2025-05-12】[alexandresanlim / Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile) - Improve your README.md profile with these amazing badges.
@@ -133,19 +142,30 @@ slug: /
 * 【2025-05-11】[mdn / translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs
 ### Jupyter-notebook
 
+* 【2025-05-13】[aburkov / theLMbook](https://github.com/aburkov/theLMbook) - This is the official repository for The Hundred-Page Language Models Book by Andriy Burkov
+* 【2025-05-13】[topoteretes / cognee](https://github.com/topoteretes/cognee) - Memory for AI Agents in 5 lines of code
+* 【2025-05-13】[guipsamora / pandas_exercises](https://github.com/guipsamora/pandas_exercises) - Practice your pandas skills!
+* 【2025-05-13】[alphacep / vosk-api](https://github.com/alphacep/vosk-api) - Offline speech recognition API for Android, iOS, Raspberry Pi and servers with Python, Java, C# and Node
+* 【2025-05-13】[fastai / fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
+* 【2025-05-13】[panaversity / learn-modern-ai-python](https://github.com/panaversity/learn-modern-ai-python) - Learn Modern AI Assisted Python with Type Hints
+* 【2025-05-13】[codebasics / py](https://github.com/codebasics/py) - Repository to store sample python programs for python learning
 * 【2025-05-12】[ed-donner / llm_engineering](https://github.com/ed-donner/llm_engineering) - Repo to accompany my mastering LLM engineering course
 * 【2025-05-12】[amanchadha / coursera-deep-learning-specialization](https://github.com/amanchadha/coursera-deep-learning-specialization) - Notes, programming assignments and quizzes from all courses within the Coursera Deep Learning specialization offered by deeplearning.ai: (i) Neural Networks and Deep Learning; (ii) Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization; (iii) Structuring Machine Learning Projects; (iv) Convolutional Neural Network…
 * 【2025-05-11】[datawhalechina / llms-from-scratch-cn](https://github.com/datawhalechina/llms-from-scratch-cn) - 仅需Python基础，从0构建大语言模型；从0逐步构建GLM4\Llama3\RWKV6， 深入理解大模型原理
 * 【2025-05-11】[onnx / models](https://github.com/onnx/models) - A collection of pre-trained, state-of-the-art models in the ONNX format
 ### Javascript
 
+* 【2025-05-13】[tidalcycles / strudel](https://github.com/tidalcycles/strudel) - Web-based environment for live coding algorithmic patterns, incorporating a faithful port of TidalCycles to JavaScript
 * 【2025-05-11】[modelcontextprotocol / servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
 * 【2025-05-11】[certd / certd](https://github.com/certd/certd) - 开源SSL证书管理工具；全自动证书申请、更新、续期；通配符证书，泛域名证书申请；证书自动化部署到阿里云、腾讯云、主机、群晖、宝塔；https证书，pfx证书，der证书，TLS证书，nginx证书自动续签自动部署
 ### C
 
+* 【2025-05-13】[tio / tio](https://github.com/tio/tio) - A serial device I/O tool
+* 【2025-05-13】[lwfinger / rtw88](https://github.com/lwfinger/rtw88) - A backport of the Realtek Wifi 5 drivers from the wireless-next repo.
 * 【2025-05-11】[GuijiAI / HeyGem.ai](https://github.com/GuijiAI/HeyGem.ai) - 
 ### Css
 
+* 【2025-05-13】[Diolinux / PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 * 【2025-05-11】[littleosbook / littleosbook](https://github.com/littleosbook/littleosbook) - Source for the little book about OS development
 ### Unknown
 
@@ -160,4 +180,6 @@ slug: /
 * 【2025-05-12】[YimMenu / YimMenuV2](https://github.com/YimMenu/YimMenuV2) - Unfinished WIP
 ### Html
 
+* 【2025-05-13】[EmptyLibra / Configure-Xray-with-VLESS-Reality-on-VPS-server](https://github.com/EmptyLibra/Configure-Xray-with-VLESS-Reality-on-VPS-server) - Подробная инструкция (как в pdf, так и в md формате) о настройке своего совбственного Xray-VPS-сервера (с протоколом VLESS XTLS-Reality через панель 3x-ui), а также настройке клиентских приложений (ПК и телефон)
+* 【2025-05-13】[hotheadhacker / awesome-selfhost-docker](https://github.com/hotheadhacker/awesome-selfhost-docker) - 🚀 Curated list of open-source, self-hosted projects deployable with Docker and docker-compose. Your go-to resource for amazing self-hostable software.
 * 【2025-05-12】[docker / labs-ai-tools-for-devs](https://github.com/docker/labs-ai-tools-for-devs) - Your trusted home for discovering MCP tools – seamlessly integrated into Docker
