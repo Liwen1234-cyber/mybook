@@ -61,6 +61,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=534ZTCD5xeU"><img width="200px" src="http://img.youtube.com/vi/534ZTCD5xeU/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=534ZTCD5xeU">中美貿易戰意外「休戰」  全球市場暫獲喘息之機－ BBC News 中文</a></td>
+<td>May 13, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=p5dj0OGeALg"><img width="200px" src="http://img.youtube.com/vi/p5dj0OGeALg/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=p5dj0OGeALg">AI重現已故男子 在法庭上對兇手說話－ BBC News 中文</a></td>
 <td>May 13, 2025</td></tr>
@@ -87,9 +90,6 @@ slug: /
 <td>May 9, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Tx3ly4BJ-2E"><img width="200px" src="http://img.youtube.com/vi/Tx3ly4BJ-2E/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Tx3ly4BJ-2E">俄羅斯舉行勝利日閱兵  習近平與普京並肩出席－ BBC News 中文</a></td>
-<td>May 9, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=lFQraOOWqtQ"><img width="200px" src="http://img.youtube.com/vi/lFQraOOWqtQ/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=lFQraOOWqtQ">拜登卸任後首次專訪  批評特朗普「有失美國格調」－ BBC News 中文</a></td>
 <td>May 9, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
