@@ -54,6 +54,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=Oi9jLinyxas"><img width="200px" src="http://img.youtube.com/vi/Oi9jLinyxas/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Oi9jLinyxas">中國重慶「吞火車」成為拍照潮流－ BBC News 中文</a></td>
+<td>May 13, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ecpxQn2r0n8"><img width="200px" src="http://img.youtube.com/vi/ecpxQn2r0n8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ecpxQn2r0n8">中美談判後貿易戰暫停90天 相互大幅下調關稅－ BBC News 中文</a></td>
 <td>May 12, 2025</td></tr>
@@ -80,9 +83,6 @@ slug: /
 <td>May 9, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=OTH89jZ3QFo"><img width="200px" src="http://img.youtube.com/vi/OTH89jZ3QFo/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OTH89jZ3QFo">特朗普稱梵蒂岡已聯絡 將與新教宗見面－ BBC News 中文 #特朗普</a></td>
-<td>May 9, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=-MJqhbph0bQ"><img width="200px" src="http://img.youtube.com/vi/-MJqhbph0bQ/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-MJqhbph0bQ">新教皇利奥十四世首次演讲：愿和平与你同在【雪花快报】</a></td>
 <td>May 9, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
