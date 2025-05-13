@@ -245,7 +245,13 @@ class MyComparator implements Comparator<Pair<Integer, Integer>>{
     }
 }
 
-PriorityQueue<Pair<Integer, Integer>> pq = new PriorityQueue<>(new MyComparator());
+Queue<Pair<Integer, Integer>> pq = new PriorityQueue<>(new MyComparator());
+
+// use the lambda expression
+Queue<Pair<Integer, Integer>> pq = new PriorityQueue<>((a, b) -> {
+    if(a.first != b.first) return a.first - b.first;
+    return a.s - b.second;
+});
 
 ```
 
