@@ -54,6 +54,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=p5dj0OGeALg"><img width="200px" src="http://img.youtube.com/vi/p5dj0OGeALg/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=p5dj0OGeALg">AI重現已故男子 在法庭上對兇手說話－ BBC News 中文</a></td>
+<td>May 13, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Oi9jLinyxas"><img width="200px" src="http://img.youtube.com/vi/Oi9jLinyxas/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Oi9jLinyxas">中國重慶「吞火車」成為拍照潮流－ BBC News 中文</a></td>
 <td>May 13, 2025</td></tr>
@@ -80,9 +83,6 @@ slug: /
 <td>May 9, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=lFQraOOWqtQ"><img width="200px" src="http://img.youtube.com/vi/lFQraOOWqtQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lFQraOOWqtQ">拜登卸任後首次專訪  批評特朗普「有失美國格調」－ BBC News 中文</a></td>
-<td>May 9, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=OTH89jZ3QFo"><img width="200px" src="http://img.youtube.com/vi/OTH89jZ3QFo/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=OTH89jZ3QFo">特朗普稱梵蒂岡已聯絡 將與新教宗見面－ BBC News 中文 #特朗普</a></td>
 <td>May 9, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
