@@ -9,9 +9,14 @@ slug: /
 
 [![](/img/68747470733a2f2f692e696d6775722e636f6d2f5a64686174626a2e6a7067.jpg)](./分享/好玩的网站、工具)
 
+
+
+
 ## 🎯Latest ARTICLES
+<details open>
+  <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
- - [Some variants of the periodic tiling conjecture](https://terrytao.wordpress.com/2025/05/12/some-variants-of-the-periodic-tiling-conjecture/) - by terrytao - May 13, 2025
+  <li><a href="https://terrytao.wordpress.com/2025/05/12/">Some variants of the periodic tiling conjecture</a>- by terrytao - May 13, 2025 </li>
  - [浙江人，读叔本华吧！](https://stephenleng.com/cn/zhejiang-people-read-schopenhauer/?utm_source=rss&utm_medium=rss&utm_campaign=zhejiang-people-read-schopenhauer) - by stephenleng - May 12, 2025
  - [死猫闭环](https://onojyun.com/2025/05/12/%e6%ad%bb%e7%8c%ab%e9%97%ad%e7%8e%af/) - by onojyun - May 12, 2025
  - [城市的幕布](https://onojyun.com/2025/05/12/%e5%9f%8e%e5%b8%82%e7%9a%84%e5%b9%95%e5%b8%83/) - by onojyun - May 12, 2025
@@ -41,6 +46,8 @@ slug: /
  - [2025#15 风大鱼大](https://weekly.1q43.blog/article/1d4ca795c95680c0afd1c168db8092fb) - by 1q43 - Apr 14, 2025
  - [你在你所属于的地方吗？](https://stephenleng.com/cn/are-you-where-you-belong/?utm_source=rss&utm_medium=rss&utm_campaign=are-you-where-you-belong) - by stephenleng - Apr 13, 2025
  - [En Joey](https://hsu.cy/2025/04/en-joey/) - by hsu - Apr 13, 2025<!-- BLOG:END -->
+
+</details>
 
 ## 📹Latest VIDEOS
 <table style="width:100%; border-collapse: collapse;">

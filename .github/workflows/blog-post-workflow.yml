@@ -22,4 +22,4 @@ jobs:
           date_format: 'mmm d, yyyy'
           readme_path: "./docs/intro.md"
           max_post_count: 30
-          template: $newline - [$title]($url) - by $feedName - $date
+          template: $newline<li><a href="$url">$title</a>- by $feedName - $date
