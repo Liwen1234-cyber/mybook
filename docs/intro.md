@@ -59,6 +59,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=B3UumVTu2Bg"><img width="200px" src="http://img.youtube.com/vi/B3UumVTu2Bg/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=B3UumVTu2Bg">簽大單、紫地毯和馬斯克：特朗普訪問沙特的關鍵時刻－ BBC News 中文</a></td>
+<td>May 14, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=ul8ER_KMft4"><img width="200px" src="http://img.youtube.com/vi/ul8ER_KMft4/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ul8ER_KMft4">以色列封鎖下 加沙兒童面飢餓威脅－ BBC News 中文</a></td>
+<td>May 14, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=LwXklsL19-M"><img width="200px" src="http://img.youtube.com/vi/LwXklsL19-M/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LwXklsL19-M">特朗普訪問沙特  與數十人馬拉松式握手－ BBC News 中文</a></td>
 <td>May 14, 2025</td></tr>
@@ -82,13 +88,7 @@ slug: /
 <td>May 12, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ten6tf09RrM"><img width="200px" src="http://img.youtube.com/vi/ten6tf09RrM/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ten6tf09RrM">香港的親中告密者：「我們在社會每個角落默默注視」－ BBC News 中文</a></td>
-<td>May 10, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=fP2JJpe2K_k"><img width="200px" src="http://img.youtube.com/vi/fP2JJpe2K_k/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fP2JJpe2K_k">BBC調查紀錄片：愛國者的崛起－ BBC News 中文</a></td>
-<td>May 10, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=lv3vmtwulHY"><img width="200px" src="http://img.youtube.com/vi/lv3vmtwulHY/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=lv3vmtwulHY">普京红场阅兵演讲：真理和正义都在我们这边；彭博社认为中国政府促进婚育政策已经失败；中国对俄游戏手柄出口激增，被怀疑用于操控军用无人机【雪花每日新闻】</a></td>
-<td>May 9, 2025</td></tr><!-- YOUTUBE:END -->
+<td>May 10, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
