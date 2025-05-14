@@ -77,9 +77,9 @@
 
 
 1. Spring,Spring MVC,Spring Boot 之间什么关系?
-2. [@Autowired ](/Autowired ) 和 [@Resource ](/Resource ) 的区别是什么？ 
+2. @Autowired 和 @ResourceResource 的区别是什么？ 
 3. 静态代理和动态代理的区别
-4. 除了 JDK 提供的动态代理实现还有其他实现方式么(CGLIB )
+4. 除了 JDK 提供的动态代理实现还有其他实现方式么(CGLIB)
 5. 谈谈对 MySQL 索引的了解，哪些字段应该考虑创建索引，哪些字段尽量不要创建索引
 6. 为什么 InnoDB 引擎要选择  B+Tree 作为索引数据结构？
 7. MySQL 中 一条 SQL 语句的执行流程
