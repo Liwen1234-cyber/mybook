@@ -2,7 +2,7 @@
 
 Adversarial Attack 要讲这个主题,我们这边要讲的是,我们在作业裡面,我们已经训练了非常多,各式各样的类神经网路,那我们当然期待说,我们可以把这些技术用在真正的应用上
 
-![](./images/image-20210810180148893.png)
+<img src="./images/image-20210810180148893.png" alt="image-20210810180148893" style="zoom:67%;" />
 
 但是光是把这些 Network 用在真正的应用上,要把这些 Network 用在真正应用上,光是它们正确率高是不够的,它们还需要什麼能力呢
 
@@ -16,7 +16,7 @@ Adversarial Attack 要讲这个主题,我们这边要讲的是,我们在作业�
 
 举例来说 这个是蚁王
 
-![](./images/image-20210810180325834.png)
+<img src="./images/image-20210810180325834.png" alt="image-20210810180325834" style="zoom:50%;" />
 
 牠叫做梅路艾姆,牠是站在生物顶点,牠是生物顶点的一个存在,牠非常地强,人类没有办法打赢牠,那牠会消灭掉所有的人类,但是人类并没有跟牠打,**人类是不讲武德的**,人类就直接放一个核弹就把牠炸死,然后故事就结束了 就这样
 
@@ -24,7 +24,7 @@ Adversarial Attack 要讲这个主题,我们这边要讲的是,我们在作业�
 
 我们先来看一个真正的例子,我们今天在好多个作业裡面,我们都已经训练了影像辨识的模型,也就是说你有一个影像辨识的系统,给它一张照片,它可以告诉我们说,这张照片属於什麼样的类别
 
-![](./images/image-20210810181138333.png)
+<img src="./images/image-20210810181138333.png" alt="image-20210810181138333" style="zoom:50%;" />
 
 那今天我们要做的事情是,在这张**照片上面加入一个非常小的杂讯**,一张照片可以被看作是一个非常长的向量,我们在这个非常长的向量上加入,每一个维度都加入一个小小的杂讯,把这个有加入杂讯以后的照片丢到 Network,看看会发生什麼样的事情
 
@@ -42,7 +42,7 @@ Benign Image 丢到 Network 裡面,它的输出是猫,那我们期待说 Attacke
 
 实际上是可以的,这边用的 Network 并不是一个很弱的 Network,它是 50 层的 ResNet
 
-![](./images/image-20210810181503642.png)
+<img src="./images/image-20210810181503642.png" alt="image-20210810181503642" style="zoom:50%;" />
 
 当我们把一个 Benign Image 没有被攻击的图片,丢到 50 层的 ResNet 的时候,它的输出是 Tiger Cat
 
@@ -60,7 +60,7 @@ Benign Image 丢到 Network 裡面,它的输出是猫,那我们期待说 Attacke
 
 那為了要证明说,这两张照片还是有一些不一样的,我们把它做一下**相减**
 
-![](./images/image-20210810181737766.png)
+<img src="./images/image-20210810181737766.png" alt="image-20210810181737766" style="zoom:50%;" />
 
 光做相减是不够的,做完相减以后,还要把它们的差距放大 50 倍,你会得到这样子的结论,所以这两张照片确实有些不一样,我并不是把同一张照片复製两次来骗你,它们是有一点不一样的,但是人根本看不出,这点不一样会造成什麼样的影响,但是对 ResNet 而言,它却有了天差地远的输出
 
@@ -68,7 +68,7 @@ Benign Image 丢到 Network 裡面,它的输出是猫,那我们期待说 Attacke
 
 那也许有人会觉得说,啊 也许是因為猫跟海星有什麼特别的关係
 
-![](./images/image-20210810181846165.png)
+<img src="./images/image-20210810181846165.png" alt="image-20210810181846165" style="zoom:50%;" />
 
 我们可以把猫变成海星只是一个特例,这不是一个特例,你可以**把这隻猫轻易地变成任何的东西**,我完全可以加上另外一个杂讯,就让这隻猫变成一个键盘,它一样信心分数高达 0.98,本来不太确定它是不是猫,现在加入另外一个杂讯以后,Network 98% 确定它就是一个键盘
 
@@ -78,7 +78,7 @@ Benign Image 丢到 Network 裡面,它的输出是猫,那我们期待说 Attacke
 
 如果你加入的只是**一般的杂讯,它并不一定会犯错**,这个是原来的图片,我们现在加入一个杂讯,这个杂讯是你肉眼可见的
 
-![](./images/image-20210810182027298.png)
+<img src="./images/image-20210810182027298.png" alt="image-20210810182027298" style="zoom:50%;" />
 
 - 你可以很明显地看到,这张图片裡面被加入了杂讯,这个时候 ResNet 觉得,它看到的是 Tabby Cat,这可能才是正确答案,但无论如何 它都知道是猫科动物
 
@@ -91,7 +91,7 @@ Benign Image 丢到 Network 裡面,它的输出是猫,那我们期待说 Attacke
 
 那接下来我们在讲為什麼这件事会发生之前,我们来看看刚才所说的攻击,究竟是如何做到的,我们到底是**怎麼加入了一个非常微小的杂讯,可以让 Network 產生非常错误的结果**呢
 
-![](./images/image-20210810224455361.png)
+<img src="./images/image-20210810224455361.png" alt="image-20210810224455361" style="zoom:67%;" />
 
 而这个是我们的 Network,它是一个 Function 我们叫它 f,这个 Function 输入是一张图片,我们叫它 $x^0$,它的输出是一个 Distribution,这个是这个分类的结果,那我们叫它 $y^0$
 
@@ -101,7 +101,7 @@ Benign Image 丢到 Network 裡面,它的输出是猫,那我们期待说 Attacke
 
   我们现在要做的目标就是,我们要**找到一张新的图片**
 
-  ![](./images/image-20210810225816985.png)
+  <img src="./images/image-20210810225816985.png" alt="image-20210810225816985" style="zoom:50%;" />
 
   这张新的图片呢 我们用 x 来表示,当我们把 x 丢到这个 Network f 的时候,它的输出是 y,我们正确的答案叫做 ŷ,我们**希望 y 跟 ŷ 它的差距越大越好**
 
@@ -115,7 +115,7 @@ Benign Image 丢到 Network 裡面,它的输出是猫,那我们期待说 Attacke
 
 - 如果是有目标的攻击的话
 
-  ![](./images/image-20210810230324810.png)
+  <img src="./images/image-20210810230324810.png" alt="image-20210810230324810" style="zoom:50%;" />
 
   那我们会先设定好我们的目标,我们用 $y^{target}$ 来代表我们的目标,那 ŷ 其实是一个 One-Hot Vector,$y^{target}$ 也是一个 One-Hot Vector,那我们现在希望这个 **y 不止跟 ŷ 越远越好,我们还要跟 $y^{target}$ 越近越好**
 
@@ -145,8 +145,8 @@ Benign Image 丢到 Network 裡面,它的输出是猫,那我们期待说 Attacke
 好 那怎麼计算 x 跟 $x^0$​ 之间的差距,它们之间的距离呢?d($x^0$​,x) 就代表它们之间的距离
 
 有各式各样不同的算法,那為了等一下符号的方便起见呢,我们假设 **x 是一个向量**,因為它是个图片 所以它是个向量嘛,**$x^0$​​ 是另外一张图片,它也是一个向量**,这两个向量**相减 我们叫它 Δx**
-
-![](./images/image-20210810231653104.png)
+./images/image-20210810231653104.png
+<img src="https://gitee.com/unclestrong/deep-learning21_note/raw/master/imgbed/image-20210810231653104.png" alt="image-20210810231653104" style="zoom:50%;" />
 
 那这个距离啊
 
@@ -164,16 +164,16 @@ Benign Image 丢到 Network 裡面,它的输出是猫,那我们期待说 Attacke
 这是一张图片,假设这个图片只有四个 Pixel 而已,现在啊,我们把这张图片做两种不同的变化
 
 第一个变化是这四个 Pixel 的顏色,都做了非常小的改变
-
-![](./images/image-20210810232148760.png)
+./images/image-20210810232148760.png
+<img src="https://gitee.com/unclestrong/deep-learning21_note/raw/master/imgbed/image-20210810232148760.png" alt="image-20210810232148760" style="zoom:67%;" />
 
 第二种变化是只有右下角这个 Pixel,它的顏色被改了,而且改的是比较大的
-
-![](./images/image-20210810232209129.png)
+./images/image-20210810232209129.png
+<img src="https://gitee.com/unclestrong/deep-learning21_note/raw/master/imgbed/image-20210810232209129.png" alt="image-20210810232209129" style="zoom:67%;" />
 
 如果我们今天在计算 L2 的 Norm 的时候,**上面这两张图片的 L2-Norm,和下面这两张图片的 L2-Norm 是一样的**
-
-![](./images/image-20210810232311223.png)
+./images/image-20210810232311223.png
+<img src="https://gitee.com/unclestrong/deep-learning21_note/raw/master/imgbed/image-20210810232311223.png" alt="image-20210810232311223" style="zoom:50%;" />
 
 这两个变化他们的 L2 的 Norm 是一样的
 
@@ -192,16 +192,16 @@ Benign Image 丢到 Network 裡面,它的输出是猫,那我们期待说 Attacke
 ## Attack Approach 
 
 好 那我们现在已经有了,我们的 Optimization 的问题,我们要做的事情就是,我们要去 Minimize 是一个 Loss,那现在我们要找一个 x 去 Minimize 这个 Loss,但是这个 x 我们是有限制的
-
-![](./images/image-20210810232828937.png)
+./images/image-20210810232828937.png
+<img src="https://gitee.com/unclestrong/deep-learning21_note/raw/master/imgbed/image-20210810232828937.png" alt="image-20210810232828937" style="zoom:67%;" />
 
 x 跟 $x^0$​​ 它们的 Distance 要小於等於 x,那这个问题到底要怎麼解呢,我们**先把这个限制拿掉**
 
 如果把这个限制拿掉,你会不会解这个问题呢,你其实会解这个问题,因為这跟我们 **Train 一个模型其实没有什麼差别**啊,我们在第一堂课的时候,就列过这个 Optimization 的问题给你看,告诉你说你可以调你的 Network 的参数,去让一个 Loss 最小
 
 我们今天只是**把参数改成Network 的 Input 而已**
-
-![](./images/image-20210810233009320.png)
+./images/image-20210810233009320.png
+<img src="https://gitee.com/unclestrong/deep-learning21_note/raw/master/imgbed/image-20210810233009320.png" alt="image-20210810233009320" style="zoom:50%;" />
 
 你就**把 Input 那一张 Image,看作是 Network 参数的一部分**,然后 **Minimize 你的 Loss Function** 就结束了
 
@@ -224,16 +224,16 @@ x 跟 $x^0$​​ 它们的 Distance 要小於等於 x,那这个问题到底要�
 那现在我们是有限制的,我们限制说 x 跟 $x^0$​​,他们的差距一定要小於等於 $x^0$​​,那要怎麼处理这个问题呢
 
 你就在你的 Gradient Descent 裡面,再加一个 Module
-
-![](./images/image-20210810234123458.png)
+./images/image-20210810234123458.png
+<img src="https://gitee.com/unclestrong/deep-learning21_note/raw/master/imgbed/image-20210810234123458.png" alt="image-20210810234123458" style="zoom:50%;" />
 
 这个我们要跑 Gradient Descent 这个演算法,但是我们要同时考虑 $x^0$​​ 跟 x 之间的差距,怎麼考虑这件事情呢,这边呢,这个方法说穿了不值钱,非常地简单
 
 你 Update 完你的参数以后发现,你的 **$x^t$ 跟 $x^0$​​ 的差距大於 ε** 以后,你就做一个修改,**把 $x^t$​ 做个修改,把它改回符合限制就结束**了
 
 举例来说,假设我们现在用的是 L-Infinity,我们的这个 $x^0$​​ 在这个地方,那我们的 x 它可以存在的范围,就只有这个方形框框的范围
-
-![](./images/image-20210810234321048.png)
+./images/image-20210810234321048.png
+<img src="https://gitee.com/unclestrong/deep-learning21_note/raw/master/imgbed/image-20210810234321048.png" alt="image-20210810234321048" style="zoom:50%;" />
 
 因為 L-Infinity 是考虑 $x^0$​​ 跟 x 之间最大的差距,所以出了这个框架的差距就会超过 ε
 
@@ -248,22 +248,22 @@ x 跟 $x^0$​​ 它们的 Distance 要小於等於 x,那这个问题到底要�
 好 那接下来呢,我们跟大家介绍一个最简单的 Attack 的方法,也是作业裡面你要过Simple Baseline 所用的方法,
 
 这个 FGSM 它是怎麼做的呢,非常地简单,它叫做 Fast Gradient Sign Method 缩写
-
-![](./images/image-20210810235052519.png)
+./images/image-20210810235052519.png
+<img src="https://gitee.com/unclestrong/deep-learning21_note/raw/master/imgbed/image-20210810235052519.png" alt="image-20210810235052519" style="zoom:50%;" />
 
 它怎麼做呢,它就像是一个一拳超人一样,它只用一击,本来一般你在做 Gradient Descent 的时候,你要 Update 参数很多次,但是 FGSM 它厉害的地方就是,它决定只 Update 一次参数,看看能不能够一击必杀,一击就找出一个可以 Attack 成功的 Image,所以首先呢,本来要 Iterative 的去 Update 参数,但是现在不用,我们只做一次的攻击,我们只做一次的 Attack
 
 然后 G 这边呢,它做了一个特别的设计,那至於為什麼做这个特别设计,大家再去看一下原始文献,可以了解当初為什麼会有这样的想法,它说我们不要直接用这个,Gradient Descent 的值,我们给它取一个 Sign
-
-![](./images/image-20210810235129202.png)
+./images/image-20210810235129202.png
+<img src="https://gitee.com/unclestrong/deep-learning21_note/raw/master/imgbed/image-20210810235129202.png" alt="image-20210810235129202" style="zoom:50%;" />
 
 这个 Sign 是什麼意思,这个 Sign 的意思是说,如果括号裡面的值**大於 0,我们就输出 1,括号裡面的值小於 0,我们就输出 -1**,所以加了 Sign 以后,这个 **g 这个 Vector 啊,它裡面要嘛是 1 要嘛是 -1**
-
-![](./images/image-20210810235200844.png)
+./images/image-20210810235200844.png
+<img src="https://gitee.com/unclestrong/deep-learning21_note/raw/master/imgbed/image-20210810235200844.png" alt="image-20210810235200844" style="zoom:50%;" />
 
 本来如果你是算 Gradient,它的值可以是任何的 Real Number,但现在取 Sign,它要嘛是 1 要嘛是 -1,所以 g 裡面就都是 1 或者是 -1,然后 Learning Rate 呢,Learning Rate 就设 ε,就看你这边的这个 ε 设多大,这边 Learning Rate 直接设一个一模一样的,直接设个一模一样的会得到什麼效果呢
-
-![](./images/image-20210810235304739.png)
+./images/image-20210810235304739.png
+<img src="https://gitee.com/unclestrong/deep-learning21_note/raw/master/imgbed/image-20210810235304739.png" alt="image-20210810235304739" style="zoom:50%;" />
 
 会得到的效果就是,**你攻击完以后,你一定落在这个蓝色框框的四个角落的地方**,因為你想想看哦,这个 G 它要嘛是 1 要嘛是 -1,它每一维要嘛是 1 要嘛是-1,那前面会乘上 ε,所以乘完 ε 以后,你今天的 $x^0$​​,要嘛就是往右边移 ε,要嘛就是往左边移 ε,要嘛就是往上移 ε,要嘛就是往下移 ε,
 
@@ -272,8 +272,8 @@ x 跟 $x^0$​​ 它们的 Distance 要小於等於 x,那这个问题到底要�
 
 
 那有同学就会问说一击必杀有什麼好呢,如果我多攻击几次,**多跑几个 Iteration 结果不会更好吗,会更好**,所以多跑几个 Iteration,就过 Medium Baseline 就这样子
-
-![](./images/image-20210810235432175.png)
+./images/image-20210810235432175.png
+<img src="https://gitee.com/unclestrong/deep-learning21_note/raw/master/imgbed/image-20210810235432175.png" alt="image-20210810235432175" style="zoom:50%;" />
 
 所以怎麼多跑几个 Iteration,你就把本来是只跑一个 Iteration 啊,现在就多跑几个 Iteration 啊,几个 Iteration,你要跑几个 Iteration,高兴都是你自己设,就设个比如说 3 啊 5 啊 10 啊,多跑几个 Iteration
 

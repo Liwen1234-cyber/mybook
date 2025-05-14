@@ -8,7 +8,7 @@
 
 到目前為止大家学到的network,都是**一个function,你给他一个X就可以输出一个Y**
 
-![](./images/image-20210514094229524.png)
+<img src="./images/image-20210514094229524.png" alt="image-20210514094229524" style="zoom: 50%;" />
 
 我们已经学到各式各样的,network架构,可以处理不同的X 不同的Y
 
@@ -27,7 +27,7 @@
 
 那把network拿来,当作generator使用,他特别的地方是现在network的输入,会加上一个**random的variable,会加上一个Z** 
 
-![](./images/image-20210514095317896.png)
+<img src="./images/image-20210514095317896.png" alt="image-20210514095317896" style="zoom:50%;" />
 
 这个Z,是从某一个,distribution sample出来的,所以现在network它**不是只看一个固定的X**得到输出,它是**同时看X跟Z**得到输出
 
@@ -42,17 +42,17 @@ Z特别的地方是 **它是不固定的**,每一次我们用这个network的时
 
 这个distribution,这边有一个限制是,它必须够简单，够简单的意思是,我们知道它的式子长什麼样子,我们可以从这个distribution,去做sample
 
-![](./images/image-20210514100502546.png)
+<img src="./images/image-20210514100502546.png" alt="image-20210514100502546" style="zoom:50%;" />
 
 举例来说这个distribution,可以是一个function distribution,你知道function distribution的式子,你知道怎麼从,gaussian distribution做sample
 
 它也可以是uniform distribution,那uniform distribution,的式子你一定知道,你也知道怎麼从,uniform distribution做sample,所以这一个distribution,的形状你自己决定,但你只要记得说它是简单的,你能够sample它的 就结束了
 
-![](./images/image-20210514100949723.png)
+<img src="./images/image-20210514100949723.png" alt="image-20210514100949723" style="zoom:50%;" />
 
 所以每次今天,有一个X进来的时候,你都从这个distribution,裡面做一个sample,然后得到一个output,随著你sample到的Z不同,Y的输出也就不一样,所以这个时候我们的**network输出,不再是单一一个固定的东西,而变成了一个复杂的distribution**,同样的X作為输入,我们这边每次sample到,不一样的东西,通过一个复杂的network转换以后,它就会变成一个复杂的分布,你的network的输出,就变成了一个distribution
 
-![](./images/image-20210514101010215.png)
+<img src="./images/image-20210514101010215.png" alt="image-20210514101010215" style="zoom:50%;" />
 
 那这种**可以输出,一个distribution的network,我们就叫它==generator==**
 
@@ -66,7 +66,7 @@ Z特别的地方是 **它是不固定的**,每一次我们用这个network的时
 
 这边举的例子,是video prediction,就是给机器一段的影片,然后它要预测接下来会发生什麼事情
 
-![](./images/image-20210514102132614.png)
+<img src="./images/image-20210514102132614.png" alt="image-20210514102132614" style="zoom:50%;" />
 
 那这个例子,是我从上面这个,github的连结 https://github.com/dyelax/Adversarial_Video_Generation找到的,那在这个连结裡面 它要做的事情,是去预测小精灵这个游戏,接下来的游戏画面会长什麼样子
 
@@ -82,7 +82,7 @@ video prediction,那你就**给你的network过去的游戏画面,然后它的�
 
 如果你用我们学过的network training的方法,Supervise learning train下去,你得到的结果可能会是这个样子,这个是机器预测出来的结果(第三部分 Non-Adversarial)
 
-![5_Comparison.png]]
+![5_Comparison](C:\Users\10131\Desktop\F\ML_21\Notes_MIT\Notes_pic\5_Comparison.gif)
 
 所以你看有点模模糊糊的,而且中间还会**变换角色**,神奇的是那个小精灵,走著走著 居然就**分裂**了,它走到转角的时候,看它走到转角的时候就分裂成两隻了,走到这边又再分裂成两隻了,有时候走著走著还会**消失**
 
@@ -103,7 +103,7 @@ video prediction,那你就**给你的network过去的游戏画面,然后它的�
 
 那有什麼样的可能性,可以处理这个问题,一个可能性就是,让**机器的输出是有机率的**,让它不再是输出单一的输出,让它输出一个机率的分佈
 
-![](./images/image-20210514111707512.png)
+<img src="./images/image-20210514111707512.png" alt="image-20210514111707512" style="zoom: 50%;" />
 
 当我们给这个network,一个distribution的时候,当我们给这个network input,加上一个Z的时候,它的输出就变成了一个distribution,它的输出就不再是固定的
 
@@ -119,7 +119,7 @@ video prediction,那你就**给你的network过去的游戏画面,然后它的�
 
 举例来说,画图这件事情,可能就需要一些创造力
 
-![](./images/image-20210514135444124.png)
+<img src="./images/image-20210514135444124.png" alt="image-20210514135444124" style="zoom:67%;" />
 
 举例来说假设叫一个人,画一个红眼睛的角色,那每个人可能画出来,或者心裡想的动画人物可能都不一样,有哪些角色是红眼睛的
 
@@ -129,7 +129,7 @@ video prediction,那你就**给你的network过去的游戏画面,然后它的�
 
 那还有什麼样的例子,会需要用到创造力,举例来说 对话这件事情
 
-![](./images/image-20210514135546716.png)
+<img src="./images/image-20210514135546716.png" alt="image-20210514135546716" style="zoom:67%;" />
 
 举例来说假设你跟另外一个人说,**你知道辉夜是谁吗**,其实有很多不同的答案对不对
 
@@ -141,9 +141,9 @@ video prediction,那你就**给你的network过去的游戏画面,然后它的�
 
 generative的model,其中一个非常知名的,就是==generative adversarial network==,它的缩写 是==GAN==,那我们这一堂课主要就是介绍,generative adversarial network,发音就是 gàn
 
-它其实有很多各式各样的变形,你可以在网路上找到,一个GAN的[动物园.png]],找到一个GAN的zoo
+它其实有很多各式各样的变形,你可以在网路上找到,一个GAN的[动物园](https://github.com/hindupuravinash/the-gan-zoo),找到一个GAN的zoo
 
-![](./images/image-20210514140643141.png)
+<img src="./images/image-20210514140643141.png" alt="image-20210514140643141" style="zoom:50%;" />
 
 那个GAN的动物园裡面,收集了超过五百种以上的GAN,每次有人发明了,一个新的GAN的时候,他就会在前面加一个英文的字母,但是英文的字母是有限的,很快的英文的字母就被用尽了
 
@@ -153,13 +153,13 @@ generative的model,其中一个非常知名的,就是==generative adversarial ne
 
 我们现在要举的例子,就是要让机器生成动画人物的,二次元人物的脸,我们举的例子是Unconditional的generation,unconditional generation,就是我们这边先把X拿掉
 
-![](./images/image-20210514141213358.png)
+<img src="./images/image-20210514141213358.png" alt="image-20210514141213358" style="zoom: 50%;" />
 
 那之后我们在讲到conditional,generation的时候,我们会再把X加回来,这边先把X拿掉,所以我们的generator它输入就是Z,它的输出就是Y
 
 那输入的这个Z是什麼
 
-![](./images/image-20210514141421672.png)
+<img src="./images/image-20210514141421672.png" alt="image-20210514141421672" style="zoom: 50%;" />
 
 我们都假设**Z是从一个normal distribution里sample出来的向量**,那这个向量通常会是一个,**low-dimensional**的向量,它的维度其实是你自订的,你自己决定的,那通常你就订个50100,的大小,它是你自己决定的
 
@@ -171,7 +171,7 @@ generative的model,其中一个非常知名的,就是==generative adversarial ne
 
 当你输入的向量不同的时候,你的输出就会跟著改变,所以你从这个,normal distribution裡面,Sample Z出来 Sample到不同的Z,那你输出来的Y都不一样,那我们希望说不管你这边sample到什麼Z,输出来的都是动画人物的脸
 
-![](./images/image-20210514141653002.png)
+<img src="./images/image-20210514141653002.png" alt="image-20210514141653002" style="zoom:50%;" />
 
 那讲到这边可能有同学会问说,这边為什麼是,normal distribution,不能是别的吗？
 
@@ -185,13 +185,13 @@ generative的model,其中一个非常知名的,就是==generative adversarial ne
 
 discriminator它的作用是,它会拿一张图片作為输入,它的输出是一个数值,这个discriminator本身,也是一个neural network,它**就是一个function**
 
-![](./images/image-20210514142817844.png)
+<img src="./images/image-20210514142817844.png" alt="image-20210514142817844" style="zoom:67%;" />
 
 它输入一张图片,它的输出就是一个数字,它输出就是一个scalar,这个**scalar越大**就代表说,现在输入的这张图片,**越像是真实的二次元人物的图像**
 
 举例来说
 
-![](./images/image-20210514142941642.png)
+<img src="./images/image-20210514142941642.png" alt="image-20210514142941642" style="zoom:67%;" />
 
 这个是二次元人物的头像,那就输出1 假设1是最大的值,那这个也是画得很好的就输出1,这个不知道在画什麼就输出0.1,这个不知道在画什麼就输出0.1
 
@@ -203,17 +203,17 @@ discriminator它的作用是,它会拿一张图片作為输入,它的输出是�
 
 為什麼要多一个discriminator,这边就讲一个故事,这个故事跟演化是有关的
 
-![](./images/image-20210514143515836.png)
+![image-20210514143515836](./images/image-20210514143515836.png)
 
 这不是一片枯叶,它其实枯叶蝶的拟态,那枯叶蝶长得跟枯叶非常像,它可以躲避天敌,那枯叶蝶的祖先,其实也不是长得像枯叶一样,也许他们原来也是五彩斑斕,但為什麼他们变得长得像枯叶一样,是因為有天择的压力
 
-![](./images/image-20210514143603718.png)
+<img src="./images/image-20210514143603718.png" alt="image-20210514143603718" style="zoom:50%;" />
 
 这个不是普通的麻雀 这个是波波,这个波波会吃枯叶蝶的祖先,在天择的压力之下,枯叶蝶就变成棕色的
 
 因為波波它只会吃彩色的东西,它看到彩色的东西知道是蝴蝶,就把它吃掉,那看到棕色的东西,那个波波就觉得是枯叶就可以骗过它,所以枯叶蝶的祖先,在天择的压力之下,顏色就变成是棕色的
 
-![](./images/image-20210514143859501.png)
+<img src="./images/image-20210514143859501.png" alt="image-20210514143859501" style="zoom:50%;" />
 
 但是波波也是会演化的,所以波波為了要吃到这些枯叶蝶,你有偽装成枯叶的枯叶蝶,所以它也进化了,波波进化以后就是比比鸟这样
 
@@ -223,7 +223,7 @@ discriminator它的作用是,它会拿一张图片作為输入,它的输出是�
 
 这个就是大比鸟,那大比鸟可能可以分辨,这个枯叶蝶跟枯叶的不同
 
-![](./images/image-20210514143952276.png)
+<img src="./images/image-20210514143952276.png" alt="image-20210514143952276" style="zoom:50%;" />
 
 那这个是演化的故事,对应到GAN 枯叶蝶就是generator,那它的天敌就是discriminator,
 
@@ -231,7 +231,7 @@ discriminator它的作用是,它会拿一张图片作為输入,它的输出是�
 
 那现在我们generator要做的事情,是画出二次元的人物,那generator怎麼学习画出二次元的人物,它学习的过程是这样子
 
-![](./images/image-20210514145420403.png)
+<img src="./images/image-20210514145420403.png" alt="image-20210514145420403" style="zoom: 50%;" />
 
 **第一代**的**generator**它的参数几乎是,它的参数完全是随机的,所以它根本就不知道,要怎麼画二次元的人物,所以它画出来的东西就是一些,莫名其妙的杂讯
 
@@ -239,7 +239,7 @@ discriminator它的作用是,它会拿一张图片作為输入,它的输出是�
 
 接下来**generator就调整它的裡面的参数**,Generator就**进化**了,它调整它裡面的参数 它调整的目标,是為了要骗过discriminator,假设discriminator,判断一张图片是不是真实的依据,看的是有没有眼睛,那generator就產生眼睛出来,给discriminator看
 
-![](./images/image-20210514150509923.png)
+<img src="./images/image-20210514150509923.png" alt="image-20210514150509923" style="zoom: 50%;" />
 
 所以generator產生眼睛出来,然后他可以骗过第一代的,discriminator,但是**discriminator也是会进化的**,所以第一代的discriminator,就变成第二代的discriminator,第二代的discriminator,会试图分辨这一组图片,跟真实图片之间的差异,它会试图去找出这两者之间的差异
 
@@ -247,7 +247,7 @@ discriminator它的作用是,它会拿一张图片作為输入,它的输出是�
 
 接下来第三代的generator,就会想办法,去骗过第二代的discriminator,既然第二代的discriminator是看,有没有嘴巴来判断是不是真正的,二次元人物,那第三代的generator就会把嘴巴加上去
 
-![](./images/image-20210514150713503.png)
+<img src="./images/image-20210514150713503.png" alt="image-20210514150713503" style="zoom:50%;" />
 
 那discriminator也会逐渐的进步,它会越来越严苛,然后期待discriminator越来越严苛,Generator產生出来的图片,就可以越来越像二次元的人物,那因為这边有一个generator,有一个discriminator,它们彼此之间是会互动
 
@@ -259,7 +259,7 @@ discriminator它的作用是,它会拿一张图片作為输入,它的输出是�
 
 所以generator,跟discriminator的关係啊,用动画来说就是写作敌人唸做朋友,就跟进藤光还有塔矢亮一样,或者是跟Naruto跟Sasuke一样
 
-![](./images/image-20210514150857863.png)
+<img src="./images/image-20210514150857863.png" alt="image-20210514150857863" style="zoom:50%;" />
 
 ## Algorithm
 
@@ -271,7 +271,7 @@ network在训练前,你要先初始化它的参数,所以我们这边就假设�
 
 初始化完以后,接下来训练的**第一步**是,**定住你的generator,只train你的discriminator**
 
-![](./images/image-20210514153526036.png)
+<img src="./images/image-20210514153526036.png" alt="image-20210514153526036" style="zoom:50%;" />
 
 那因為一开始你的**generator的参数,是随机初始化的**,那如果你又**固定住你的generator**,那它根本就什麼事都没有做啊,它的参数都是随机的啊
 
@@ -281,13 +281,13 @@ network在训练前,你要先初始化它的参数,所以我们这边就假设�
 
 好那你会有一个database,这个database裡面,有很多二次元人物的头像,这个去网路上爬个图库就有了,这个不难蒐集，从这个图库裡面,去sample一些,二次元人物的头像出来
 
-![](./images/image-20210514153710112.png)
+<img src="./images/image-20210514153710112.png" alt="image-20210514153710112" style="zoom:50%;" />
 
 接下来你就拿真正的二次元人物头像,跟generator產生出来的结果,去训练你的discriminator,**discriminator它训练的目标是要分辨,真正的二次元人物,跟generator產生出来的二次元人物**,它们之间的差异
 
 讲得更具体一点啊,你实际上的操作是这个样子,你可能会把这些真正的人物都标1,Generator產生出来的图片都标0
 
-![](./images/image-20210514154106180.png)
+<img src="./images/image-20210514154106180.png" alt="image-20210514154106180" style="zoom: 50%;" />
 
 接下来对於discriminator来说,这就是一个**分类的问题**,或者是**regression的问题**
 
@@ -302,13 +302,13 @@ network在训练前,你要先初始化它的参数,所以我们这边就假设�
 
 拟人化的讲法是,我们就**让generator想办法去骗过discriminator**,因為刚才discriminator,已经学会分辨,真图跟假图的差异,真图跟生成的图片的差异,Generator如果可以骗过,discriminator它可以產生一些图片,**Discriminator觉得,是真正的图片的话,那generator產生出来的图片,可能就可以以假乱真**
 
-![](./images/image-20210514155047274.png)
+<img src="./images/image-20210514155047274.png" alt="image-20210514155047274" style="zoom:50%;" />
 
 它实际上的操作方法是这样子,你有一个generator,generator吃一个向量作為输入,从gaussian distribution sample,出来的向量作為输入,然后產生一个图片
 
 接下来我们把这个图片丢到,Discriminator裡面,Discriminator会给这个图片,一个分数,那generator它训练的目标,就Discriminator参数是固定的,我们只会调整generator的参数
 
-![](./images/image-20210514155256990.png)
+<img src="./images/image-20210514155256990.png" alt="image-20210514155256990" style="zoom:50%;" />
 
 Generator训练的目标,是要Discriminator的输出值,越大越好,那因為Discriminator,它本来训练的时候,它训练的目标它可以做的事情就是,看到好的图片就给它大的分数,如果generator可以调整参数之后,输出来的图片Discriminator,会给予高分,那意味著generator產生出来的图片,是比较真实的
 
@@ -316,7 +316,7 @@ Generator训练的目标,是要Discriminator的输出值,越大越好,那因為D
 
 举例来说generator,如果是五层的network,Discriminator如果是五层的network,把它们接起来我们就把它当作是一个,十层的network来看待
 
-![](./images/image-20210514155446050.png)
+<img src="./images/image-20210514155446050.png" alt="image-20210514155446050" style="zoom:50%;" />
 
 而这个十层的network裡面,**某一个hidden layer它的输出很宽**,它的输出的这个dimension呢,就跟图片裡面pixel的数目,乘三是一样的,你把这个hidden layer的输出呢,做一下整理以后 就会变成一张图片,所以这整个大的network裡面,其中某一层的输出就是代表一张图片
 
@@ -343,7 +343,7 @@ Generator训练的目标,是要Discriminator的输出值,越大越好,那因為D
 
 接下来就是**反覆的训练**,discriminator跟generator,训练完discriminator以后,固定住discriminator,训练generator,训练完generator以后,再用generator去產生更多的,新的產生出来的图片,再给discriminator做训练,训练完discriminator以后,再去训练generator,反覆的去执行
 
-![](./images/image-20210514160430659.png)
+<img src="./images/image-20210514160430659.png" alt="image-20210514160430659" style="zoom:50%;" />
 
 所以你是训练一阵子discriminator,训练一阵子generator,训练一阵子discriminator,再训练一阵子generator,Generator跟discriminator,它们是反覆的去进行训练,当其中一种进行训练的时候,另外一个就固定住,那你期待discriminator跟generator,都可以做得越来越好,
 
@@ -355,35 +355,35 @@ Generator训练的目标,是要Discriminator的输出值,越大越好,那因為D
 
 好那我训练了,我把那个generator呢,Update了一百次以后,所谓generator update 一百次,的意思是说,就是discriminator train一下,generator train一下,discriminator train一下,generator train一下,这样往返一百次以后得到的结果,是这样子
 
-![](./images/image-20210514160742613.png)
+<img src="./images/image-20210514160742613.png" alt="image-20210514160742613" style="zoom: 50%;" />
 
 嗯 不知道在做些什麼,但我接下来呢就再等了一下,Train 一千次的
 
-![](./images/image-20210514160837617.png)
+<img src="./images/image-20210514160837617.png" alt="image-20210514160837617" style="zoom:50%;" />
 
 discriminator 跟generator,各自训练这样反覆一千次以后,机器就產生了眼睛,机器知道说 人脸就是要有两个眼睛,所以它就把眼睛标上去,训练到两千次的时候,你发现嘴巴就出来了
 
-![](./images/image-20210514160903231.png)
+<img src="./images/image-20210514160903231.png" alt="image-20210514160903231" style="zoom:50%;" />
 
 训练到五千次的时候,已经开始有一点人脸的样子了,而且你发现说机器学到说,动画人物啊,就是要有那个水汪汪的大眼睛,所以他每个人的眼睛呢,都涂得非常的大,涂有反白 代表说反光,是水汪汪的大眼睛
 
-![](./images/image-20210514160926571.png)
+<img src="./images/image-20210514160926571.png" alt="image-20210514160926571" style="zoom:50%;" />
 
 这个是训练一万次以后的结果,有发现形状已经有出来了,只是有点模糊,很多地方有点晕开的感觉,好像是水彩画的样子,
 
-![](./images/image-20210514161000974.png)
+<img src="./images/image-20210514161000974.png" alt="image-20210514161000974" style="zoom:50%;" />
 
 接下来这个是,update两万次的结果
 
-![](./images/image-20210514161024546.png)
+<img src="./images/image-20210514161024546.png" alt="image-20210514161024546" style="zoom:50%;" />
 
 这个是update五万次的结果
 
-![](./images/image-20210514161043131.png)
+<img src="./images/image-20210514161043131.png" alt="image-20210514161043131" style="zoom:50%;" />
 
 我后来就停在五万次的地方,那其实你在作业裡面,是有机会做得比这个结果更好的,这个是助教是学生的时候做的结果啦,那如果是最好,可能可以做到这个样子
 
-![](./images/image-20210514161107689.png)
+<img src="./images/image-20210514161107689.png" alt="image-20210514161107689" style="zoom:50%;" />
 
 那你会发现说这些人物呢都还不错,只是有一些比较,还是会有偶尔会有一些崩坏啦,但乍看之下呢可能比一些作画画风,会崩坏的动画公司,比如说一些妹非妹做的还要好一些了,
 
@@ -395,13 +395,13 @@ https://www.gwern.net/images/gan/stylegan/2019-02-11-stylegan-danbooru2017faces-
 
 我在网路上呢,找到了一个这样子的结果,这个是用StyleGAN做的,那用StyleGAN做起来,可以做到这个样子
 
-![](./images/image-20210514161901892.png)
+<img src="./images/image-20210514161901892.png" alt="image-20210514161901892" style="zoom:67%;" />
 
 我觉得非常惊人喔,很惊人喔 这些都是,用GAN產生出来的人物,这边他还產生了异色瞳,我不知道算是画错呢还是它特意呢,要產生异色瞳,对异色瞳,就一眼白眼一眼血轮眼这样子的概念,
 
 好那除了產生动画人物以外,当然也可以產生真实的人脸,有一个技术叫做**progressive GAN**,它可以產生非常高清的人脸
 
-![](./images/image-20210514161939598.png)
+<img src="./images/image-20210514161939598.png" alt="image-20210514161939598" style="zoom:50%;" />
 
 上下两排都是机器產生的,好所以这个显然progressive GAN,它有办法產生以假乱真的人脸
 
@@ -415,11 +415,11 @@ https://www.gwern.net/images/gan/stylegan/2019-02-11-stylegan-danbooru2017faces-
 
 你还可以把输入的向量,做内插 做interpolation,把输入的向量做内插以后,会发生什麼事呢,你就**会看到两张图片之间连续的变化**
 
-![](./images/image-20210514162210347.png)
+<img src="./images/image-20210514162210347.png" alt="image-20210514162210347" style="zoom:50%;" />
 
 举例来说你输入一个向量,这边產生一个看起来非常严肃的男人,你输入一个向量,这边產生一个笑口常开的女人,那你输入这两个向量中间的,interpolation它的内插,你就看到这个男人逐渐的笑了起来,或者是呢这边有更多的例子
 
-![](./images/image-20210514162243414.png)
+<img src="./images/image-20210514162243414.png" alt="image-20210514162243414" style="zoom:50%;" />
 
 你输入一个向量,这个输入的向量这边是假的啦,但这边產生出来的图片是真的,你输入一个向量,这边產生一个往左看的人,你输入一个向量,这边產生一个往右看的人,你把往左看的人跟往右看的人,做interpolation会发生什麼事呢
 
@@ -431,12 +431,12 @@ https://www.gwern.net/images/gan/stylegan/2019-02-11-stylegan-danbooru2017faces-
 
 然后就结束,然后就投了一个paper,那但是他所谓的成功啊,其实是长这个样子的
 
-![](./images/image-20210514162437629.png)
+<img src="./images/image-20210514162437629.png" alt="image-20210514162437629" style="zoom:50%;" />
 
 在14年的时候,我第一看到这个结果的时候,我觉得哇靠还真的可以產生图片,太厉害了,当然如果从今天的角度来看,你会觉得说 这样你也算是有成功吗,今天比如说你用,BigGAN產生出来的图片,可以做到像这个样子
 
-![](./images/image-20210514162501384.png)
+<img src="./images/image-20210514162501384.png" alt="image-20210514162501384" style="zoom:33%;" />
 
 这些图片都是机器生成的,当然仔细看一下,还是可以发现一些破绽,举例来说这隻狗 它多了一个脚啊,或者是这个杯子,它左右没有很对称啊,它有点歪歪的,但这些图片都是机器生成的,那有时候机器,也会產生一些幻想中的角色,举例来说机器就產生了一个网球狗啊,
 
-![](./images/image-20210514162536568.png)
+<img src="./images/image-20210514162536568.png" alt="image-20210514162536568" style="zoom:67%;" />

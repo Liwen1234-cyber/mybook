@@ -4,25 +4,25 @@
 
 我会先解释 Critic 是什麽,然后我们再来讲说,这个 Critic 对 Learn Actor 这个东西,有什麽样的帮助
 
-![](./images/image-20211027150436777.png)
+![image-20211027150436777](./images/image-20211027150436777.png)
 
 **Critic 它的工作是要来评估一个 Actor 的好坏**,就你现在已经有一个 Actor,它的参数叫 θ,那 Critic 的工作就是,它要评估说如果这个 Actor,它看到某个样子的 Observation,看到某一个游戏画面,接下来它**可能会得到多少的 Reward**
 
 那 Critic 有好多种不同的变形,有的 Critic 是只看游戏画面来判断,有的 Critic 是说采取某,看到某一个游戏画面,接下来又发现 Actor 採取某一个 Action,在这两者都具备的前提下,那接下来会得到多少 Reward
 
-![](./images/image-20211027150753604.png)
+![image-20211027150753604](./images/image-20211027150753604.png)
 
 那这样讲,还是有点抽象,所以我们讲的更具体一点,我们直接介绍一个,我们等一下会真的被用上,你在作业裡面真的派得上用场的,这个 Critic 叫做 ==Value Function==,那这个 Value Function,我们这边用大写的 $V^θ(S)$ 来表示
 
 它的**输入是 s**,也就是现在游戏的状况,比如说游戏的画面,那这边要特别注意一下 V,它是有一个**上标 θ** 的
 
-![](./images/image-20211027151809732.png)
+![image-20211027151809732](./images/image-20211027151809732.png)
 
 这个上标 θ 代表这个 V ,它观察的对象是 θ 这个 Actor,它观察的这个 Actor 它的参数是 θ,那这个 V ,$V^θ $就是一个 Function,它的输入是 S,那输出是一个 Scalar,这边用 $V^θ(S)$ 来表示这一个 Scalar
 
 那 Scalar这个数值的含义是,这一个 Actor θ,放在上标的这个 Actor θ,它如果看到 Observation S,如果看到输入的这个 S 的游戏画面,接下来它得到的,Discounted Cumulated Reward 是多少
 
-![](./images/image-20211027152150748.png)
+![image-20211027152150748](./images/image-20211027152150748.png)
 
 这个的 Value Function 它的工作,就是要去估测说,对某一个 Actor 来说,如果现在它已经看到某一个游戏画面,那接下来会得到的,Discounted Cumulated Reward 应该是多少
 
@@ -32,13 +32,13 @@
 
 举例来说,假设你给 Value Function 这一个游戏画面,它就要直接预测说,看到这个游戏画面,接下来应该会得到很高的 Cumulated Reward,为什麽,因为游戏,这个游戏画面裡面还有很多的外星人
 
-![](./images/image-20211027152406211.png)
+![image-20211027152406211](./images/image-20211027152406211.png)
 
 假设你的这个 Actor 它很厉害,它是一个好的 Actor,它是能杀得了外星人的 Actor,那接下来它就会得到很多的 Reward
 
 那像这个画面,这已经是游戏的中盘
 
-![](./images/image-20211027152442705.png)
+![image-20211027152442705](./images/image-20211027152442705.png)
 
 游戏的残局,游戏快结束了,剩下的外星人没几隻了,那可以得到的 Reward 就比较少,那这些数值,你把整场游戏玩完你也会知道,但是 Value Function 想要做的事情,就是未卜先知,在游戏没玩完之前,就先猜应该会得到多少的,Discounted Cumulated Reward
 
@@ -52,7 +52,7 @@
 
 那在讲 Critic 要怎麽被使用,在 Reinforcement Learning 之前,我们来讲一下 Critic 是怎麽被训练出来的,那有两种常用的训练方法,第一种方法,是 Monte Carlo Based 的方法,这边缩写成 MC
 
-![](./images/image-20211027153610879.png)
+![image-20211027153610879](./images/image-20211027153610879.png)
 
 如果是用 MC 的方法的话,你就**把 Actor 拿去跟环境互动**,互动很多轮,那 Actor 跟环境互动以后,Actor 去玩这个游戏以后,你就会得到一些游戏的记录
 
@@ -74,7 +74,7 @@
 
 这边举一个例子,我们先来看一下,$ V^θ(s_t)$ 跟 $ V^θ(s_{t+1})$ 它们之间的关係
 
-
+![image-20211027155628077](C:\Users\10131\AppData\Roaming\Typora\typora-user-images\image-20211027155628077.png)
 
 我们说$ V^θ(s_t)$,就是看到 $s_t$之后的 Cumulated Reward,所以$ V^θ(s_t)$ 就是 $rt + γr_{t+1} + γ²r_{t+2}$ 以此类推
 
@@ -86,7 +86,7 @@
 
 我们现在,有这样一笔资料以后,我们就可以拿来训练我们的 Value Function,希望 Value Function 可以满足,这边我们所写的这个式子
 
-![](./images/image-20211027160335508.png)
+![image-20211027160335508](./images/image-20211027160335508.png)
 
 那什麽意思,就假设我们现在有这样一笔资料,我们就把 St,代到 Value Function 裡面得到$ V^θ(s_t)$,我们有 $ s_{t+1}$ 代到 Value Function 裡面,得到 $ V^θ(s_{t+1})$,虽然我们不知道$ V^θ(s_t)$ 是多少,我们也不知道 $ V^θ(s_{t+1})$ 应该是多少,我们没有这两个东西的标准答案,但我们**知道它们相减应该是多少**
 
@@ -102,7 +102,7 @@
 
 那这边,就举一个例子,这个例子是这样子的,我们观察某一个 Actor,这个 Actor ,跟环境互动玩了某一个游戏八次,当然这边为了简化计算,我们假设这些游戏都非常简单,都一个回合,就到两个回合就结束了
 
-![](./images/image-20211029140442476.png)
+![image-20211029140442476](./images/image-20211029140442476.png)
 
 - 所以那个 Actor 第一次玩游戏的时候,它先看到 $s_a$ 这个画面,得到 Reware 0
 
@@ -130,13 +130,13 @@
 
 但如果你**用 TD,你算出来的,可会是不一样的结果**
 
-![](./images/image-20211029141053625.png)
+![image-20211029141053625](./images/image-20211029141053625.png)
 
 因为 $ V^θ(s_a) $ 跟 $ V^θ(s_b) $ 中间,有这样子的一个关係,这个 $ V^θ(s_a) $ 应该要等于 $ V^θ(s_b) $ 加上 Reward,就是你在看到 $s_a$ 之后得到 Reward,接下来进入 $s_b$,那这个  $ V^θ(s_a) $,应该等于 $ V^θ(s_b) $ 加上这一个 Reward
 
 所以按照这个想法,$ V^θ(s_b) $ 是3/4,这个 r 是 0,但 $ V^θ(s_a) $ 应该是 3/4 对不对,按照 TD 的想法,$ V^θ(s_a) $ 应该是 3/4
 
-![](./images/image-20211029141247164.png)
+![image-20211029141247164](./images/image-20211029141247164.png)
 
 你可能会问说,那到底 Monte-Carlo 跟 TD,谁算出来是对的,**都可以说是对的,它们只是背后的假设是不同的**,对 Monte-Carlo 而言,它就是直接看我们观察到的资料,$s_a$ 之后接 $s_b$ 得到的,Cumulated Reward 就是 0,所以 $ V^θ(s_a) $ 当然是 0
 
@@ -154,11 +154,11 @@
 
 这个在 s1 执行 A1 的时候多好,得到一个分数 A1,那我们说这个 A1 ,它是 Cumulative 的 Reward,那上週也有同学问到说,难道 Cumulative 的 Reward,不需要做 Normalization 吗,需要做 Normalization,所以我们说,这个减掉一个 b 当做 Normalization
 
-![](./images/image-20211029144710982.png)
+![image-20211029144710982](./images/image-20211029144710982.png)
 
 但这个 b 的值应该设多少,就不好说,那我这边 告诉大家说,一个 V 合理的设法,是把它设成 $V^θ(S)$
 
-![](./images/image-20211029144900910.png)
+![image-20211029144900910](./images/image-20211029144900910.png)
 
 你现在 Learn 出这个 Critic 以后,这个 Critic 给它一个 Step,它就会产生一个分数,那你把这个分数 当做 B,,所以 G1' 就是要减掉 Vθ(s1),G2' 就是减掉 Vθ(s2),以此类推
 
@@ -168,7 +168,7 @@
 
 我们已经知道说这个 At 代表s，a 这个 Pair 有多好,我们是用 G' 减掉$ V^θ(s_t)$,来定义这个 A,好 那我们先来看一下这个$ V^θ(s_t)$,到底代表什麽意思
 
-![](./images/image-20211030105849219.png)
+![image-20211030105849219](./images/image-20211030105849219.png)
 
 $ V^θ(s_t)$是看到某一个画面 St 以后,接下来会得到的 Reward
 
@@ -182,7 +182,7 @@ $ V^θ(s_t)$是看到某一个画面 St 以后,接下来会得到的 Reward
 
 所以看到 St 之后,接下来有很多的可能 很多的可能,所以你会算出不同的 Cumulative 的 Reward
 
-![](./images/image-20211030110507941.png)
+![image-20211030110507941](./images/image-20211030110507941.png)
 
 那当然如果你有 Discount 的话,就是 Discounted 的 Cumulative Reward,那我们这边,是把 Discount 这件事情暂时省略掉，那**把这些可能的结果平均起来,就是$ V^θ(s_t)$**,这是$ V^θ(s_t)$ 这一项的含义
 
@@ -190,7 +190,7 @@ $ V^θ(s_t)$是看到某一个画面 St 以后,接下来会得到的 Reward
 
 Gt' 这一项的含义是,在 St 这个位置 **在 St 这个画面下,执行 At 以后,接下来会得到的 Cumulative Reward**
 
-![](./images/image-20211030132243867.png)
+![image-20211030132243867](./images/image-20211030132243867.png)
 
 所以你**执行 At 以后,接下来 再一路玩下去,你会得到一个结果 得到一个 Reward,就是 Gt'**
 
@@ -208,7 +208,7 @@ Gt' 这一项的含义是,在 St 这个位置 **在 St 这个画面下,执行 At
 
 我们执行完 At 以后 得到 Reward rt,然后跑到下一个画面 $ S_{t+1}$,把这个 $ S_{t+1}$ 接下来一直玩下去,有很多不同的可能,每个可能通通会得到一个 Reward,把这些 Reward 平均起来
 
-![](./images/image-20211030132330419.png)
+![image-20211030132330419](./images/image-20211030132330419.png)
 
 把这些 Cumulative 的 Reward 平均起来,其实就是 $ V^θ(s_{t+1})$,本来你会需要玩很多场游戏,才能够得到这个平均值,
 
@@ -216,13 +216,13 @@ Gt' 这一项的含义是,在 St 这个位置 **在 St 这个画面下,执行 At
 
 而接下来 你再加上 $r_t$,接下来再加上  $r_t$,代表说在 St 这个位置採取 at
 
-![](./images/image-20211030132914309.png)
+![image-20211030132914309](./images/image-20211030132914309.png)
 
 跳到 $ S_{t+1}$以后,会得到的 Reward 的期望值,因为我们已经知道说,在 St 这边採取 at 会得到 Reward  $r_t$,再跳到 $ S_{t+1}$,然后 $ S_{t+1}$ 会得到期望值,期望的 Reward 是 $ V^θ(s_{t+1})$
 
 所以我们这边,再给它加上  $r_t$,代表说在 St 这边执行 At 以后,会得到的 Reward 的期望值,接下来再把这两个东西相减,再把  $r_t$+$ V^θ(s_{t+1})$ 减掉$ V^θ(s_t)$
 
-![](./images/image-20211030133441524.png)
+![image-20211030133441524](./images/image-20211030133441524.png)
 
 也就是我们把 G' 换成  $r_t$+$ V^θ(s_{t+1})$,再减掉$ V^θ(s_t)$
 
@@ -240,7 +240,7 @@ Gt' 这一项的含义是,在 St 这个位置 **在 St 这个画面下,执行 At
 
 这边有一个训练 Actor-Critic 的小技巧,那你在作业裡面也不妨使用这个技巧
 
-![](./images/image-20211030134011817.png)
+![image-20211030134011817](./images/image-20211030134011817.png)
 
 Actor 是一个 Network,Critic 也是一个 Network,Actor 这个 Network,是一个游戏画面当做输入,它的输出是每一个 Action 的分数,Critic 是一个游戏画面当做输入,输出是一个数值,代表接下来会得到的 Cumulative 的 Reward
 
@@ -252,7 +252,7 @@ Actor 是一个 Network,Critic 也是一个 Network,Actor 这个 Network,是一�
 
 那其实今天讲的,并不是 Reinforcement Learning 的全部,那其实在 Reinforcement Learning 裡面,还有一个犀利的做法,是直接採取 Critic,也就是**直接用 Critic,就可以决定要用什麽样的 Action**
 
-![](./images/image-20211030134218607.png)
+![image-20211030134218607](./images/image-20211030134218607.png)
 
 那其中最知名的就是,Deep Q Network (DQN),那不过 这边我们就不细讲 DQN 了,如果你真的想知道 DQN 的话,可以参考过去上课的录影,那 DQN 哇 有非常非常多的变形
 

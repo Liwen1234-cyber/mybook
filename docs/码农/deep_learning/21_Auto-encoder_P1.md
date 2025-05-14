@@ -4,7 +4,7 @@
 
 在讲 Auto-Encoder 之前,其实 Auto-Encoder 也可以算是,Self-Supervised Learning 的一环,所以再让我们用非常短的时间,来看一下Self-Supervised Learning 的 Framework
 
-![](./images/image-20210620141205144.png)
+<img src="./images/image-20210620141205144.png" alt="image-20210620141205144" style="zoom: 50%;" />
 
 首先你有大量的没有标注的资料,用这些没有标注的资料,你可以去训练一个模型,你必须发明一些不需要标注资料的任务,比如说做填空题,比如说预测下一个 Token
 
@@ -22,7 +22,7 @@
 
 Auto-Encoder 是怎麽运作的呢,那现在我们,因为刚才在讲 Self-Supervised Learning 的时候,都是用文字做例子,那现在我们换成用影像来做例子
 
-<img src="https://github.com/unclestrong/DeepLearning_LHY21_Notes/blob/master/Notes_pic/image-20210620143611383.png?raw=true]]
+<img src="https://github.com/unclestrong/DeepLearning_LHY21_Notes/blob/master/Notes_pic/image-20210620143611383.png?raw=true" style="zoom:50%;" />
 
 假设你有非常大量的图片,在 Auto-Encoder 裡面你有两个 Network,一个叫做 Encoder,一个叫做 Decoder,他们就是两个 Network
 
@@ -38,7 +38,7 @@ Auto-Encoder 是怎麽运作的呢,那现在我们,因为刚才在讲 Self-Super
 
 讲到这边你可能会发现说,这个东西 这个概念似曾相似,没错 我们在讲 ==Cycle GAN== 的时候,已经讲过了这个概念
 
-<img src="https://github.com/unclestrong/DeepLearning_LHY21_Notes/blob/master/Notes_pic/image-20210620143955632.png?raw=true]]
+<img src="https://github.com/unclestrong/DeepLearning_LHY21_Notes/blob/master/Notes_pic/image-20210620143955632.png?raw=true" style="zoom:50%;" />
 
 我们说在做 Cycle GAN 的时候,我们会需要两个 Generator,第一个 Generator,把 X Domain 的图片转到 Y Domain,另外一个 Generator,把 Y Domain 的图片转回来,希望最原先的图片,跟转完两次后的图片越接近越好
 
@@ -46,7 +46,7 @@ Auto-Encoder 是怎麽运作的呢,那现在我们,因为刚才在讲 Self-Super
 
 所以它是一个 **Unsupervised Learning 的方法**,跟 Self-Supervised 那一系列,Pre-Training 的做法一样,你**完全不需要任何的标注资料**
 
-<img src="https://github.com/unclestrong/DeepLearning_LHY21_Notes/blob/master/Notes_pic/image-20210620144344821.png?raw=true]]
+<img src="https://github.com/unclestrong/DeepLearning_LHY21_Notes/blob/master/Notes_pic/image-20210620144344821.png?raw=true" style="zoom:50%;" />
 
 那像这样子这个 Encoder 的输出,有时候我们叫它 Embedding,我们在讲 BERT 的时候,也提过 Embedding 这个词彙了,那有的人叫它 Representation,有的人叫它 Code,因为 Encoder 是一个编码嘛,所以这个有人把这个 Vector 叫做 Code,那其实指的都是同一件事情
 
@@ -56,7 +56,7 @@ Auto-Encoder 是怎麽运作的呢,那现在我们,因为刚才在讲 Self-Super
 
 你把这个图片丢到 **Encoder 以后,输出另外一个向量,这个向量你会让它比较短**,比如说只有 10 维 只有 100 维,那你拿这个新的向量来做你接下来的任务,也就是图片不再是一个很高维度的向量,它通过 Encoder 的压缩以后,变成了一个低维度的向量,你再拿这个低维度的向量,来做接下来想做的事情,这就是常见的,Auto-Encoder用在 Downstream 的任务,用在下游任务的方法
 
-<img src="https://github.com/unclestrong/DeepLearning_LHY21_Notes/blob/master/Notes_pic/image-20210620145148352.png?raw=true]]
+<img src="https://github.com/unclestrong/DeepLearning_LHY21_Notes/blob/master/Notes_pic/image-20210620145148352.png?raw=true" style="zoom:50%;" />
 
 那因为通常 Encoder 的输入,是一个维度非常高的向量,而 Encoder 的输出,也就是我们的 Embedding,Representation 或者 Code,它是一个非常低维度的向量,比如说输入是 100×100 的图片,那 100×100 那就是 1 万维的向量了,如果是 RGB 那就是 3 万维的向量
 
@@ -66,7 +66,7 @@ Auto-Encoder 是怎麽运作的呢,那现在我们,因为刚才在讲 Self-Super
 
 Dimension Reduction 这个技术,我相信你在 Machine Learning 相关的应用上,应该常常听到这个名词,那有关 Dimension Reduction 的技术,它其实牵涉的非常非常地广,所以我们这边就不再细讲,因为这门课,我们只专注在深度学习相关的技术,你可以把 Auto-Encoder 的 Encoder,当作拿来做 Dimension Reduction,那其他还有很多不是 Deep Learning Base的,不是以深度学习为基础的,Dimension Reduction的技术,我就把录影的连接留在这边
 
-![](./images/image-20210620145329493.png)
+<img src="./images/image-20210620145329493.png" alt="image-20210620145329493" style="zoom:33%;" />
 
 比如说 PCA 比如说 T-SNE,我就把录影的连结留在这边给大家参考
 
@@ -74,7 +74,7 @@ Dimension Reduction 这个技术,我相信你在 Machine Learning 相关的应�
 
 好 那 Auto-Encoder 到底好在哪裡,当我们把一个高维度的图片,变成一个低维度的向量的时候,到底带来什麽样的帮助,这让我想到神鵰侠侣的其中一段
 
-![](./images/image-20210620150818809.png)
+<img src="./images/image-20210620150818809.png" alt="image-20210620150818809" style="zoom:50%;" />
 
 神鵰侠侣裡面有一段,就是杨过进去那个绝情谷,遇到这个绝情谷谷主公孙止的弟子,就是樊一翁,樊一翁就是这个人,那樊一翁的武器是什麽,他的武器除了一根钢杖以外,还有他的鬍子,他可以去甩动他的鬍子当做一个软鞭来使用,他的鬍子甩起来有两丈那麽长,可以是一个很厉害的武器,杨过跟他打了很久都难分上下
 
@@ -84,7 +84,7 @@ Dimension Reduction 这个技术,我相信你在 Machine Learning 相关的应�
 
 好 我们来想一下,Auto-Encoder 这件事情它要做的,是**把一张图片压缩又还原回来,**但是还原这件事情为什麽能成功呢
 
-<img src="https://github.com/unclestrong/DeepLearning_LHY21_Notes/blob/master/Notes_pic/image-20210620151248207.png?raw=true]]
+<img src="https://github.com/unclestrong/DeepLearning_LHY21_Notes/blob/master/Notes_pic/image-20210620151248207.png?raw=true" style="zoom: 67%;" />
 
 你想想看假设本来图片是 3×3,3×3 很小,但我们就假设 3×3 好了,本来的图片是 3×3,你要用 9 个数值来描述一张 3×3 的图片,假设 Encoder 输出的这个向量是二维的,我们怎麽有可能从二维的向量,去还原 3×3 的图片,还原9个数值呢
 
@@ -96,7 +96,7 @@ Dimension Reduction 这个技术,我相信你在 Machine Learning 相关的应�
 
 也许你把图片蒐集起来发现说
 
-![](./images/image-20210620151538900.png)
+<img src="./images/image-20210620151538900.png" alt="image-20210620151538900" style="zoom:50%;" />
 
 它只有这样子的类型,跟这样子的类型,其他类型根本就不是,你一般在训练的时候会看到的状况,就是因为说图片的变化还是有限的
 
@@ -106,7 +106,7 @@ Dimension Reduction 这个技术,我相信你在 Machine Learning 相关的应�
 
 那所以对应到刚才这个樊一翁的例子
 
-![](./images/image-20210620151716975.png)
+<img src="./images/image-20210620151716975.png" alt="image-20210620151716975" style="zoom:50%;" />
 
 就是这个鬍子是图片複杂的状态,是原来图片的 Pixel,是原来图片的像素
 
@@ -120,7 +120,7 @@ Dimension Reduction 这个技术,我相信你在 Machine Learning 相关的应�
 
 Hinton 在 06 年的 Science 的 Paper 裡面,就有提到 Auto-Encoder 这个概念,只是那个时候用的 Network,跟今天用的 Network,当然还是有很多不一样的地方,我们讲 2006 年是 15 年前,15 年前的 Auto-Encoder 长什麽样子
 
-![](./images/image-20210620152427521.png)
+<img src="./images/image-20210620152427521.png" alt="image-20210620152427521" style="zoom:50%;" />
 
 那个时候人们**不觉得,Deep 的 Network 是 Train 得起来的**,那时候觉得说这个把 Network 叠很多很多层,然后每一层一起 Train 不太可能成功,所以那时候的信念是,**每一层应该分开训练**,所以 Hinton 用的是一个叫做,Restricted Boltzmann Machine 的技术,缩写是 RBM
 
@@ -142,7 +142,7 @@ Hinton 在 06 年的 Science 的 Paper 裡面,就有提到 Auto-Encoder 这个�
 
 那 Auto-Encoder 还有一个常见的变形,叫做 De-Noising 的 Auto-Encoder
 
-<img src="https://github.com/unclestrong/DeepLearning_LHY21_Notes/blob/master/Notes_pic/image-20210620154032761.png?raw=true]]
+<img src="https://github.com/unclestrong/DeepLearning_LHY21_Notes/blob/master/Notes_pic/image-20210620154032761.png?raw=true" style="zoom: 67%;" />
 
 De-Noising 的 Auto-Encoder 是说,我们把原来要输进去给 Encoder 的图片,**加上一些杂讯**,就自己随便找一个杂讯把它加进去,然后一样通过 Encoder,一样再通过 Decoder,试图还原原来的图片
 
@@ -158,7 +158,7 @@ Encoder 看到的是没有杂讯的图片,但 Decode要还原的目标是,Encode
 
 但是如果你看今天的 BERT 的话,其实你也可以把它看作就是一个,De-Noising 的 Auto-Encoder
 
-![](./images/image-20210620160217845.png)
+<img src="./images/image-20210620160217845.png" alt="image-20210620160217845" style="zoom:67%;" />
 
 输入我们会加 Masking,那些 **Masking 其实就是 Noise**,BERT 的模型就是 Encoder,它的输出就是 Embedding
 

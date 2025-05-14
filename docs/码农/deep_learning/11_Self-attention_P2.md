@@ -1,12 +1,12 @@
 # Self-attention_P2
 
-![](./images/image-20210409092350116.png)
+<img src="./images/image-20210409092350116.png" alt="image-20210409092350116" style="zoom:50%;" />
 
 从这一排 vector 得到 $b^1$,跟从这一排 vector 得到 $b^2$,它的操作是一模一样的.要强调一点是,这边的 $b^1$ 到 $b^4$,它们并**不需要依序產生**,它们是一次同时被计算出来的
 
 怎麼计算这个 $b^2$？我们现在的主角,就变成 $a^2$
 
-![](./images/image-20210409093744204.png)
+<img src="./images/image-20210409093744204.png" alt="image-20210409093744204" style="zoom:50%;" />
 
 - 把 $a^2$ 乘上一个 matrix,变成 $q^2$
 
@@ -21,7 +21,7 @@
 
 - 接下来拿这四个数值,分别乘上 $v^1  \space  v^2 \space  v^3 \space  v^4$
 
-    ![](./images/image-20210409094148657.png)
+    <img src="./images/image-20210409094148657.png" alt="image-20210409094148657" style="zoom:50%;" />
 
     - 把 $α'_{2,1}$乘上 $v^1$
     - 把 $α'_{2,2}$ 乘上 $v^2$
@@ -40,13 +40,13 @@
 
 我们现在已经知道每一个 a 都產生 q k v
 
-![](./images/image-20210409100334528.png)
+<img src="./images/image-20210409100334528.png" alt="image-20210409100334528" style="zoom:50%;" />
 
 如果要用矩阵运算表示这个操作的话,是什麼样子呢
 
 我们每一个 a,都乘上一个矩阵,我们这边用 $W^q$ 来表示它,得到 $q^i$,每一个 a 都要乘上 $W^q$,得到$q^i$,**这些不同的 a 你可以把它合起来,当作一个矩阵来看待**
 
-![](./images/image-20210409100755718.png)
+<img src="./images/image-20210409100755718.png" alt="image-20210409100755718" style="zoom:67%;" />
 
 一样$a^2\space a^3\space a^4 $也都乘上 $W^q$ 得到$q^2 q^3 $跟 $q^4$,那你可以**把 a1 到 a4 拼起来**,看作是一个矩阵,这个矩阵我们用 I 来表示，这个矩阵的四个 column 就是 $a^1$ 到 $a^4$
 
@@ -56,7 +56,7 @@ $I$ 乘上 $W^q$ 就得到另外一个矩阵,我们用 $Q$ 来表示它,这个 $
 
 接下来產生 k 跟 v 的操作跟 q 是一模一样的
 
-![](./images/image-20210409101331347.png)
+<img src="./images/image-20210409101331347.png" alt="image-20210409101331347" style="zoom:67%;" />
 
 所以每一个 a 得到 q k v ,其实就是把输入的这个,vector sequence 乘上三个不同的矩阵,你就得到了 q,得到了 k,跟得到了 v
 
@@ -66,7 +66,7 @@ $I$ 乘上 $W^q$ 就得到另外一个矩阵,我们用 $Q$ 来表示它,这个 $
 
 那得到 attention 分数这一件事情,如果从矩阵操作的角度来看,它在做什麼样的事情呢
 
-![](./images/image-20210409102703364.png)
+<img src="./images/image-20210409102703364.png" alt="image-20210409102703364" style="zoom: 50%;" />
 
 你就是把 $q^1$ 跟 $k^1$ 做 inner product,得到 $α_{1,1}$,所以 $α_{1,1}$就是 $q^1$ 跟$k^1$ 的 inner product,那这边我就把这个,$k^1$它背后的这个向量,把它画成比较宽一点代表说它是 transpose
 
@@ -74,13 +74,13 @@ $I$ 乘上 $W^q$ 就得到另外一个矩阵,我们用 $Q$ 来表示它,这个 $
 
 那这个四个步骤的操作,你其实可以把它拼起来,看作是**矩阵跟向量相乘**
 
-![](./images/image-20210409102832459.png)
+<img src="./images/image-20210409102832459.png" alt="image-20210409102832459" style="zoom:67%;" />
 
 这四个动作,你可以看作是我们**把 $k^1$ 到 $k^4$ 拼起来,当作是一个矩阵的四个 row**
 
 那我们刚才讲过说,我们不只是 $q^1$,要对$k^1$ 到 $k^4$ 计算 attention,$q^2,q^3,q^4$也要对 $k^1$ 到 $k^4$ 计算 attention,操作其实都是一模一样的
 
-![](./images/image-20210409103622596.png)
+<img src="./images/image-20210409103622596.png" alt="image-20210409103622596" style="zoom:67%;" />
 
 所以这些 **attention 的分数可以看作是两个矩阵的相乘**,一个矩阵它的 row,就是 $k^1$ 到 $k^4$,另外一个矩阵它的 column 
 
@@ -92,7 +92,7 @@ $I$ 乘上 $W^q$ 就得到另外一个矩阵,我们用 $Q$ 来表示它,这个 $
 
 那我们把这个$v^1$ 到 $v^4$乘上这边的 α 以后,就可以得到 b
 
-![](./images/image-20210409105513608.png)
+<img src="./images/image-20210409105513608.png" alt="image-20210409105513608" style="zoom:67%;" />
 
 你就把$v^1$ 到 $v^4$ 拼起来,你**把 $v^1$ 到 $v^4$当成是V 这个矩阵的四个 column**,把它拼起来,然后接下来你把 v 乘上,$A'$ 的第一个 column 以后,你得到的结果就是 $b^1$
 
@@ -104,7 +104,7 @@ $I$ 乘上 $W^q$ 就得到另外一个矩阵,我们用 $Q$ 来表示它,这个 $
 
 如果你是用矩阵操作的角度来看它,就是把$ A'$ 的第一个 column 乘上 V,就得到 $b^1$,然后接下来就是以此类推
 
-![](./images/image-20210409105935046.png)
+<img src="./images/image-20210409105935046.png" alt="image-20210409105935046" style="zoom: 67%;" />
 
 就是以此类推,把 $A'$ 的第二个 column 乘上 V,就得到 $b^2$,$A'$ 的第三个 column 乘上 V 就得到 $b^3$,$A'$ 的最后一个 column 乘上 V,就得到 $b^4$
 
@@ -116,7 +116,7 @@ $I$ 乘上 $W^q$ 就得到另外一个矩阵,我们用 $Q$ 来表示它,这个 $
 
 我们再复习一下我们刚才看到的矩阵乘法
 
-![](./images/image-20210409110638357.png)
+<img src="./images/image-20210409110638357.png" alt="image-20210409110638357" style="zoom:50%;" />
 
 - I 是 Self-attention 的 input,Self-attention 的 input 是一排的vector,这排 vector 拼起来当作矩阵的 column,就是 I
 
@@ -148,7 +148,7 @@ Self-attention 有一个进阶的版本,叫做 ==Multi-head Self-attention==, Mu
 
 所以假设你要做 Multi-head Self-attention 的话,你会怎麼操作呢?
 
-![](./images/image-20210412193656512.png)
+<img src="./images/image-20210412193656512.png" alt="image-20210412193656512" style="zoom:50%;" />
 
 - 先把 a 乘上一个矩阵得到 q
 - 再把 q 乘上另外两个矩阵,分别得到 $q^1$ 跟 $q^2$,那这边还有 这边是用两个上标,i 代表的是位置,然后这个 1 跟 2 代表是,这个位置的第几个 q,所以这边有 $q^{i,1}$ 跟 $q^{i,2}$,代表说我们有两个 head
@@ -161,7 +161,7 @@ Self-attention 有一个进阶的版本,叫做 ==Multi-head Self-attention==, Mu
 
 只是现在$q^1$,它在算这个 attention 的分数的时候,它就不要管那个 $k^2$ 了
 
-![](./images/image-20210412194346086.png)
+<img src="./images/image-20210412194346086.png" alt="image-20210412194346086" style="zoom:50%;" />
 
 - 所以 $q_{i,1}$ 就跟 $k^{i,1}$ 算 attention
 
@@ -171,7 +171,7 @@ Self-attention 有一个进阶的版本,叫做 ==Multi-head Self-attention==, Mu
 
 这边只用了其中一个 head,那你会用另外一个 head,也做一模一样的事情
 
-![](./images/image-20210412194533453.png)
+<img src="./images/image-20210412194533453.png" alt="image-20210412194533453" style="zoom:50%;" />
 
 所以 $q^2$ 只对 $k^2$ 做 attention,它们在做 weighted sum 的时候,只对 $v^2$ 做 weighted sum,然后接下来你就得到 $b^{i,2}$
 
@@ -179,7 +179,7 @@ Self-attention 有一个进阶的版本,叫做 ==Multi-head Self-attention==, Mu
 
 然后接下来你可能会把 $b^{i,1}$ 跟 $b^{i,2}$,把它接起来,然后再通过一个 transform
 
-![](./images/image-20210412194643379.png)
+<img src="./images/image-20210412194643379.png" alt="image-20210412194643379" style="zoom:67%;" />
 
 也就是再乘上一个矩阵,然后得到 bi,然后再送到下一层去,那这个就是 Multi-head attention,一个这个 Self-attention 的变形
 
@@ -201,7 +201,7 @@ Self-attention 有一个进阶的版本,叫做 ==Multi-head Self-attention==, Mu
 
 可是在我们到目前為止,讲的 Self-attention 的操作裡面,根本就没有位置的资讯,所以怎麼办呢,所以你做 Self-attention 的时候,如果你觉得位置的资讯是一个重要的事情,那你可以把位置的资讯把它塞进去,怎麼把位置的资讯塞进去呢,这边就要用到一个叫做,==positional encoding== 的技术
 
-![](./images/image-20210412201736447.png)
+<img src="./images/image-20210412201736447.png" alt="image-20210412201736447" style="zoom:67%;" />
 
 你為每一个位置设定一个 vector,叫做 positional vector,这边**用 $e^i$ 来表示,上标 i 代表是位置,每一个不同的位置**,就有不同的 vector,就是 $e^1$ 是一个 vector,$e^2$ 是一个vector,$e^{128}$ 是一个vector,不同的位置都有一个它专属的 e,然后把这个 e 加到 $a^i$ 上面,就结束了
 
@@ -209,7 +209,7 @@ Self-attention 有一个进阶的版本,叫做 ==Multi-head Self-attention==, Mu
 
 最早的这个 transformer,就 Attention Is All You Need 那篇 paper 裡面,它用的 $ e^i$长的是这个样子
 
-![](./images/image-20210412201911959.png)
+<img src="./images/image-20210412201911959.png" alt="image-20210412201911959" style="zoom:50%;" />
 
 这边这个图上面,每一个 column 就代表一个 e,第一个位置就是 $e^1$,第二个位置就是 $e^2$,第三个位置就是 $e^3$,以此类推
 
@@ -225,7 +225,7 @@ Self-attention 有一个进阶的版本,叫做 ==Multi-head Self-attention==, Mu
 
 那有关 positional encoding,你可以再参考一下文献,这个是一个尚待研究的问题,比如说我这边引用了一篇,这个是去年放在 arxiv 上的论文,所以可以想见这其实都是很新的论文
 
-![](./images/image-20210412203355853.png)
+<img src="./images/image-20210412203355853.png" alt="image-20210412203355853" style="zoom:50%;" />
 
 裡面就是比较了跟提出了,新的 positional encoding
 
@@ -239,7 +239,7 @@ Self-attention 有一个进阶的版本,叫做 ==Multi-head Self-attention==, Mu
 
 Self-attention 当然是用得很广,我们已经提过很多次 transformer 这个东西
 
-![](./images/image-20210412204520085.png)
+<img src="./images/image-20210412204520085.png" alt="image-20210412204520085" style="zoom: 67%;" />
 
 那我们大家也都知道说,在 NLP 的领域有一个东西叫做 BERT,BERT 裡面也用到 Self-attention,所以 Self-attention 在 NLP 上面的应用,是大家都耳熟能详的
 
@@ -251,7 +251,7 @@ Self-attention 当然是用得很广,我们已经提过很多次 transformer 这
 
 因為一般语音的,如果你要把一段声音讯号,表示成一排向量的话,这排**向量可能会非常地长**,
 
-![](./images/image-20210412205436769.png)
+<img src="./images/image-20210412205436769.png" alt="image-20210412205436769" style="zoom:67%;" />
 
 而每一个向量,其实只代表了 10 millisecond 的长度而已,所以如果今天是 1 秒鐘的声音讯号,它就有 100 个向量了,5 秒鐘的声音讯号,就 500 个向量了,你随便讲一句话,都是上千个向量了
 
@@ -259,7 +259,7 @@ Self-attention 当然是用得很广,我们已经提过很多次 transformer 这
 
 你想想看,我们今天在**计算这个 attention matrix 的时候,它的 计算complexity 是长度的平方**
 
-![](./images/image-20210412210111322.png)
+<img src="./images/image-20210412210111322.png" alt="image-20210412210111322" style="zoom:67%;" />
 
 计算这个 attention matrix A′你需要做 L 乘以 L 次的 inner product,那如果这个 L 的值很大的话,它的计算量就很可观,你也需要很大的这个 memory,才能够把这个矩阵存下来
 
@@ -267,7 +267,7 @@ Self-attention 当然是用得很广,我们已经提过很多次 transformer 这
 
 在做语音的时候,有一招叫做 ==Truncated Self-attention==
 
-![](./images/image-20210412210322691.png)
+<img src="./images/image-20210412210322691.png" alt="image-20210412210322691" style="zoom:50%;" />
 
 Truncated Self-attention 做的事情就是,我们今天在做 Self-attention 的时候,**不要看一整句话,就我们就只看一个小的范围就好**
 
@@ -285,7 +285,7 @@ Truncated Self-attention 做的事情就是,我们今天在做 Self-attention �
 
 一张图片啊,我们把它看作是一个很长的向量,那**其实一张图片,我们也可以换一个观点,把它看作是一个 vector 的 set**
 
-![](./images/image-20210412214143979.png)
+<img src="./images/image-20210412214143979.png" alt="image-20210412214143979" style="zoom:67%;" />
 
 这个是一个解析度 5 乘以 10 的图片,那这一张图片呢,可以看作是一个 tensor,这个 tensor 的大小是 5 乘以 10 乘以 3,3 代表 RGB 这 3 个 channel
 
@@ -293,7 +293,7 @@ Truncated Self-attention 做的事情就是,我们今天在做 Self-attention �
 
 所以我们其实可以换一个角度,影像这个东西,其实也是一个 vector set,它既然也是一个 vector set 的话,你完全可以用 Self-attention 来处理一张图片,那有没有人用 Self-attention 来处理一张图片呢,是有的
 
-![](./images/image-20210412214417887.png)
+<img src="./images/image-20210412214417887.png" alt="image-20210412214417887" style="zoom:50%;" />
 
 那这边就举了两个例子,来给大家参考,那现在把 Self-attention 用在影像处理上,也不算是一个非常石破天惊的事情,
 
@@ -303,13 +303,13 @@ Truncated Self-attention 做的事情就是,我们今天在做 Self-attention �
 
 如果我们今天,是用 Self-attention 来处理一张图片,代表说,假设这个是你要考虑的 pixel,那它產生 query,其他 pixel 產生 key,
 
-![](./images/image-20210412214915856.png)
+<img src="./images/image-20210412214915856.png" alt="image-20210412214915856" style="zoom:50%;" />
 
 你今天在做 inner product 的时候,你考虑的不是一个小的receptive field的信息,而是整张影像的资讯
 
 但是今天在做 CNN 的时候,,会画出一个 receptive field,每一个 filter,每一个 neural,只考虑 receptive field 范围裡面的资讯
 
-![](./images/image-20210412215451745.png)
+<img src="./images/image-20210412215451745.png" alt="image-20210412215451745" style="zoom:50%;" />
 
 - 所以如果我们比较 CNN 跟 Self-attention 的话,**CNN 可以看作是一种简化版的 Self-attention**，因為在做CNN的时候,我们只考虑 receptive field 裡面的资讯,而在做 Self-attention 的时候,我们是考虑整张图片的资讯,所以 CNN,是简化版的 Self-attention
 
@@ -325,13 +325,13 @@ Truncated Self-attention 做的事情就是,我们今天在做 Self-attention �
 
 其实你可以读一篇 paper,叫做 On the Relationship,between Self-attention and Convolutional Layers
 
-![](./images/image-20210412215841085.png)
+<img src="./images/image-20210412215841085.png" alt="image-20210412215841085" style="zoom:50%;" />
 
 在这篇 paper 裡面,会用数学的方式严谨的告诉你说,其实这个 **CNN就是 Self-attention 的特例,Self-attention 只要设定合适的参数,它可以做到跟 CNN 一模一样的事情**
 
 所以 self attention,是更 flexible 的 CNN,而 CNN 是有受限制的 Self-attention,Self-attention 只要透过某些设计,某些限制,它就会变成 CNN
 
-![](./images/image-20210412220020641.png)
+<img src="./images/image-20210412220020641.png" alt="image-20210412220020641" style="zoom:50%;" />
 
 那这也不是很旧的 paper,你发现它放到网路上的时间呢,是 19 年的 11 月,所以你知道这些,我们今天上课裡面讲的东西,其实都是很新的资讯
 
@@ -343,7 +343,7 @@ Truncated Self-attention 做的事情就是,我们今天在做 Self-attention �
 
 如果你今天用不同的 data 量,来训练 CNN 跟 Self-attention,你确实可以看到我刚才讲的现象
 
-![](./images/image-20210412220707729.png)
+<img src="./images/image-20210412220707729.png" alt="image-20210412220707729" style="zoom:50%;" />
 
 那这个实验结果,来自於 An image is worth 16 乘以 16 的 words,这个是 Google 的 paper,它就是把这个 Self-attention,apply 在影像上面
 
@@ -366,7 +366,7 @@ Truncated Self-attention 做的事情就是,我们今天在做 Self-attention �
 
 但是 RNN 是什麼呢,假设你想知道的话,那这边很快地三言两语把它带过去,RNN 跟 Self-attention 一样,都是要处理 input 是一个 sequence 的状况
 
-![](./images/image-20210413093042847.png)
+<img src="./images/image-20210413093042847.png" alt="image-20210413093042847" style="zoom:50%;" />
 
 在 RNN 裡面呢
 
@@ -383,7 +383,7 @@ Truncated Self-attention 做的事情就是,我们今天在做 Self-attention �
 
 Recurrent Neural Network跟 Self-attention 做的事情其实也非常像,它们的 **input 都是一个 vector sequence**
 
-![](./images/image-20210413152809037.png)
+<img src="./images/image-20210413152809037.png" alt="image-20210413152809037" style="zoom:50%;" />
 
 Self-attention output 是另外一个 vector sequence,这裡面的每一个 vector,都**考虑了整个 input sequence 以后**,再给 fully connected network 去做处理
 
@@ -401,7 +401,7 @@ Self-attention output 是另外一个 vector sequence,这裡面的每一个 vect
 
 还有另外一个更主要的不同是,RNN 今天在处理的时候, input 一排 sequence,output 一排 sequence 的时候,**RNN 是没有办法平行化的**
 
-![](./images/image-20210413153504431.png)
+<img src="./images/image-20210413153504431.png" alt="image-20210413153504431" style="zoom:50%;" />
 
 RNN 它今天 input 一排是 vector,output 另外一排 vector 的时候,它没有办法一次处理,没有办法平行处理所有的 output
 
@@ -413,13 +413,13 @@ RNN 它今天 input 一排是 vector,output 另外一排 vector 的时候,它没
 
 所以今天讲的都是一些很新的研究成果,那 RNN 的部分呢,我们这门课就不会提到,假设你对 RNN 有兴趣的话,以下是这一门课之前的上课录影,那 RNN 的部分,因為这一次不会讲到,所以特别有做了英文的版本,RNN 呢 是中文英文版本,都同时有放在 YouTube 上面
 
-![](./images/image-20210413153721866.png)
+<img src="./images/image-20210413153721866.png" alt="image-20210413153721866" style="zoom:50%;" />
 
 ### Self-attention for Graph
 
 Graph 也可以看作是一堆 vector,那如果是一堆 vector,就可以用 Self-attention 来处理,所以 Self-attention 也可以用在 Graph 上面,但是当我们把 Self-attention,用在Graph 上面的时候,有什麼样特别的地方呢,、
 
-![](./images/image-20210413154403199.png)
+<img src="./images/image-20210413154403199.png" alt="image-20210413154403199" style="zoom:50%;" />
 
 在 Graph 上面,每一个 node 可以表示成一个向量,但**不只有 node 的资讯,还有 edge 的资讯**,我们知道哪些 node 之间是有相连的,也就是哪些 node 是有关联的
 
@@ -437,7 +437,7 @@ Graph 也可以看作是一堆 vector,那如果是一堆 vector,就可以用 Sel
 
 那我知道 GNN,现在也是一个很 fancy 的题目,那我不会说 Self-attention 就要囊括了,所有 GNN 的各种变形了,但把 Self-attention 用在 Graph 上面,是某一种类型的 Graph Neural Network,那这边呢,一样我们也没有办法细讲了,GNN 这边坑也是很深啊,这边水是很深,那就放一下助教之前上课的连结
 
-![](./images/image-20210413154823956.png)
+<img src="./images/image-20210413154823956.png" alt="image-20210413154823956" style="zoom:50%;" />
 
 大概花了快三个小时,在讲 Graph Neural Network,而且其实还没有讲完,就告诉你说这个 Graph Neural Network,也是有非常深的技术,这边水也是很深,那这不是我们今天这一堂课可以讲的内容,好 
 
@@ -445,7 +445,7 @@ Graph 也可以看作是一堆 vector,那如果是一堆 vector,就可以用 Sel
 
 其实Self-attention 有非常非常多的变形,你可以看一篇 paper 叫做,Long Range Arena,裡面比较了各种不同的 Self-attention 的变形
 
-![](./images/image-20210413155347467.png)
+<img src="./images/image-20210413155347467.png" alt="image-20210413155347467" style="zoom:50%;" />
 
 因為 Self-attention 它最大的问题就是,**它的运算量非常地大**,所以怎麼样减少 Self-attention 的运算量,是一个未来的重点,可以看到这边有,各种各式各样 Self-attention 的变形
 

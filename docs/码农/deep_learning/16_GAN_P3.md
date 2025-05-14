@@ -7,11 +7,11 @@
 - Discriminator 做的事情,是要分辨真的图片跟產生出来的,也就是假的图片的差异
 - 而 Generator 在做的事情,它是要去產生假的图片,骗过 Discriminator
 
-![](./images/image-20210518204247459.png)
+<img src="./images/image-20210518204247459.png" alt="image-20210518204247459" style="zoom:50%;" />
 
 而事实上这两个 Network,这个 Generator 跟 Discriminator,它们是**互相砥砺,才能互相成长的**,只要**其中一者,发生什麼问题停止训练,另外一者就会跟著停下训练**,就会跟著变差
 
-![](./images/image-20210518204830233.png)
+<img src="./images/image-20210518204830233.png" alt="image-20210518204830233" style="zoom:50%;" />
 
 - 假设你在 Train Discriminator 的时候,一下子没有 Train 好
 
@@ -35,10 +35,10 @@
 
 一些相关的,跟 Train GAN 的诀窍有关的文献,还有链接列在这边,其实就给大家自己参考
 
-- [Tips from Soumith.png]]
-- [Tips in DCGAN: Guideline for network architecture design for image generation.png]] 
-- [Improved techniques for training GANs.png]]
-- [Tips from BigGAN.png]]
+- [Tips from Soumith](https://github.com/soumith/ganhacks)
+- [Tips in DCGAN: Guideline for network architecture design for image generation](https://arxiv.org/abs/1511.06434) 
+- [Improved techniques for training GANs](https://arxiv.org/abs/1606.03498)
+- [Tips from BigGAN](https://arxiv.org/abs/1809.11096)
 
 ## **GAN for Sequence Generation**
 
@@ -46,13 +46,13 @@ Train GAN 最难的其实是要拿 GAN 来生成文字
 
 如果你要生成一段文字,那你可能会有一个,Sequence To Sequence 的 Model,你有一个 Decoder
 
-![](./images/image-20210519084856823.png)
+<img src="./images/image-20210519084856823.png" alt="image-20210519084856823" style="zoom:50%;" />
 
 那这个 Decoder 会產生一段文字,那我们现在这个,**Sequence To Sequence 的 Model就是我们的 Generator**,这个在过去,在讲 Transformer 的时候,这是一个 Decoder,那它现在,在 GAN 裡面,它就扮演了 Generator 的角色,负责產生我们要它產生的东西,比如说一 段文字
 
 那你说这个会跟原来的 GAN,在影像上的 GAN 有什麼不同？就最 High Level 来看,**就演算法来看**,可能没**有太大的不同**,因為接下来,你就是训练一个 Discriminator
 
-![](./images/image-20210519085552298.png)
+<img src="./images/image-20210519085552298.png" alt="image-20210519085552298" style="zoom:50%;" />
 
 Discriminator 把这段文字读进去,去判断说这段文字是真正的文字,还是机器產生出来的文字,而 Decoder 就是想办法去骗过 Discriminator,Generator 就是想办法去骗过 Discriminator
 
@@ -74,7 +74,7 @@ Discriminator 把这段文字读进去,去判断说这段文字是真正的文�
 
 所以 Token 的定义,是你自己决定的,看你要拿什麼样的东西,当做你產生一个句子的单位
 
-![](./images/image-20210519100200047.png)
+<img src="./images/image-20210519100200047.png" alt="image-20210519100200047" style="zoom:50%;" />
 
 那今天,这个 **Distribution 只有小小的变化**,在取 Max 的时候,在找分数最大那个 Token 的时候,你会发现,分数最大的那个 Token是没有改变的,你 Distribution 只有小小的变化,所以分数最大的那个 Token 是同一个,那对 Discriminator 来说,它**输出的分数是一模一样的**,这样输出的分数就没有改变
 
@@ -84,7 +84,7 @@ Discriminator 把这段文字读进去,去判断说这段文字是真正的文�
 
 但是就算是不能做 Gradient Descent,你也不用害怕,记不记得我们上週有讲说,遇到不能用 Gradient Descent Train 的问题,就当做 ==Reinforcement Learning== 的问题,硬做一下就结束了,所以你确实可以用 Reinforcement Learning,来 Train 你的 Generator,在你要產生一个 Sequence 的时候,你可以用 Reinforcement Learning,来 Train 你的 Generator
 
-![](./images/image-20210519101008705.png)
+<img src="./images/image-20210519101008705.png" alt="image-20210519101008705" style="zoom:50%;" />
 
 但Reinforcement Learning 是以难 Train 而闻名,GAN 也是以难 Train 而闻名,这样的东西加在一起,就大炸裂这样 Train 不起来,非常非常地难训练
 
@@ -92,7 +92,7 @@ Discriminator 把这段文字读进去,去判断说这段文字是真正的文�
 
 直到有一篇 Paper 叫做 ScrachGAN
 
-![](./images/image-20210519101508084.png)
+<img src="./images/image-20210519101508084.png" alt="image-20210519101508084" style="zoom:50%;" />
 
 它的 Title 就开宗明义跟你炫耀说,它可以 Train Language GANs Form Scrach,Form Scrach 就是**不用 Pretrain** 的意思
 
@@ -112,11 +112,11 @@ Discriminator 把这段文字读进去,去判断说这段文字是真正的文�
 
 那今天有关 GAN 的部分,我们只是讲了一个大概,那如果你想要学最完整的内容,我在这边留下一个连结给大家参考,
 
-![](./images/image-20210519102154787.png)
+<img src="./images/image-20210519102154787.png" alt="image-20210519102154787" style="zoom:50%;" />
 
 那其实有关 Generative 的 Model,不是只有 GAN 而已，还有其他的,比如说 VAE,比如说 FLOW-Based Model,那我在这边也列了两个影片的连结,给大家参考
 
-![](./images/image-20210519102224924.png)
+<img src="./images/image-20210519102224924.png" alt="image-20210519102224924" style="zoom:50%;" />
 
 强调一下就是,这边的影片连结并**不是一定要看过这些影片连结,才能够学习接下来的内容**,因為机器学习可以讲的东西实在太多了,所以如果,假设你没有太多的时间,那你唯一真正需要听的,上课讲的内容是 Self Content,它本身是 Consistent 的,你只要每一堂课都有听,你接下来的内容,你应该都可以依序听下去,应该都可以听懂
 
@@ -140,7 +140,7 @@ Discriminator 把这段文字读进去,去判断说这段文字是真正的文�
 
 如果我们今天的目标就是,输入一个 Gaussian 的 Random 的 Variable,输入一个 Gaussian,从 Gaussian 的这个 Random Variable,Sample 出来的 Vector,把它变成一张图片,那我们能不能够用,==Supervised Learning== 的方法来做？
 
-![](./images/image-20210519105119057.png)
+<img src="./images/image-20210519105119057.png" alt="image-20210519105119057" style="zoom:50%;" />
 
 也就说我有一堆图片,我把这些图片拿出来,每一个图片都去配一个 Vector,都去配一个,从 Gaussian Distribution,Sample 出来的 Vector，接下来就当做 Supervised Learning 的方法,硬做就结束了,
 
@@ -160,7 +160,7 @@ Gradient Origin Networks, https://arxiv.org/abs/2007.02798
 
 就说在 Paper 最后就放几张图说,你看这个,我觉得应该是比文献上,目前结果都还要好,太棒了,这应该是state of the art,然后就结束了这样子,所以发现比较早年的 GAN 的 Paper,它没有数字,整篇 Paper 裡面没有 Accuracy,它就是放几张图片告诉你说,这个应该是比过去的文章都好,然后就结束了
 
-![](./images/image-20210519162153046.png)
+<img src="./images/image-20210519162153046.png" alt="image-20210519162153046" style="zoom:50%;" />
 
 完全**用人来看**显然有**很多的问题**,比如说**不客观**,**不稳定**等等诸多的问题,所以有没有比较客观,而且自动的方法,来想办法量一个 Generator 的好坏,如果针对特定的一些任务,是有办法设计一些方法的,
 
@@ -168,7 +168,7 @@ Gradient Origin Networks, https://arxiv.org/abs/2007.02798
 
 那有一个方法,是一样跑一个影像的分类系统,**把你的 GAN 產生出来的图片,丢到一个的影像的分类系统裡面**,看它產生什麼样的结果
 
-![](./images/image-20210519162401379.png)
+<img src="./images/image-20210519162401379.png" alt="image-20210519162401379" style="zoom: 67%;" />
 
 影像分类系统输入是一张图片,我们这边叫做 y,输出,是一个机率分布,我们这边叫它 P ( c│y ),P ( c│y ) 是一个机率的分布
 
@@ -184,7 +184,7 @@ Gradient Origin Networks, https://arxiv.org/abs/2007.02798
 
 但是光用这个评估的方法会被一个,叫做 ==Mode Collapse== 的问题骗过去,Mode Collapse 是说,你在 Train GAN 的时候,你有时候 Train 著 Train 著,就会遇到一个状况是
 
-![](./images/image-20210519163709319.png)
+<img src="./images/image-20210519163709319.png" alt="image-20210519163709319" style="zoom:50%;" />
 
 - 假设这些**蓝色**的星星,是**真正**的资料的分布
 - **红色**的星星是你的 **GAN**,你的 Generative 的 Model,它的分布
@@ -193,7 +193,7 @@ Gradient Origin Networks, https://arxiv.org/abs/2007.02798
 
 那以下是一个 Mode Collapse 的例子啦,就是我们在这个上週有看到说,我就 Train 了一个 Generator,让它產生二次元的人物,那 Train 著 Train 著 Train 到最后,我就发现变成这样的一个状况,这一张脸越来越多
 
-![](./images/image-20210519200500489.png)
+![image-20210519200500489](./images/image-20210519200500489.png)
 
 越来越多,而且它还有不同的髮色,这个髮色比较偏红,这个髮色比较偏黄,越来越多,最后就通通都是这张脸,那这就是一种 Mode Collapse 的现象
 
@@ -207,15 +207,15 @@ BGAN 那边 Paper 怎麼解决这个问题,其实很简单,Model 在 Generator �
 
 但是有另外一种更难被侦测到的问题,叫做 Mode Dropping,Mode Dropping 的意思是说,你的真实的资料分布可能是这个样子,但是你的產生出来的资料,只有真实资料的一部分,单纯看產生出来的资料,你可能会觉得还不错,而且分布,它的这个多样性也够
 
-![](./images/image-20210519202343343.png)
+<img src="./images/image-20210519202343343.png" alt="image-20210519202343343" style="zoom:50%;" />
 
 但你不知道说真实的资料,它的**多样性的分布,其实是更大**的,我这边举一个例子,好 那这边,是一个真实的例子,就有个同学,他 Train 了这个人脸生成的 GAN,那它在某一个 Iteration 的时候,它的 Generator 產生出这些人脸
 
-![](./images/image-20210519202412365.png)
+<img src="./images/image-20210519202412365.png" alt="image-20210519202412365" style="zoom:50%;" />
 
 你会觉得说,没有问题,而且人脸的多样性也够,有男有女,有向左看,有向右看,各式各样的人脸都有,好 这个是第 T 个 Iteration 的时候 Generator,你也不觉得,它的多样性有问题,但如果你再看下一个 Iteration,Generator 產生出来的图片是这样子的
 
-![](./images/image-20210519202438228.png)
+<img src="./images/image-20210519202438228.png" alt="image-20210519202438228" style="zoom:50%;" />
 
 它的**肤色有问题**,所以它之前,你看有男有女没有问题,但是它肤色偏白,这边肤色偏黄,你没弄好人家都觉得,你的 Generator 有种族歧视
 
@@ -229,7 +229,7 @@ BGAN 那边 Paper 怎麼解决这个问题,其实很简单,Model 在 Generator �
 
 过去有一个做法,一样是**藉助我们的 Image Classifier**,你就把一堆图片,就很像你的 Generator 產生 1000 张图片,把这 1000 张图片裡,都丢到 Image Classify 裡面,**看它被判断成哪一个 Class**
 
-![](./images/image-20210519204240918.png)
+<img src="./images/image-20210519204240918.png" alt="image-20210519204240918" style="zoom: 67%;" />
 
 每张图片,都会给我们一个 Distribution,你**把所有的 Distribution 平均起来**,接下来看看平均的 Distribution 长什麼样子
 
@@ -237,7 +237,7 @@ BGAN 那边 Paper 怎麼解决这个问题,其实很简单,Model 在 Generator �
 
 那如果另外一个 Case,不同张图片丢进去,不同张,你的 Generator 產生出来的图片,丢到 Image Classifier 的时候,它產生出来的**输出的分布**,都**非常地不同**
 
-![](./images/image-20210519204329223.png)
+<img src="./images/image-20210519204329223.png" alt="image-20210519204329223" style="zoom:67%;" />
 
 你平均完以后发现,**平均完**后的结果是**非常平坦**的,那这个时候代表什麼,这个时候代表说,也许你的**多样性是足够的**,那你会发现说在评估的标準上
 
@@ -256,7 +256,7 @@ BGAN 那边 Paper 怎麼解决这个问题,其实很简单,Model 在 Generator �
 
 在我们的作业中,会採取另外一个 Evaluation 的 Measure,叫 ==Fréchet Inception Distance==,它的缩写叫做 FID,这个东西是什麼,你先把你產生出来的二次元的人物,丢到 Inception Net 裡面
 
-![](./images/image-20210520090525578.png)
+<img src="./images/image-20210520090525578.png" alt="image-20210520090525578" style="zoom:67%;" />
 
 把这个二次元人物一路丢到最后,让那个 Inception Network 输出它的类别,那你得到的可能就是人脸,那每一张二次元的人物看起来都是人脸,那我们**不要拿那个类别**
 
@@ -264,7 +264,7 @@ BGAN 那边 Paper 怎麼解决这个问题,其实很简单,Model 在 Generator �
 
 那如果我们拿出来的是一个向量,而不是最后的类别,那虽然最后分类的类别可能是一样的,但是在决定最后的类别之前,这个向量就算都是人脸,可能还是不一样的,可能会随著肤色 髮型,这个向量还是会有所改变的,所以我们就不取最后的类别,只取这个 Inception Network 中间的,其实是最后一层的这个 Hidden Layer 的输出,来代表一张图片
 
-![](./images/image-20210520155520911.png)
+<img src="./images/image-20210520155520911.png" alt="image-20210520155520911" style="zoom:50%;" />
 
 所有**红色的点**,代表你把**真正的图片**,丢到 Inception Network 以后,拿出来的向量,那这个向量其实非常高维度,是上千维的，我们就把它假设,我们可以把它画在二维的平面上,
 
@@ -288,7 +288,7 @@ BGAN 那边 Paper 怎麼解决这个问题,其实很简单,Model 在 Generator �
 
 FID 算是今天比较常用的一种 Measure,那有一篇 Paper 叫做,Are GANs Created Equal,A Large Scale Study
 
-![](./images/image-20210520160214095.png)
+<img src="./images/image-20210520160214095.png" alt="image-20210520160214095" style="zoom:67%;" />
 
 那你可以想见说这个也是 Google 做的啦,那就是爆做了各式各样不同的 GAN,有,那个时候它就列举了好多不同的,各式各样的 GAN,那每一个 GAN,当然它的这个训练的这个 Objective,训练的那个 Loss 有点不太一样,我这边就不细讲,各式各样的 GAN,每一种 GAN,它都用不同的 Random Seed,去跑过很多次以后,看看结果怎麼样
 
@@ -312,11 +312,11 @@ FID 算是今天比较常用的一种 Measure,那有一篇 Paper 叫做,Are GANs
 
 你想想看以下的状况,假设这是你的真实资料
 
-![](./images/image-20210520161613933.png)
+<img src="./images/image-20210520161613933.png" alt="image-20210520161613933" style="zoom:67%;" />
 
 你不知道怎麼回事,训练了一个 Generator,它產生出来的 Data,跟你的真实资料一模一样
 
-![](./images/image-20210520161634054.png)
+<img src="./images/image-20210520161634054.png" alt="image-20210520161634054" style="zoom:67%;" />
 
 所以如果你不知道真实资料长什麼样子,你光看这个 Generator 的输出,你会觉得太棒了,它做得很棒,那 FID 算出来,一定是非常小的
 
@@ -328,13 +328,13 @@ FID 算是今天比较常用的一种 Measure,那有一篇 Paper 叫做,Are GANs
 
 但是那如果我问另外一个问题,假设你的 Generator 学到的是,把所有训练资料裡面的图片都**左右反转**,那它也是什麼事都没有做
 
-![](./images/image-20210520161812155.png)
+<img src="./images/image-20210520161812155.png" alt="image-20210520161812155" style="zoom:67%;" />
 
 假设它学到就是,把训练资料裡面所有的图片都左右翻转,那你会觉得,嗯 它看起来很棒,它实际上也是什麼事都没有做,但问题是你比相似度的时候,又比不出来,所以 **GAN 的 Evaluation是非常地困难的**,还甚至 光要如何评估,一个 Generator 做得好不好这件事情,都是一个可以研究的题目
 
 如果你真的很有兴趣的话,这边放了一篇相关的文章啦https://arxiv.org/abs/1802.03446,裡面就列举了二十几种,GAN Generator 的评估的方式
 
-![](./images/image-20210520162110307.png)
+<img src="./images/image-20210520162110307.png" alt="image-20210520162110307" style="zoom:50%;" />
 
 ## Conditional Generation
 
@@ -342,11 +342,11 @@ FID 算是今天比较常用的一种 Measure,那有一篇 Paper 叫做,Are GANs
 
 刚才我们讲的那个 Generator,到目前為止我们讲的 Generator,它输入都是一个随机的分布而已,那这个不见得非常有用
 
-![](./images/image-20210520162512685.png)
+<img src="./images/image-20210520162512685.png" alt="image-20210520162512685" style="zoom:50%;" />
 
 我们现在想要更进一步的是,我们可以操控 Generator 的输出,我们给它一个 Condition x,让它根据 x 跟 z 来產生 y,那这样的 Conditional Generation
 
-![](./images/image-20210520162536362.png)
+<img src="./images/image-20210520162536362.png" alt="image-20210520162536362" style="zoom:50%;" />
 
 有什麼样的应用,比如说你可以做文字对图片的生成
 
@@ -354,7 +354,7 @@ FID 算是今天比较常用的一种 Measure,那有一篇 Paper 叫做,Are GANs
 
 那如果你要做文字对图片的生成,它其实是一个 Supervised Learning 的问题,你需要一些 Label 的 Data,你需要去蒐集一些图片,蒐集一些人脸,然后这些人脸都要有文字的描述,告诉我们说,这个是红眼睛,这个是黑头髮,这个是黄头髮,这个是有黑眼圈等等,告诉我们这样子,我们要这样的 Label 的资料,才能够训练这种 Conditional 的 Generation
 
-![](./images/image-20210520163201947.png)
+<img src="./images/image-20210520163201947.png" alt="image-20210520163201947" style="zoom:50%;" />
 
 所以在 Text To Image 这样的任务裡面,我们的 **x 就是一段文字**,那你可能问说,一段文字怎麼输入给 Generator ,那就要问你自己了,你要怎麼做都可以
 
@@ -362,7 +362,7 @@ FID 算是今天比较常用的一种 Measure,那有一篇 Paper 叫做,Are GANs
 
 那你期待说你输入 Red Eyes,然后,机器就可以画一个红眼睛的角色,但每次画出来的角色都不一样,那这个画出来什麼样的角色,取决於什麼,取决於你 Sample 到什麼样的 z,Sample 到不一样的 z,画出来的角色就不同,但是通通都是红眼睛的,这个就是 Text To Image 想要做的事情
 
-![](./images/image-20210520164306908.png)
+<img src="./images/image-20210520164306908.png" alt="image-20210520164306908" style="zoom:50%;" />
 
 这学期虽然没有,但过去有这个作业,就是输入红头髮,这个是之前助教做的结果,输入红头髮,输入绿眼睛,那產生的结果就是这个样子,產生各式各样红头髮 绿眼睛的角色,输入蓝头髮 红眼睛,就產生各式各样蓝头髮 红眼睛的角色,你发现,那个有时候机器也是会犯错的啦,比如说这边有一个异色瞳,虽然说要画红眼睛,但它觉得画一隻红色的眼睛就可以矇混过去,另外一隻眼睛仍然是蓝色的
 
@@ -370,11 +370,11 @@ FID 算是今天比较常用的一种 Measure,那有一篇 Paper 叫做,Are GANs
 
 我们现在的 Generator 有两个输入,一个是从 Normal Distribution,Sample 出来的 z,另外一个是 x,也就是一段文字
 
-![](./images/image-20210520164524821.png)
+<img src="./images/image-20210520164524821.png" alt="image-20210520164524821" style="zoom:50%;" />
 
 那我们的 Generator 会產生一张图片 y,那我们需要一个 Discriminator,那如果按照我们过去所学过的东西,Discriminator,它就是吃一张图片 y 当作输入,输出一个数值,这个数值代表输入的图片,多像真实的图片
 
-![](./images/image-20210520164627449.png)
+<img src="./images/image-20210520164627449.png" alt="image-20210520164627449" style="zoom:50%;" />
 
 是真实的,还是生成的,那怎麼训练这个 Discriminator ,你就说如果看到真实的图片,你就输出 1,如果看到生成的图片,就输出 0,你就可以训练 Discriminator,然后 Discriminator 跟 Generator 反覆训练
 
@@ -382,7 +382,7 @@ FID 算是今天比较常用的一种 Measure,那有一篇 Paper 叫做,Are GANs
 
 它会產生清晰的图片,但是**跟输入完全没有任何关係**,因為对 Generator 来说,它只要產生清晰的图片,就可以骗过 Discriminator 了,它何必要去管 Input 文字叙述是什麼
 
-![](./images/image-20210520164728663.png)
+<img src="./images/image-20210520164728663.png" alt="image-20210520164728663" style="zoom:50%;" />
 
 你的 Discriminator 又不看文字的叙述,所以它根本就不需要管文字的叙述,你不管输入什麼文字,就无视这个 x,反正就是產生一个图片,可以骗过 Discriminator 就结束了,但这**显然不是我们要的**
 
@@ -398,7 +398,7 @@ Discriminator 给高分的时候,**一方面图片要好**,另外一方面,这�
 
 那你需要文字跟影像成对的资料,所以 Conditional GAN,一般的训练,是需要这个 **Pair 的 Data** 的,是需要有标註的资料的,是需要成对资料的
 
-![](./images/image-20210520165915486.png)
+<img src="./images/image-20210520165915486.png" alt="image-20210520165915486" style="zoom:50%;" />
 
 有这些成对资料,那你就告诉你的 Discriminator 说,看到这些真正的成对的资料,就给它一分,看到 Red Eyes,但是搭配,可能 Red Eyes 跟机器產生出来的图片,那就是给 0 分,然后训练下去,就可以產生,就可以做到 Conditional GAN,
 
@@ -406,7 +406,7 @@ Discriminator 给高分的时候,**一方面图片要好**,另外一方面,这�
 
 你还需要加上一种不好的状况是,**已经產生好的图片,但是文字叙述配不上的状况**
 
-![](./images/image-20210520170103383.png)
+<img src="./images/image-20210520170103383.png" alt="image-20210520170103383" style="zoom:50%;" />
 
 所以你通常会把你的训练资料拿出来,然后故意把文字跟图片乱配,故意配一些错的,然后告诉你的 Discriminator 说,看到这种状况,你也要说是不好的,用这样子的资料,你才有办法把 Discriminator 训练好,然后 Generator 跟 Discriminator,反覆的训练,你最后才会得到好的结果,这个就是 Conditional GAN
 
@@ -414,7 +414,7 @@ Discriminator 给高分的时候,**一方面图片要好**,另外一方面,这�
 
  在目前的例子裡面都是,看一段文字產生图片,那 Conditional GAN 的应用,不只看一段文字產生图片啦,也可以**看一张图片,產生图片**
 
-![](./images/image-20210520174440793.png)
+<img src="./images/image-20210520174440793.png" alt="image-20210520174440793" style="zoom:50%;" />
 
 那看一张图片產生图片,也有很多的应用,比如说
 
@@ -432,7 +432,7 @@ Discriminator 给高分的时候,**一方面图片要好**,另外一方面,这�
 
 在文献上你会发现说,如果你用 Supervised Learning 的方法,你得不到非常好的结果,通常你用 Supervised Learning 的方法,训练一个图片生图片的 Generator,你產生出来的结果可能是这个样子
 
-![](./images/image-20210520175205445.png)
+<img src="./images/image-20210520175205445.png" alt="image-20210520175205445" style="zoom:50%;" />
 
 就是这是你的 Generator 的输入,那这个是你 Generator 的输出,那你会发现说它**非常地模糊**,為什麼它非常地模糊,你可以直觉想成说,因為**同样的输入,可能对应到不一样的输出**,就好像我们在讲 GAN 刚开始的,开场的时候讲的那个例子,今天在同一个转角,那个小精灵可能左转,也可能右转,最后学到的,就是同时左转跟右转
 
@@ -440,13 +440,13 @@ Discriminator 给高分的时候,**一方面图片要好**,另外一方面,这�
 
 所以这个时候我们需要用 GAN 来 Train,你**需要加一个 Discriminator**,Discriminator 它是输入一张图片,还有输入 Condition,然后它会同时看这个图片跟这个 Condition,有没有匹配,来决定它的输出,那这个是文献上用 GAN 的输出,从右上角这篇 Paper 截取出来的
 
-![](./images/image-20210520175325173.png)
+<img src="./images/image-20210520175325173.png" alt="image-20210520175325173" style="zoom:50%;" />
 
 那你会发现说,如果单纯用 GAN 的话,它有一个小问题,所以它產生出来的图片,比较真实,但是它的问题是它的**创造力,想像力过度丰富**,它会產生一些输入没有的东西,没有叫它输入的东西,举例来说,这是一个房子,左上角明明没有其他东西,这边它却在屋顶上,加了一个不知道是烟囱还是窗户的东西
 
 那文献上如果你要做到最好,往往就是 GAN 跟 Supervised Learning,同时使用
 
-![](./images/image-20210520175417768.png)
+<img src="./images/image-20210520175417768.png" alt="image-20210520175417768" style="zoom:67%;" />
 
 那同时使用,往往可以给你最好的结果,那所谓同时使用的意思就是,Generator 在训练的时候,一方面它要去骗过 Discriminator,这是它的一个目标,但同时它又想要產生一张图片,跟标準答案越像越好,它同时去做这两件事,那往往產生出来的结果是最好的
 
@@ -454,7 +454,7 @@ Discriminator 给高分的时候,**一方面图片要好**,另外一方面,这�
 
 Conditional GAN 还有很多应用啦,这边给大家看一个莫名其妙的应用,就是给 GAN ,听一段声音,然后它產生一个对应的图片啦
 
-![](./images/image-20210520175711405.png)
+<img src="./images/image-20210520175711405.png" alt="image-20210520175711405" style="zoom:50%;" />
 
 比如说给它听一段狗叫声,看它能不能够画出一隻狗啦,好 那我刚才讲说 Conditional GAN 需要这个,Label 的资料,需要成对的资料
 
@@ -462,7 +462,7 @@ Conditional GAN 还有很多应用啦,这边给大家看一个莫名其妙的应
 
 那这个是我们实验室有个同学做的,这个是一个那个真正的 Demo 
 
-![](./images/image-20210520175837811.png)
+<img src="./images/image-20210520175837811.png" alt="image-20210520175837811" style="zoom:50%;" />
 
 那机器听这样的声音,好 这听起来有点像是这个电视机坏掉的声音,那机器觉得它听到什麼,刚才那一段声音机器觉得,它听到一个小溪,听到一个小瀑布
 
@@ -474,6 +474,6 @@ Conditional GAN 还有很多应用啦,这边给大家看一个莫名其妙的应
 
 不过我要承认,这个其实是稍微 Cherry Pick 的结果,就稍微挑过的结果,很多时候觉得 Generator 產生出来的东西,就是这个样子啦,不知所云这样,这就给它一个钢琴声,然后它好像想画一个钢琴,但又没有很清楚,这个是给它听狗叫声啦,好像想画一个动物,但又不知道要画些什麼,这个是声音到影像的產生,好 那我看到最近最惊人的,Conditional GAN 的应用,是有人用 Conditional GAN 產生会动的图片
 
-![](./images/image-20210520180014698.png)
+<img src="./images/image-20210520180014698.png" alt="image-20210520180014698" style="zoom:50%;" />
 
 我们知道在哈利波特裡面,那些人物的画像是会动的,是会说话的,那 Samsung ,就做了一个类似的应用,用 GAN 做的,给它一张图片,比如说蒙娜丽莎的画像,然后就可以让蒙娜丽莎开始讲话,这个是 Conditional GAN 的其中一个应用,我把论文放在这边给大家参考
