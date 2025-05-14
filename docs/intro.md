@@ -59,6 +59,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=LwXklsL19-M"><img width="200px" src="http://img.youtube.com/vi/LwXklsL19-M/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=LwXklsL19-M">特朗普訪問沙特  與數十人馬拉松式握手－ BBC News 中文</a></td>
+<td>May 14, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=534ZTCD5xeU"><img width="200px" src="http://img.youtube.com/vi/534ZTCD5xeU/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=534ZTCD5xeU">中美貿易戰意外「休戰」  全球市場暫獲喘息之機－ BBC News 中文</a></td>
 <td>May 13, 2025</td></tr>
@@ -85,9 +88,6 @@ slug: /
 <td>May 10, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=lv3vmtwulHY"><img width="200px" src="http://img.youtube.com/vi/lv3vmtwulHY/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lv3vmtwulHY">普京红场阅兵演讲：真理和正义都在我们这边；彭博社认为中国政府促进婚育政策已经失败；中国对俄游戏手柄出口激增，被怀疑用于操控军用无人机【雪花每日新闻】</a></td>
-<td>May 9, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=Tx3ly4BJ-2E"><img width="200px" src="http://img.youtube.com/vi/Tx3ly4BJ-2E/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Tx3ly4BJ-2E">俄羅斯舉行勝利日閱兵  習近平與普京並肩出席－ BBC News 中文</a></td>
 <td>May 9, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
