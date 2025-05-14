@@ -59,6 +59,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=OBq3QZtapMg"><img width="200px" src="http://img.youtube.com/vi/OBq3QZtapMg/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OBq3QZtapMg">英國最長冤案之一 男子遭判謀殺罪入獄38年後獲平反－ BBC News 中文</a></td>
+<td>May 14, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=B3UumVTu2Bg"><img width="200px" src="http://img.youtube.com/vi/B3UumVTu2Bg/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=B3UumVTu2Bg">簽大單、紫地毯和馬斯克：特朗普訪問沙特的關鍵時刻－ BBC News 中文</a></td>
 <td>May 14, 2025</td></tr>
@@ -85,10 +88,7 @@ slug: /
 <td>May 12, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=CcCasxBgdPU"><img width="200px" src="http://img.youtube.com/vi/CcCasxBgdPU/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CcCasxBgdPU">特朗普施壓後  澤連斯基要求普京與他親自會面－ BBC News 中文</a></td>
-<td>May 12, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=ten6tf09RrM"><img width="200px" src="http://img.youtube.com/vi/ten6tf09RrM/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ten6tf09RrM">香港的親中告密者：「我們在社會每個角落默默注視」－ BBC News 中文</a></td>
-<td>May 10, 2025</td></tr><!-- YOUTUBE:END -->
+<td>May 12, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
