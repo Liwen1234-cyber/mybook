@@ -46,6 +46,7 @@ module.exports = {
         description: 'Reading notes.',
       },
       items: [
+        '读书笔记/百面机器学习',
         '读书笔记/西方现代思想讲义',
         '读书笔记/非暴力沟通',
         '读书笔记/Reality_Is_Broken',
