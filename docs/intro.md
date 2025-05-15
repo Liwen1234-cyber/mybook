@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=QJtjsIU7K3s"><img width="200px" src="http://img.youtube.com/vi/QJtjsIU7K3s/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=QJtjsIU7K3s">台灣兵役制度為何？為何台灣多名藝人閃躲兵役？－ BBC News 中文</a></td>
+<td>May 15, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=wEa279pqRE0"><img width="200px" src="http://img.youtube.com/vi/wEa279pqRE0/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=wEa279pqRE0">特朗普會見敘利亞新總統 美敘元首25年首次會晤－ BBC News 中文</a></td>
+<td>May 15, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=OBq3QZtapMg"><img width="200px" src="http://img.youtube.com/vi/OBq3QZtapMg/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OBq3QZtapMg">英國最長冤案之一 男子遭判謀殺罪入獄38年後獲平反－ BBC News 中文</a></td>
 <td>May 14, 2025</td></tr>
@@ -81,12 +87,6 @@ slug: /
 <td>May 13, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ecpxQn2r0n8"><img width="200px" src="http://img.youtube.com/vi/ecpxQn2r0n8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ecpxQn2r0n8">中美談判後貿易戰暫停90天 相互大幅下調關稅－ BBC News 中文</a></td>
-<td>May 12, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=NfFZJneCEws"><img width="200px" src="http://img.youtube.com/vi/NfFZJneCEws/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=NfFZJneCEws">美中宣佈大幅互降關稅  貿易戰按下90天暫停鍵－ BBC News 中文</a></td>
-<td>May 12, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=CcCasxBgdPU"><img width="200px" src="http://img.youtube.com/vi/CcCasxBgdPU/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=CcCasxBgdPU">特朗普施壓後  澤連斯基要求普京與他親自會面－ BBC News 中文</a></td>
 <td>May 12, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
