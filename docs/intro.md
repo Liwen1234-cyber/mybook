@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=abfXL4O9PbI"><img width="200px" src="http://img.youtube.com/vi/abfXL4O9PbI/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=abfXL4O9PbI">中美貿易戰休戰：中國工廠迎來復甦，還是轉型契機？ － BBC News 中文</a></td>
+<td>May 15, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=QJtjsIU7K3s"><img width="200px" src="http://img.youtube.com/vi/QJtjsIU7K3s/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QJtjsIU7K3s">台灣兵役制度為何？為何台灣多名藝人閃躲兵役？－ BBC News 中文</a></td>
 <td>May 15, 2025</td></tr>
@@ -84,10 +87,7 @@ slug: /
 <td>May 13, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Oi9jLinyxas"><img width="200px" src="http://img.youtube.com/vi/Oi9jLinyxas/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Oi9jLinyxas">中國重慶「吞火車」成為拍照潮流－ BBC News 中文</a></td>
-<td>May 13, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=ecpxQn2r0n8"><img width="200px" src="http://img.youtube.com/vi/ecpxQn2r0n8/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ecpxQn2r0n8">中美談判後貿易戰暫停90天 相互大幅下調關稅－ BBC News 中文</a></td>
-<td>May 12, 2025</td></tr><!-- YOUTUBE:END -->
+<td>May 13, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
