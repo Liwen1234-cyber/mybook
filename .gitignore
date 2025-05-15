@@ -8,6 +8,7 @@
 .docusaurus
 .cache-loader
 
+
 # Misc
 .DS_Store
 .env.local
@@ -18,3 +19,5 @@
 
 # Package managers
 npm-debug.log*
+
+.vscode
