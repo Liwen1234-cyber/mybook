@@ -14,6 +14,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+ <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/15/%e5%87%aa/">凪</a>- by onojyun - May 15, 2025</li>
  <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/14/%e7%bd%a0/">罠</a>- by onojyun - May 14, 2025</li>
  <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/12/some-variants-of-the-periodic-tiling-conjecture/">Some variants of the periodic tiling conjecture</a>- by terrytao - May 13, 2025</li>
  <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/zhejiang-people-read-schopenhauer/?utm_source=rss&utm_medium=rss&utm_campaign=zhejiang-people-read-schopenhauer">浙江人，读叔本华吧！</a>- by stephenleng - May 12, 2025</li>
@@ -31,7 +32,6 @@ slug: /
  <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/">A proof of concept tool to verify estimates</a>- by terrytao - May 2, 2025</li>
  <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/notebooklm.html">谷歌的 NotebookLM 能生成中文播客了</a>- by ruanyifeng - May 1, 2025</li>
  <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/04/30/%e9%aa%82%e4%ba%ba%e9%aa%82%e4%b8%83%e5%af%b8/">骂人骂七寸</a>- by onojyun - Apr 30, 2025</li>
- <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/04/29/%e6%b3%a8%e5%ae%9a%e7%9a%84%e5%bf%92%e4%bf%ae%e6%96%af/">注定的忒修斯</a>- by onojyun - Apr 29, 2025</li>
  <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/04/weekly-issue-346.html">科技爱好者周刊（第 346 期）：未来就是永恒感的丧失</a>- by ruanyifeng - Apr 25, 2025</li>
  <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/04/23/stonean-spaces-projective-objects-the-riesz-representation-theorem-and-possibly-condensed-mathematics/">Stonean spaces, projective objects, the Riesz representation theorem, and &lpar;possibly&rpar; condensed mathematics</a>- by terrytao - Apr 23, 2025</li>
  <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/04/trae-mcp.html">巨头的新战场：AI 编程 IDE（暨 字节 Trae 调用 MCP 教程）</a>- by ruanyifeng - Apr 22, 2025</li>
