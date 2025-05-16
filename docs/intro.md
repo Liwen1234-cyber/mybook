@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=jFUwoCkdqAo"><img width="200px" src="http://img.youtube.com/vi/jFUwoCkdqAo/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=jFUwoCkdqAo">【生成式AI時代下的機器學習&lpar;2025&rpar;】第十一講：今天你想為 Foundation Model 裝備哪些 Task Vector？淺談神奇的 Model Merging 技術</a></td>
+<td>May 16, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ThO0gVOJbMI"><img width="200px" src="http://img.youtube.com/vi/ThO0gVOJbMI/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ThO0gVOJbMI">墨西哥23歲網紅直播時遭槍擊殺害－ BBC News 中文</a></td>
 <td>May 16, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>May 14, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ul8ER_KMft4"><img width="200px" src="http://img.youtube.com/vi/ul8ER_KMft4/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ul8ER_KMft4">以色列封鎖下 加沙兒童面飢餓威脅－ BBC News 中文</a></td>
-<td>May 14, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=LwXklsL19-M"><img width="200px" src="http://img.youtube.com/vi/LwXklsL19-M/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=LwXklsL19-M">特朗普訪問沙特  與數十人馬拉松式握手－ BBC News 中文</a></td>
 <td>May 14, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
