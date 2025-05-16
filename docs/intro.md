@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+ <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/weekly-issue-348.html">科技爱好者周刊（第 348 期）：李飞飞，从移民到 AI 明星</a>- by ruanyifeng - May 16, 2025</li>
  <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/15/%e5%87%aa/">凪</a>- by onojyun - May 15, 2025</li>
  <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/14/%e7%bd%a0/">罠</a>- by onojyun - May 14, 2025</li>
  <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/12/some-variants-of-the-periodic-tiling-conjecture/">Some variants of the periodic tiling conjecture</a>- by terrytao - May 13, 2025</li>
@@ -37,7 +38,6 @@ slug: /
  <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/the-role-of-bride-price-in-the-engagement-rape-case-in-datong-shanxi-province/?utm_source=rss&utm_medium=rss&utm_campaign=the-role-of-bride-price-in-the-engagement-rape-case-in-datong-shanxi-province">彩礼在“山西大同订婚强奸案”中扮演的角色</a>- by stephenleng - Apr 22, 2025</li>
  <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/04/coze-space.html">办公类 AI 初探：扣子空间</a>- by ruanyifeng - Apr 21, 2025</li>
  <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1daca795c95680078a9cf9b7722c48ee">2025#16 人类幻觉</a>- by 1q43 - Apr 21, 2025</li>
- <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/04/weekly-issue-345.html">科技爱好者周刊（第 345 期）：HDMI 2.2 影音可能到头了</a>- by ruanyifeng - Apr 18, 2025</li>
  <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/04/17/a-suspicious-conference/">A suspicious conference</a>- by terrytao - Apr 17, 2025</li>
  <li style="padding-left: 20px;"><a href="https://hsu.cy/now/">Now</a>- by hsu - Apr 15, 2025</li>
  <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1d4ca795c95680c0afd1c168db8092fb">2025#15 风大鱼大</a>- by 1q43 - Apr 14, 2025</li>
