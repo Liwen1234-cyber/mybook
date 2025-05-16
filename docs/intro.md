@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=4JO0LKw5unc"><img width="200px" src="http://img.youtube.com/vi/4JO0LKw5unc/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=4JO0LKw5unc">特朗普：我跟普京會面前，俄烏談判不會有進展－ BBC News 中文</a></td>
+<td>May 16, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=abfXL4O9PbI"><img width="200px" src="http://img.youtube.com/vi/abfXL4O9PbI/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=abfXL4O9PbI">中美貿易戰休戰：中國工廠迎來復甦，還是轉型契機？ － BBC News 中文</a></td>
 <td>May 15, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>May 13, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=p5dj0OGeALg"><img width="200px" src="http://img.youtube.com/vi/p5dj0OGeALg/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=p5dj0OGeALg">AI重現已故男子 在法庭上對兇手說話－ BBC News 中文</a></td>
-<td>May 13, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=Oi9jLinyxas"><img width="200px" src="http://img.youtube.com/vi/Oi9jLinyxas/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Oi9jLinyxas">中國重慶「吞火車」成為拍照潮流－ BBC News 中文</a></td>
 <td>May 13, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
