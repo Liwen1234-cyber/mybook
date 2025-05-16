@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+ <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/16/%e8%87%aa%e6%a5%ad%e8%87%aa%e5%be%97/">自業自得</a>- by onojyun - May 16, 2025</li>
  <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/weekly-issue-348.html">科技爱好者周刊（第 348 期）：李飞飞，从移民到 AI 明星</a>- by ruanyifeng - May 16, 2025</li>
  <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/15/%e5%87%aa/">凪</a>- by onojyun - May 15, 2025</li>
  <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/14/%e7%bd%a0/">罠</a>- by onojyun - May 14, 2025</li>
@@ -31,7 +32,6 @@ slug: /
  <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/">Orders of infinity</a>- by terrytao - May 4, 2025</li>
  <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/">A proof of concept tool to verify estimates</a>- by terrytao - May 2, 2025</li>
  <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/notebooklm.html">谷歌的 NotebookLM 能生成中文播客了</a>- by ruanyifeng - May 1, 2025</li>
- <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/04/30/%e9%aa%82%e4%ba%ba%e9%aa%82%e4%b8%83%e5%af%b8/">骂人骂七寸</a>- by onojyun - Apr 30, 2025</li>
  <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/04/weekly-issue-346.html">科技爱好者周刊（第 346 期）：未来就是永恒感的丧失</a>- by ruanyifeng - Apr 25, 2025</li>
  <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/04/23/stonean-spaces-projective-objects-the-riesz-representation-theorem-and-possibly-condensed-mathematics/">Stonean spaces, projective objects, the Riesz representation theorem, and &lpar;possibly&rpar; condensed mathematics</a>- by terrytao - Apr 23, 2025</li>
  <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/04/trae-mcp.html">巨头的新战场：AI 编程 IDE（暨 字节 Trae 调用 MCP 教程）</a>- by ruanyifeng - Apr 22, 2025</li>
