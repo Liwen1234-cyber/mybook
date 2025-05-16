@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=ThO0gVOJbMI"><img width="200px" src="http://img.youtube.com/vi/ThO0gVOJbMI/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ThO0gVOJbMI">墨西哥23歲網紅直播時遭槍擊殺害－ BBC News 中文</a></td>
+<td>May 16, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=Sp73ztlrAkw"><img width="200px" src="http://img.youtube.com/vi/Sp73ztlrAkw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Sp73ztlrAkw">以色列加強空襲：加沙過百人傷亡  醫院成目標－ BBC News 中文</a></td>
+<td>May 16, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=4JO0LKw5unc"><img width="200px" src="http://img.youtube.com/vi/4JO0LKw5unc/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4JO0LKw5unc">特朗普：我跟普京會面前，俄烏談判不會有進展－ BBC News 中文</a></td>
 <td>May 16, 2025</td></tr>
@@ -81,13 +87,7 @@ slug: /
 <td>May 14, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=LwXklsL19-M"><img width="200px" src="http://img.youtube.com/vi/LwXklsL19-M/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LwXklsL19-M">特朗普訪問沙特  與數十人馬拉松式握手－ BBC News 中文</a></td>
-<td>May 14, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=534ZTCD5xeU"><img width="200px" src="http://img.youtube.com/vi/534ZTCD5xeU/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=534ZTCD5xeU">中美貿易戰意外「休戰」  全球市場暫獲喘息之機－ BBC News 中文</a></td>
-<td>May 13, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=p5dj0OGeALg"><img width="200px" src="http://img.youtube.com/vi/p5dj0OGeALg/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=p5dj0OGeALg">AI重現已故男子 在法庭上對兇手說話－ BBC News 中文</a></td>
-<td>May 13, 2025</td></tr><!-- YOUTUBE:END -->
+<td>May 14, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
