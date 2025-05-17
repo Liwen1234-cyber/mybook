@@ -35,7 +35,7 @@ module.exports = {
     prism: {
       theme: themes.oneLight,
       darkTheme: themes.oneDark,
-      additionalLanguages: ['java', 'python', 'cpp'],
+      additionalLanguages: ['java', 'python', 'cpp', 'python3', 'matlab'],
     },
     navbar: {
       title: 'Coisini',
