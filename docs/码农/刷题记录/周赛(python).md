@@ -57,7 +57,7 @@ class Solution:
 
 ### [2411. 按位或最大的最小子数组长度](https://leetcode.cn/problems/smallest-subarrays-with-maximum-bitwise-or/)
 
-给你一个长度为 `n` 下标从 **0** 开始的数组 `nums` ，数组中所有数字均为非负整数。对于 `0` 到 `n - 1` 之间的每一个下标 `i` ，你需要找出 `nums` 中一个 **最小** 非空子数组，它的起始位置为 `i` （包含这个位置），同时有 **最大** 的 **按位或****运算值** 。
+给你一个长度为 `n` 下标从 **0** 开始的数组 `nums` ，数组中所有数字均为非负整数。对于 `0` 到 `n - 1` 之间的每一个下标 `i` ，你需要找出 `nums` 中一个 **最小** 非空子数组，它的起始位置为 `i` （包含这个位置），同时有 **最大** 的 **按位或运算值** 。
 
 - 换言之，令 `Bij` 表示子数组 `nums[i...j]` 的按位或运算的结果，你需要找到一个起始位置为 `i` 的最小子数组，这个子数组的按位或运算的结果等于 `max(Bik)` ，其中 `i <= k <= n - 1` 。
 
@@ -108,7 +108,7 @@ class Solution:
 
 
 
-**方法二：更加通用的模板**
+**方法二：更加通用的模板(区间维护的思想)**
 
 该模板可以做到
 
@@ -129,6 +129,36 @@ class Solution:
 
 注：下面代码用到了原地去重的技巧，如果你对此并不熟悉，可以先做做 [26. 删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/)。
 
+复杂度分析
+
+    时间复杂度：O(nlogU)，其中 n 为 nums 的长度，U=max(nums)。
+    空间复杂度：O(logU)。返回值不计入。
+
+可以用模板秒杀的题目
+
+按位或：
+
+[898. 子数组按位或操作](https://leetcode.cn/problems/bitwise-ors-of-subarrays/)
+
+按位与：
+
+[1521. 找到最接近目标值的函数值](https://leetcode.cn/problems/find-a-value-of-a-mysterious-function-closest-to-target/)
+
+最大公因数（GCD）：
+
+- [Codeforces 475D. CGCDSSQ](https://codeforces.com/problemset/problem/475/D)
+- [Codeforces 1632D. New Year Concert](https://codeforces.com/problemset/problem/1632/D)
+
+乘法：
+
+- [蓝桥杯2021年第十二届国赛真题-和与乘积](https://leetcode.cn/link/?target=https%3A%2F%2Fwww.dotcpp.com%2Foj%2Fproblem2622.html)
+
+思考题
+
+如果是异或要怎么做？
+
+依然是倒序遍历，求后缀异或和，然后可以用 421. 数组中两个数的最大异或值 的字典树方法，需要额外存后缀异或和对应的下标，如果有多个相同的，存下标最小的。
+
 解答:
 
 ```python3
@@ -139,7 +169,7 @@ class Solution:
         ors = [] # 按位或的值 + 对应子数组的右端点的最小值
         for i in range(n-1, -1, -1):
             num = nums[i]
-            ors.append([0, i])
+            ors.append([0, i]) #开启一个新的右端点
             k = 0
             for p in ors:
                 p[0] |= num
@@ -154,3 +184,50 @@ class Solution:
         return res
 ```
 
+### [2412. 完成所有交易的初始最少钱数](https://leetcode.cn/problems/minimum-money-required-before-transactions/)
+
+给你一个下标从 **0** 开始的二维整数数组 `transactions`，其中`transactions[i] = [costi, cashbacki]` 。
+
+数组描述了若干笔交易。其中每笔交易必须以 **某种顺序** 恰好完成一次。在任意一个时刻，你有一定数目的钱 `money` ，为了完成交易 `i` ，`money >= costi` 这个条件必须为真。执行交易后，你的钱数 `money` 变成 `money - costi + cashbacki` 。
+
+请你返回 **任意一种** 交易顺序下，你都能完成所有交易的最少钱数 `money` 是多少。
+
+「任意一种交易顺序下，都能完成所有交易」意味着要考虑在最坏情况下，需要多少初始钱数 initMoney。
+
+什么是最坏情况？
+
+先亏钱（cost>cashback），再赚钱（cost≤cashback），主打一个欲扬先抑。
+
+初始钱数必须满足，在最穷困潦倒的时候，也能完成交易。
+
+什么时候最穷？完成所有亏钱交易后最穷。
+
+记 totalLose 为所有亏钱的 cost−cashback 之和。
+
+所有情况取最大值，就能保证在任意一种交易顺序下，都能完成所有交易。
+
+- 如果赚钱，即 cost≤cashback，那么 totalLose 加上的是二者的较小值 cost。
+- 如果亏钱，即 cost>cashback，那么 totalLose 加上的也是二者的较小值 cashback。
+
+综上所述，初始钱数 initMoney 等于 totalLose 加上 min(cost,cashback) 的最大值。
+
+```python3
+class Solution:
+    def minimumMoney(self, transactions: List[List[int]]) -> int:
+        total_loss = mx = 0
+        for cost, cashback in transactions:
+            total_loss += max(cost - cashback, 0)
+            mx = max(mx, min(cost, cashback))
+        return total_loss + mx
+```
+
+复杂度分析
+
+- 时间复杂度：O(n)，其中 n 为 transactions 的长度。
+- 空间复杂度：O(1)，仅用到若干变量。
+
+思考题
+
+如果把题干的「任意一种」改成「至少一种」要怎么做？
+
+可以看[1665. 完成所有任务的最少初始能量](https://leetcode.cn/problems/minimum-initial-energy-to-finish-tasks/)
