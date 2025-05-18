@@ -94,6 +94,9 @@ slug: /
 ## GitHub Trending
 ### All language
 
+* 【2025-05-18】[Capsize-Games / airunner](https://github.com/Capsize-Games/airunner) - Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows
+* 【2025-05-18】[th-ch / youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
+* 【2025-05-18】[itdoginfo / podkop](https://github.com/itdoginfo/podkop) - Dev podkop
 * 【2025-05-17】[git-bug / git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git
 * 【2025-05-17】[virattt / ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 * 【2025-05-16】[TapXWorld / ChinaTextbook](https://github.com/TapXWorld/ChinaTextbook) - 所有小初高、大学PDF教材。
@@ -168,6 +171,8 @@ slug: /
 * 【2025-05-11】[mdn / translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs
 ### Jupyter-notebook
 
+* 【2025-05-18】[advimman / lama](https://github.com/advimman/lama) - 🦙 LaMa Image Inpainting, Resolution-robust Large Mask Inpainting with Fourier Convolutions, WACV 2022
+* 【2025-05-18】[microsoft / ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 10 Lessons to Get Started Building AI Agents
 * 【2025-05-17】[greyhatguy007 / Machine-Learning-Specialization-Coursera](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera) - Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG
 * 【2025-05-17】[datawhalechina / fun-rec](https://github.com/datawhalechina/fun-rec) - 推荐系统入门教程，在线阅读地址：https://datawhalechina.github.io/fun-rec/
 * 【2025-05-17】[google-deepmind / deepmind-research](https://github.com/google-deepmind/deepmind-research) - This repository contains implementations and illustrative code to accompany DeepMind publications
@@ -197,6 +202,7 @@ slug: /
 * 【2025-05-11】[onnx / models](https://github.com/onnx/models) - A collection of pre-trained, state-of-the-art models in the ONNX format
 ### Javascript
 
+* 【2025-05-18】[cv-cat / Spider_XHS](https://github.com/cv-cat/Spider_XHS) - 小红书爬虫数据采集，小红书全域运营解决方案
 * 【2025-05-16】[microsoft / generative-ai-with-javascript](https://github.com/microsoft/generative-ai-with-javascript) - Join a time-traveling adventure where you meet history’s legends while learning Generative AI technologies! ✨
 * 【2025-05-15】[wonderwhy-er / DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP) - This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities
 * 【2025-05-15】[gradio-app / fastrtc](https://github.com/gradio-app/fastrtc) - The python library for real-time communication
@@ -206,6 +212,7 @@ slug: /
 * 【2025-05-11】[certd / certd](https://github.com/certd/certd) - 开源SSL证书管理工具；全自动证书申请、更新、续期；通配符证书，泛域名证书申请；证书自动化部署到阿里云、腾讯云、主机、群晖、宝塔；https证书，pfx证书，der证书，TLS证书，nginx证书自动续签自动部署
 ### C
 
+* 【2025-05-18】[microsoft / documentdb](https://github.com/microsoft/documentdb) - DocumentDB is the open-source engine powering vCore-based Azure Cosmos DB for MongoDB. It offers a native implementation of document-oriented NoSQL database, enabling seamless CRUD operations on BSON data types within a PostgreSQL framework.
 * 【2025-05-17】[espressif / esp-webrtc-solution](https://github.com/espressif/esp-webrtc-solution) - 
 * 【2025-05-17】[strongtz / i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) - dkms module of Linux i915 driver with SR-IOV support
 * 【2025-05-16】[n64decomp / mk64](https://github.com/n64decomp/mk64) - A speedy Mario Kart 64 decompilation, brought to you by the cousin of a tame racing driver.
@@ -229,6 +236,8 @@ slug: /
 * 【2025-05-11】[TianxingChen / Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能技术指南 Embodied-AI-Guide
 ### Go
 
+* 【2025-05-18】[kgateway-dev / kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway
+* 【2025-05-18】[grafana / mcp-grafana](https://github.com/grafana/mcp-grafana) - MCP server for Grafana
 * 【2025-05-17】[microsoft / typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 * 【2025-05-16】[ltaoo / wx_channels_download](https://github.com/ltaoo/wx_channels_download) - 微信视频号下载器
 * 【2025-05-16】[lejianwen / rustdesk-api](https://github.com/lejianwen/rustdesk-api) - Custom Rustdesk Api Server, include web admin ,web client, web client v2 preview and oidc login
