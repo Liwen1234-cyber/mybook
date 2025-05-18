@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+    <title>MyDocs</title>
+    <link>https://doc.minddiy.top</link>
+    <description>个人文档和笔记</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 18 May 2025 13:52:46 +0000</lastBuildDate>
+
+    <item>
+        <title>About document</title>
+        <link>https://doc.minddiy.top/intro</link>
+        <description><![CDATA[# An Awesome Document
+
+[![](/img/68747470733a2f2f692e696d6775722e636f6d2f5a64686174626a2e6a7067.jpg)](./分享/好玩的网站、工具)
+
+## 🎯Latest ARTICLES
+<details open>
+  <summary>ARTICLES LIST</summary>
+<!-- BLOG:ST...]]></description>
+        <pubDate>Sun, 18 May 2025 13:52:40 +0000</pubDate>
+        <guid>https://doc.minddiy.top/intro</guid>
+    </item>
+    <item>
+        <title>google搜索技巧</title>
+        <link>https://doc.minddiy.top/技巧/google搜索</link>
+        <description><![CDATA[## google搜索技巧
+
+1. 限定关键词：双引号””
+   1. 单个关键词：”coisini.io”
+   2. 多个关键词：”coisini” “Love and Peace”
+2. 限定标题：intitle:
+   1. 单个关键词：intitle:coisini
+   2. 多个关键词：intitle:”coisini””一见钟情”
+3. 精准限定标题：allintitle:
+   ...]]></description>
+        <pubDate>Sun, 18 May 2025 13:52:40 +0000</pubDate>
+        <guid>https://doc.minddiy.top/技巧/google搜索</guid>
+    </item>
+</channel>
+</rss>
