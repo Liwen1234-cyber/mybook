@@ -1,2 +1,4 @@
 pyquery
 requests
+python-frontmatter==1.0.0
+pytz==2024.1

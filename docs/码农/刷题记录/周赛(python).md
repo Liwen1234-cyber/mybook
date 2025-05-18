@@ -1,5 +1,7 @@
 # 周赛
 
+> [灵神-常用数据结构](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/)
+
 ## 双周赛87
 
 ### [2409. 统计共同度过的日子数](https://leetcode.cn/problems/count-days-spent-together/)
@@ -231,3 +233,71 @@ class Solution:
 如果把题干的「任意一种」改成「至少一种」要怎么做？
 
 可以看[1665. 完成所有任务的最少初始能量](https://leetcode.cn/problems/minimum-initial-energy-to-finish-tasks/)
+
+## 周赛 450
+
+### [3550. 数位和等于下标的最小下标](https://leetcode.cn/problems/smallest-index-with-digit-sum-equal-to-index/)
+
+给你一个整数数组 `nums` 。
+
+返回满足 `nums[i]` 的数位和（每一位数字相加求和）等于 `i` 的 **最小** 下标 `i` 。
+
+如果不存在满足要求的下标，返回 `-1` 。
+
+```python
+from typing import List
+class Solution:
+    def smallestIndex(self, nums: List[int]) -> int:
+        for i, x in enumerate(nums[:28]): # 最大和为27
+            if i == sum(map(int, str(x))): # 如果i等于x的各位数字之和, map(int, str(x))将x转换为字符串,然后转换为数字列表
+                return i
+        return -1
+```
+
+
+
+### [3551. 数位和排序需要的最小交换次数](https://leetcode.cn/problems/minimum-swaps-to-sort-by-digit-sum/)
+
+给你一个由 **互不相同** 的正整数组成的数组 `nums`，需要根据每个数字的数位和（即每一位数字相加求和）按 **升序** 对数组进行排序。如果两个数字的数位和相等，则较小的数字排在前面。
+
+返回将 `nums` 排列为上述排序顺序所需的 **最小** 交换次数。
+
+一次 **交换** 定义为交换数组中两个不同位置的值。
+
+**置换**,交换位置相连,可以得到一个或者多个环,一个环要操作$k-1$次
+
+解答:
+
+```python
+from typing import List
+
+class UnionFind:
+    def __init__(self, n: int) -> None:
+        self._parent = list(range(n))
+        self._size = [1] * (n)
+        self.count = n
+    def find(self, x: int) -> int:
+        if self._parent[x] != x:
+            self._parent[x] = self.find(self._parent[x])
+        return self._parent[x]
+    def union(self, x: int, y: int) -> bool:
+        x = self.find(x)
+        y = self.find(y)
+        if x == y:
+            return False
+        self._size[y] += self._size[x]
+        self._parent[x] = y
+        self.count -= 1
+
+    def connected(self, x: int, y: int) -> bool:
+        return self.find(x) == self.find(y)
+class Solution:
+    def minSwaps(self, nums: List[int]) -> int:
+        n = len(nums)
+        a = sorted((sum(map(int, str(x))), x, i) for i, x in enumerate(nums))
+        uf = UnionFind(n)
+        for i, t in enumerate(a):
+            uf.union(t[2], i)
+        return n - uf.count
+```
+
