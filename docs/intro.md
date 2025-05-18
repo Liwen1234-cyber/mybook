@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+ <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/18/%e5%b0%8f%e5%ad%a6%e7%94%9f/">小学生</a>- by onojyun - May 18, 2025</li>
  <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/16/%e8%87%aa%e6%a5%ad%e8%87%aa%e5%be%97/">自業自得</a>- by onojyun - May 16, 2025</li>
  <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/weekly-issue-348.html">科技爱好者周刊（第 348 期）：李飞飞，从移民到 AI 明星</a>- by ruanyifeng - May 16, 2025</li>
  <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/15/%e5%87%aa/">凪</a>- by onojyun - May 15, 2025</li>
@@ -28,7 +29,6 @@ slug: /
  <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/07/%e5%8d%88%e5%a4%9c%e7%99%bd%e6%97%a5%e6%a2%a6/">午夜白日梦</a>- by onojyun - May 7, 2025</li>
  <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/looking-at-cell-phones-while-eating/?utm_source=rss&utm_medium=rss&utm_campaign=looking-at-cell-phones-while-eating">边吃饭，边看手机</a>- by stephenleng - May 6, 2025</li>
  <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/06/%e4%bb%a3%e9%99%85%e9%9b%8c%e7%ab%9e%e4%b8%8b%e7%9a%84%e6%9b%bf%e7%bd%aa%e7%be%94%e7%be%8a/">代际雌竞下的替罪羔羊</a>- by onojyun - May 6, 2025</li>
- <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/05/%e7%a4%be%e5%8c%ba%e8%9f%91%e8%9e%82%e6%9d%80%e8%99%ab%e5%89%82/">社区蟑螂杀虫剂</a>- by onojyun - May 5, 2025</li>
  <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/">Orders of infinity</a>- by terrytao - May 4, 2025</li>
  <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/">A proof of concept tool to verify estimates</a>- by terrytao - May 2, 2025</li>
  <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/notebooklm.html">谷歌的 NotebookLM 能生成中文播客了</a>- by ruanyifeng - May 1, 2025</li>
