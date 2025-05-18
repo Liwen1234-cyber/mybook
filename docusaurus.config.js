@@ -2,7 +2,6 @@ import { themes } from 'prism-react-renderer'
 import remarkMath from 'remark-math';
 import rehypeKatex from 'rehype-katex';
 
-
 module.exports = {
   title: 'Coisini',
   tagline: 'Developing with Coisini',

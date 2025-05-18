@@ -14,7 +14,7 @@ Alice 和 Bob 计划分别去罗马开会。
 
 解答:
 
-```python3
+```python
 DAY_SUM = list(accumulate((31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31), initial = 0))
 
 def cal_day(data: str) -> int:
@@ -37,7 +37,7 @@ class Solution:
 
 解答:
 
-```python3
+```python
 class Solution:
     def matchPlayersAndTrainers(self, players: List[int], trainers: List[int]) -> int:
         players.sort()
@@ -89,7 +89,7 @@ class Solution:
 
 解答:
 
-```python3
+```python
 class Solution:
     def smallestSubarrays(self, nums: List[int]) -> List[int]:
         n = len(nums)
@@ -161,7 +161,7 @@ class Solution:
 
 解答:
 
-```python3
+```python
 class Solution:
     def smallestSubarrays(self, nums: List[int]) -> List[int]:
         n = len(nums)
@@ -211,7 +211,7 @@ class Solution:
 
 综上所述，初始钱数 initMoney 等于 totalLose 加上 min(cost,cashback) 的最大值。
 
-```python3
+```python
 class Solution:
     def minimumMoney(self, transactions: List[List[int]]) -> int:
         total_loss = mx = 0
