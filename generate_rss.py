@@ -8,8 +8,17 @@ import pytz
 def get_file_metadata(file_path):
     """解析markdown文件的元数据"""
     with open(file_path, 'r', encoding='utf-8') as f:
-        post = frontmatter.load(f)
-        metadata = post.metadata
+        content = f.read()
+        
+        # 尝试解析frontmatter
+        try:
+            post = frontmatter.loads(content)
+            metadata = post.metadata
+            content_text = post.content
+        except:
+            # 如果没有frontmatter，使用文件名作为标题
+            metadata = {}
+            content_text = content
         
         # 获取文件修改时间作为发布日期
         mtime = os.path.getmtime(file_path)
@@ -19,12 +28,24 @@ def get_file_metadata(file_path):
         relative_path = str(file_path.relative_to('docs'))
         url_path = relative_path.replace('\\', '/').replace('.md', '')
         
+        # 如果没有标题，使用文件名（去掉.md后缀）
+        title = metadata.get('title', '')
+        if not title:
+            title = file_path.stem
+            
+        # 获取描述，如果没有则使用内容的前200个字符
+        description = metadata.get('description', '')
+        if not description:
+            # 移除markdown标记，获取纯文本
+            clean_content = re.sub(r'[#*`_~]', '', content_text)
+            description = clean_content.strip()[:200]
+        
         return {
-            'title': metadata.get('title', ''),
-            'description': metadata.get('description', ''),
+            'title': title,
+            'description': description,
             'pub_date': pub_date,
-            'url': f'https://doc.minddiy.top/{url_path}',
-            'content': post.content
+            'url': f'https://mydocs.vercel.app/{url_path}',
+            'content': content_text
         }
 
 def generate_rss():
@@ -34,7 +55,7 @@ def generate_rss():
 <rss version="2.0">
 <channel>
     <title>MyDocs</title>
-    <link>https://doc.minddiy.top</link>
+    <link>https://mydocs.vercel.app</link>
     <description>个人文档和笔记</description>
     <language>zh-cn</language>
     <lastBuildDate>{}</lastBuildDate>
@@ -50,16 +71,15 @@ def generate_rss():
                 file_path = Path(root) / file
                 try:
                     metadata = get_file_metadata(file_path)
-                    if metadata['title']:  # 只包含有标题的文章
-                        item = f'''
+                    item = f'''
     <item>
         <title>{metadata['title']}</title>
         <link>{metadata['url']}</link>
-        <description><![CDATA[{metadata['description'] or metadata['content'][:200]}...]]></description>
+        <description><![CDATA[{metadata['description']}...]]></description>
         <pubDate>{metadata['pub_date'].strftime('%a, %d %b %Y %H:%M:%S %z')}</pubDate>
         <guid>{metadata['url']}</guid>
     </item>'''
-                        rss_items.append(item)
+                    rss_items.append(item)
                 except Exception as e:
                     print(f"Error processing {file_path}: {e}")
 
@@ -76,4 +96,4 @@ def generate_rss():
         f.write(rss_content)
 
 if __name__ == '__main__':
-    generate_rss() 
+    generate_rss()
