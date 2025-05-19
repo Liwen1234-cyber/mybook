@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=QhUvKnBhXfw"><img width="200px" src="http://img.youtube.com/vi/QhUvKnBhXfw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=QhUvKnBhXfw">黃仁勳台灣專題演講有哪些重點？－ BBC News 中文</a></td>
+<td>May 19, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=MtdYqss8Rpw"><img width="200px" src="http://img.youtube.com/vi/MtdYqss8Rpw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=MtdYqss8Rpw">黃仁勳強調台灣重要性 宣布海外總部將座落北投士林－ BBC News 中文</a></td>
+<td>May 19, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=itV_vRXEJ7U"><img width="200px" src="http://img.youtube.com/vi/itV_vRXEJ7U/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=itV_vRXEJ7U">新教宗良十四位就任：澤連斯基與萬斯「破冰」 俄烏或赴梵蒂岡和談？－ BBC News 中文</a></td>
 <td>May 19, 2025</td></tr>
@@ -81,12 +87,6 @@ slug: /
 <td>May 16, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=abfXL4O9PbI"><img width="200px" src="http://img.youtube.com/vi/abfXL4O9PbI/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=abfXL4O9PbI">中美貿易戰休戰：中國工廠迎來復甦，還是轉型契機？ － BBC News 中文</a></td>
-<td>May 15, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=QJtjsIU7K3s"><img width="200px" src="http://img.youtube.com/vi/QJtjsIU7K3s/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QJtjsIU7K3s">台灣兵役制度為何？為何台灣多名藝人閃躲兵役？－ BBC News 中文</a></td>
-<td>May 15, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=wEa279pqRE0"><img width="200px" src="http://img.youtube.com/vi/wEa279pqRE0/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=wEa279pqRE0">特朗普會見敘利亞新總統 美敘元首25年首次會晤－ BBC News 中文</a></td>
 <td>May 15, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
