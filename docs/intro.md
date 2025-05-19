@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/institutional-reform-and-cultural-stagnation/?utm_source=rss&utm_medium=rss&utm_campaign=institutional-reform-and-cultural-stagnation">制度改革与文化停滞</a>- by stephenleng - May 19, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/19/%e7%84%a1%e7%82%ba%e8%87%aa%e7%84%b6/">無為自然</a>- by onojyun - May 19, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/18/%e5%b0%8f%e5%ad%a6%e7%94%9f/">小学生</a>- by onojyun - May 18, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/16/%e8%87%aa%e6%a5%ad%e8%87%aa%e5%be%97/">自業自得</a>- by onojyun - May 16, 2025</li>
@@ -41,8 +42,7 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/the-role-of-bride-price-in-the-engagement-rape-case-in-datong-shanxi-province/?utm_source=rss&utm_medium=rss&utm_campaign=the-role-of-bride-price-in-the-engagement-rape-case-in-datong-shanxi-province">彩礼在“山西大同订婚强奸案”中扮演的角色</a>- by stephenleng - Apr 22, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/04/coze-space.html">办公类 AI 初探：扣子空间</a>- by ruanyifeng - Apr 21, 2025</li>
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1daca795c95680078a9cf9b7722c48ee">2025#16 人类幻觉</a>- by 1q43 - Apr 21, 2025</li>
-<li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/04/17/a-suspicious-conference/">A suspicious conference</a>- by terrytao - Apr 17, 2025</li>
-<li style="padding-left: 20px;"><a href="https://hsu.cy/now/">Now</a>- by hsu - Apr 15, 2025</li><!-- BLOG:END -->
+<li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/04/17/a-suspicious-conference/">A suspicious conference</a>- by terrytao - Apr 17, 2025</li><!-- BLOG:END -->
 
 </details>
 
