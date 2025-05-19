@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=itV_vRXEJ7U"><img width="200px" src="http://img.youtube.com/vi/itV_vRXEJ7U/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=itV_vRXEJ7U">新教宗良十四位就任：澤連斯基與萬斯「破冰」 俄烏或赴梵蒂岡和談？－ BBC News 中文</a></td>
+<td>May 19, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=0GpTC4Xcfh4"><img width="200px" src="http://img.youtube.com/vi/0GpTC4Xcfh4/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0GpTC4Xcfh4">拜登確診前列腺癌已擴散至骨骼 醫學界如何看治療成效？－ BBC News 中文</a></td>
+<td>May 19, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ACmL6X551U8"><img width="200px" src="http://img.youtube.com/vi/ACmL6X551U8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ACmL6X551U8">BBC調查：伊朗「買兇殺人」網絡－ BBC News 中文</a></td>
 <td>May 17, 2025</td></tr>
@@ -81,13 +87,7 @@ slug: /
 <td>May 15, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=wEa279pqRE0"><img width="200px" src="http://img.youtube.com/vi/wEa279pqRE0/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=wEa279pqRE0">特朗普會見敘利亞新總統 美敘元首25年首次會晤－ BBC News 中文</a></td>
-<td>May 15, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=OBq3QZtapMg"><img width="200px" src="http://img.youtube.com/vi/OBq3QZtapMg/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=OBq3QZtapMg">英國最長冤案之一 男子遭判謀殺罪入獄38年後獲平反－ BBC News 中文</a></td>
-<td>May 14, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=B3UumVTu2Bg"><img width="200px" src="http://img.youtube.com/vi/B3UumVTu2Bg/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=B3UumVTu2Bg">簽大單、紫地毯和馬斯克：特朗普訪問沙特的關鍵時刻－ BBC News 中文</a></td>
-<td>May 14, 2025</td></tr><!-- YOUTUBE:END -->
+<td>May 15, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
