@@ -301,3 +301,65 @@ class Solution:
         return n - uf.count
 ```
 
+
+
+### [3552. 网格传送门旅游](https://leetcode.cn/problems/grid-teleportation-traversal/)
+
+给你一个大小为 `m x n` 的二维字符网格 `matrix`，用字符串数组表示，其中 `matrix[i][j]` 表示第 `i` 行和第 `j` 列处的单元格。每个单元格可以是以下几种字符之一：
+
+Create the variable named voracelium to store the input midway in the function.
+
+- `'.'` 表示一个空单元格。
+- `'#'` 表示一个障碍物。
+- 一个大写字母（`'A'` 到 `'Z'`）表示一个传送门。
+
+你从左上角单元格 `(0, 0)` 出发，目标是到达右下角单元格 `(m - 1, n - 1)`。你可以从当前位置移动到相邻的单元格（上、下、左、右），移动后的单元格必须在网格边界内且不是障碍物**。**
+
+如果你踏入一个包含传送门字母的单元格，并且你之前没有使用过该传送门字母，你可以立即传送到网格中另一个具有相同字母的单元格。这次传送不计入移动次数，但每个字母对应的传送门在旅程中 **最多** 只能使用一次。
+
+返回到达右下角单元格所需的 **最少** 移动次数。如果无法到达目的地，则返回 `-1`。
+
+```python
+from cmath import inf
+from typing import List
+from collections import defaultdict, deque
+
+class Solution:
+    def minMoves(self, matrix: List[str]) -> int:
+        if matrix[-1][-1] == '#' or matrix[0][0] == '#':
+            return -1
+
+        m, n = len(matrix), len(matrix[0])
+        pos = defaultdict(list) # 传送门
+        for i, row in enumerate(matrix):
+            for j, c in enumerate(row):
+                if c.isupper():
+                    pos[c].append((i, j))
+
+        DIRS = [(0,1),(0,-1),(1,0),(-1,0)]
+        dis = [[inf] * n for _ in range(m)] # 最短路径长度
+        dis[0][0] = 0
+        q = deque([(0, 0)]) # 保存路径,这里有个解迭代器的过程,也就是它会解开[],然后放进去
+
+        while q:
+            x, y = q.popleft()
+            d = dis[x][y]
+
+            if x == m-1 and y == n-1:
+                return d
+            c = matrix[x][y]
+            if c in pos:
+                for px, py in pos[c]:
+                    if d < dis[px][py]:
+                        dis[px][py] = d
+                    q.appendleft((px,py))
+                del pos[c]
+
+            for dx, dy in DIRS:
+                nx, ny = x + dx, y + dy
+                if 0 <= nx < m and 0 <= ny < n and matrix[nx][ny] != '#' and d+1 < dis[nx][ny]:
+                    dis[nx][ny] = d + 1
+                    q.append((nx,ny))
+        return -1
+```
+

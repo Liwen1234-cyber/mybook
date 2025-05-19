@@ -44,7 +44,7 @@ def get_file_metadata(file_path):
             'title': title,
             'description': description,
             'pub_date': pub_date,
-            'url': f'https://mydocs.vercel.app/{url_path}',
+            'url': f'https://doc.minddiy.top/{url_path}',
             'content': content_text
         }
 
@@ -55,7 +55,7 @@ def generate_rss():
 <rss version="2.0">
 <channel>
     <title>MyDocs</title>
-    <link>https://mydocs.vercel.app</link>
+    <link>https://doc.minddiy.top</link>
     <description>个人文档和笔记</description>
     <language>zh-cn</language>
     <lastBuildDate>{}</lastBuildDate>
