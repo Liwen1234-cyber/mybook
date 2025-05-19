@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/19/%e7%84%a1%e7%82%ba%e8%87%aa%e7%84%b6/">無為自然</a>- by onojyun - May 19, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/18/%e5%b0%8f%e5%ad%a6%e7%94%9f/">小学生</a>- by onojyun - May 18, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/16/%e8%87%aa%e6%a5%ad%e8%87%aa%e5%be%97/">自業自得</a>- by onojyun - May 16, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/weekly-issue-348.html">科技爱好者周刊（第 348 期）：李飞飞，从移民到 AI 明星</a>- by ruanyifeng - May 16, 2025</li>
@@ -22,16 +23,18 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/zhejiang-people-read-schopenhauer/?utm_source=rss&utm_medium=rss&utm_campaign=zhejiang-people-read-schopenhauer">浙江人，读叔本华吧！</a>- by stephenleng - May 12, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/12/%e6%ad%bb%e7%8c%ab%e9%97%ad%e7%8e%af/">死猫闭环</a>- by onojyun - May 12, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/12/%e5%9f%8e%e5%b8%82%e7%9a%84%e5%b9%95%e5%b8%83/">城市的幕布</a>- by onojyun - May 12, 2025</li>
+<li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1f0ca795c95680a592cdd26d14353afa">2025#19 AI不是朋友</a>- by 1q43 - May 12, 2025</li>
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/">A tool to verify estimates, II: a flexible proof assistant</a>- by terrytao - May 10, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/09/%e5%88%bb%e6%9d%bf%e5%81%8f%e8%a7%81%e8%af%9e%e7%94%9f%e8%b7%af%e5%be%84/">刻板偏见诞生路径</a>- by onojyun - May 9, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/weekly-issue-347.html">科技爱好者周刊（第 347 期）：冷启动的破解之道</a>- by ruanyifeng - May 9, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/08/%e5%85%b3%e7%b3%bb%e6%98%af%e5%a6%82%e4%bd%95%e8%a2%ab%e7%b2%be%e5%87%86%e7%88%86%e7%a0%b4%e7%9a%84%ef%bc%9f/">关系是如何被精准爆破的？</a>- by onojyun - May 8, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/07/%e5%8d%88%e5%a4%9c%e7%99%bd%e6%97%a5%e6%a2%a6/">午夜白日梦</a>- by onojyun - May 7, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/looking-at-cell-phones-while-eating/?utm_source=rss&utm_medium=rss&utm_campaign=looking-at-cell-phones-while-eating">边吃饭，边看手机</a>- by stephenleng - May 6, 2025</li>
-<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/06/%e4%bb%a3%e9%99%85%e9%9b%8c%e7%ab%9e%e4%b8%8b%e7%9a%84%e6%9b%bf%e7%bd%aa%e7%be%94%e7%be%8a/">代际雌竞下的替罪羔羊</a>- by onojyun - May 6, 2025</li>
+<li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1e8ca795c95680678834fbcd08ab6ff7">2025#18 节日氛围</a>- by 1q43 - May 5, 2025</li>
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/">Orders of infinity</a>- by terrytao - May 4, 2025</li>
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/">A proof of concept tool to verify estimates</a>- by terrytao - May 2, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/notebooklm.html">谷歌的 NotebookLM 能生成中文播客了</a>- by ruanyifeng - May 1, 2025</li>
+<li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1e1ca795c9568052a8dbdd0edef8c17c">2025#17 过渡劳动</a>- by 1q43 - Apr 28, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/04/weekly-issue-346.html">科技爱好者周刊（第 346 期）：未来就是永恒感的丧失</a>- by ruanyifeng - Apr 25, 2025</li>
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/04/23/stonean-spaces-projective-objects-the-riesz-representation-theorem-and-possibly-condensed-mathematics/">Stonean spaces, projective objects, the Riesz representation theorem, and &lpar;possibly&rpar; condensed mathematics</a>- by terrytao - Apr 23, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/04/trae-mcp.html">巨头的新战场：AI 编程 IDE（暨 字节 Trae 调用 MCP 教程）</a>- by ruanyifeng - Apr 22, 2025</li>
@@ -39,10 +42,7 @@ slug: /
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/04/coze-space.html">办公类 AI 初探：扣子空间</a>- by ruanyifeng - Apr 21, 2025</li>
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1daca795c95680078a9cf9b7722c48ee">2025#16 人类幻觉</a>- by 1q43 - Apr 21, 2025</li>
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/04/17/a-suspicious-conference/">A suspicious conference</a>- by terrytao - Apr 17, 2025</li>
-<li style="padding-left: 20px;"><a href="https://hsu.cy/now/">Now</a>- by hsu - Apr 15, 2025</li>
-<li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1d4ca795c95680c0afd1c168db8092fb">2025#15 风大鱼大</a>- by 1q43 - Apr 14, 2025</li>
-<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/are-you-where-you-belong/?utm_source=rss&utm_medium=rss&utm_campaign=are-you-where-you-belong">你在你所属于的地方吗？</a>- by stephenleng - Apr 13, 2025</li>
-<li style="padding-left: 20px;"><a href="https://hsu.cy/2025/04/en-joey/">En Joey</a>- by hsu - Apr 13, 2025</li><!-- BLOG:END -->
+<li style="padding-left: 20px;"><a href="https://hsu.cy/now/">Now</a>- by hsu - Apr 15, 2025</li><!-- BLOG:END -->
 
 </details>
 
