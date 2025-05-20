@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=7Lc6CMjFGW0"><img width="200px" src="http://img.youtube.com/vi/7Lc6CMjFGW0/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7Lc6CMjFGW0">哥斯大黎加貓咪被發現「走私」毒品－ BBC News 中文</a></td>
+<td>May 20, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=yr1pLoRG8WA"><img width="200px" src="http://img.youtube.com/vi/yr1pLoRG8WA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yr1pLoRG8WA">武汉当街发生枪击案，至少一人死亡；多地体制内事业编被曝欠薪严重；小米官宣将发布自研玄戒O1旗舰处理器【雪花每日新闻】</a></td>
 <td>May 20, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>May 16, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Sp73ztlrAkw"><img width="200px" src="http://img.youtube.com/vi/Sp73ztlrAkw/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Sp73ztlrAkw">以色列加強空襲：加沙過百人傷亡  醫院成目標－ BBC News 中文</a></td>
-<td>May 16, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=4JO0LKw5unc"><img width="200px" src="http://img.youtube.com/vi/4JO0LKw5unc/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4JO0LKw5unc">特朗普：我跟普京會面前，俄烏談判不會有進展－ BBC News 中文</a></td>
 <td>May 16, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
