@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=yr1pLoRG8WA"><img width="200px" src="http://img.youtube.com/vi/yr1pLoRG8WA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yr1pLoRG8WA">武汉当街发生枪击案，至少一人死亡；多地体制内事业编被曝欠薪严重；小米官宣将发布自研玄戒O1旗舰处理器【雪花每日新闻】</a></td>
+<td>May 20, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=QhUvKnBhXfw"><img width="200px" src="http://img.youtube.com/vi/QhUvKnBhXfw/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QhUvKnBhXfw">黃仁勳台灣專題演講有哪些重點？－ BBC News 中文</a></td>
 <td>May 19, 2025</td></tr>
@@ -84,10 +87,7 @@ slug: /
 <td>May 16, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=4JO0LKw5unc"><img width="200px" src="http://img.youtube.com/vi/4JO0LKw5unc/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=4JO0LKw5unc">特朗普：我跟普京會面前，俄烏談判不會有進展－ BBC News 中文</a></td>
-<td>May 16, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=abfXL4O9PbI"><img width="200px" src="http://img.youtube.com/vi/abfXL4O9PbI/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=abfXL4O9PbI">中美貿易戰休戰：中國工廠迎來復甦，還是轉型契機？ － BBC News 中文</a></td>
-<td>May 15, 2025</td></tr><!-- YOUTUBE:END -->
+<td>May 16, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
