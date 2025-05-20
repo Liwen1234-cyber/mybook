@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=proZFWHq4tY"><img width="200px" src="http://img.youtube.com/vi/proZFWHq4tY/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=proZFWHq4tY">賴清德上任一週年 重申對等尊嚴下歡迎兩岸交流－ BBC News 中文</a></td>
+<td>May 20, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=QkDBESVbaAA"><img width="200px" src="http://img.youtube.com/vi/QkDBESVbaAA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=QkDBESVbaAA">賴清德上任週年演說避談中國 強調兩岸「對話取代對抗」－ BBC News 中文</a></td>
+<td>May 20, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=mZdj9MLHyzg"><img width="200px" src="http://img.youtube.com/vi/mZdj9MLHyzg/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mZdj9MLHyzg">白宮新聞秘書回應特朗普對泰勒·斯威夫特評論－ BBC News 中文</a></td>
 <td>May 20, 2025</td></tr>
@@ -81,13 +87,7 @@ slug: /
 <td>May 19, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ACmL6X551U8"><img width="200px" src="http://img.youtube.com/vi/ACmL6X551U8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ACmL6X551U8">BBC調查：伊朗「買兇殺人」網絡－ BBC News 中文</a></td>
-<td>May 17, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=jFUwoCkdqAo"><img width="200px" src="http://img.youtube.com/vi/jFUwoCkdqAo/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jFUwoCkdqAo">【生成式AI時代下的機器學習&lpar;2025&rpar;】第十一講：今天你想為 Foundation Model 裝備哪些 Task Vector？淺談神奇的 Model Merging 技術</a></td>
-<td>May 16, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=ThO0gVOJbMI"><img width="200px" src="http://img.youtube.com/vi/ThO0gVOJbMI/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ThO0gVOJbMI">墨西哥23歲網紅直播時遭槍擊殺害－ BBC News 中文</a></td>
-<td>May 16, 2025</td></tr><!-- YOUTUBE:END -->
+<td>May 17, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
