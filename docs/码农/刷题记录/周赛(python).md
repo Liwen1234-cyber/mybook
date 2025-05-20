@@ -266,6 +266,11 @@ class Solution:
 
 **置换**,交换位置相连,可以得到一个或者多个环,一个环要操作$k-1$次
 
+**变成有序的最小交换次数**:
+
+1. 任意位置交换 n - 连通块个数
+2. 相邻位置交换 逆序对树状数组或者归并排序
+
 解答:
 
 ```python
@@ -373,8 +378,75 @@ class Solution:
 
 这里的 **子树** 是指原树中任意节点和边组成的连通子集形成的一棵有效树。
 
+如果是多个点就需要**DFN**先序遍历,这个题只有3个点,怎么遍历都对
+
 解答:
 
 ```python
+from typing import List
+
+class TreeAncestor:
+    def __init__(self, edges: List[List[int]]):
+        n = len(edges) + 1 
+        m = n.bit_length()
+        g = [[] for _ in range(n)] # 邻接表
+        
+        for x, y, z in edges:  # 节点编号从 0 开始
+            g[x].append([y, z])
+            g[y].append([x, z])
+
+
+        depth = [0] * n
+        dis = [0] * n # 距离数组
+        pa = [[-1] * m for _ in range(n)]
+        def dfs(x: int, fa: int) -> None: # 求深度
+            pa[x][0] = fa
+            for y, w in g[x]:
+                if y != fa: # 不是父节点,那就是子节点
+                    depth[y] = depth[x] + 1
+                    dis[y] = dis[x] + w
+                    dfs(y, x)
+        dfs(0, -1)
+
+        for i in range(m - 1):
+            for x in range(n):
+                if (p := pa[x][i]) != -1:
+                    pa[x][i + 1] = pa[p][i] #生成2^i父节点数组
+        self.depth = depth
+        self.pa = pa
+        self.distance = dis
+
+
+
+    def get_kth_ancestor(self, node: int, k: int) -> int:
+        for i in range(k.bit_length()):
+            if k >> i & 1:  # k 二进制从低到高第 i 位是 1
+                node = self.pa[node][i]
+        return node
+
+    # 返回 x 和 y 的最近公共祖先（节点编号从 0 开始）
+    def get_lca(self, x: int, y: int) -> int:
+        if self.depth[x] > self.depth[y]:
+            x, y = y, x
+
+        y = self.get_kth_ancestor(y, self.depth[y] - self.depth[x]) # 使 y 和 x 在同一深度
+
+        if y == x:
+            return x
+
+        for i in range(len(self.pa[x]) - 1, -1, -1): # 先跳大步，再跳小步
+            px, py = self.pa[x][i], self.pa[y][i]
+            if px != py:
+                x, y = px, py  # 同时往上跳 2**i 步
+        return self.pa[x][0] # 最后一跳必定是公共祖先
+    
+    def get_dis(self, x: int, y: int) -> int:
+        return self.distance[x] + self.distance[y] - 2 * self.distance[self.get_lca(x, y)]
+
+class Solution:
+    def minimumWeight(self, edges: List[List[int]], queries: List[List[int]]) -> List[int]:
+        g = TreeAncestor(edges)
+        res = [(g.get_dis(x, y) + g.get_dis(y, z) + g.get_dis(z, x))//2 for x, y, z in queries]
+        return res
 ```
 
