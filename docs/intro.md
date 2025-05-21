@@ -58,6 +58,15 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=CbF9zXl5FIs"><img width="200px" src="http://img.youtube.com/vi/CbF9zXl5FIs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=CbF9zXl5FIs">特朗普稱普京對梅拉尼婭表示讚賞－ BBC News 中文</a></td>
+<td>May 21, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=GvOdyDPSTLA"><img width="200px" src="http://img.youtube.com/vi/GvOdyDPSTLA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GvOdyDPSTLA">巴勒斯坦幼童動完心臟手術被送返戰區－ BBC News 中文</a></td>
+<td>May 21, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=ZPkBzrb_yXk"><img width="200px" src="http://img.youtube.com/vi/ZPkBzrb_yXk/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZPkBzrb_yXk">特朗普對於拜登病情未更早公開感到「驚訝」－ BBC News 中文  #特朗普 #美國 #拜登</a></td>
+<td>May 21, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=j3EQ2ie7PXY"><img width="200px" src="http://img.youtube.com/vi/j3EQ2ie7PXY/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=j3EQ2ie7PXY">十名囚犯從美國紐奧良監獄大膽越獄－ BBC News 中文</a></td>
 <td>May 21, 2025</td></tr>
@@ -78,16 +87,7 @@ slug: /
 <td>May 20, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=yr1pLoRG8WA"><img width="200px" src="http://img.youtube.com/vi/yr1pLoRG8WA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yr1pLoRG8WA">武汉当街发生枪击案，至少一人死亡；多地体制内事业编被曝欠薪严重；小米官宣将发布自研玄戒O1旗舰处理器【雪花每日新闻】</a></td>
-<td>May 20, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=QhUvKnBhXfw"><img width="200px" src="http://img.youtube.com/vi/QhUvKnBhXfw/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QhUvKnBhXfw">黃仁勳台灣專題演講有哪些重點？－ BBC News 中文</a></td>
-<td>May 19, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=MtdYqss8Rpw"><img width="200px" src="http://img.youtube.com/vi/MtdYqss8Rpw/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=MtdYqss8Rpw">黃仁勳強調台灣重要性 宣布海外總部將座落北投士林－ BBC News 中文</a></td>
-<td>May 19, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=itV_vRXEJ7U"><img width="200px" src="http://img.youtube.com/vi/itV_vRXEJ7U/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=itV_vRXEJ7U">新教宗良十四位就任：澤連斯基與萬斯「破冰」 俄烏或赴梵蒂岡和談？－ BBC News 中文</a></td>
-<td>May 19, 2025</td></tr><!-- YOUTUBE:END -->
+<td>May 20, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
