@@ -58,6 +58,18 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=j3EQ2ie7PXY"><img width="200px" src="http://img.youtube.com/vi/j3EQ2ie7PXY/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=j3EQ2ie7PXY">十名囚犯從美國紐奧良監獄大膽越獄－ BBC News 中文</a></td>
+<td>May 21, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=e9MPe2OVo0M"><img width="200px" src="http://img.youtube.com/vi/e9MPe2OVo0M/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=e9MPe2OVo0M">中国网络防火墙区域碎片化，河南等省网墙已高于防火长城；律师遭遇司法不公求助公众，解决后却要投诉帮助他的记者新冠疫情有所反弹；钟南山又称“可防可控”【雪花每日新闻】</a></td>
+<td>May 20, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=proZFWHq4tY"><img width="200px" src="http://img.youtube.com/vi/proZFWHq4tY/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=proZFWHq4tY">賴清德上任一週年 重申對等尊嚴下歡迎兩岸交流－ BBC News 中文</a></td>
+<td>May 20, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=QkDBESVbaAA"><img width="200px" src="http://img.youtube.com/vi/QkDBESVbaAA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=QkDBESVbaAA">賴清德上任週年演說避談中國 強調兩岸「對話取代對抗」－ BBC News 中文</a></td>
+<td>May 20, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=mZdj9MLHyzg"><img width="200px" src="http://img.youtube.com/vi/mZdj9MLHyzg/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mZdj9MLHyzg">白宮新聞秘書回應特朗普對泰勒·斯威夫特評論－ BBC News 中文</a></td>
 <td>May 20, 2025</td></tr>
@@ -75,25 +87,14 @@ slug: /
 <td>May 19, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=itV_vRXEJ7U"><img width="200px" src="http://img.youtube.com/vi/itV_vRXEJ7U/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=itV_vRXEJ7U">新教宗良十四位就任：澤連斯基與萬斯「破冰」 俄烏或赴梵蒂岡和談？－ BBC News 中文</a></td>
-<td>May 19, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=0GpTC4Xcfh4"><img width="200px" src="http://img.youtube.com/vi/0GpTC4Xcfh4/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0GpTC4Xcfh4">拜登確診前列腺癌已擴散至骨骼 醫學界如何看治療成效？－ BBC News 中文</a></td>
-<td>May 19, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=ACmL6X551U8"><img width="200px" src="http://img.youtube.com/vi/ACmL6X551U8/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ACmL6X551U8">BBC調查：伊朗「買兇殺人」網絡－ BBC News 中文</a></td>
-<td>May 17, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=jFUwoCkdqAo"><img width="200px" src="http://img.youtube.com/vi/jFUwoCkdqAo/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jFUwoCkdqAo">【生成式AI時代下的機器學習&lpar;2025&rpar;】第十一講：今天你想為 Foundation Model 裝備哪些 Task Vector？淺談神奇的 Model Merging 技術</a></td>
-<td>May 16, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=ThO0gVOJbMI"><img width="200px" src="http://img.youtube.com/vi/ThO0gVOJbMI/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ThO0gVOJbMI">墨西哥23歲網紅直播時遭槍擊殺害－ BBC News 中文</a></td>
-<td>May 16, 2025</td></tr><!-- YOUTUBE:END -->
+<td>May 19, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
 ## GitHub Trending
 ### All language
 
+* 【2025-05-21】[Cysharp / ZLinq](https://github.com/Cysharp/ZLinq) - Zero allocation LINQ with LINQ to Span, LINQ to SIMD, and LINQ to Tree (FileSystem, JSON, GameObject, etc.) for all .NET platforms and Unity, Godot.
 * 【2025-05-20】[kortix-ai / suna](https://github.com/kortix-ai/suna) - Suna - Open Source Generalist AI Agent
 * 【2025-05-20】[facebook / pyrefly](https://github.com/facebook/pyrefly) - A fast type checker and IDE for Python
 * 【2025-05-18】[Capsize-Games / airunner](https://github.com/Capsize-Games/airunner) - Offline inference engine for art, real-time voice conversations, LLM powered chatbots and automated workflows
@@ -131,6 +132,8 @@ slug: /
 * 【2025-05-11】[jeecgboot / jimureport](https://github.com/jeecgboot/jimureport) - 「数据可视化：报表、大屏、数据看板」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
 ### Python
 
+* 【2025-05-21】[beeware / toga](https://github.com/beeware/toga) - A Python native, OS native GUI toolkit.
+* 【2025-05-21】[bilibili / Index-anisora](https://github.com/bilibili/Index-anisora) - 
 * 【2025-05-16】[mikumifa / cppTickerBuy](https://github.com/mikumifa/cppTickerBuy) - cpp cp30 漫展 活动 抢票 无差别 同人展
 * 【2025-05-15】[browser-use / web-ui](https://github.com/browser-use/web-ui) - Run AI Agent in your browser.
 * 【2025-05-14】[pallets / click](https://github.com/pallets/click) - Python composable command line interface toolkit
@@ -177,6 +180,7 @@ slug: /
 * 【2025-05-11】[mdn / translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs
 ### Jupyter-notebook
 
+* 【2025-05-21】[fastai / fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 * 【2025-05-20】[chiphuyen / aie-book](https://github.com/chiphuyen/aie-book) - [WIP] Resources for AI engineers. Also contains supporting materials for the book AI Engineering (Chip Huyen, 2025)
 * 【2025-05-20】[open-spaced-repetition / fsrs4anki](https://github.com/open-spaced-repetition/fsrs4anki) - A modern Anki custom scheduling based on Free Spaced Repetition Scheduler algorithm
 * 【2025-05-20】[unslothai / notebooks](https://github.com/unslothai/notebooks) - Unsloth Fine-tuning Notebooks for Google Colab, Kaggle, Hugging Face and more.
@@ -214,6 +218,9 @@ slug: /
 * 【2025-05-11】[onnx / models](https://github.com/onnx/models) - A collection of pre-trained, state-of-the-art models in the ONNX format
 ### Javascript
 
+* 【2025-05-21】[BaldissaraMatheus / Tasks.md](https://github.com/BaldissaraMatheus/Tasks.md) - A self-hosted, Markdown file based task management board
+* 【2025-05-21】[clusterzx / paperless-ai](https://github.com/clusterzx/paperless-ai) - An automated document analyzer for Paperless-ngx using OpenAI API, Ollama, Deepseek-r1, Azure and all OpenAI API compatible Services to automatically analyze and tag your documents.
+* 【2025-05-21】[AgentDeskAI / browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 * 【2025-05-20】[kmeps4 / PSFree](https://github.com/kmeps4/PSFree) - PSFree WebKit Exploit & Lapse Kernel Exploit For PS4 9.00 [WIP] By abc
 * 【2025-05-18】[cv-cat / Spider_XHS](https://github.com/cv-cat/Spider_XHS) - 小红书爬虫数据采集，小红书全域运营解决方案
 * 【2025-05-16】[microsoft / generative-ai-with-javascript](https://github.com/microsoft/generative-ai-with-javascript) - Join a time-traveling adventure where you meet history’s legends while learning Generative AI technologies! ✨
@@ -239,11 +246,13 @@ slug: /
 * 【2025-05-11】[GuijiAI / HeyGem.ai](https://github.com/GuijiAI/HeyGem.ai) - 
 ### Css
 
+* 【2025-05-21】[themesberg / flowbite-svelte](https://github.com/themesberg/flowbite-svelte) - Official Svelte components built for Flowbite and Tailwind CSS
 * 【2025-05-14】[uvdesk / community-skeleton](https://github.com/uvdesk/community-skeleton) - UVdesk Open Source Community Helpdesk is a comprehensive ticketing support system designed for everyone, offering robust features to streamline customer support and collaboration.
 * 【2025-05-13】[Diolinux / PhotoGIMP](https://github.com/Diolinux/PhotoGIMP) - A Patch for GIMP 3+ for Photoshop Users
 * 【2025-05-11】[littleosbook / littleosbook](https://github.com/littleosbook/littleosbook) - Source for the little book about OS development
 ### Unknown
 
+* 【2025-05-21】[darkseal-org / lol-skins](https://github.com/darkseal-org/lol-skins) - [⭐] A community-maintained repository featuring all official League of Legends skins and chromas as custom skin format.
 * 【2025-05-20】[SLAM-Handbook-contributors / slam-handbook-public-release](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release) - Release repo for our SLAM Handbook
 * 【2025-05-19】[EmenstaNougat / ESP32-BlueJammer](https://github.com/EmenstaNougat/ESP32-BlueJammer) - The ESP32-BlueJammer (Bluetooth jammer, BLE jammer, WiFi jammer, RC jammer) disrupts 2.4GHz communications. Using an ESP32 and nRF24 modules, it generates noise and unnecessary packets, causing interference between the devices communicating, making them unable to work as intended. Ideal for controlled disruption and security testing.
 * 【2025-05-16】[wong2 / awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers) - A curated list of Model Context Protocol (MCP) servers
@@ -271,6 +280,7 @@ slug: /
 * 【2025-05-12】[YimMenu / YimMenuV2](https://github.com/YimMenu/YimMenuV2) - Unfinished WIP
 ### Html
 
+* 【2025-05-21】[JuergenFleiss / aTrain](https://github.com/JuergenFleiss/aTrain) - A GUI tool for offline transcription of speech recordings, including speaker diarization, utilizing state-of-the-art machine learning models.
 * 【2025-05-19】[JackHopkins / factorio-learning-environment](https://github.com/JackHopkins/factorio-learning-environment) - A non-saturating, open-ended environment for evaluating LLMs in Factorio
 * 【2025-05-16】[jonbarron / jonbarron.github.io](https://github.com/jonbarron/jonbarron.github.io) - 
 * 【2025-05-16】[apache / grails-core](https://github.com/apache/grails-core) - The Grails Web Application Framework
