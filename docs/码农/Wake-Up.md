@@ -14,21 +14,13 @@
 
 - [Linux基础](./计算机基础/Linux.md)
 
-## 🌠Java Web开发
+## 🌠[Java Web开发](./Java_Web/index.md)
 
-- [Java_Web笔记](./Java_Web/index.md)
+## 🐍[Redis笔记](./redis/index.md)
 
-## 🐍Redis笔记
+## 🌊[苍穹外卖开发](./苍穹外卖/index.md)
 
-- [Redis笔记](./redis/index.md)
-
-## 🌊苍穹外卖开发
-
-- [项目实战](./苍穹外卖/index.md)
-
-## 🌌Java面试指北
-
-- [Java面试指北](./Java面试指北/index.md)
+## 🌌[Java面试指北](./Java面试指北/index.md)
 
 ## 🌈面试笔记
 
