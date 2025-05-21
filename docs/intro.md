@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=8b5q7ePILXY"><img width="200px" src="http://img.youtube.com/vi/8b5q7ePILXY/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=8b5q7ePILXY">登陸南海中業島：菲律賓居民如何對抗中國威脅？－ BBC News 中文</a></td>
+<td>May 21, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=CbF9zXl5FIs"><img width="200px" src="http://img.youtube.com/vi/CbF9zXl5FIs/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=CbF9zXl5FIs">特朗普稱普京對梅拉尼婭表示讚賞－ BBC News 中文</a></td>
 <td>May 21, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>May 20, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=7Lc6CMjFGW0"><img width="200px" src="http://img.youtube.com/vi/7Lc6CMjFGW0/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7Lc6CMjFGW0">哥斯大黎加貓咪被發現「走私」毒品－ BBC News 中文</a></td>
-<td>May 20, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=yr1pLoRG8WA"><img width="200px" src="http://img.youtube.com/vi/yr1pLoRG8WA/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=yr1pLoRG8WA">武汉当街发生枪击案，至少一人死亡；多地体制内事业编被曝欠薪严重；小米官宣将发布自研玄戒O1旗舰处理器【雪花每日新闻】</a></td>
 <td>May 20, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
