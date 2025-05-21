@@ -20,7 +20,7 @@
 
 ## 🐍Redis笔记
 
-- [](./redis/index.md)
+- [Redis笔记](./redis/index.md)
 
 ## 🌊苍穹外卖开发
 
