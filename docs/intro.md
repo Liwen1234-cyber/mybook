@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=RtYnh3AaWuw"><img width="200px" src="http://img.youtube.com/vi/RtYnh3AaWuw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=RtYnh3AaWuw">特朗普突襲播片控南非「白人種族滅絕」拉馬福薩冷靜化解－ BBC News 中文</a></td>
+<td>May 22, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=l1athjdE4NI"><img width="200px" src="http://img.youtube.com/vi/l1athjdE4NI/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=l1athjdE4NI">以色列大使館工作人員 華府猶太博物館外遭槍殺－ BBC News 中文  #美國 #特朗普</a></td>
+<td>May 22, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=gfsMaGo14SA"><img width="200px" src="http://img.youtube.com/vi/gfsMaGo14SA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gfsMaGo14SA">中國安徽百年塔樓屋頂坍塌 無人員傷亡－ BBC News 中文</a></td>
 <td>May 22, 2025</td></tr>
@@ -81,12 +87,6 @@ slug: /
 <td>May 21, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=e9MPe2OVo0M"><img width="200px" src="http://img.youtube.com/vi/e9MPe2OVo0M/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=e9MPe2OVo0M">中国网络防火墙区域碎片化，河南等省网墙已高于防火长城；律师遭遇司法不公求助公众，解决后却要投诉帮助他的记者新冠疫情有所反弹；钟南山又称“可防可控”【雪花每日新闻】</a></td>
-<td>May 20, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=proZFWHq4tY"><img width="200px" src="http://img.youtube.com/vi/proZFWHq4tY/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=proZFWHq4tY">賴清德上任一週年 重申對等尊嚴下歡迎兩岸交流－ BBC News 中文</a></td>
-<td>May 20, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=QkDBESVbaAA"><img width="200px" src="http://img.youtube.com/vi/QkDBESVbaAA/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QkDBESVbaAA">賴清德上任週年演說避談中國 強調兩岸「對話取代對抗」－ BBC News 中文</a></td>
 <td>May 20, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
