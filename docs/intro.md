@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=_NdBFEGW3PI"><img width="200px" src="http://img.youtube.com/vi/_NdBFEGW3PI/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_NdBFEGW3PI">遊客困在巴西海灘塌陷沙洞 三小時後獲救－ BBC News 中文</a></td>
+<td>May 23, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=vNYC6N0HYkk"><img width="200px" src="http://img.youtube.com/vi/vNYC6N0HYkk/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vNYC6N0HYkk">猶太博物館槍擊案嫌疑人被拘留 高喊「解放巴勒斯坦」－ BBC News 中文</a></td>
 <td>May 23, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>May 21, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ZPkBzrb_yXk"><img width="200px" src="http://img.youtube.com/vi/ZPkBzrb_yXk/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZPkBzrb_yXk">特朗普對於拜登病情未更早公開感到「驚訝」－ BBC News 中文  #特朗普 #美國 #拜登</a></td>
-<td>May 21, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=j3EQ2ie7PXY"><img width="200px" src="http://img.youtube.com/vi/j3EQ2ie7PXY/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=j3EQ2ie7PXY">十名囚犯從美國紐奧良監獄大膽越獄－ BBC News 中文</a></td>
 <td>May 21, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
