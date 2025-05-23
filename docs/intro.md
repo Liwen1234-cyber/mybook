@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/weekly-issue-349.html">科技爱好者周刊（第 349 期）：神经网络算法的发明者</a>- by ruanyifeng - May 23, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/institutional-reform-and-cultural-stagnation/?utm_source=rss&utm_medium=rss&utm_campaign=institutional-reform-and-cultural-stagnation">制度改革与文化停滞</a>- by stephenleng - May 19, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/19/%e7%84%a1%e7%82%ba%e8%87%aa%e7%84%b6/">無為自然</a>- by onojyun - May 19, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/18/%e5%b0%8f%e5%ad%a6%e7%94%9f/">小学生</a>- by onojyun - May 18, 2025</li>
@@ -40,7 +41,6 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/04/23/stonean-spaces-projective-objects-the-riesz-representation-theorem-and-possibly-condensed-mathematics/">Stonean spaces, projective objects, the Riesz representation theorem, and &lpar;possibly&rpar; condensed mathematics</a>- by terrytao - Apr 23, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/04/trae-mcp.html">巨头的新战场：AI 编程 IDE（暨 字节 Trae 调用 MCP 教程）</a>- by ruanyifeng - Apr 22, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/the-role-of-bride-price-in-the-engagement-rape-case-in-datong-shanxi-province/?utm_source=rss&utm_medium=rss&utm_campaign=the-role-of-bride-price-in-the-engagement-rape-case-in-datong-shanxi-province">彩礼在“山西大同订婚强奸案”中扮演的角色</a>- by stephenleng - Apr 22, 2025</li>
-<li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/04/coze-space.html">办公类 AI 初探：扣子空间</a>- by ruanyifeng - Apr 21, 2025</li>
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1daca795c95680078a9cf9b7722c48ee">2025#16 人类幻觉</a>- by 1q43 - Apr 21, 2025</li>
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/04/17/a-suspicious-conference/">A suspicious conference</a>- by terrytao - Apr 17, 2025</li><!-- BLOG:END -->
 
