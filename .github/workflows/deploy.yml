@@ -32,7 +32,7 @@ jobs:
         run: npm install --frozen-lockfile
       - name: Build website
         run: |
-          NODE_OPTIONS="--max-old-space-size=4096" 
+          NODE_OPTIONS="--max-old-space-size=6144" 
           npm run build
 
       #old
