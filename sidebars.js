@@ -13,6 +13,7 @@ module.exports = {
         description: 'Sharing.',
       },
       items: [
+        'archived/目录',
         '分享/收藏',
         '分享/windows快捷键',
         '分享/让你吐槽不断的书',
