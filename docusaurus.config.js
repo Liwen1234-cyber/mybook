@@ -65,7 +65,11 @@ module.exports = {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           remarkPlugins: [remarkMath],
-          rehypePlugins: [rehypeKatex],
+          rehypePlugins: [[rehypeKatex, {
+            strict: false,
+            trust: true,
+            output: 'html'
+          }]],
         },
       },
     ],
