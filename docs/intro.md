@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=gkAyqoQkOSk"><img width="200px" src="http://img.youtube.com/vi/gkAyqoQkOSk/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=gkAyqoQkOSk">【生成式AI時代下的機器學習&lpar;2025&rpar;】第十二講：語言模型如何學會說話</a></td>
+<td>May 24, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=fgLu39AiMZ8"><img width="200px" src="http://img.youtube.com/vi/fgLu39AiMZ8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fgLu39AiMZ8">為何印度與巴基斯坦爭奪克什米爾？這對中國與美國意味著什麼？－ BBC News 中文</a></td>
 <td>May 24, 2025</td></tr>
@@ -84,10 +87,7 @@ slug: /
 <td>May 22, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=tbqPxgJJwas"><img width="200px" src="http://img.youtube.com/vi/tbqPxgJJwas/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tbqPxgJJwas">美团外卖骑手摔伤骨折，不让转单不给休息还被立刻辞退公安部展示对Telegram的监控工具，可追踪中国手机号注册用户史上最惨淡520，鲜花几元一扎没人要【雪花每日新闻】</a></td>
-<td>May 22, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=8b5q7ePILXY"><img width="200px" src="http://img.youtube.com/vi/8b5q7ePILXY/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=8b5q7ePILXY">登陸南海中業島：菲律賓居民如何對抗中國威脅？－ BBC News 中文</a></td>
-<td>May 21, 2025</td></tr><!-- YOUTUBE:END -->
+<td>May 22, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
