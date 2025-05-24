@@ -26,7 +26,7 @@ $$
 
 如果我们引入二元熵函数，
 $$
-\begin{aligned}H_2(x)\equiv x\log\frac{1}{x}+(1-x)\log\frac{1}{(1-x)}\end{aligned}
+H_2(x)\equiv x\log\frac{1}{x}+(1-x)\log\frac{1}{(1-x)}
 $$
 可以将式子重写为
 $$
