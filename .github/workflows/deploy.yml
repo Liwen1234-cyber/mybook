@@ -31,7 +31,10 @@ jobs:
       - name: Install dependencies
         run: npm install --frozen-lockfile
       - name: Build website
-        run: NODE_OPTIONS="--max-old-space-size=4096" npm run build
+        run: |
+          echo "NODE_OPTIONS=--max-old-space-size=4096" >> $GITHUB_ENV
+          npm run build
+
       
       #old
       # Popular action to deploy to GitHub Pages:
