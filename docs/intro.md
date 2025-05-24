@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=fgLu39AiMZ8"><img width="200px" src="http://img.youtube.com/vi/fgLu39AiMZ8/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=fgLu39AiMZ8">為何印度與巴基斯坦爭奪克什米爾？這對中國與美國意味著什麼？－ BBC News 中文</a></td>
+<td>May 24, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=GcpeoaiyZLg"><img width="200px" src="http://img.youtube.com/vi/GcpeoaiyZLg/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GcpeoaiyZLg">挪威一艘135公尺貨輪撞進居民花園－ BBC News 中文</a></td>
+<td>May 24, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Ie27CVtuiIs"><img width="200px" src="http://img.youtube.com/vi/Ie27CVtuiIs/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ie27CVtuiIs">工人疑似因被拖欠800元工资放火烧厂；柴静自传《看见》豆瓣页面被删；美国突然取消哈佛大学国际学生招生资格，且在读留学生必须立刻转学【雪花每日新闻】</a></td>
 <td>May 23, 2025</td></tr>
@@ -81,12 +87,6 @@ slug: /
 <td>May 22, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=8b5q7ePILXY"><img width="200px" src="http://img.youtube.com/vi/8b5q7ePILXY/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8b5q7ePILXY">登陸南海中業島：菲律賓居民如何對抗中國威脅？－ BBC News 中文</a></td>
-<td>May 21, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=CbF9zXl5FIs"><img width="200px" src="http://img.youtube.com/vi/CbF9zXl5FIs/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=CbF9zXl5FIs">特朗普稱普京對梅拉尼婭表示讚賞－ BBC News 中文</a></td>
-<td>May 21, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=GvOdyDPSTLA"><img width="200px" src="http://img.youtube.com/vi/GvOdyDPSTLA/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GvOdyDPSTLA">巴勒斯坦幼童動完心臟手術被送返戰區－ BBC News 中文</a></td>
 <td>May 21, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
