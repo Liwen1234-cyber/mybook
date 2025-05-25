@@ -192,6 +192,7 @@ slug: /
 * 【2025-05-11】[mdn / translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs
 ### Jupyter-notebook
 
+* 【2025-05-25】[PolymathicAI / the_well](https://github.com/PolymathicAI/the_well) - A 15TB Collection of Physics Simulation Datasets
 * 【2025-05-24】[ArcInstitute / evo2](https://github.com/ArcInstitute/evo2) - Genome modeling and design across all domains of life
 * 【2025-05-24】[sokrypton / ColabFold](https://github.com/sokrypton/ColabFold) - Making Protein folding accessible to all!
 * 【2025-05-24】[mistralai / mistral-inference](https://github.com/mistralai/mistral-inference) - Official inference library for Mistral models
@@ -293,6 +294,8 @@ slug: /
 * 【2025-05-11】[TianxingChen / Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能技术指南 Embodied-AI-Guide
 ### Go
 
+* 【2025-05-25】[zerodha / kite-mcp-server](https://github.com/zerodha/kite-mcp-server) - Zerodha Kite MCP server
+* 【2025-05-25】[kubetail-org / kubetail](https://github.com/kubetail-org/kubetail) - Real-time logging dashboard for Kubernetes (browser/terminal)
 * 【2025-05-24】[aaPanel / BillionMail](https://github.com/aaPanel/BillionMail) - BillionMail gives you open-source MailServer, NewsLetter, Email Marketing — fully self-hosted, dev-friendly, and free from monthly fees.
 * 【2025-05-24】[metoro-io / mcp-golang](https://github.com/metoro-io/mcp-golang) - Write Model Context Protocol servers in few lines of go code. Docs at https://mcpgolang.com
 * 【2025-05-23】[cloudflare / cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare's PKI and TLS toolkit
@@ -320,6 +323,7 @@ slug: /
 * 【2025-05-12】[YimMenu / YimMenuV2](https://github.com/YimMenu/YimMenuV2) - Unfinished WIP
 ### Html
 
+* 【2025-05-25】[wizarrrr / wizarr](https://github.com/wizarrrr/wizarr) - Wizarr is an advanced user invitation and management system for Jellyfin, Plex, Emby etc.
 * 【2025-05-24】[codelucas / newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 * 【2025-05-23】[allwefantasy / auto-coder](https://github.com/allwefantasy/auto-coder) - 
 * 【2025-05-22】[nottelabs / notte](https://github.com/nottelabs/notte) - 🔥 Opensource browser using agents
