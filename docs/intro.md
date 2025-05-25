@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=xKNzPhBG_rQ"><img width="200px" src="http://img.youtube.com/vi/xKNzPhBG_rQ/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xKNzPhBG_rQ">《人民日报》强调“过紧日子”不能削减干部的薪金待遇；哈尔滨京东骑手罢工，抗议入选全职骑手不公平；特朗普对欧关税威胁下，欧洲股市大跌【雪花每日新闻】</a></td>
+<td>May 25, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=gkAyqoQkOSk"><img width="200px" src="http://img.youtube.com/vi/gkAyqoQkOSk/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gkAyqoQkOSk">【生成式AI時代下的機器學習&lpar;2025&rpar;】第十二講：語言模型如何學會說話</a></td>
 <td>May 24, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>May 22, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=gfsMaGo14SA"><img width="200px" src="http://img.youtube.com/vi/gfsMaGo14SA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gfsMaGo14SA">中國安徽百年塔樓屋頂坍塌 無人員傷亡－ BBC News 中文</a></td>
-<td>May 22, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=tbqPxgJJwas"><img width="200px" src="http://img.youtube.com/vi/tbqPxgJJwas/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tbqPxgJJwas">美团外卖骑手摔伤骨折，不让转单不给休息还被立刻辞退公安部展示对Telegram的监控工具，可追踪中国手机号注册用户史上最惨淡520，鲜花几元一扎没人要【雪花每日新闻】</a></td>
 <td>May 22, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
