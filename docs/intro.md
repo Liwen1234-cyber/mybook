@@ -62,7 +62,7 @@ slug: /
 <td><a href="https://www.youtube.com/watch?v=xKNzPhBG_rQ">《人民日报》强调“过紧日子”不能削减干部的薪金待遇；哈尔滨京东骑手罢工，抗议入选全职骑手不公平；特朗普对欧关税威胁下，欧洲股市大跌【雪花每日新闻】</a></td>
 <td>May 25, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=gkAyqoQkOSk"><img width="200px" src="http://img.youtube.com/vi/gkAyqoQkOSk/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gkAyqoQkOSk">【生成式AI時代下的機器學習&lpar;2025&rpar;】第十二講：語言模型如何學會說話</a></td>
+<td><a href="https://www.youtube.com/watch?v=gkAyqoQkOSk">【生成式AI時代下的機器學習&lpar;2025&rpar;】第十二講：語言模型如何學會說話 — 概述語音語言模型發展歷程</a></td>
 <td>May 24, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=fgLu39AiMZ8"><img width="200px" src="http://img.youtube.com/vi/fgLu39AiMZ8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fgLu39AiMZ8">為何印度與巴基斯坦爭奪克什米爾？這對中國與美國意味著什麼？－ BBC News 中文</a></td>
