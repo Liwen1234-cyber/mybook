@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=onSdQ9paGHw"><img width="200px" src="http://img.youtube.com/vi/onSdQ9paGHw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=onSdQ9paGHw">俄羅斯大規模空襲烏克蘭 特朗普稱普京「完全瘋了」－ BBC News 中文 #特朗普 #美國</a></td>
+<td>May 26, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=yjeBXLjjA-8"><img width="200px" src="http://img.youtube.com/vi/yjeBXLjjA-8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yjeBXLjjA-8">湯姆·克魯斯談雙翼飛機特技：「你無法移動」－ BBC News 中文</a></td>
 <td>May 26, 2025</td></tr>
@@ -84,10 +87,7 @@ slug: /
 <td>May 23, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=vNYC6N0HYkk"><img width="200px" src="http://img.youtube.com/vi/vNYC6N0HYkk/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vNYC6N0HYkk">猶太博物館槍擊案嫌疑人被拘留 高喊「解放巴勒斯坦」－ BBC News 中文</a></td>
-<td>May 23, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=RtYnh3AaWuw"><img width="200px" src="http://img.youtube.com/vi/RtYnh3AaWuw/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=RtYnh3AaWuw">特朗普突襲播片控南非「白人種族滅絕」 拉馬福薩試圖冷靜化解－ BBC News 中文</a></td>
-<td>May 22, 2025</td></tr><!-- YOUTUBE:END -->
+<td>May 23, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
