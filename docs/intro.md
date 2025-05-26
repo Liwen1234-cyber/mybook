@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=nm2ZwzbrXUQ"><img width="200px" src="http://img.youtube.com/vi/nm2ZwzbrXUQ/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=nm2ZwzbrXUQ">英國下架「Labubu」娃娃 因粉絲在店內大打出手－ BBC News 中文</a></td>
+<td>May 26, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=gPWGE_FqeYM"><img width="200px" src="http://img.youtube.com/vi/gPWGE_FqeYM/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=gPWGE_FqeYM">特朗普禁止哈佛招收國際學生  台灣學生憂慮未來不確定－ BBC News 中文</a></td>
+<td>May 26, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=onSdQ9paGHw"><img width="200px" src="http://img.youtube.com/vi/onSdQ9paGHw/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=onSdQ9paGHw">俄羅斯大規模空襲烏克蘭 特朗普稱普京「完全瘋了」－ BBC News 中文 #特朗普 #美國</a></td>
 <td>May 26, 2025</td></tr>
@@ -81,12 +87,6 @@ slug: /
 <td>May 24, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Ie27CVtuiIs"><img width="200px" src="http://img.youtube.com/vi/Ie27CVtuiIs/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ie27CVtuiIs">工人疑似因被拖欠800元工资放火烧厂；柴静自传《看见》豆瓣页面被删；美国突然取消哈佛大学国际学生招生资格，且在读留学生必须立刻转学【雪花每日新闻】</a></td>
-<td>May 23, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=_NdBFEGW3PI"><img width="200px" src="http://img.youtube.com/vi/_NdBFEGW3PI/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_NdBFEGW3PI">遊客困在巴西海灘塌陷沙洞 三小時後獲救－ BBC News 中文</a></td>
-<td>May 23, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=vNYC6N0HYkk"><img width="200px" src="http://img.youtube.com/vi/vNYC6N0HYkk/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=vNYC6N0HYkk">猶太博物館槍擊案嫌疑人被拘留 高喊「解放巴勒斯坦」－ BBC News 中文</a></td>
 <td>May 23, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
