@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=yjeBXLjjA-8"><img width="200px" src="http://img.youtube.com/vi/yjeBXLjjA-8/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yjeBXLjjA-8">湯姆·克魯斯談雙翼飛機特技：「你無法移動」－ BBC News 中文</a></td>
+<td>May 26, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=KfqlUOxAXlA"><img width="200px" src="http://img.youtube.com/vi/KfqlUOxAXlA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KfqlUOxAXlA">湖北省委书记要求县委书记要“响当当、硬邦邦、嗷嗷叫”许昌六中学生打砸学校，抗议同校女生被班主任语言霸凌致跳楼超市在门口贴“骑手与狗禁止入内”告示引发众怒【雪花每日新闻】</a></td>
 <td>May 25, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>May 23, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=RtYnh3AaWuw"><img width="200px" src="http://img.youtube.com/vi/RtYnh3AaWuw/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RtYnh3AaWuw">特朗普突襲播片控南非「白人種族滅絕」 拉馬福薩試圖冷靜化解－ BBC News 中文</a></td>
-<td>May 22, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=l1athjdE4NI"><img width="200px" src="http://img.youtube.com/vi/l1athjdE4NI/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=l1athjdE4NI">以色列大使館工作人員 華府猶太博物館外遭槍殺－ BBC News 中文  #美國 #特朗普</a></td>
 <td>May 22, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
