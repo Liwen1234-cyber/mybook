@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=dhLhD7VeLZo"><img width="200px" src="http://img.youtube.com/vi/dhLhD7VeLZo/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=dhLhD7VeLZo">卡車在芝加哥郊區行駛時爆炸的瞬間－ BBC News 中文 #shorts  #美國</a></td>
+<td>May 27, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=uiz_APVLThI"><img width="200px" src="http://img.youtube.com/vi/uiz_APVLThI/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=uiz_APVLThI">中國年輕人逃離「內卷」職場 選擇「鄉下躺平」加入「退休會社」－ BBC News 中文</a></td>
+<td>May 27, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=V7x0ZNqLa9o"><img width="200px" src="http://img.youtube.com/vi/V7x0ZNqLa9o/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=V7x0ZNqLa9o">中國杭州舉行人形機器人格鬥賽－ BBC News 中文</a></td>
 <td>May 27, 2025</td></tr>
@@ -81,13 +87,7 @@ slug: /
 <td>May 26, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=KfqlUOxAXlA"><img width="200px" src="http://img.youtube.com/vi/KfqlUOxAXlA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KfqlUOxAXlA">湖北省委书记要求县委书记要“响当当、硬邦邦、嗷嗷叫”许昌六中学生打砸学校，抗议同校女生被班主任语言霸凌致跳楼超市在门口贴“骑手与狗禁止入内”告示引发众怒【雪花每日新闻】</a></td>
-<td>May 25, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=xKNzPhBG_rQ"><img width="200px" src="http://img.youtube.com/vi/xKNzPhBG_rQ/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xKNzPhBG_rQ">《人民日报》强调“过紧日子”不能削减干部的薪金待遇；哈尔滨京东骑手罢工，抗议入选全职骑手不公平；特朗普对欧关税威胁下，欧洲股市大跌【雪花每日新闻】</a></td>
-<td>May 25, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=gkAyqoQkOSk"><img width="200px" src="http://img.youtube.com/vi/gkAyqoQkOSk/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gkAyqoQkOSk">【生成式AI時代下的機器學習&lpar;2025&rpar;】第十二講：語言模型如何學會說話 — 概述語音語言模型發展歷程</a></td>
-<td>May 24, 2025</td></tr><!-- YOUTUBE:END -->
+<td>May 25, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
