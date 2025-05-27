@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/27/%e8%ae%b0%e5%bf%86%e5%a4%96%e5%8c%85/">记忆外包</a>- by onojyun - May 27, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/26/%e6%97%a5%e6%9c%ac%e7%a4%be%e4%bc%9a%e7%9a%84%e7%bb%9d%e5%af%b9%e5%b9%b3%e7%ad%89/">日本社会的绝对平等</a>- by onojyun - May 26, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/why-kant-freud-and-einstein-delayed-graduation-of-their-phds/?utm_source=rss&utm_medium=rss&utm_campaign=why-kant-freud-and-einstein-delayed-graduation-of-their-phds">康德、弗洛伊德和爱因斯坦为什么博士延迟毕业？</a>- by stephenleng - May 23, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/weekly-issue-349.html">科技爱好者周刊（第 349 期）：神经网络算法的发明者</a>- by ruanyifeng - May 23, 2025</li>
@@ -32,7 +33,6 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/">A tool to verify estimates, II: a flexible proof assistant</a>- by terrytao - May 10, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/09/%e5%88%bb%e6%9d%bf%e5%81%8f%e8%a7%81%e8%af%9e%e7%94%9f%e8%b7%af%e5%be%84/">刻板偏见诞生路径</a>- by onojyun - May 9, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/weekly-issue-347.html">科技爱好者周刊（第 347 期）：冷启动的破解之道</a>- by ruanyifeng - May 9, 2025</li>
-<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/08/%e5%85%b3%e7%b3%bb%e6%98%af%e5%a6%82%e4%bd%95%e8%a2%ab%e7%b2%be%e5%87%86%e7%88%86%e7%a0%b4%e7%9a%84%ef%bc%9f/">关系是如何被精准爆破的？</a>- by onojyun - May 8, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/looking-at-cell-phones-while-eating/?utm_source=rss&utm_medium=rss&utm_campaign=looking-at-cell-phones-while-eating">边吃饭，边看手机</a>- by stephenleng - May 6, 2025</li>
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1e8ca795c95680678834fbcd08ab6ff7">2025#18 节日氛围</a>- by 1q43 - May 5, 2025</li>
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/">Orders of infinity</a>- by terrytao - May 4, 2025</li>
