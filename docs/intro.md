@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=5mwM9z_aDVQ"><img width="200px" src="http://img.youtube.com/vi/5mwM9z_aDVQ/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5mwM9z_aDVQ">英超利物浦巡遊 發生汽車衝撞人群事故－ BBC News 中文</a></td>
+<td>May 27, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=8F2bbo96Bz4"><img width="200px" src="http://img.youtube.com/vi/8F2bbo96Bz4/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=8F2bbo96Bz4">法國總統馬克龍被碧姬「打臉」畫面引輿論關注－ BBC News 中文</a></td>
+<td>May 27, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=nm2ZwzbrXUQ"><img width="200px" src="http://img.youtube.com/vi/nm2ZwzbrXUQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nm2ZwzbrXUQ">英國下架「Labubu」娃娃 因粉絲在店內大打出手－ BBC News 中文</a></td>
 <td>May 26, 2025</td></tr>
@@ -81,13 +87,7 @@ slug: /
 <td>May 24, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=fgLu39AiMZ8"><img width="200px" src="http://img.youtube.com/vi/fgLu39AiMZ8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fgLu39AiMZ8">為何印度與巴基斯坦爭奪克什米爾？這對中國與美國意味著什麼？－ BBC News 中文</a></td>
-<td>May 24, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=GcpeoaiyZLg"><img width="200px" src="http://img.youtube.com/vi/GcpeoaiyZLg/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GcpeoaiyZLg">挪威一艘135公尺貨輪撞進居民花園－ BBC News 中文</a></td>
-<td>May 24, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=Ie27CVtuiIs"><img width="200px" src="http://img.youtube.com/vi/Ie27CVtuiIs/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Ie27CVtuiIs">工人疑似因被拖欠800元工资放火烧厂；柴静自传《看见》豆瓣页面被删；美国突然取消哈佛大学国际学生招生资格，且在读留学生必须立刻转学【雪花每日新闻】</a></td>
-<td>May 23, 2025</td></tr><!-- YOUTUBE:END -->
+<td>May 24, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
