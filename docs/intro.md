@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=V7x0ZNqLa9o"><img width="200px" src="http://img.youtube.com/vi/V7x0ZNqLa9o/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=V7x0ZNqLa9o">中國杭州舉行人形機器人格鬥賽－ BBC News 中文</a></td>
+<td>May 27, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=5mwM9z_aDVQ"><img width="200px" src="http://img.youtube.com/vi/5mwM9z_aDVQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5mwM9z_aDVQ">英超利物浦巡遊 發生汽車衝撞人群事故－ BBC News 中文</a></td>
 <td>May 27, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>May 25, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=gkAyqoQkOSk"><img width="200px" src="http://img.youtube.com/vi/gkAyqoQkOSk/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gkAyqoQkOSk">【生成式AI時代下的機器學習&lpar;2025&rpar;】第十二講：語言模型如何學會說話 — 概述語音語言模型發展歷程</a></td>
-<td>May 24, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=fgLu39AiMZ8"><img width="200px" src="http://img.youtube.com/vi/fgLu39AiMZ8/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=fgLu39AiMZ8">為何印度與巴基斯坦爭奪克什米爾？這對中國與美國意味著什麼？－ BBC News 中文</a></td>
 <td>May 24, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
