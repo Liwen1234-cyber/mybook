@@ -94,6 +94,7 @@ slug: /
 ## GitHub Trending
 ### All language
 
+* 【2025-05-28】[stalwartlabs / stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 * 【2025-05-27】[nvim-treesitter / nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 * 【2025-05-27】[slowlydev / f1-dash](https://github.com/slowlydev/f1-dash) - A real-time F1 dashboard
 * 【2025-05-26】[groupultra / telegram-search](https://github.com/groupultra/telegram-search) - 🔍 一个功能强大的 Telegram 聊天记录搜索客户端，支持聊天记录备份和向量搜索。
@@ -142,6 +143,7 @@ slug: /
 * 【2025-05-11】[jeecgboot / jimureport](https://github.com/jeecgboot/jimureport) - 「数据可视化：报表、大屏、数据看板」积木报表是一款类Excel操作风格，在线拖拽设计的报表工具和和数据可视化产品。功能涵盖: 报表设计、大屏设计、打印设计、图形报表、仪表盘门户设计等，完全免费！秉承“简单、易用、专业”的产品理念，极大的降低报表开发难度、缩短开发周期、解决各类报表难题。
 ### Python
 
+* 【2025-05-28】[willccbb / verifiers](https://github.com/willccbb/verifiers) - Verifiers for LLM Reinforcement Learning
 * 【2025-05-27】[Vexa-ai / vexa](https://github.com/Vexa-ai/vexa) - Self-hosted, multi-user API that drops bots into Google Meet for real-time transcripts.
 * 【2025-05-27】[pgmpy / pgmpy](https://github.com/pgmpy/pgmpy) - Python Library for Causal and Probabilistic Modeling using Bayesian Networks
 * 【2025-05-26】[MaiM-with-u / MaiBot](https://github.com/MaiM-with-u/MaiBot) - 麦麦bot，一款专注于 群组聊天 的赛博网友（比较专注）多平台智能体
@@ -181,6 +183,7 @@ slug: /
 * 【2025-05-11】[spm / spm](https://github.com/spm/spm) - SPM (Statistical Parametric Mapping) - Development Version
 ### Markdown
 
+* 【2025-05-28】[MicrosoftDocs / OfficeDocs-SkypeForBusiness](https://github.com/MicrosoftDocs/OfficeDocs-SkypeForBusiness) - Skype for Business and Microsoft Teams documentation
 * 【2025-05-24】[project-trans / RLE-wiki](https://github.com/project-trans/RLE-wiki) - RLE.wiki is a free, open, and continuously updated transgender real-life-experience site.
 * 【2025-05-19】[Schweinepriester / github-profile-achievements](https://github.com/Schweinepriester/github-profile-achievements) - A collection listing all Achievements available on the GitHub profile 🏆
 * 【2025-05-15】[adr / madr](https://github.com/adr/madr) - Markdown Architectural Decision Records
@@ -200,6 +203,7 @@ slug: /
 * 【2025-05-11】[mdn / translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs
 ### Jupyter-notebook
 
+* 【2025-05-28】[boyu-ai / Hands-on-RL](https://github.com/boyu-ai/Hands-on-RL) - https://hrl.boyuai.com/
 * 【2025-05-27】[ageron / handson-ml](https://github.com/ageron/handson-ml) - ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 instead.
 * 【2025-05-26】[rasbt / machine-learning-book](https://github.com/rasbt/machine-learning-book) - Code Repository for Machine Learning with PyTorch and Scikit-Learn
 * 【2025-05-26】[bloc97 / Anime4K](https://github.com/bloc97/Anime4K) - A High-Quality Real Time Upscaler for Anime Video
@@ -251,6 +255,8 @@ slug: /
 * 【2025-05-11】[onnx / models](https://github.com/onnx/models) - A collection of pre-trained, state-of-the-art models in the ONNX format
 ### Javascript
 
+* 【2025-05-28】[humanwhocodes / crosspost](https://github.com/humanwhocodes/crosspost) - A JavaScript utility for posting across multiple social networks at once
+* 【2025-05-28】[minio / object-browser](https://github.com/minio/object-browser) - Simple UI for MinIO Object Storage 🧮
 * 【2025-05-27】[mayswind / AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 * 【2025-05-24】[auth0 / react-native-auth0](https://github.com/auth0/react-native-auth0) - React Native toolkit for Auth0 API
 * 【2025-05-23】[randomstuff69 / blooketcheatsplus](https://github.com/randomstuff69/blooketcheatsplus) - blooket cheats plus blooket cheats hacks GO TO THE DISCORD IF YOU WANT TO MAKE ISSUES IN BCP ISSUES
@@ -309,6 +315,7 @@ slug: /
 * 【2025-05-11】[TianxingChen / Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能技术指南 Embodied-AI-Guide
 ### Go
 
+* 【2025-05-28】[mark3labs / mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) - Go server implementing Model Context Protocol (MCP) for filesystem operations.
 * 【2025-05-27】[applejag / kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
 * 【2025-05-26】[Xpl0itU / WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader) - Allows to download encrypted wiiu files from nintendo's official servers
 * 【2025-05-25】[zerodha / kite-mcp-server](https://github.com/zerodha/kite-mcp-server) - Zerodha Kite MCP server
@@ -329,6 +336,7 @@ slug: /
 * 【2025-05-12】[krillinai / KrillinAI](https://github.com/krillinai/KrillinAI) - A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
 ### C++
 
+* 【2025-05-28】[Slicer / Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing.
 * 【2025-05-24】[pafuhana1213 / KawaiiPhysics](https://github.com/pafuhana1213/KawaiiPhysics) - KawaiiPhysics : Simple fake Physics for UnrealEngine4 & 5
 * 【2025-05-23】[google-ai-edge / LiteRT](https://github.com/google-ai-edge/LiteRT) - LiteRT is the new name for TensorFlow Lite (TFLite). While the name is new, it's still the same trusted, high-performance runtime for on-device AI, now with an expanded vision.
 * 【2025-05-23】[microsoft / wslg](https://github.com/microsoft/wslg) - Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios
