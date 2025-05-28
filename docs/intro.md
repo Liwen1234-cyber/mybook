@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=YTcVog2qlLo"><img width="200px" src="http://img.youtube.com/vi/YTcVog2qlLo/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YTcVog2qlLo">從盟友到敵人：揭開俄羅斯與美國錯綜複雜的關係史 － BBC News 中文</a></td>
+<td>May 28, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=YKTyXQ7B86I"><img width="200px" src="http://img.youtube.com/vi/YKTyXQ7B86I/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YKTyXQ7B86I">陸配女子在台灣直播學生校園日常為何引爭議？－ BBC News 中文  #台灣  #中國</a></td>
+<td>May 28, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=EJcj-Gsd6W4"><img width="200px" src="http://img.youtube.com/vi/EJcj-Gsd6W4/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EJcj-Gsd6W4">中國女大生被要求「脫褲證明」生理期引爭議－ BBC News 中文 #中國</a></td>
 <td>May 28, 2025</td></tr>
@@ -81,12 +87,6 @@ slug: /
 <td>May 27, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=nm2ZwzbrXUQ"><img width="200px" src="http://img.youtube.com/vi/nm2ZwzbrXUQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nm2ZwzbrXUQ">英國下架「Labubu」娃娃 因粉絲在店內大打出手－ BBC News 中文</a></td>
-<td>May 26, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=gPWGE_FqeYM"><img width="200px" src="http://img.youtube.com/vi/gPWGE_FqeYM/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gPWGE_FqeYM">特朗普禁止哈佛招收國際學生  台灣學生憂慮未來不確定－ BBC News 中文</a></td>
-<td>May 26, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=onSdQ9paGHw"><img width="200px" src="http://img.youtube.com/vi/onSdQ9paGHw/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=onSdQ9paGHw">俄羅斯大規模空襲烏克蘭 特朗普稱普京「完全瘋了」－ BBC News 中文 #特朗普 #美國</a></td>
 <td>May 26, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
