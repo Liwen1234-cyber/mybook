@@ -165,6 +165,8 @@ module.exports = {
         '码农/刷题记录/index',
         '码农/java笔记',
         '码农/题库/index',
+        '码农/Java学习路线',
+        '码农/计算机信息差',
         '码农/转码',
         '码农/How_browsers_work',
       ],
