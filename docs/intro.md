@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=SPM7-fFEXvs"><img width="200px" src="http://img.youtube.com/vi/SPM7-fFEXvs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SPM7-fFEXvs">中國山東化工廠爆炸至少5死19傷－ BBC News 中文  #中國</a></td>
+<td>May 28, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=dhLhD7VeLZo"><img width="200px" src="http://img.youtube.com/vi/dhLhD7VeLZo/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=dhLhD7VeLZo">卡車在芝加哥郊區行駛時爆炸的瞬間－ BBC News 中文 #shorts  #美國</a></td>
 <td>May 27, 2025</td></tr>
@@ -84,10 +87,7 @@ slug: /
 <td>May 26, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=yjeBXLjjA-8"><img width="200px" src="http://img.youtube.com/vi/yjeBXLjjA-8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yjeBXLjjA-8">湯姆·克魯斯談雙翼飛機特技：「你無法移動」－ BBC News 中文</a></td>
-<td>May 26, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=KfqlUOxAXlA"><img width="200px" src="http://img.youtube.com/vi/KfqlUOxAXlA/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KfqlUOxAXlA">湖北省委书记要求县委书记要“响当当、硬邦邦、嗷嗷叫”许昌六中学生打砸学校，抗议同校女生被班主任语言霸凌致跳楼超市在门口贴“骑手与狗禁止入内”告示引发众怒【雪花每日新闻】</a></td>
-<td>May 25, 2025</td></tr><!-- YOUTUBE:END -->
+<td>May 26, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
