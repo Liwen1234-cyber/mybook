@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=EJcj-Gsd6W4"><img width="200px" src="http://img.youtube.com/vi/EJcj-Gsd6W4/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=EJcj-Gsd6W4">中國女大生被要求「脫褲證明」生理期引爭議－ BBC News 中文 #中國</a></td>
+<td>May 28, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=SPM7-fFEXvs"><img width="200px" src="http://img.youtube.com/vi/SPM7-fFEXvs/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SPM7-fFEXvs">中國山東化工廠爆炸至少5死19傷－ BBC News 中文  #中國</a></td>
 <td>May 28, 2025</td></tr>
@@ -65,7 +68,7 @@ slug: /
 <td><a href="https://www.youtube.com/watch?v=dhLhD7VeLZo">卡車在芝加哥郊區行駛時爆炸的瞬間－ BBC News 中文 #shorts  #美國</a></td>
 <td>May 27, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=uiz_APVLThI"><img width="200px" src="http://img.youtube.com/vi/uiz_APVLThI/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=uiz_APVLThI">中國年輕人逃離「內卷」職場 選擇「鄉下躺平」加入「退休會社」－ BBC News 中文</a></td>
+<td><a href="https://www.youtube.com/watch?v=uiz_APVLThI">中國年輕人逃離「內卷」職場 選擇「鄉下躺平」加入「退休公社」－ BBC News 中文</a></td>
 <td>May 27, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=V7x0ZNqLa9o"><img width="200px" src="http://img.youtube.com/vi/V7x0ZNqLa9o/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=V7x0ZNqLa9o">中國杭州舉行人形機器人格鬥賽－ BBC News 中文</a></td>
@@ -84,9 +87,6 @@ slug: /
 <td>May 26, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=onSdQ9paGHw"><img width="200px" src="http://img.youtube.com/vi/onSdQ9paGHw/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=onSdQ9paGHw">俄羅斯大規模空襲烏克蘭 特朗普稱普京「完全瘋了」－ BBC News 中文 #特朗普 #美國</a></td>
-<td>May 26, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=yjeBXLjjA-8"><img width="200px" src="http://img.youtube.com/vi/yjeBXLjjA-8/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=yjeBXLjjA-8">湯姆·克魯斯談雙翼飛機特技：「你無法移動」－ BBC News 中文</a></td>
 <td>May 26, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
