@@ -94,6 +94,8 @@ slug: /
 ## GitHub Trending
 ### All language
 
+* 【2025-05-29】[NomicFoundation / hardhat](https://github.com/NomicFoundation/hardhat) - Hardhat is a development environment to compile, deploy, test, and debug your Ethereum software.
+* 【2025-05-29】[Lagrange-Labs / deep-prove](https://github.com/Lagrange-Labs/deep-prove) - Framework to prove inference of ML models blazingly fast
 * 【2025-05-28】[stalwartlabs / stalwart](https://github.com/stalwartlabs/stalwart) - All-in-one Mail & Collaboration server. Secure, scalable and fluent in every protocol (IMAP, JMAP, SMTP, CalDAV, CardDAV, WebDAV).
 * 【2025-05-27】[nvim-treesitter / nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 * 【2025-05-27】[slowlydev / f1-dash](https://github.com/slowlydev/f1-dash) - A real-time F1 dashboard
@@ -203,6 +205,8 @@ slug: /
 * 【2025-05-11】[mdn / translated-content](https://github.com/mdn/translated-content) - The source repository of all translated content for MDN Web Docs
 ### Jupyter-notebook
 
+* 【2025-05-29】[NoDataFound / hackGPT](https://github.com/NoDataFound/hackGPT) - I leverage OpenAI and ChatGPT to do hackerish things
+* 【2025-05-29】[PKU-Alignment / align-anything](https://github.com/PKU-Alignment/align-anything) - Align Anything: Training All-modality Model with Feedback
 * 【2025-05-28】[boyu-ai / Hands-on-RL](https://github.com/boyu-ai/Hands-on-RL) - https://hrl.boyuai.com/
 * 【2025-05-27】[ageron / handson-ml](https://github.com/ageron/handson-ml) - ⛔️ DEPRECATED – See https://github.com/ageron/handson-ml3 instead.
 * 【2025-05-26】[rasbt / machine-learning-book](https://github.com/rasbt/machine-learning-book) - Code Repository for Machine Learning with PyTorch and Scikit-Learn
@@ -255,6 +259,7 @@ slug: /
 * 【2025-05-11】[onnx / models](https://github.com/onnx/models) - A collection of pre-trained, state-of-the-art models in the ONNX format
 ### Javascript
 
+* 【2025-05-29】[json-schema-org / json-schema-spec](https://github.com/json-schema-org/json-schema-spec) - The JSON Schema specification
 * 【2025-05-28】[humanwhocodes / crosspost](https://github.com/humanwhocodes/crosspost) - A JavaScript utility for posting across multiple social networks at once
 * 【2025-05-28】[minio / object-browser](https://github.com/minio/object-browser) - Simple UI for MinIO Object Storage 🧮
 * 【2025-05-27】[mayswind / AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
@@ -275,6 +280,7 @@ slug: /
 * 【2025-05-11】[certd / certd](https://github.com/certd/certd) - 开源SSL证书管理工具；全自动证书申请、更新、续期；通配符证书，泛域名证书申请；证书自动化部署到阿里云、腾讯云、主机、群晖、宝塔；https证书，pfx证书，der证书，TLS证书，nginx证书自动续签自动部署
 ### C
 
+* 【2025-05-29】[FlyGoat / csmwrap](https://github.com/FlyGoat/csmwrap) - Get PC BIOS back on UEFI only system
 * 【2025-05-27】[tuya / TuyaOpen](https://github.com/tuya/TuyaOpen) - Tuya open source AI+IoT development framework for device for T2, T3, T5AI, esp32, esp32c3, ln882h, bk7231n
 * 【2025-05-24】[jniebuhr / gaggimate](https://github.com/jniebuhr/gaggimate) - This project upgrades a Gaggia espresso machine with smart controls to improve your coffee-making experience. By adding a display and custom electronics, you can monitor and control the machine more easily.
 * 【2025-05-23】[vanilla-wiiu / vanilla](https://github.com/vanilla-wiiu/vanilla) - 
@@ -315,6 +321,7 @@ slug: /
 * 【2025-05-11】[TianxingChen / Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能技术指南 Embodied-AI-Guide
 ### Go
 
+* 【2025-05-29】[manusa / kubernetes-mcp-server](https://github.com/manusa/kubernetes-mcp-server) - Model Context Protocol (MCP) server for Kubernetes and OpenShift
 * 【2025-05-28】[mark3labs / mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) - Go server implementing Model Context Protocol (MCP) for filesystem operations.
 * 【2025-05-27】[applejag / kubectl-klock](https://github.com/applejag/kubectl-klock) - A kubectl plugin to render watch output in a more readable fashion
 * 【2025-05-26】[Xpl0itU / WiiUDownloader](https://github.com/Xpl0itU/WiiUDownloader) - Allows to download encrypted wiiu files from nintendo's official servers
@@ -336,6 +343,7 @@ slug: /
 * 【2025-05-12】[krillinai / KrillinAI](https://github.com/krillinai/KrillinAI) - A video translation and dubbing tool powered by LLMs, offering professional-grade translations and one-click full-process deployment. It can generate content optimized for platforms like YouTube，TikTok, and Shorts. 基于AI大模型的视频翻译和配音工具，专业级翻译，一键部署全流程，可以生成适配抖音，小红书，哔哩哔哩，视频号，TikTok，Youtube Shorts等形态的内容
 ### C++
 
+* 【2025-05-29】[Zackriya-Solutions / meeting-minutes](https://github.com/Zackriya-Solutions/meeting-minutes) - A free and open source, self hosted Ai based live meeting note taker and minutes summary generator that can completely run in your Local device (Mac OS and windows OS Support added. Working on adding linux support soon) https://meetily.zackriya.com/
 * 【2025-05-28】[Slicer / Slicer](https://github.com/Slicer/Slicer) - Multi-platform, free open source software for visualization and image computing.
 * 【2025-05-24】[pafuhana1213 / KawaiiPhysics](https://github.com/pafuhana1213/KawaiiPhysics) - KawaiiPhysics : Simple fake Physics for UnrealEngine4 & 5
 * 【2025-05-23】[google-ai-edge / LiteRT](https://github.com/google-ai-edge/LiteRT) - LiteRT is the new name for TensorFlow Lite (TFLite). While the name is new, it's still the same trusted, high-performance runtime for on-device AI, now with an expanded vision.
