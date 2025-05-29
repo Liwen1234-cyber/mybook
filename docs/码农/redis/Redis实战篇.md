@@ -1903,7 +1903,7 @@ public Result queryById(Long id) {
 
 ![1653363100502](./images/1653363100502.png)
 
-<img src="image/Redis实战篇.assets/image-20230926155729468.png" alt="image-20230926155729468" style="zoom:50%;" />
+<img src="./images/image-20230926155729468.png" alt="image-20230926155729468" style="zoom:50%;" />
 
 > - UUID	MySQL8.0以后，UUID可以自增且减少了存储空间
 > - Redis自增
@@ -2518,7 +2518,7 @@ synchronized (userId.toString().intern()) {
   * 非阻塞：尝试一次，成功返回true，失败返回false
   * setnx和expire合并为一个语句，避免只执行setnx后宕机
 
-  <img src="image/Redis实战篇.assets/image-20230927104013694.png" alt="image-20230927104013694" style="zoom: 70%;" />
+  <img src="./images/image-20230927104013694.png" alt="image-20230927104013694" style="zoom: 70%;" />
 
 * 释放锁：
 
@@ -2531,7 +2531,7 @@ synchronized (userId.toString().intern()) {
 
 我们利用redis 的setNx 方法，当有多个线程进入时，我们就利用该方法，第一个线程进入时，redis 中就有这个key 了，返回了1，如果结果是1，则表示他抢到了锁，那么他去执行业务，然后再删除锁，退出锁逻辑，没有抢到锁的哥们，等待一定时间后重试即可
 
- <img src="image/Redis实战篇.assets/image-20230927104437637.png" alt="image-20230927104437637" style="zoom:50%;float:left" /><img src="image/Redis实战篇.assets/1653382830810.png" alt="1653382830810" style="zoom: 67%;" />
+ <img src="./images/image-20230927104437637.png" alt="image-20230927104437637" style="zoom:50%;float:left" /><img src="./images/1653382830810.png" alt="1653382830810" style="zoom: 67%;" />
 
 ## 4.3 实现分布式锁版本一
 
