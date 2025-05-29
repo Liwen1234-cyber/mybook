@@ -6,8 +6,6 @@ P1是用了一堆比喻说明GAN 的操作是怎麼进行的
 
 那我们先来弄清楚,我们今天的**训练的目标**到底是什麼
 
-![](./images/image-20210516185456967.png)
-
 我们在训练 Network 的时候,你就是要
 
 - 定一个 Loss Function
@@ -139,12 +137,10 @@ Discriminator 训练的目标,就是要**分辨好的图跟不好的图**,分辨
 - 我们希望说如果 Y 是从,这个 **PG Sample 出来的**,它就要**越小越好**
 
 
-
 让 D (Y) 越大越好,也就是让Discriminator Output 的值越小越好
 
 你可能觉得没事突然写出这个式子有点奇怪,但你**不一定要把这个 Objective Function,写成这个样子**,它完全可以有其他的写法,那最早年之所以写成这个样子,是有一个很明确的理由,是為了要把 **Discriminator跟 Binary Classification**,跟二元的分类**扯上关係**
 
-<img src="C:\Users\10131\AppData\Roaming\Typora\typora-user-images\image-20210517142125949.png" alt="image-20210517142125949" style="zoom:67%;" />
 
 事实上这个 Objective Function,它就是 **Cross Entropy 乘一个负号**,我们知道我们在训练一个 Classifier 的时候,我们就是要 Minimize Cross Entropy,所以当我们**Maximize Cross Entropy 乘一个负号**的时候,其实等同於 **Minimize Cross Entropy**,也就是等同於是在**训练一个 Classifier**
 
