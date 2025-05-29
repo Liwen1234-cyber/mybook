@@ -4,7 +4,7 @@
 
 在讲 Auto-Encoder 之前,其实 Auto-Encoder 也可以算是,Self-Supervised Learning 的一环,所以再让我们用非常短的时间,来看一下Self-Supervised Learning 的 Framework
 
-<img src="./images/image-20210620141205144.png" alt="image-20210620141205144" style="zoom: 50%;" />
+![](./images/image-20210620141205144.png)
 
 首先你有大量的没有标注的资料,用这些没有标注的资料,你可以去训练一个模型,你必须发明一些不需要标注资料的任务,比如说做填空题,比如说预测下一个 Token
 
@@ -66,7 +66,7 @@ Auto-Encoder 是怎麽运作的呢,那现在我们,因为刚才在讲 Self-Super
 
 Dimension Reduction 这个技术,我相信你在 Machine Learning 相关的应用上,应该常常听到这个名词,那有关 Dimension Reduction 的技术,它其实牵涉的非常非常地广,所以我们这边就不再细讲,因为这门课,我们只专注在深度学习相关的技术,你可以把 Auto-Encoder 的 Encoder,当作拿来做 Dimension Reduction,那其他还有很多不是 Deep Learning Base的,不是以深度学习为基础的,Dimension Reduction的技术,我就把录影的连接留在这边
 
-<img src="./images/image-20210620145329493.png" alt="image-20210620145329493" style="zoom:33%;" />
+![](./images/image-20210620145329493.png)
 
 比如说 PCA 比如说 T-SNE,我就把录影的连结留在这边给大家参考
 
@@ -74,7 +74,7 @@ Dimension Reduction 这个技术,我相信你在 Machine Learning 相关的应�
 
 好 那 Auto-Encoder 到底好在哪裡,当我们把一个高维度的图片,变成一个低维度的向量的时候,到底带来什麽样的帮助,这让我想到神鵰侠侣的其中一段
 
-<img src="./images/image-20210620150818809.png" alt="image-20210620150818809" style="zoom:50%;" />
+![](./images/image-20210620150818809.png)
 
 神鵰侠侣裡面有一段,就是杨过进去那个绝情谷,遇到这个绝情谷谷主公孙止的弟子,就是樊一翁,樊一翁就是这个人,那樊一翁的武器是什麽,他的武器除了一根钢杖以外,还有他的鬍子,他可以去甩动他的鬍子当做一个软鞭来使用,他的鬍子甩起来有两丈那麽长,可以是一个很厉害的武器,杨过跟他打了很久都难分上下
 
@@ -96,7 +96,7 @@ Dimension Reduction 这个技术,我相信你在 Machine Learning 相关的应�
 
 也许你把图片蒐集起来发现说
 
-<img src="./images/image-20210620151538900.png" alt="image-20210620151538900" style="zoom:50%;" />
+![](./images/image-20210620151538900.png)
 
 它只有这样子的类型,跟这样子的类型,其他类型根本就不是,你一般在训练的时候会看到的状况,就是因为说图片的变化还是有限的
 
@@ -106,7 +106,7 @@ Dimension Reduction 这个技术,我相信你在 Machine Learning 相关的应�
 
 那所以对应到刚才这个樊一翁的例子
 
-<img src="./images/image-20210620151716975.png" alt="image-20210620151716975" style="zoom:50%;" />
+![](./images/image-20210620151716975.png)
 
 就是这个鬍子是图片複杂的状态,是原来图片的 Pixel,是原来图片的像素
 
@@ -120,7 +120,7 @@ Dimension Reduction 这个技术,我相信你在 Machine Learning 相关的应�
 
 Hinton 在 06 年的 Science 的 Paper 裡面,就有提到 Auto-Encoder 这个概念,只是那个时候用的 Network,跟今天用的 Network,当然还是有很多不一样的地方,我们讲 2006 年是 15 年前,15 年前的 Auto-Encoder 长什麽样子
 
-<img src="./images/image-20210620152427521.png" alt="image-20210620152427521" style="zoom:50%;" />
+![](./images/image-20210620152427521.png)
 
 那个时候人们**不觉得,Deep 的 Network 是 Train 得起来的**,那时候觉得说这个把 Network 叠很多很多层,然后每一层一起 Train 不太可能成功,所以那时候的信念是,**每一层应该分开训练**,所以 Hinton 用的是一个叫做,Restricted Boltzmann Machine 的技术,缩写是 RBM
 
@@ -158,7 +158,7 @@ Encoder 看到的是没有杂讯的图片,但 Decode要还原的目标是,Encode
 
 但是如果你看今天的 BERT 的话,其实你也可以把它看作就是一个,De-Noising 的 Auto-Encoder
 
-<img src="./images/image-20210620160217845.png" alt="image-20210620160217845" style="zoom:67%;" />
+![](./images/image-20210620160217845.png)
 
 输入我们会加 Masking,那些 **Masking 其实就是 Noise**,BERT 的模型就是 Encoder,它的输出就是 Embedding
 

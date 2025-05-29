@@ -12,7 +12,7 @@
 
 但实际上不是,如果你今天在这样子黑白的数字上面,训练一个模型,直接用到彩色的数字上,你得到的正确率会非常地低,会低到只有 57%,不能算是一个及格的分数
 
-<img src="./images/image-20210910220128165.png" alt="image-20210910220128165" style="zoom: 67%;" />
+![](./images/image-20210910220128165.png)
 
 所以我们今天知道说,一旦训练资料跟测试资料,它中间有一些差异,它们中间的分布是不一样的,你在训练资料上训练出来的模型,在测试资料上面可能就会坏掉,那这种问题 叫做 ==Domain Shift==,也就是当你的训练资料跟测试资料,它的分布有些不同的时候,这种状况叫做 Domain Shift
 
@@ -30,11 +30,11 @@ Domain Shift,其实有很**多种不同的类型**,我们刚才看到的,只是 
 
 其实还有另外一种可能性是,**输出的分布也可能有变化**,举例来说 在你的训练资料上面,可能每一个数字它出现的机率都是一样的,但是在测试资料上面,可能每一个输出的机率是不一样的,有可能某一个数字它输出的机率特别大,有没有可能有这种事情发生呢,这也是有可能的
 
-<img src="./images/image-20210910220642626.png" alt="image-20210910220642626" style="zoom:67%;" />
+![](./images/image-20210910220642626.png)
 
 那这也是一种 Domain Shift,还有一种更罕 比较罕见,但也不是完全不可能发生的状况是,**输入跟输出虽然分布可能是一样的,但它们之间的关係变了**
 
-<img src="./images/image-20210910220714133.png" alt="image-20210910220714133" style="zoom:67%;" />
+![](./images/image-20210910220714133.png)
 
 也许在你的训练资料裡面,这种东西叫做 0,但是在你的测试资料裡面,这种东西叫做 1,这也不是不可能的,也是有可能发生这种状况嘛,也是有可能发生说,输入跟输出它们的关係不一样,在训练跟测试资料不一样的状况,那这又是另外一种 Domain Shift
 
@@ -58,7 +58,7 @@ Domain Shift,其实有很**多种不同的类型**,我们刚才看到的,只是 
 
 那要做 Domain Adaptation 的情境可能是,你有 **Target Domain 的资料 也有标註,但是量非常地少**,那在这种状况下怎麼办呢
 
-<img src="./images/image-20210910222347878.png" alt="image-20210910222347878" style="zoom:67%;" />
+![](./images/image-20210910222347878.png)
 
 那这种状况还算是在 Domain Adaptation 裡面,比较容易处理的状况,如果你今天遇到的是,有标註资料 只是资料量很少的情况下,你可以用这些有标註的资料,来**微调你在 Source Domain 上训练出来的模型**,那这边所谓的微调,就跟你在做 BERT 的时候的行為很像,就是你已经有一个在 Source Domain 上,训练好的 Model,那你拿 Target Domain 的 Data,只稍微跑个两 三个（Epoch）就足够了
 
@@ -68,7 +68,7 @@ Domain Shift,其实有很**多种不同的类型**,我们刚才看到的,只是 
 
 那今天主要想要跟大家分享的情境,也是我们作业要处理的情境是,我们在 **Targe Domain 上有大量的资料**,但是这些资料是**没有标註**的,你的 Targe Domain 是有顏色的数字,你也蒐集到了一大堆有顏色的数字的图片,但是没有人标註说,每一张图片裡面的数字是什麼
 
-<img src="./images/image-20210911162419412.png" alt="image-20210911162419412" style="zoom:67%;" />
+![](./images/image-20210911162419412.png)
 
 那我们在作业裡面要处理的就是,遇到这种状况的时候,到底应该要怎麼解呢,好 到底应该要怎麼解呢
 
@@ -80,7 +80,7 @@ Domain Shift,其实有很**多种不同的类型**,我们刚才看到的,只是 
 
 那这边最 Basic 的想法是这个样子的,这边基本的概念是这个样子,我们想要**找一个 Feature Extractor**
 
-<img src="./images/image-20210911162648850.png" alt="image-20210911162648850" style="zoom:67%;" />
+![](./images/image-20210911162648850.png)
 
 这个 Feature Extractor,它其实也是一个 Network,这个 Network 呢 吃一张图片作為输入,它吐出一个 vector,吐出一个 Feature,虽然 Source Domain 跟 Target Domain,它们的 Image 表面上看起来不一样,但是 Feature Extractor,会**把它们不一样的部分拿掉,只抽取出它们共同的部分**
 
@@ -90,7 +90,7 @@ Domain Shift,其实有很**多种不同的类型**,我们刚才看到的,只是 
 
 怎麼找出这样的一个 Feature Extractor 呢,那其实我们可以**把一个一般的 Classifier,就分成 Feature Extractor,跟 Label Predictor 两个部分**
 
-<img src="./images/image-20210911163352331.png" alt="image-20210911163352331" style="zoom:67%;" />
+![](./images/image-20210911163352331.png)
 
 我们知道一个 Image 的 Classifier,就是输入一张 Image Output,就是分类的结果,那假设这个 Image 的 Classifier 有 10 层,那我们就说,前 5 层算是 Feature Extractor,后 5 层算是 Label Predictor,因為前 5 层,你一个 Image 通过前 5 层,它输出就是一个 vector 嘛,那如果你上 CNN 的话,它输出其实是 Feature Map 啦,但 Feature Map 拉直,也可以看做是一个 vector 嘛,那这个 vector,再丢到 Label Predictor 的后面 5 层,它会產生 Class,那所以我们可以把前 5 层,看做是 Feature Extractor
 
@@ -106,7 +106,7 @@ Domain Shift,其实有很**多种不同的类型**,我们刚才看到的,只是 
 
 但是这些资料可以怎麼被使用呢,这些资料的使用方式就是,我们把这些图片丢到这个 Image,丢进这个 Image Classifier,然后我们把,Feature Extractor 的 Output 拿出来看,拿出来看以后,我们希望 **Source Domain 的图片,丢进去的 Feature,跟 Target Domain 的图片丢进去的 Feature,它们看起来要分不出差异**
 
-<img src="./images/image-20210911163602009.png" alt="image-20210911163602009" style="zoom:67%;" />
+![](./images/image-20210911163602009.png)
 
 就是这个 Source Domain 的图片,我们用它的 Feature,我们用蓝色的点来表示,Target Domain 的图片,它的 Feature 我们用红色的点来表示,我们要这些蓝色的点跟这些红色的点,分不出差异,那怎麼让蓝色的点跟红色的点,分不出差异呢,那这个就要藉由,Domain Adversarial Training 的技术
 
@@ -116,7 +116,7 @@ Domain Shift,其实有很**多种不同的类型**,我们刚才看到的,只是 
 
 而 Feature Extractor 它学习的目标,就是要去想办法骗过这个 Domain Classifier,那听到骗过这件事情
 
-<img src="./images/image-20210911164939478.png" alt="image-20210911164939478" style="zoom: 50%;" />
+![](./images/image-20210911164939478.png)
 
 是不是让你脑中就浮现了,Gan 这个东西,是不是就浮现了,Generative Adversaria Network 这个东西呢,没错 Domain Adversarial Training,就非常像是 Gan,你可以把 Feature Extractor,想成是 Generator,把 Domain Classifier,想成是 Discriminator,那其实 Domain Adversarial Training,最早的 Paper,我记得是发表在 2015 年的 ICML 上面,比那个 Gan 还要稍微晚一点点啦,不过它们几乎可以说是同时期的作品,在 Domain Adversarial Training 那篇 Paper 裡面,是有引用到 Gan 那篇 Paper,但那时候 Gan 那篇 Paper,还没有上[NeurIPS](https://neurips.cc/),所以它只说,欸 有一篇 有另外一篇 Paper,它提了一个叫 Gan 的想法,然后它是 Technical report 放在网路上的,还跟我的想法有点像,所以它们算是一个同时期的作品
 
@@ -126,7 +126,7 @@ Domain Shift,其实有很**多种不同的类型**,我们刚才看到的,只是 
 
 那这件事情会发生吗,其实**这件事情是不会发生的**,為什麼,因為 **Label Predictor 也需要这个 Feature**
 
-<img src="./images/image-20210911165220437.png" alt="image-20210911165220437" style="zoom:50%;" />
+![](./images/image-20210911165220437.png)
 
 Label Predictor 它也需要这个 Feature,让它可以去判断,输入的图片属於哪一个类别,所以假设 Generator 它就直接放一个大绝说,今天不管输入什麼样的 Image,我输出都是 Zero vector,那对於 Label Predictor 来说,它就没有办法判断是哪一张图片,那在这个情况下,因為 Feature Extractor,它还是需要產生这个 vector,让 Label Predictor 可以產生正确的图片,所以 Feature Extractor 它就不能放大绝,它就不能看到什麼东西,永远都输出 Zero vector
 
@@ -136,7 +136,7 @@ Label Predictor 它也需要这个 Feature,让它可以去判断,输入的图片
 - Domain Classifier 的参数 叫做 $θ_d$
 - 然后 Feature Extractor 的参数 叫做 $θ_f$
 
-<img src="./images/image-20210911172941695.png" alt="image-20210911172941695" style="zoom:50%;" />
+![](./images/image-20210911172941695.png)
 
 然后呢 这个 Source Domain 上的这些 Image,它的 Classification 的这个 Cross Entropy,就 Source Domain 这些 Image,它是有 Label 的,所以你可以算它们的 Cross Entropy,你根据它们的 Cross Entropy,订出一个 Loss
 
@@ -164,13 +164,13 @@ Label Predictor 它也需要这个 Feature,让它可以去判断,输入的图片
 
 好 那我们来看一下,Domain Adversarial Training,最原始的 Paper,它做的结果怎麼样呢,当年看到这个 Paper 的时候,真的觉得结果非常地惊人
 
-<img src="./images/image-20210911180533698.png" alt="image-20210911180533698" style="zoom:67%;" />
+![](./images/image-20210911180533698.png)
 
 那这边呢 它做了四个任务,那上半部 是 Source Domain 的图片,这边其实都是数字辨识啦,那下半部呢 都是 Target Domain 的图片,好 如果今天呢,我们是拿 Target Domain 的图片来做 Training,Target Domain 的图片来做 Testing,那结果像是这个样子,每一个任务正确率都是 90% 以上,但如果说,我们今天是 Source Domain Training,Target Domain Testing,Train 在黑白的数字上,测试在彩色的数字上,结果直接惨掉,哇 这直接惨掉 没办法做啦,结果直接惨掉
 
 那如果加上 Domain Adversarial Training 的话,结果怎麼样呢,你会发现说本来如果只 Train 在黑白的图片上,测试在彩色的图片上,正确率 57.5
 
-<img src="./images/image-20210911180619681.png" alt="image-20210911180619681" style="zoom:50%;" />
+![](./images/image-20210911180619681.png)
 
 那如果今天有做 Domain Adversarial Training,正确率就飆升到 81%,在很多其他任务上进步量都挺明显的,59 到 71,74 到 88.7,这个进步量都是挺明显的,那这个就是 Domain Adversarial Training
 
@@ -178,7 +178,7 @@ Label Predictor 它也需要这个 Feature,让它可以去判断,输入的图片
 
 那刚才这整套想法,还是有一个限制,有一个小小的问题,什麼样小小的问题呢
 
-<img src="./images/image-20210911181003396.png" alt="image-20210911181003396" style="zoom:67%;" />
+![](./images/image-20210911181003396.png)
 
 我们来看看哦,今天 蓝色的圈圈跟蓝色的三角形,代表 Source Domain 上的两个 Class,那我们当然可以找一个 Boundary,去把这两组 Class 把它分开来,对於 Target Domain 上的 Data,我们没有任何的 Class 的 Label,我们就只能说所有 Target Domain 的 Data,我们都用这个正方形来表示它
 
@@ -195,7 +195,7 @@ Label Predictor 它也需要这个 Feature,让它可以去判断,输入的图片
 - 如果今天输出的结果非常地集中,叫做离 Boundary 远
 - 如果今天输出的结果每一个类别都非常地接近,叫做离 Boundary 近
 
-<img src="./images/image-20210911181351557.png" alt="image-20210911181351557" style="zoom:67%;" />
+![](./images/image-20210911181351557.png)
 
 所以我希望说把 unLabled 的 Image,丢进 Feature Extractor,再丢进 Label Predictor,输出的结果,它离 Boundary 越远越好,也就是说这**集中在某一个类别上**,我们虽然不知道它应该算是哪一个类别,但至少应该集中在某一个类别上
 
@@ -207,7 +207,7 @@ Label Predictor 它也需要这个 Feature,让它可以去判断,输入的图片
 
 Target Domain 是没有 Label 的,我们根本不知道 Target Domain 裡面,有什麼样的类别
 
-<img src="./images/image-20210911181655614.png" alt="image-20210911181655614" style="zoom:67%;" />
+![](./images/image-20210911181655614.png)
 
 而在这个图示裡面 这个实心的,实线的圈圈代表,Source Domain 裡面有的东西,这个虚实线的圈圈,代表 Target Domain 裡面有的东西,所以呢 有没有可能是,这个 **Source Domain 裡面的东西比较多,Target Domain 裡面的东西比较少**呢,有没有可能是,**Source Domain 裡面的东西比较少,Target Domain 的东西比较多**呢,有没有可能两者虽然有交集,但是各自都有独特的类别呢,这都是有可能发生的
 
@@ -231,7 +231,7 @@ Target Domain 是没有 Label 的,我们根本不知道 Target Domain 裡面,有
 
 但是有一个可能是,假设不只没有 Label,而且 Data 还很少,比如说我就只有一张而已
 
-<img src="./images/image-20210911182233057.png" alt="image-20210911182233057" style="zoom:67%;" />
+![](./images/image-20210911182233057.png)
 
 这个时候你只有一张,你的这个 Target Domain 只有一张,只有一个点,你根本没有办法跟那个 Source Domain,把它 Align 在一起,这个时候怎麼办呢,假设 Target Domain 的 Data 非常少的时候,怎麼办呢,也不是没有方法啦
 
@@ -241,11 +241,11 @@ Target Domain 是没有 Label 的,我们根本不知道 Target Domain 裡面,有
 
 但其实还有一个更严峻的状况,这个状况是,如果我什麼都不知道怎麼办呢,如果我们对 Target Domain 一无所知的话,怎麼办呢
 
-<img src="./images/image-20210911182329234.png" alt="image-20210911182329234" style="zoom:67%;" />
+![](./images/image-20210911182329234.png)
 
 这个时候又分成两种情形,对 Target Domain 一无所知的这种问题,这个时候我们就不叫 Domain 的 Adaptation,通常就叫 ==Domain Generalization==
 
-<img src="./images/image-20210911182517320.png" alt="image-20210911182517320" style="zoom:67%;" />
+![](./images/image-20210911182517320.png)
 
 因為我们并不是要,Adapt 到某一个特定的 Domain 上,我们对那个特定的 Domain 已经一无所知了,我们是期待今天机器学到,Domain Generalization,在 Testing 的时候,不管来什麼神奇的 Domain,它都可以处理,那 Domain Generalization,又分成两种状况
 

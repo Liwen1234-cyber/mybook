@@ -6,7 +6,7 @@ CNN以后,我们要讲另外一个常见的Network架构,这个架构叫做Self-
 
 到目前為止,我们的Network的**Input**都是**一个向量**,不管是在预测这个,YouTube观看人数的问题上啊,还是影像处理上啊,我们的输入都可以看作是一个向量,然后我们的输出,可能是一个**数值**,这个是**Regression**,可能是一个**类别**,这是**Classification**
 
-<img src="./images/image-20210403221220604.png" alt="image-20210403221220604" style="zoom: 67%;" />
+![](./images/image-20210403221220604.png)
 
 但假设我们遇到更復杂的问题呢,假设我们说**输入是多个向量**,而且这个**输入的向量的数目是会改变的**呢
 
@@ -24,7 +24,7 @@ CNN以后,我们要讲另外一个常见的Network架构,这个架构叫做Self-
 
 那**怎麼把一个词汇表示成一个向量**,最简单的做法是==One-Hot的Encoding==
 
-<img src="./images/image-20210403222112679.png" alt="image-20210403222112679" style="zoom:67%;" />
+![](./images/image-20210403222112679.png)
 
 你就开一个很长很长的向量,这个向量的长度跟世界上存在的词汇的数目是一样多的,每一个维度对应到一个词汇,Apple就是100,Bag就是010,Cat就是001,以此类推
 
@@ -32,7 +32,7 @@ CNN以后,我们要讲另外一个常见的Network架构,这个架构叫做Self-
 
 有另外一个方法叫做==Word Embedding==
 
-<img src="./images/image-20210403222544230.png" alt="image-20210403222544230" style="zoom:67%;" />
+![](./images/image-20210403222544230.png)
 
 Word Embedding就是,我们会给每一个词汇一个向量,而这个**向量是有语义的资讯的**
 
@@ -44,7 +44,7 @@ Word Embedding，如果你有兴趣的话,可以看一下以下的录影https://
 
 一段声音讯号其实是一排向量,怎麼说呢,我们会把一段声音讯号取一个范围,这个范围叫做一个==Window==
 
-<img src="./images/image-20210404160614690.png" alt="image-20210404160614690" style="zoom:50%;" />
+![](./images/image-20210404160614690.png)
 
 把这个Window裡面的资讯描述成一个向量,这个向量就叫做一个==Frame==,在语音上,我们会把**一个向量叫做一个Frame**,通常这个Window的长度就是25个Millisecond
 
@@ -52,7 +52,7 @@ Word Embedding，如果你有兴趣的话,可以看一下以下的录影https://
 
 一小段25个Millisecond裡面的语音讯号,為了要描述一整段的声音讯号,你会把这个**Window往右移一点**,通常移动的大小是10个Millisecond
 
-<img src="./images/image-20210404161620047.png" alt="image-20210404161620047" style="zoom:50%;" />
+![](./images/image-20210404161620047.png)
 
 一段声音讯号,你就是用一串向量来表示,而因為每一个Window啊,他们往右移都是移动10个Millisecond,所以一秒鐘的声音讯号有100个向量,所以一分鐘的声音讯号,就有这个100乘以60,就有6000个向量
 
@@ -62,7 +62,7 @@ Word Embedding，如果你有兴趣的话,可以看一下以下的录影https://
 
 一个Graph 一个图,也是一堆向量,我们知道说Social Network就是一个Graph
 
-<img src="./images/image-20210404161854708.png" alt="image-20210404161854708" style="zoom:50%;" />
+![](./images/image-20210404161854708.png)
 
 在Social Network上面**每一个节点就是一个人**,然后**节点跟节点之间的edge就是他们两个的关系连接**,比如说是不是朋友等等
 
@@ -74,7 +74,7 @@ Word Embedding，如果你有兴趣的话,可以看一下以下的录影https://
 
 一个分子,它也可以看作是一个Graph
 
-<img src="./images/image-20210404162239665.png" alt="image-20210404162239665" style="zoom:50%;" />
+![](./images/image-20210404162239665.png)
 
 现在Drug Discovery的应用非常地受到重视,尤其是在Covid-19这一段时间,很多人都期待,也许用机器学习,可以在Drug Discovery上面做到什麼突破,那这个时候,你就需要把一个分子,当做是你的模型的输入
 
@@ -90,7 +90,7 @@ Word Embedding，如果你有兴趣的话,可以看一下以下的录影https://
 
 当你的模型,看到输入是四个向量的时候,它就要输出四个Label,而每一个Label,它可能是一个数值,那就是Regression的问题,如果每个Label是一个Class,那就是一个Classification的问题
 
-<img src="./images/image-20210404165717142.png" alt="image-20210404165717142" style="zoom:50%;" />
+![](./images/image-20210404165717142.png)
 
 - 举例来说 在文字处理上,假设你今天要做的是==POS Tagging==,POS Tagging就是词性标註,你要让机器自动决定每一个词汇 它是什麼样的词性,它是名词 还是动词 还是形容词等等
 
@@ -112,7 +112,7 @@ Word Embedding，如果你有兴趣的话,可以看一下以下的录影https://
 
 ### 2. 一整个Sequence,只需要输出一个Label
 
-<img src="./images/image-20210404165454032.png" alt="image-20210404165454032" style="zoom:50%;" />
+![](./images/image-20210404165454032.png)
 
 - 举例来说,如果是文字的话,我们就说Sentiment Analysis
 
@@ -128,7 +128,7 @@ Word Embedding，如果你有兴趣的话,可以看一下以下的录影https://
 
 我们不知道应该输出多少个Label,机器要自己决定,应该要输出多少个Label,可能你输入是N个向量,输出可能是N'个Label,為什麼是N',机器自己决定
 
-<img src="./images/image-20210404170045293.png" alt="image-20210404170045293" style="zoom: 50%;" />
+![](./images/image-20210404170045293.png)
 
 这种任务又叫做==sequence to sequence==的任务,那我们在作业五会有sequence to sequence的作业,所以这个之后我们还会再讲
 
@@ -145,7 +145,7 @@ Word Embedding，如果你有兴趣的话,可以看一下以下的录影https://
 
 那直觉的想法就是我们就拿个**Fully-Connected的Network**
 
-<img src="./images/image-20210404172216111.png" alt="image-20210404172216111" style="zoom: 33%;" />
+![](./images/image-20210404172216111.png)
 
 然后虽然这个输入是一个Sequence,但我们就各个击破,不要管它是不是一个Sequence,把每一个向量,分别输入到Fully-Connected的Network裡面
 
@@ -161,11 +161,11 @@ Word Embedding，如果你有兴趣的话,可以看一下以下的录影https://
 
 这是有可能的,你就**把前后几个向量都串起来,一起丢到Fully-Connected的Network就结束了**
 
-<img src="./images/image-20210404172839097.png" alt="image-20210404172839097" style="zoom: 33%;" />
+![](./images/image-20210404172839097.png)
 
 在作业二裡面,我们不是只看一个Frame,去判断这个Frame属於哪一个Phonetic,也就属於哪一个音标,而是看这个Frame的前面五个加后面五个,也就总共看十一个Frame,来决定它是哪一个音标
 
-<img src="./images/image-20210404173219186.png" alt="image-20210404173219186" style="zoom: 33%;" />
+![](./images/image-20210404173219186.png)
 
 所以我们可以给Fully-Connected的Network,一整个Window的资讯,让它可以考虑一些上下文的,跟我现在要考虑的这个向量,相邻的其他向量的资讯
 
@@ -173,7 +173,7 @@ Word Embedding，如果你有兴趣的话,可以看一下以下的录影https://
 
 但是真正的问题,但是如果今天我们有某一个任务,不是考虑一个Window就可以解决的,而是要**考虑一整个Sequence才能够解决**的话,那要怎麼办呢
 
-<img src="./images/image-20210404173257899.png" alt="image-20210404173257899" style="zoom:33%;" />
+![](./images/image-20210404173257899.png)
 
 那有人可能会想说这个很容易，我就**把Window开大一点啊,大到可以把整个Sequence盖住就结束了**
 
@@ -189,7 +189,7 @@ Word Embedding，如果你有兴趣的话,可以看一下以下的录影https://
 
 Self-Attention的运作方式就是,**Self-Attention会吃一整个Sequence的资讯**
 
-<img src="./images/image-20210404174805338.png" alt="image-20210404174805338" style="zoom: 33%;" />
+![](./images/image-20210404174805338.png)
 
 然后你Input几个Vector,它就输出几个Vector,比如说你这边Input一个深蓝色的Vector,这边就给你一个另外一个Vector
 
@@ -199,13 +199,13 @@ Self-Attention的运作方式就是,**Self-Attention会吃一整个Sequence的�
 
 所以这边每一个向量,我们特别给它一个黑色的框框代表说它不是一个普通的向量
 
-<img src="./images/image-20210404193106925.png" alt="image-20210404193106925" style="zoom: 33%;" />
+![](./images/image-20210404193106925.png)
 
 如此一来你这个Fully-Connected的Network,它就不是只考虑一个非常小的范围,或一个小的Window,而是考虑整个Sequence的资讯,再来决定现在应该要输出什麼样的结果，这个就是Self-Attention。
 
 **Self-Attention不是只能用一次,你可以叠加很多次**
 
-<img src="./images/image-20210404194146583.png" alt="image-20210404194146583" style="zoom: 33%;" />
+![](./images/image-20210404194146583.png)
 
 可以Self-Attention的输出,通过Fully-Connected Network以后,再做一次Self-Attention,Fully-Connected的Network,再过一次Self-Attention,再重新考虑一次整个Input Sequence的资讯,再丢到另外一个Fully-Connected的Network,最后再得到最终的结果
 
@@ -220,7 +220,7 @@ Self-Attention的运作方式就是,**Self-Attention会吃一整个Sequence的�
 
 有关Self-Attention,最知名的相关的文章,就是《Attention is all you need》.那在这篇Paper裡面呢,Google提出了==Transformer==这样的Network架构,那Transformer就是变形金刚,所以提到这个Network的时候呢,我们就会有变形金刚这个形象
 
-<img src="./images/image-20210404201325728.png" alt="image-20210404201325728" style="zoom:67%;" />
+![](./images/image-20210404201325728.png)
 
 Transformer我们今天还不会讲到,但我们之后会讲到,Transformer裡面一个最重要的Module就是Self-Attention,它就是变形金刚的火种源
 
@@ -234,7 +234,7 @@ Transformer我们今天还不会讲到,但我们之后会讲到,Transformer裡�
 
 Self-Attention的Input,它就是一串的Vector,那**这个Vector可能是你整个Network的Input,它也可能是某个Hidden Layer的Output**,所以我们这边不是用$x$来表示它,
 
-<img src="./images/image-20210404202435331.png" alt="image-20210404202435331" style="zoom: 33%;" />
+![](./images/image-20210404202435331.png)
 
 我们用$a$来表示它，代表它有可能是前面已经做过一些处理,它是某个Hidden Layer的Output,那Input一排a这个向量以后,Self-Attention要Output另外一排b这个向量
 
@@ -244,13 +244,13 @@ Self-Attention的Input,它就是一串的Vector,那**这个Vector可能是你整
 
 这里有一个**特别的机制**,**这个机制是根据$a^1$这个向量,找出整个很长的sequence裡面,到底哪些部分是重要的,哪些部分跟判断$a^1$是哪一个label是有关係的,哪些部分是我们要决定$a^1$的class,决定$a^1$的regression数值的时候,所需要用到的资讯**
 
-<img src="./images/image-20210404202942477.png" alt="image-20210404202942477" style="zoom: 33%;" />
+![](./images/image-20210404202942477.png)
 
 **每一个向量跟$a^1$的关联的程度,用一个数值叫α来表示**
 
 这个self-attention的module,**怎麼自动决定两个向量之间的关联性**呢,你给它两个向量$a^1$跟$a^4$,它怎麼决定$a^1$跟$a^4$有多相关,然后给它一个数值α呢,那这边呢你就需要一个**计算attention的模组**
 
-<img src="./images/image-20210404204458431.png" alt="image-20210404204458431" style="zoom: 33%;" />
+![](./images/image-20210404204458431.png)
 
 这个计算attention的模组,就是拿**两个向量作為输入**,然后它就直接输出α那个数值,
 
@@ -274,7 +274,7 @@ Self-Attention的Input,它就是一串的Vector,那**这个Vector可能是你整
 
 那你就要把这边的$a^1$去跟这边的$a^2 a^3 a^4$,分别都去计算他们之间的关联性,也就是计算他们之间的α
 
-<img src="./images/image-20210404211656032.png" alt="image-20210404211656032" style="zoom: 50%;" />
+![](./images/image-20210404211656032.png)
 
 你把$a^1$乘上$W^q $得到$q^1$,那这个q有一个名字,我们叫做==Query==,它就像是你搜寻引擎的时候,去搜寻相关文章的问题,就像搜寻相关文章的关键字,所以这边叫做Query
 
@@ -284,7 +284,7 @@ Self-Attention的Input,它就是一串的Vector,那**这个Vector可能是你整
 
 接下来也要跟$a^3 a^4$来计算
 
-<img src="./images/image-20210404211950882.png" alt="image-20210404211950882" style="zoom: 50%;" />
+![](./images/image-20210404211950882.png)
 
 把$a_3$乘上$W^k$,得到另外一个Key也就是$k^3$,$a^4$乘上$W^k$得到$k^4$,然后你再把$k^3$这个Key,跟$q^1$这个Query做Inner-Product,得到1跟3之间的关联性,得到1跟3的Attention,你把$k^4$跟$q^1$做Dot-Product,得到$α_{1,4}$,得到1跟4之间的关联性
 
@@ -292,7 +292,7 @@ Self-Attention的Input,它就是一串的Vector,那**这个Vector可能是你整
 
 计算出,a1跟每一个向量的关联性以后,接下来这边会**接入一个Soft-Max**
 
-<img src="./images/image-20210404212945356.png" alt="image-20210404212945356" style="zoom:50%;" />
+![](./images/image-20210404212945356.png)
 
 **这个Soft-Max跟分类的时候的那个Soft-Max是一模一样的**,所以Soft-Max的输出就是一排α,所以本来有一排α,通过Soft-Max就得到$α'$
 
@@ -302,7 +302,7 @@ Self-Attention的Input,它就是一串的Vector,那**这个Vector可能是你整
 
 接下来得到这个$α'$以后,我们就要根据这个$α'$去抽取出这个Sequence裡面重要的资讯,根据这个α我们已经知道说,哪些向量跟$a^1$是最有关係的,怎麼抽取重要的资讯呢,
 
-<img src="./images/image-20210404213559086.png" alt="image-20210404213559086" style="zoom:50%;" />
+![](./images/image-20210404213559086.png)
 
 - 首先把$a^1$到$a^4$这边每一个向量,乘上$W^v $得到新的向量,这边分别就是用$v^1 v^2 v^3 v^4$来表示
 

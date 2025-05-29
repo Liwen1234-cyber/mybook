@@ -1,6 +1,6 @@
 # Transformer_P1_Encoder
 
-<img src="./images/image-20210429093519335.png" alt="image-20210429093519335" style="zoom: 50%;" />
+![](./images/image-20210429093519335.png)
 
 变形金刚的英文就是Transformer,那Transformer也跟我们之后会,提到的BERT有非常强烈的关係,所以这边有一个BERT探出头来,代表说Transformer跟BERT,是很有关係的
 
@@ -18,7 +18,7 @@ Transformer就是一个,==Sequence-to-sequence==的model,他的缩写,我们会�
 
 1. 举例来说,Seq2seq一个很好的应用就是 **语音辨识**
 
-    <img src="./images/image-20210429093940488.png" alt="image-20210429093940488" style="zoom: 80%;" />
+    ![](./images/image-20210429093940488.png)
 
     在做语音辨识的时候,输入是声音讯号,声音讯号其实就是一串的vector,输出是语音辨识的结果,也就是输出的这段	声音讯号,所对应的文字
 
@@ -28,7 +28,7 @@ Transformer就是一个,==Sequence-to-sequence==的model,他的缩写,我们会�
 
 2. 还有很多其他的例子,比如说作业五我们会做机器翻译
 
-    <img src="./images/image-20210429100049464.png" alt="image-20210429100049464" style="zoom:80%;" />
+    ![](./images/image-20210429100049464.png)
 
     让机器读一个语言的句子,输出另外一个语言的句子,那在做机器翻译的时候,**输入的文字的长度是N,输出的句子的长度是N',那N跟N'之间的关係,也要由机器自己来决定**
 
@@ -36,7 +36,7 @@ Transformer就是一个,==Sequence-to-sequence==的model,他的缩写,我们会�
 
 3. 甚至可以做更复杂的问题,比如说做语音翻译
 
-    <img src="./images/image-20210429100418127.png" alt="image-20210429100418127" style="zoom:80%;" />
+    ![](./images/image-20210429100418127.png)
 
     语音翻译就是,你对机器说一句话,比如说machine learning,他输出的不是英文,他直接**把他听到的英文的声音讯号翻译成中文文字**
 
@@ -84,7 +84,7 @@ Transformer就是一个,==Sequence-to-sequence==的model,他的缩写,我们会�
 
 机器在听的一千五百个小时的,乡土剧以后,你可以对它输入一句台语,然后他就输出一句中文的文字,以下是真正的例子
 
-<img src="./images/image-20210429104632912.png" alt="image-20210429104632912" style="zoom: 67%;" />
+![](./images/image-20210429104632912.png)
 
 机器听到的声音是这样子的
 
@@ -101,7 +101,7 @@ Transformer就是一个,==Sequence-to-sequence==的model,他的缩写,我们会�
 
 这边就是demo一下台语的语音合成,这个资料用的是,台湾 媠声(台语)的资料,来找GOOGLE台湾媠声(台语),就可以找到这个资料集,裡面就是台语的声音讯号,听起来像是这个样子
 
-<img src="./images/image-20210429105644179.png" alt="image-20210429105644179" style="zoom:67%;" />
+![](./images/image-20210429105644179.png)
 
 比如说你跟它说,欢迎来到台湾台大语音处理实验室
 
@@ -117,7 +117,7 @@ Transformer就是一个,==Sequence-to-sequence==的model,他的缩写,我们会�
 
 举例来说你可以用Seq2Seq model,来训练一个聊天机器人
 
-<img src="./images/image-20210429110313820.png" alt="image-20210429110313820" style="zoom:67%;" />
+![](./images/image-20210429110313820.png)
 
 聊天机器人就是你对它说一句话,它要给你一个回应,**输入输出都是文字**,文字就是一个vector Sequence,所以你完全可以用Seq2Seq 的model,来做一个聊天机器人
 
@@ -133,7 +133,7 @@ Transformer就是一个,==Sequence-to-sequence==的model,他的缩写,我们会�
 
 Question Answering,就是给机器读一段文字,然后你问机器一个问题,希望他可以给你一个正确的答案
 
-<img src="./images/image-20210429163745845.png" alt="image-20210429163745845" style="zoom: 80%;" />
+![](./images/image-20210429163745845.png)
 
 - 假设你今天想做的是翻译,那机器读的文章就是一个英文句子,**问题**就是这个句子的德文翻译是什麼,然后输出的**答案**就是德文
 - 或者是你想要叫机器自动作摘要,摘要就是给机器读一篇长的文章,叫他把长的文章的重点节录出来,那你就是给机器一段文字,**问题**是这段文字的摘要是什麼,然后期待他**答案**可以输出一个摘要
@@ -145,7 +145,7 @@ Question Answering,就是给机器读一段文字,然后你问机器一个问题
 
 Seq2Seq model只要是**输入一段文字**,**输出一段文字**,只要是**输入一个Sequence**,**输出一个Sequence**就可以解,所以你可以把QA的问题,硬是用Seq2Seq model解,叫它读一篇文章读一个问题,然后就直接输出答案,所以各式各样NLP的任务,其实都有机会使用Seq2Seq model
 
-<img src="./images/image-20210429201442155.png" alt="image-20210429201442155" style="zoom:67%;" />
+![](./images/image-20210429201442155.png)
 
 必须要强调一下,对多数NLP的任务,或对多数的语音相关的任务而言,往往為这些任务**客製化模型,你会得到更好的结果**
 
@@ -161,13 +161,13 @@ Seq2Seq model只要是**输入一段文字**,**输出一段文字**,只要是**�
 
 举例来说**文法剖析**,给机器一段文字,比如Deep learning is very powerful
 
-<img src="./images/image-20210429202108751.png" alt="image-20210429202108751" style="zoom:67%;" />
+![](./images/image-20210429202108751.png)
 
 机器要做的事情是產生,一个**文法的剖析树** 告诉我们,deep加learning合起来,是一个名词片语,very加powerful合起来,是一个形容词片语,形容词片语加is以后会变成,一个动词片语,动词片语加名词片语合起来,是一个句子
 
 那今天文法剖析要做的事情,就是產生这样子的一个Syntactic tree,所以在文法剖析的任务裡面,假设你想要deep learning解的话,输入是一段文字,他是一个Sequence,但输出看起来不像是一个Sequence,输出是一个树状的结构,但**事实上一个树状的结构,可以硬是把他看作是一个Sequence**
 
-<img src="./images/image-20210429202417748.png" alt="image-20210429202417748" style="zoom:67%;" />
+![](./images/image-20210429202417748.png)
 
 这个树状结构可以对应到一个,这样子的Sequence,从这个Sequence裡面,你也可以看出
 
@@ -182,7 +182,7 @@ train一个Seq2Seq model,读这个句子,然后直接输入这一串文字,再�
 
 你可以读一篇文章叫做,grammar as a Foreign Language
 
-<img src="./images/image-20210429203059333.png" alt="image-20210429203059333" style="zoom:67%;" />
+![](./images/image-20210429203059333.png)
 
 这篇文章其实不是太新的文章,你会发现她放在arxiv上面的时间,是14年的年底,所以其实也是一个,上古神兽等级的文章,这篇文章问世的时候,那个时候Seq2Seq model还不流行,那时候Seq2Seq model,主要只有被用在翻译上,所以这篇文章的title才会取说,grammar as a Foreign Language
 
@@ -200,7 +200,7 @@ train一个Seq2Seq model,读这个句子,然后直接输入这一串文字,再�
 
 但是multi-label的classification,意思是说**同一个东西,它可以属於多个class**,举例来说 你在做文章分类的时候
 
-<img src="./images/image-20210429203936697.png" alt="image-20210429203936697" style="zoom:67%;" />
+![](./images/image-20210429203936697.png)
 
 可能这篇文章 属於class 1跟3,这篇文章属於class 3 9 17等等,你可能会说,这种multi-label classification的问题,能不能**直接把它当作一个multi-class classification的问题来解**
 
@@ -221,7 +221,7 @@ train一个Seq2Seq model,读这个句子,然后直接输入这一串文字,再�
 
 或者是object detection,这个看起来跟seq2seq model,应该八竿子打不著的问题,它也可以用seq2seq's model硬解
 
-<img src="./images/image-20210429204527490.png" alt="image-20210429204527490" style="zoom: 50%;" />
+![](./images/image-20210429204527490.png)
 
 object detection就是给机器一张图片,然后它把图片裡面的物件框出来,把它框出说 这个是斑马 这个也是斑马,但这种问题 可以用seq2seq's硬做,至於怎麼做 我们这边就不细讲,我在这边放一个文献,放一个连结给大家参考,讲这麼多就是要告诉你说,seq2seq's model 它是一个,很powerful的model,它是一个很有用的model
 
@@ -229,17 +229,17 @@ object detection就是给机器一张图片,然后它把图片裡面的物件框
 
 我们现在就是要来学,怎麼做seq2seq这件事,一般的seq2seq's model,它裡面会分成两块 一块是Encoder,另外一块是Decoder
 
-<img src="./images/image-20210429205404198.png" alt="image-20210429205404198" style="zoom:67%;" />
+![](./images/image-20210429205404198.png)
 
 你input一个sequence有Encoder,负责处理这个sequence,再把处理好的结果丢给Decoder,由Decoder决定,它要输出什麼样的sequence,等一下 我们都还会再细讲,Encoder跟 Decoder内部的架构
 
 seq2seq model的起源,其实非常的早 在14年的9月,就有一篇seq2seq's model,用在翻译的文章 被放到Arxiv上
 
-<img src="./images/image-20210429205447815.png" alt="image-20210429205447815" style="zoom:67%;" />
+![](./images/image-20210429205447815.png)
 
 可以想像当时的seq2seq's model,看起来还是比较阳春的,今天讲到seq2seq's model的时候,大家第一个会浮现在脑中的,可能都是我们今天的主角,也就是transformer
 
-<img src="./images/image-20210429205517760.png" alt="image-20210429205517760" style="zoom:50%;" />
+![](./images/image-20210429205517760.png)
 
 它有一个Encoder架构,有一个Decoder架构,它裡面有很多花花绿绿的block,等一下就会讲一下,这裡面每一个花花绿绿的block,分别在做的事情是什麼
 
@@ -247,7 +247,7 @@ seq2seq model的起源,其实非常的早 在14年的9月,就有一篇seq2seq's 
 
 seq2seq model ==Encoder==要做的事情,就是**给一排向量，输出另外一排向量**
 
-<img src="./images/image-20210429205911444.png" alt="image-20210429205911444" style="zoom:67%;" />
+![](./images/image-20210429205911444.png)
 
 给一排向量、输出一排向量这件事情,很多模型都可以做到,可能第一个想到的是,我们刚刚讲完的self-attention,其实不只self-attention,RNN CNN 其实也都能够做到,input一排向量,output另外一个同样长度的向量
 
@@ -257,13 +257,13 @@ seq2seq model ==Encoder==要做的事情,就是**给一排向量，输出另外�
 
 现在的Encoder裡面,会**分成很多很多的block**
 
-<img src="./images/image-20210429210126607.png" alt="image-20210429210126607" style="zoom:67%;" />
+![](./images/image-20210429210126607.png)
 
 每一个block都是输入一排向量,输出一排向量,你输入一排向量 第一个block,第一个block输出另外一排向量,再输给另外一个block,到最后一个block,会输出最终的vector sequence,**每一个block 其实,并不是neural network的一层**
 
 **每一个block裡面做的事情,是好几个layer在做的事情**,在transformer的Encoder裡面,每一个block做的事情,大概是这样子的
 
-<img src="./images/image-20210429210257652.png" alt="image-20210429210257652" style="zoom: 50%;" />
+![](./images/image-20210429210257652.png)
 
 - 先做一个self-attention,input一排vector以后,做self-attention,考虑整个sequence的资讯，Output另外一排vector.
 - 接下来这一排vector,会再丢到fully connected的feed forward network裡面,再output另外一排vector,这一排vector就是block的输出
@@ -272,7 +272,7 @@ seq2seq model ==Encoder==要做的事情,就是**给一排向量，输出另外�
 
 在之前self-attention的时候,我们说 输入一排vector,就输出一排vector,这边的每一个vector,它是考虑了 所有的input以后,所得到的结果
 
-<img src="./images/image-20210429210831750.png" alt="image-20210429210831750" style="zoom:50%;" />
+![](./images/image-20210429210831750.png)
 
 在transformer裡面,它加入了一个设计,我们**不只是输出这个vector**,我们还要**把这个vector加上它的input**,它要把input拉过来 直接加给输出,得到新的output 
 
@@ -284,7 +284,7 @@ seq2seq model ==Encoder==要做的事情,就是**给一排向量，输出另外�
 
 得到residual的结果以后,再把它做一件事情叫做normalization,这边用的不是batch normalization,这边用的叫做==layer normalization==
 
-<img src="./images/image-20210429211313025.png" alt="image-20210429211313025" style="zoom:50%;" />
+![](./images/image-20210429211313025.png)
 
 layer normalization做的事情,比bacth normalization更简单一点
 
@@ -300,7 +300,7 @@ x'_i=\frac{x_i-m}{\sigma}
 $$
 得到layer normalization的输出以后,它的这个输出 才是FC network的输入
 
-<img src="./images/image-20210429211858981.png" alt="image-20210429211858981" style="zoom:50%;" />
+![](./images/image-20210429211858981.png)
 
 而**FC network这边,也有residual的架构**,所以 我们会把FC network的input,跟它的output加起来 做一下residual,得到新的输出
 

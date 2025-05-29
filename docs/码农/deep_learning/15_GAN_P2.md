@@ -6,7 +6,7 @@ P1是用了一堆比喻说明GAN 的操作是怎麼进行的
 
 那我们先来弄清楚,我们今天的**训练的目标**到底是什麼
 
-<img src="./images/image-20210516185456967.png" alt="image-20210516185456967" style="zoom: 50%;" />
+![](./images/image-20210516185456967.png)
 
 我们在训练 Network 的时候,你就是要
 
@@ -26,7 +26,7 @@ P1是用了一堆比喻说明GAN 的操作是怎麼进行的
 
 如果你一下子没有办法想像,这个 PG 、Pdata 是怎麼一回事的话,那我们用**一维的状况**来跟大家说明
 
-<img src="./images/image-20210516190051672.png" alt="image-20210516190051672" style="zoom:50%;" />
+![](./images/image-20210516190051672.png)
 
 我们假设 
 
@@ -36,21 +36,21 @@ P1是用了一堆比喻说明GAN 的操作是怎麼进行的
 
 那我们的 Normal Distribution 就长这个样子
 
-<img src="./images/image-20210516190248797.png" alt="image-20210516190248797" style="zoom:67%;" />
+![](./images/image-20210516190248797.png)
 
 那丢到 Generator 以后,假设你输入 5 个点,那边这每一个点,它的位置会改变,那你就產生一个新的 Distribution,那可能本来大家都集中在中间,通过这个 Generator,通过一个 Network 裡面很复杂,不知道做了什麼事情以后,这些点就分成两边,所以你的 Distribution 就变成这个样子
 
-<img src="./images/image-20210516190313959.png" alt="image-20210516190313959" style="zoom:67%;" />
+![](./images/image-20210516190313959.png)
 
 而 **Pdata** 是指真正的资料的分布,真正资料分布可能长这个样子
 
-<img src="./images/image-20210516190332060.png" alt="image-20210516190332060" style="zoom:67%;" />
+![](./images/image-20210516190332060.png)
 
 它分两面的状况是更极端的,左边的东西比较多,右边的东西比较少,那你期待左边这个分布跟右边这个分布,越接近越好,如果写成式子的话
 
 你可以写成这个样子
 
-<img src="./images/image-20210516190555803.png" alt="image-20210516190555803" style="zoom:50%;" />
+![](./images/image-20210516190555803.png)
 
 Div Of PG 跟 Pdata,它指的意思就是 PG 跟 Pdata,这两个 Distribution 之间的 ==Divergence==(散度)
 
@@ -71,7 +71,7 @@ Divergence 这就是衡量,两个的 Distribution 相似度的一个 Measure
 
 但是我们这边遇到一个**困难的问题**
 
-<img src="./images/image-20210517095401804.png" alt="image-20210517095401804" style="zoom:67%;" />
+![](./images/image-20210517095401804.png)
 
 这个 Loss,我们是可以算的,但是这个 Divergence 是要怎麼样算？那你可能知道一些 Divergence 的式子,比如说 KL Divergence,比如说 JS Divergence,这些 Divergence 用在这种 Continues 的,Distribution 上面,你要做一个很复杂的,在实作上你**几乎不知道要怎麼算的积分,那我们根本就无法把这个 Divergence 算出来**
 
@@ -83,7 +83,7 @@ Divergence 这就是衡量,两个的 Distribution 相似度的一个 Measure
 
 所以我现在**遇到的问题**就是,**不知道怎麼计算 Divergence**,而 GAN 告诉我们就是,你**不需要知道 PG 跟 Pdata它们实际上的 Formulation 长什麼样子**，只要能**从 PG 和 Pdata这两个 Distributions Sample 东西出来,就有办法算 Divergence**
 
-<img src="./images/image-20210517101337058.png" alt="image-20210517101337058" style="zoom:67%;" />
+![](./images/image-20210517101337058.png)
 
 怎麼从真正的 Data 裡面,Sample 出东西来，怎麼从 Generator 裡面,產生一些东西出来？
 
@@ -106,7 +106,7 @@ Divergence 这就是衡量,两个的 Distribution 相似度的一个 Measure
 - 我们有一大堆的 Real Data,这个 Real Data 就是从 Pdata Sample 出来的结果
 - 我们有一大堆 Generative 的 Data,Generative 的 Data,就可以看作是从 PG Sample 出来的结果
 
-<img src="./images/image-20210517105747587.png" alt="image-20210517105747587" style="zoom:67%;" />
+![](./images/image-20210517105747587.png)
 
 根据 Real 的 Data 跟 Generative 的 Data,我会去训练一个 Discriminator,它的训练的目标是
 
@@ -119,7 +119,7 @@ Discriminator 训练的目标,就是要**分辨好的图跟不好的图**,分辨
 
 实际以上的过程,你也可以把它写成式子,把它当做是一个 **Optimization 的问题**,这个 Optimization 的问题是这样子的
 
-<img src="./images/image-20210517110317766.png" alt="image-20210517110317766" style="zoom:67%;" />
+![](./images/image-20210517110317766.png)
 
 这个 Discriminator 可以去 **Maximize**某一个 Function,我们这边叫做 ==Objective Function==（我们要 **Maximize** 的东西,我们会叫 **Objective Function**,如果 **Minimize** 我们就叫它 **Loss Function**）
 
@@ -133,7 +133,7 @@ Discriminator 训练的目标,就是要**分辨好的图跟不好的图**,分辨
 
 我们希望这个 **Objective Function V越大越好**
 
-<img src="./images/image-20210517112608814.png" alt="image-20210517112608814" style="zoom:67%;" />
+![](./images/image-20210517112608814.png)
 
 - 意味著我们希望这边的 D (Y) 越大越好,我们希望 Y 如果是从 **Pdata Sample 出来的**,它就要**越大越好**
 - 我们希望说如果 Y 是从,这个 **PG Sample 出来的**,它就要**越小越好**
@@ -152,7 +152,7 @@ Discriminator 训练的目标,就是要**分辨好的图跟不好的图**,分辨
 
 有两个 Class 的 Data,训练一个 Binary 的 Classifier,训练完就等同於是,解了这一个 Optimization 的问题
 
-<img src="./images/image-20210517143713952.png" alt="image-20210517143713952" style="zoom:50%;" />
+![](./images/image-20210517143713952.png)
 
 那这边最神奇的地方是这一个式子,这个**红框框裡面的数值,它跟 JS Divergence 有关**
 
@@ -166,7 +166,7 @@ Discriminator 训练的目标,就是要**分辨好的图跟不好的图**,分辨
 
 你可以想想看,假设 PG 跟 Pdata,它的 **Divergence 很小**
 
-<img src="./images/image-20210517145950583.png" alt="image-20210517145950583" style="zoom: 50%;" />
+![](./images/image-20210517145950583.png)
 
 - 也就 **PG 跟 Pdata 很像**,它们差距没有很大,它们很像 PG 跟 Pdata Sample 出来的,蓝色的星星跟红色的星星,它们是**混在一起的**
 
@@ -186,15 +186,15 @@ Discriminator 训练的目标,就是要**分辨好的图跟不好的图**,分辨
 
 所以我们说我们本来的目标是要找一个 Generator,去 Minimize PG 跟 Pdata 的 Divergence
 
-<img src="./images/image-20210517150917682.png" alt="image-20210517150917682" style="zoom: 50%;" />
+![](./images/image-20210517150917682.png)
 
 但我们卡在**不知道怎麼计算 Divergence**,那我们现在要知道,我们只要训练一个 Discriminator,训练完以后,这个 Objective Function 的最大值,就是这个 Divergence,就跟这个 Divergence 有关
 
-<img src="./images/image-20210517151012214.png" alt="image-20210517151012214" style="zoom: 50%;" />
+![](./images/image-20210517151012214.png)
 
 那我们何不就把红框框裡面这一项,跟 Divergence 做替换,我们何不就把 Divergence,替换成红框框裡面这一项,所以我们就有了这样一个 Objective Function
 
-<img src="./images/image-20210517151036974.png" alt="image-20210517151036974" style="zoom: 50%;" />
+![](./images/image-20210517151036974.png)
 
 这个 Objective Function 乍看之下有点复杂,它**有一个 Minimum**,**又有一个 Maximum**,所以你不小心就会脑筋转不过来
 
@@ -205,7 +205,7 @@ Discriminator 训练的目标,就是要**分辨好的图跟不好的图**,分辨
 
 然后我们要找一个 G,让红框框裡面的值最小,这个 G 就是我们要的 Generator,而刚才我们讲的这个 Generator 跟 Discriminator,互动 互相欺骗这个过程,其实就是想解这一个有 Minimize,又有 Maximize 这个 Min Max,Min Max 的问题,就是透过下面这一个,我们刚才讲的 GAN 的 Argument 来解的
 
-<img src="./images/image-20210517152330770.png" alt="image-20210517152330770" style="zoom:50%;" />
+![](./images/image-20210517152330770.png)
 
 那至於实际上,為什麼下面这个 Argument 可以解这个问题,你也可以参见原始 GAN 的 Paper
 
@@ -215,7 +215,7 @@ Discriminator 训练的目标,就是要**分辨好的图跟不好的图**,分辨
 
 你完全可以这麼做,你只要改了那个 Objective Function,你就可以量各式各样的 Divergence,那至於怎麼样设计 Objective Function,得到不同的 Divergence,那有一篇叫做 F GAN 的 Paper 裡面,有非常详细的证明
 
-<img src="./images/image-20210517152805378.png" alt="image-20210517152805378" style="zoom: 50%;" />
+![](./images/image-20210517152805378.png)
 
 它有很多的 Table 告诉你说,不同的 Divergence,要怎麼设计它的 Objective Function,你设计什麼样的 Objective Function,去找它的 Maximum Value,就会变成什麼样的 Divergence,在这篇文章裡https://arxiv.org/abs/1606.00709面都有详细的记载,这一开始有人会觉得说,GAN 之所以没有很好 Train,也许是因為,就是我们没有在真的,这个 Minimize JS Divergence
 
@@ -247,7 +247,7 @@ Discriminator 训练的目标,就是要**分辨好的图跟不好的图**,分辨
 
 - 第一个理由是来自於 Data 本身的特性
 
-    <img src="./images/image-20210517160108669.png" alt="image-20210517160108669" style="zoom: 67%;" />
+    ![](./images/image-20210517160108669.png)
 
     PG 跟 Pdata,它们都是要產生图片的,那图片其实是高维空间裡面的一个低维的 Manifold(**流形**（英语：Manifolds）是可以局部[欧几里得空间](https://zh.wikipedia.org/wiki/欧几里得空间)化的一个[拓扑空间](https://zh.wikipedia.org/wiki/拓扑空间)，是欧几里得空间中的曲线、曲面等概念的推广),怎麼知道图片是高维空间,裡面低维的 Manifold 
 
@@ -257,7 +257,7 @@ Discriminator 训练的目标,就是要**分辨好的图跟不好的图**,分辨
 
 - 第二个理由是,我们是从来都不知道 PG 跟 Pdata 长什麼样子,我们对 PG 跟 Pdata,它的分布的理解,其实来自於 Sample
 
-    <img src="./images/image-20210517162310091.png" alt="image-20210517162310091" style="zoom: 67%;" />
+    ![](./images/image-20210517162310091.png)
 
     所以也许 PG 跟 Pdata,它们是有**非常大的 Overlap 的范围**,但是我们实际上,在了解这个 PG 跟 Pdata,在计算它们的 Divergence 的时候,我们是从  Pdata 裡面 Sample 一些点出来,从 PG 裡面 Sample 一些点出来
 
@@ -277,23 +277,23 @@ JS Divergence 有个特性,是**两个没有重叠的分布,JS Divergence 算出
 
 所以举例来说
 
-<img src="./images/image-20210517163258620.png" alt="image-20210517163258620" style="zoom:50%;" />
+![](./images/image-20210517163258620.png)
 
 假设这是你的 Pdata,这是你的 PG,它们都,假设它们都是一条直线,然后中间有很长的距离,你算它们的 JS Divergence,是 Log2
 
 假设你的 PG 跟 Pdata 其实蛮接近的
 
-<img src="./images/image-20210517163345742.png" alt="image-20210517163345742" style="zoom:50%;" />
+![](./images/image-20210517163345742.png)
 
 那中间的间隔其实是比较小的,算出来结果还是 Log2
 
 除非你的 PG 跟 Pdata 有重合
 
-<img src="./images/image-20210517163540710.png" alt="image-20210517163540710" style="zoom:50%;" />
+![](./images/image-20210517163540710.png)
 
 不然这个 PG 跟 Pdata 只要它们是两条直线,它们这两条直线没有相交,那算出来就是 Log2,算出来这个 Case,算出来是 Log2,这个 Case 算出来也是 Log2
 
-<img src="./images/image-20210517163615303.png" alt="image-20210517163615303" style="zoom:50%;" />
+![](./images/image-20210517163615303.png)
 
 那但是明明中间这个 Case,中间这个 Generator就比左边这个 Generator 好,明明蓝色的线就跟红色的线比较近,但是从 JS Divergence 上面,看不出这样子的现象
 
@@ -303,7 +303,7 @@ JS Divergence 有个特性,是**两个没有重叠的分布,JS Divergence 算出
 
 因為你 **Sample 的图片根本就没几张**,对你的 Discriminator 来说,你 Sample 256 张 Real 的图片,256 张 Fake 的图片,它直接用硬背的,都可以把这两组图片分开,知道说谁是 Real 谁是 Fake,所以实际上,如果你有自己 Train 过 GAN 的话你会发现,如果你用 Binary 的 Classifier Train 下去,你会发现,你几乎每次 Train 完你的 Classifier 以后,也就你 Train 完你的 Discriminator 以后,正确率都是 100%
 
-<img src="./images/image-20210517163937858.png" alt="image-20210517163937858" style="zoom:50%;" />
+![](./images/image-20210517163937858.png)
 
 我们本来会期待说,这个 Discriminator 的 Loss,也许代表了某些事情,这个 Binary Classifier Loss,也许代表某些事情,这个 **Loss 越来越大,代表问题越来越难**,代表我们的 **Generated Data,跟 Real 的 Data 越来越接近**
 
@@ -323,13 +323,13 @@ Wasserstein Distance 的想法是这个样子,假设你有两个 Distribution,�
 
 Wasserstein Distance 它计算的方法,就是想像你在开一台推土机
 
-<img src="./images/image-20210517165125486.png" alt="image-20210517165125486" style="zoom:50%;" />
+![](./images/image-20210517165125486.png)
 
 推土机的英文叫做 Earth Mover,想像你在开一台推土机,那你把 P 想成是一堆土,把 Q 想成是你要把土堆放的目的地,那这个推土机**把 P 这边的土,挪到 Q 所移动的平均距离**,就是 **Wasserstein Distance**
 
 在这个例子裡面,我们假设 P 都集中在这个点,Q 都集中在这个点,对推土机而言,假设它要把 P 这边的土挪到 Q 这边,那它要平均走的距离,就是 D
 
-<img src="./images/image-20210517165248639.png" alt="image-20210517165248639" style="zoom:50%;" />
+![](./images/image-20210517165248639.png)
 
 所以在这个例子裡面,假设 P 集中在一个点,Q 集中在一个点,这两个点之间的距离是 D 的话,那 P 跟 Q 的 Wasserstein Distance,就是 D
 
@@ -341,21 +341,21 @@ Wasserstein Distance 它计算的方法,就是想像你在开一台推土机
 
 假设这是你的 P,假设这是你的 Q
 
-<img src="./images/image-20210517203203579.png" alt="image-20210517203203579" style="zoom: 50%;" />
+![](./images/image-20210517203203579.png)
 
 假设你开了一个推土机,想要把 P 把它重新塑造一下形状,让 P 的形状跟 Q 比较接近一点,那有什麼样的做法,你会发现说,你可能的 Moving Plans,**把 P重新塑造成 Q** 的**方法有无穷多种**
 
 你可以说我把这边的土搬到这裡来,我把这边的土搬到这裡来,把 P 变成 Q
 
-<img src="./images/image-20210517203324961.png" alt="image-20210517203324961" style="zoom:50%;" />
+![](./images/image-20210517203324961.png)
 
 但你也可以捨近求远说,我把这裡的土搬到这裡来,把这裡的土搬到这裡来,捨近求远,一样还是可以把 P 变成 Q
 
-<img src="./images/image-20210517203350798.png" alt="image-20210517203350798" style="zoom:50%;" />
+![](./images/image-20210517203350798.png)
 
 所以当我们考虑,比较复杂的 Distribution 的时候,把 Q 把 P 变成 Q 的方法,是有非常非常多不同的方法,你有各式各样不同的 Moiving Plan,用**不同的 Moving Plan**,你**推土机平均走的距离就不一样**
 
-<img src="./images/image-20210517203441636.png" alt="image-20210517203441636" style="zoom:50%;" />
+![](./images/image-20210517203441636.png)
 
 在左边这个例子裡面,推土机平均走的距离比较少,在右边这个例子裡面因為捨近求远,推土机平均走的距离比较大
 
@@ -367,7 +367,7 @@ Wasserstein Distance 它计算的方法,就是想像你在开一台推土机
 
 我们先不讲,怎麼计算 Wasserstein Distance 这件事,我们先来讲假设我们**能够计算Wasserstein Distance 的话**,它可以带给我们什麼样的**好处**
 
-<img src="./images/image-20210517210354183.png" alt="image-20210517210354183" style="zoom:50%;" />
+![](./images/image-20210517210354183.png)
 
 那假设 PG 跟 Pdata 它们的距离是 $d_0$,在左边这个例子裡面,Wasserstein Distance 算出来就是 $d_0$
 
@@ -383,7 +383,7 @@ Wasserstein Distance 它计算的方法,就是想像你在开一台推土机
 
 这又让我想到一个演化的例子,这是眼睛的生成
 
-<img src="./images/image-20210517211703473.png" alt="image-20210517211703473" style="zoom:50%;" />
+![](./images/image-20210517211703473.png)
 
 右边这个是人类的眼睛,人类的眼睛是非常地复杂的,那有一些生物它有非常原始的眼睛,比如说有一些细胞具备有感光的能力,这可以看做是最原始的眼睛,但是这些最原始的眼睛,怎麼变成最复杂的眼睛,这对人类来说其实觉得非常难想像
 
@@ -391,7 +391,7 @@ Wasserstein Distance 它计算的方法,就是想像你在开一台推土机
 
 那如果你直接觉得说,从这个地方就可以一步跳到这个地方,那根本不可能发生,但是**中间其实是有很多连续的步骤**,从感光细胞到眼睛,中间其实是有连续的步骤的
 
-<img src="./images/image-20210517212626500.png" alt="image-20210517212626500" style="zoom:50%;" />
+![](./images/image-20210517212626500.png)
 
 举例来说,感光的细胞可能会,出现在一个比较凹陷的地方,皮肤凹陷下去,这样感光细胞可以接受来自不同方向的光源,然后后来觉得说,乾脆把凹陷的地方盖起来,后来觉得盖起来的地方裡面,可以放一些液体,然后最后就变成了人的眼睛
 
@@ -411,7 +411,7 @@ WGAN 实际上就是用,当你用 Wasserstein Distance,来取代 JS Divergence �
 
 那这边就**不讲过程,直接告诉结果**,解下面这个 Opimilazion 的 Problem,解出来以后你得到的值,就是 Wasserstein Distance
 
-<img src="./images/image-20210517213324131.png" alt="image-20210517213324131" style="zoom:67%;" />
+![](./images/image-20210517213324131.png)
 
 我们就观察一下这个式子,这个式子裡面有说
 
@@ -423,7 +423,7 @@ WGAN 实际上就是用,当你用 Wasserstein Distance,来取代 JS Divergence �
 - 如果 y是从 **Pdata** Sample 出来的,D(y),就 Discriminator 的 Output 要**越大越好**
 - 如果 X 是从 **PG**,从 Generator Sample 出来的,那 D(y),也就 Discriminator 的 Output,应该要**越小越好**
 
-<img src="./images/image-20210517213552789.png" alt="image-20210517213552789" style="zoom:67%;" />
+![](./images/image-20210517213552789.png)
 
 但是这边**还有另外一个限制**,它不是光大括号裡面的值变大就好,还有一个限制是,**D 不能够是一个随便的 Function**,D必须要是一个 1-Lipschitz 的 Function
 
@@ -433,13 +433,13 @@ WGAN 实际上就是用,当你用 Wasserstein Distance,来取代 JS Divergence �
 
 那為什麼足够平滑这件事情是非常重要的,我们可以从直观来理解它,假设这个是真正的资料的分布,这是 Generated 的资料的分布
 
-<img src="./images/image-20210517214301455.png" alt="image-20210517214301455" style="zoom:50%;" />
+![](./images/image-20210517214301455.png)
 
 如果我们没有这个限制,只看大括号裡面的值的话,大括号裡面的目标,是要这些真正的值,它的 D(y) 越大越好,那要让 Generated 的值,它的 D(y) 越小越好
 
 如果你没有做任何限制,只单纯要这边的值越大越好,这边的值越小越好,在蓝色的点跟绿色的点,也就是真正的 Image,跟 Generated 的 Image,没有任何重叠的情况下,你的 Discriminator 会做什麼,它会给 Real 的 Image **无限大的正值**,给 Generated 的 Image **无限大的负值**
 
-<img src="./images/image-20210517214207569.png" alt="image-20210517214207569" style="zoom:50%;" />
+![](./images/image-20210517214207569.png)
 
 所以你这个 Training 根本就没有办法收敛,而且你会发现说,只要这两堆 Data 没有重叠,**你算出来的值都是无限大**,你算出来的这个 Maximum 值都是无限大,这显然不是我们要的,这不就跟 JS Divergence 的问题一模一样吗
 
@@ -459,7 +459,7 @@ WGAN 实际上就是用,当你用 Wasserstein Distance,来取代 JS Divergence �
 
 怎麼确保 Discriminator,一定符合 1-Lipschitz Function 的限制,最早刚提出 WGAN 的时候,其实没有什麼好想法,只知道写出了这个式子,那要怎麼真的解这个式子,有点困难,所以最早的一篇 WGAN 的 Paper,最早使用 Wasserstein 的那一篇 Paper,它说了它做了一个比较 Rough,比较粗糙的处理的方法
 
-<img src="./images/image-20210517215328682.png" alt="image-20210517215328682" style="zoom:67%;" />
+![](./images/image-20210517215328682.png)
 
 它是说我就 Train Network,那 Train Network 的时候,如果我 Training 的那个**参数**,我就要求它放得**在 C 跟 -C** 之间,如果超过 C,用 Gradient Descent Update 以后**超过 C,就设為 C**,Gradient Descent Update 以后**小於 -C,就直接设為 -C**
 
@@ -467,7 +467,7 @@ WGAN 实际上就是用,当你用 Wasserstein Distance,来取代 JS Divergence �
 
 所以接下来就有其它的想法,有一个想法叫做 Gradient Penalty
 
-<img src="./images/image-20210517215451843.png" alt="image-20210517215451843" style="zoom: 67%;" />
+![](./images/image-20210517215451843.png)
 
 Gradient Penalty 是出自,Improved WGAN 这篇 Paperhttps://arxiv.org/abs/1704.00028,那 Improve WGAN 这边paper 是说
 
@@ -479,6 +479,6 @@ Gradient Penalty 是出自,Improved WGAN 这篇 Paperhttps://arxiv.org/abs/1704.
 
 有另外一篇 Paper 就叫,Improved The Improved WGAN,那今天其实你有一个方法,真的把 D 限制,让它是 1-Lipschitz Function,这个叫做 Spectral Normalization
 
-<img src="./images/image-20210517215543937.png" alt="image-20210517215543937" style="zoom:67%;" />
+![](./images/image-20210517215543937.png)
 
 那我就把它的论文https://arxiv.org/abs/1802.05957放在这边给大家参考,那如果你要 Train 真的非常好的 GAN,你可能会需要用到 Spectral Normalizaion

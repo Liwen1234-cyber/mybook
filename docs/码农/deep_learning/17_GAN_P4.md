@@ -1,13 +1,13 @@
 # GAN_P4 Learning from Unpaired Data
 有关GAN的最后一段,是一个GAN的神奇应用,它把GAN用在==unsupervised Learning==上,到目前為止,我们讲的几乎都是==Supervised Learning==
 
-<img src="./images/image-20210524133825260.png" alt="image-20210524133825260" style="zoom: 50%;" />
+![](./images/image-20210524133825260.png)
 
 我们要训练一个Network,Network的输入叫做X输出叫做Y,我们需要**成对的资料**,才有办法训练这样子的Network,
 
 但是你可能会遇到一个状况是,我们有一堆X我们有一堆Y,但**X跟Y是不成对**的,在这种状况下,我们有没有办法拿这样的资料,来训练Network呢,像这一种没有成对的资料,我们就叫做==unlabeled==的资料
 
-<img src="./images/image-20210524133959416.png" alt="image-20210524133959416" style="zoom:50%;" />
+![](./images/image-20210524133959416.png)
 
 其实在作业三跟作业五裡面,都提供给你两个例子,我们就把这个怎麼用,没有标註的资料,怎麼做S==emi-supervised Learning==,这件事情放在作业裡面,如果你有兴致的话就可以来,体验一下semi-supervised Learning,到底可以带多大的帮助
 
@@ -31,7 +31,7 @@
 
 这个是我们之前在讲,unconditional的generation的时候,你看到的generator的架构
 
-<img src="./images/image-20210524134830962.png" alt="image-20210524134830962" style="zoom:50%;" />
+![](./images/image-20210524134830962.png)
 
 输入是一个Gaussian的分佈,输出可能是一个复杂的分佈
 
@@ -47,7 +47,7 @@
 
 那我们现在如果,输入是X domain的distribution,我们只要改成可以,从X domain sample就结束了,那你有没有办法,从X domain sample呢
 
-<img src="./images/image-20210524140340298.png" alt="image-20210524140340298" style="zoom:50%;" />
+![](./images/image-20210524140340298.png)
 
 可以 你就从人脸的照片裡面,真实的人脸裡面随便挑一张出来,这是一个死臭酸宅(老师本人)然后就结束了,你就可以从X domain,sample照片出来,你把这个照片丢到generator裡面,让它產生另外一张图片,產生另外一个distribution裡面的图片
 
@@ -127,7 +127,7 @@
 
 那这个**Cycle GAN可以是双向的**,我们刚才有一个generator,输入Y domain的图片,输出X domain的图片,我们是先把X domain的图片转成Y,在把Y转回X
 
-<img src="./images/image-20210524143232414.png" alt="image-20210524143232414" style="zoom:50%;" />
+![](./images/image-20210524143232414.png)
 
 在训练cycle GAN的时候,你可以同时做另外一个方向的训练,也就是
 
@@ -140,7 +140,7 @@
 
 那除了Cycle GAN以外,你可能也听过很多其他的,可以做风格转换的GAN
 
-<img src="./images/image-20210524143654721.png" alt="image-20210524143654721" style="zoom:50%;" />
+![](./images/image-20210524143654721.png)
 
 比如说Disco GAN 比如说Dual GAN,他们跟Cycle GAN有什麼不同呢,就是没有半毛钱的不同这样子
 
@@ -150,7 +150,7 @@
 
 除了Cycle GAN以外,还有另外一个更进阶的,可以做影像风格转换的版本,叫做StarGAN
 
-<img src="./images/image-20210524143818480.png" alt="image-20210524143818480" style="zoom:50%;" />
+![](./images/image-20210524143818480.png)
 
 Cycle GAN只能在两种风格间做转换,那StarGAN 它厉害的地方是,它可以在多种风格间做转换,不过这个就不是我们接下来,想要细讲的重点
 
@@ -158,7 +158,7 @@ Cycle GAN只能在两种风格间做转换,那StarGAN 它厉害的地方是,它�
 
 这个真实的人脸转二次元的任务,实际上能不能做呢,实际上可以做了
 
-<img src="./images/image-20210524143955674.png" alt="image-20210524143955674" style="zoom:50%;" />
+![](./images/image-20210524143955674.png)
 
 右上角这边放了一个连结,这个应该是一个韩国团队,他们做了一个网站,你可以上传一张图片,它可以帮你变成二次元的人物,他们实际上用的不是Cycle GAN啦,他们用的也是GAN的技术,但是是一个进阶版的东西,那我们这边就不细讲,我就把论文的连结,放在这边给大家参考
 
@@ -176,7 +176,7 @@ Cycle GAN只能在两种风格间做转换,那StarGAN 它厉害的地方是,它�
 
 比如说,把一句负面的句子转成正面的句子,当然如果你要做一个模型,输入一个句子输出的句子,这个模型就是要能够,吃一个sequence 输出一个sequence,所以它等於是一个,sequence to sequence的model
 
-<img src="./images/image-20210524145220024.png" alt="image-20210524145220024" style="zoom:50%;" />
+![](./images/image-20210524145220024.png)
 
 你可能就会用到,我们在作业五裡面的,Transformer的架构,来做这个文字风格转换的问题,我们在作业五做的是翻译嘛,输入一个语言输出另外一个语言嘛
 
@@ -188,7 +188,7 @@ Cycle GAN只能在两种风格间做转换,那StarGAN 它厉害的地方是,它�
 
 那接下来呢,完全套用Cycle GAN的方法,完全没有任何不同
 
-<img src="./images/image-20210524145344402.png" alt="image-20210524145344402" style="zoom:50%;" />
+![](./images/image-20210524145344402.png)
 
 这边就不需要再细讲 很快讲过
 
@@ -204,7 +204,7 @@ Cycle GAN只能在两种风格间做转换,那StarGAN 它厉害的地方是,它�
 
 那做出来的结果怎麼样呢,这个是真正的demo，就是真的拿PTT的推文,当正面的句子,嘘文当负面的句子,那你就可以给它一个负面的句子,它就帮你转成正面的句子,做起来像是这个样子
 
-<img src="./images/image-20210524145626379.png" alt="image-20210524145626379" style="zoom:50%;" />
+![](./images/image-20210524145626379.png)
 
 ,你可能问说这个系统有什麼用,就是没有任何用处 没半点用处,但是如果你觉得,你的老闆说话特别坏的话,就可以把这个系统,装在你的耳机裡面,把所有的负面的句子,转成正面的句子,你的人生可能就会,过得特别快乐一点
 
@@ -212,7 +212,7 @@ Cycle GAN只能在两种风格间做转换,那StarGAN 它厉害的地方是,它�
 
 那其实像这一种文字风格转换,还有很多其他的应用,**不是只有正面句子转负面句子**
 
-<img src="./images/image-20210524145920831.png" alt="image-20210524145920831" style="zoom:50%;" />
+![](./images/image-20210524145920831.png)
 
 举例来说 假设我有很多长的文章,我有另外一堆摘要,这些摘要不是这些长的文章的摘要,是不同的来源,一堆长的文章 一堆摘要,让机器学习文字风格的转换,你可以让机器学会**把长的文章,变成简短的摘要**,让它学会怎麼精简的写作,让它学会把长的文章变成短的句子
 

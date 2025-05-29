@@ -48,7 +48,7 @@
 
 那 Reinforcement Learning 裡面呢,我们会有一个 ==Actor==,还有一个 ==Environment==,那这个 **Actor 跟 Environment,会进行互动**
 
-<img src="./images/image-20210911232111496.png" alt="image-20210911232111496" style="zoom:50%;" />
+![](./images/image-20210911232111496.png)
 
 - 你的这个 Environment,你的这个环境啊,会给 Actor 一个 Observation,会给,那这个 Observation 呢,就是 Actor 的输入
 - 那 Actor 呢,看到这个 Observation 以后呢,它会有一个输出,这个输出呢,叫做 Action,那这个 Action 呢,会去影响 Environment
@@ -64,7 +64,7 @@
 
 在 Space Invader 裡面呢
 
-<img src="./images/image-20210912211107238.png" alt="image-20210912211107238" style="zoom:67%;" />
+![](./images/image-20210912211107238.png)
 
 - 你要**操控的是下面这个绿色的东西**,这个下面这个绿色的东西呢,是你的太空梭,你可以採取的行为,也就是 Action 呢 有三个,**左移 右移跟开火**,就这三个行为,然后你现在要做的事情啊,就是杀掉画面上的这些外星人
 
@@ -82,7 +82,7 @@
 
 现在你的 Actor 啊,**Actor 虽然是一个机器,但是它是坐在人的这一个位置,它是站在人这一个角度,去操控摇杆**,去控制那个母舰,去跟外星人对抗,而你的环境是什么,**你的环境呢,是游戏的主机**,游戏的主机这边去操控那些外星人,外星人去攻击你的母舰,所以 Observation 是游戏的画面
 
-<img src="./images/image-20210912211546018.png" alt="image-20210912211546018"  />
+![](./images/image-20210912211546018.png)
 
 所以对 Actor 来说,它看到的,其实就跟人类在玩游戏的时候,看到的东西是一样的,就看到一个游戏的画面
 

@@ -8,13 +8,13 @@ Decoder其实有两种,接下来会花比较多时间介绍,比较常见的 ==Au
 
 **语音辨识**就是**输入一段声音,输出一串文字**,你会把一段声音输入给 Encoder,比如说你对机器说,机器学习,机器收到一段声音讯号,声音讯号 进入 Encoder以后,输出会是什麼,输出会变成一排 Vector
 
-<img src="./images/image-20210505192814682.png" alt="image-20210505192814682" style="zoom: 50%;" />
+![](./images/image-20210505192814682.png)
 
 **Encoder** 做的事情,就是**输入一个 Vector Sequence**,**输出另外一个 Vector Sequence**
 
 接下来,就轮到 Decoder 运作了,**Decoder 要做的事情就是產生输出**,也就是**產生语音辨识的结果**, Decoder 怎麼產生这个语音辨识的结果
 
-<img src="./images/image-20210505193416391.png" alt="image-20210505193416391" style="zoom:50%;" />
+![](./images/image-20210505193416391.png)
 
 Decoder 做的事情,就是**把 Encoder 的输出先读进去**,至於怎麼读进去,这个我们等一下再讲 我们先,你先假设 Somehow 就是有某种方法,把 Encoder 的输出读到 Decoder 裡面,这步我们等一下再处理
 
@@ -22,7 +22,7 @@ Decoder 怎麼產生一段文字
 
 首先,你要先给它一个特殊的符号,这个特殊的符号,代表开始,在助教的投影片裡面,是写 Begin Of Sentence,缩写是 BOS
 
-<img src="./images/image-20210505193652691.png" alt="image-20210505193652691" style="zoom:50%;" />
+![](./images/image-20210505193652691.png)
 
 就是 Begin 的意思,这个是一个 Special 的 Token,你就是在你的个 Lexicon 裡面,你就在你可能,本来 Decoder 可能產生的文字裡面,多加一个特殊的字,这个字就代表了 BEGIN,代表了开始这个事情
 
@@ -30,7 +30,7 @@ Decoder 怎麼產生一段文字
 
 接下来Decoder 会**吐出一个向量,这个 Vector 的长度很长,跟你的 Vocabulary 的 Size 是一样的**
 
-<img src="./images/image-20210505194403395.png" alt="image-20210505194403395" style="zoom:50%;" />
+![](./images/image-20210505194403395.png)
 
 ==Vocabulary Size==则是什麼意思
 
@@ -46,7 +46,7 @@ Decoder 怎麼產生一段文字
 
 每一个中文的字,都会对应到一个数值,因為在**產生这个向量之前,你通常会先跑一个 Softmax**,就跟做分类一样,所以这一个向量裡面的分数,它是一个 Distribution,也就是,它这个向量裡面的值,它全部加起来,总和 会是 1
 
-<img src="./images/image-20210505195003941.png" alt="image-20210505195003941" style="zoom: 67%;" />
+![](./images/image-20210505195003941.png)
 
 **分数最高的一个中文字,它就是最终的输出**
 
@@ -54,7 +54,7 @@ Decoder 怎麼產生一段文字
 
 然后接下来,你**把“机”当做是 Decoder 新的 Input**,原来 Decoder 的 Input,只有 BEGIN 这个特别的符号,现在它除了 BEGIN 以外,它还有“机”作為它的 Input
 
-<img src="./images/image-20210505195340257.png" alt="image-20210505195340257" style="zoom:50%;" />
+![](./images/image-20210505195340257.png)
 
 所以 Decoder **现在它有两个输入**
 
@@ -87,11 +87,11 @@ Decoder 怎麼產生一段文字
 
 
 
-<img src="./images/image-20210505203022207.png" alt="image-20210505203022207" style="zoom:50%;" />
+![](./images/image-20210505203022207.png)
 
 **然后这个 Process ,就反覆持续下去**,这边有一个关键的地方,我们特别用红色的虚线把它标出来
 
-<img src="./images/image-20210505203437172.png" alt="image-20210505203437172" style="zoom:67%;" />
+![](./images/image-20210505203437172.png)
 
 也就是说 Decoder 看到的输入,其实是它在前一个时间点,自己的输出,**Decoder 会把自己的输出,当做接下来的输入**
 
@@ -105,7 +105,7 @@ Error Propagation 的问题就是,**一步错 步步错**这样,就是在这个�
 
 我们来看一下这个 **Decoder内部的结构**长什麼样子
 
-<img src="./images/image-20210505203958558.png" alt="image-20210505203958558" style="zoom:50%;" />
+![](./images/image-20210505203958558.png)
 
 那我们这边,**把 Encoder 的部分先暂时省略掉**,那在 Transformer 裡面,Decoder 的结构,长得是这个样子的,看起来有点复杂,比 Encoder 还稍微复杂一点,
 
@@ -113,11 +113,11 @@ Error Propagation 的问题就是,**一步错 步步错**这样,就是在这个�
 
 那我们现在先把 Encoder 跟 Decoder 放在一起
 
-<img src="./images/image-20210505204215642.png" alt="image-20210505204215642" style="zoom:50%;" />
+![](./images/image-20210505204215642.png)
 
 稍微比较一下它们之间的差异,那你会发现说,如果我们把 Decoder 中间这一块,**中间这一块把它盖起来,其实 Encoder 跟 Decoder,并没有那麼大的差别**
 
-<img src="./images/image-20210505204300084.png" alt="image-20210505204300084" style="zoom:50%;" />
+![](./images/image-20210505204300084.png)
 
 你看 Encoder 这边,Multi-Head Attention,然后 Add &amp; Norm,Feed Forward,Add &amp; Norm,重复 N 次,Decoder 其实也是一样
 
@@ -129,21 +129,21 @@ Error Propagation 的问题就是,**一步错 步步错**这样,就是在这个�
 
 这个 Masked 的意思是这样子的,这是我们原来的 Self-Attention
 
-<img src="./images/image-20210505204547594.png" alt="image-20210505204547594" style="zoom: 67%;" />
+![](./images/image-20210505204547594.png)
 
 Input 一排 Vector,Output 另外一排 Vector,这一排 Vector **每一个输出**,都要看过完整的 Input 以后,才做决定,所以输出 $b^1$ 的时候,其实是根据 $a^1$ 到 $a^4$ 所有的资讯,去输出 $b^1$
 
 当我们把 Self-Attention,转成 Masked Attention 的时候,它的不同点是,现在我们不能再看右边的部分,也就是產生 $b^1$ 的时候,我们只能考虑 $a^1$ 的资讯,你不能够再考虑 $a^2$ $a^3$ $a^4$
 
-<img src="./images/image-20210505205155734.png" alt="image-20210505205155734" style="zoom:50%;" />
+![](./images/image-20210505205155734.png)
 
 產生 $b^2$ 的时候,你只能考虑 $a^1$ $a^2$ 的资讯,不能再考虑 $a^3$ $a^4$ 的资讯
 
-<img src="./images/image-20210505205223197.png" alt="image-20210505205223197" style="zoom:50%;" />
+![](./images/image-20210505205223197.png)
 
 產生 $b^3$ 的时候,你就不能考虑 $a^4$ 的资讯,
 
-<img src="./images/image-20210505205307428.png" alt="image-20210505205307428" style="zoom:50%;" />
+![](./images/image-20210505205307428.png)
 
 產生 $b^4$ 的时候,你可以用整个 Input Sequence 的资讯,这个就是 Masked 的 Self-Attention,
 
@@ -151,7 +151,7 @@ Input 一排 Vector,Output 另外一排 Vector,这一排 Vector **每一个输�
 
 讲得更具体一点,你做的事情是,当我们要產生 $b^2$ 的时候,我们只拿第二个位置的 Query $b^2$,去跟第一个位置的 Key,和第二个位置的 Key,去计算 Attention,第三个位置跟第四个位置,就不管它,不去计算 Attention
 
-<img src="./images/image-20210505205618457.png" alt="image-20210505205618457" style="zoom:50%;" />
+![](./images/image-20210505205618457.png)
 
 我们这样子不去管这个 $a^2$ 右边的地方,只考虑 $a^1$ 跟 $a^2$,只考虑 $q^1$ $q^2$,只考虑 $k^1$ $k^2$,$q^2$ 只跟 $k^1$ 跟 $k^2$ 去计算 Attention,然后最后只计算 $b^1$ 跟 $b^2$ 的 Weighted Sum
 
@@ -159,7 +159,7 @@ Input 一排 Vector,Output 另外一排 Vector,这一排 Vector **每一个输�
 
 那為什麼会这样,為什麼需要加 Masked 
 
-<img src="./images/image-20210505205746128.png" alt="image-20210505205746128" style="zoom:50%;" />
+![](./images/image-20210505205746128.png)
 
 这件事情其实非常地直觉:我们一开始 Decoder 的运作方式,它是**一个一个输出**,所以是先有 $a^1$ 再有 $a^2$,再有 $a^3$ 再有 $a^4$
 
@@ -175,7 +175,7 @@ Input 一排 Vector,Output 另外一排 Vector,这一排 Vector **每一个输�
 
 可是到底输出的 Sequence 的长度应该是多少,我们不知道
 
-<img src="./images/image-20210505210300099.png" alt="image-20210505210300099" style="zoom:50%;" />
+![](./images/image-20210505210300099.png)
 
 你没有办法轻易的从输入的 Sequence 的长度,就知道输出的 Sequence 的长度是多少,并不是说,输入是 4 个向量,输出一定就是 4 个向量
 
@@ -187,7 +187,7 @@ Input 一排 Vector,Output 另外一排 Vector,这一排 Vector **每一个输�
 
 这就让我想到推文接龙
 
-<img src="./images/image-20210505210657053.png" alt="image-20210505210657053" style="zoom:50%;" />
+![](./images/image-20210505210657053.png)
 
 我不知道大家知不到这是什麼,这是一个这个古老的民俗传统,流传在 PTT 上面,这个民俗传统是怎麼运作的,就有一个人,先推一个中文字,然后推一个超,然后接下来,就会有另外一个乡民,去推另外一个字,然后可以接上去的,所以就可以產生一排的词汇啦,一排字啦,就是超人正大中天外飞仙草,不知道在说些什麼,这个是 Process ,可以持续好几个月,都不停下来,我也不知道為什麼,那怎麼让这个 Process 停下来,那要怎麼让它停下来
 
@@ -197,7 +197,7 @@ Input 一排 Vector,Output 另外一排 Vector,这一排 Vector **每一个输�
 
 所以我们要让 Decoder 做的事情,也是一样,要让它可以输出一个断,所以你要**特别準备一个特别的符号**,这个符号,就叫做断,我们这边,用 END 来表示这个特殊的符号
 
-<img src="./images/image-20210505210756634.png" alt="image-20210505210756634" style="zoom:50%;" />
+![](./images/image-20210505210756634.png)
 
 所以除了所有中文的方块字,还有 BEGIN 以外,你还要**準备一个特殊的符号,叫做"断"**,那其实在助教的程式裡面,它是把 BEGIN 跟 END,就是开始跟这个断,用同一个符号来表示
 
@@ -213,7 +213,7 @@ Input 一排 Vector,Output 另外一排 Vector,这一排 Vector **每一个输�
 
 用两页投影片,非常简短地讲一下,Non-Autoregressive 的 Model
 
-<img src="./images/image-20210505213222908.png" alt="image-20210505213222908" style="zoom:50%;" />
+![](./images/image-20210505213222908.png)
 
 Non-Autoregressive ,通常缩写成 NAT,所以有时候 Autoregressive 的 Model,也缩写成 AT,Non-Autoregressive 的 Model 是怎麼运作的
 
@@ -221,13 +221,13 @@ Non-Autoregressive ,通常缩写成 NAT,所以有时候 Autoregressive 的 Model
 
 这个 ==Autoregressive== 的 Model 是
 
-<img src="./images/image-20210505213259792.png" alt="image-20210505213259792" style="zoom:67%;" />
+![](./images/image-20210505213259792.png)
 
 **先输入 BEGIN**,**然后**出现 w1,然后**再**把 w1 当做输入,**再**输出 w2,**直到输出 END 為止**
 
 那 ==NAT== 是这样,它**不是依次產生**
 
-<img src="./images/image-20210505213441943.png" alt="image-20210505213441943" style="zoom:67%;" />
+![](./images/image-20210505213441943.png)
 
 就假设我们现在產生是中文的句子,它不是依次產生一个字,它是**一次把整个句子都產生出来**
 
@@ -237,7 +237,7 @@ NAT 的 Decoder**可能吃的是一整排的 BEGIN 的 Token**,你就把一堆�
 
 这边你可能会问一个问题：刚才不是说不知道输出的长度应该是多少吗,那我们这边**怎麼知道 BEGIN 要放多少个**,当做 NAT Decoder 的收入？
 
-<img src="./images/image-20210505214100885.png" alt="image-20210505214100885" style="zoom:50%;" />
+![](./images/image-20210505214100885.png)
 
 没错 这件事没有办法很自然的知道,没有办法很直接的知道,所以有几个,所以有几个做法
 
@@ -246,7 +246,7 @@ NAT 的 Decoder**可能吃的是一整排的 BEGIN 的 Token**,你就把一堆�
 
 那 NAT 的 Decoder,它有什麼样的**好处**,
 
-<img src="./images/image-20210505214412075.png" alt="image-20210505214412075" style="zoom:67%;" />
+![](./images/image-20210505214412075.png)
 
 - 它第一个好处是,**并行化**,这个 AT 的 Decoder,它在输出它的句子的时候,是一个一个一个字產生的,所以你有你的,假设要输出长度一百个字的句子,那你就需要做一百次的 Decode
 
@@ -266,19 +266,19 @@ NAT 的 Decoder**可能吃的是一整排的 BEGIN 的 Token**,你就把一堆�
 
 NAT 的 Decoder,最近它之所以是一个热门研究主题,就是它虽然表面上看起来有种种的厉害之处,尤其是平行化是它最大的优势,但是 **NAT 的 Decoder ,它的 Performance,往往都不如 AT 的 Decoder**
 
-<img src="./images/image-20210505214728437.png" alt="image-20210505214728437" style="zoom:50%;" />
+![](./images/image-20210505214728437.png)
 
 所以发现有很多很多的研究试图让,NAT 的 Decoder 的 Performance 越来越好,试图去逼近 AT 的 Decoder,不过今天你要让 NAT 的 Decoder,跟 AT 的 Decoder Performance 一样好,你**必须要用非常多的 Trick** 才能够办到,就 AT 的 Decoder 随便 Train 一下,NAT 的 Decoder 你要花很多力气,才有可能跟 AT 的 Performance 差不多
 
 為什麼 NAT 的 Decoder Performance 不好,有一个问题我们今天就不细讲了,叫做 ==Multi-Modality== 的问题,那如果你想要这个深入了解 NAT,那就把之前上课,助教这个上课补充的内容,连结https://youtu.be/jvyKmU4OM3c放在这边给大家参考
 
-<img src="./images/image-20210505214815786.png" alt="image-20210505214815786" style="zoom:50%;" />
+![](./images/image-20210505214815786.png)
 
 ## Encoder-Decoder
 
 接下来就要讲**Encoder 跟 Decoder它们中间是怎麼传递资讯**的了,也就是我们要讲,刚才我们刻意把它遮起来的那一块
 
-<img src="./images/image-20210506103314101.png" alt="image-20210506103314101" style="zoom: 80%;" />
+![](./images/image-20210506103314101.png)
 
 这块叫做 ==Cross Attention==,它是连接 Encoder 跟 Decoder 之间的桥樑,那这一块裡面啊,会发现有**两个输入来自於 Encoder**,Encoder 提供两个箭头,然后 **Decoder 提供了一个箭头**,所以从左边这两个箭头,Decoder 可以读到 Encoder 的输出
 
@@ -286,7 +286,7 @@ NAT 的 Decoder,最近它之所以是一个热门研究主题,就是它虽然表
 
 这个是你的 Encoder
 
-<img src="./images/image-20210506104141482.png" alt="image-20210506104141482" style="zoom: 50%;" />
+![](./images/image-20210506104141482.png)
 
 输入一排向量,输出一排向量,我们叫它 $a^1 a^2 a^3$
 
@@ -294,13 +294,13 @@ NAT 的 Decoder,最近它之所以是一个热门研究主题,就是它虽然表
 
 所以输入一个向量 输出一个向量,然后接下来把这个向量呢,乘上一个矩阵做一个 Transform,得到一个 Query 叫做 q
 
-<img src="./images/image-20210506105155338.png" alt="image-20210506105155338" style="zoom: 50%;" />
+![](./images/image-20210506105155338.png)
 
 然后这边的 $a^1 a^2 a^3$ 呢,也都產生 Key,Key1 Key2 Key3,那把这个 q 跟 $k^1 k^2 k^3$,去计算 Attention 的分数,得到 $α_1 α_2 α_3$,当然你可能一样会做 Softmax,把它稍微做一下 Normalization,所以我这边加一个 ',代表它可能是做过 Normalization
 
 接下来再把 $α_1 α_2 α_3$,就乘上 $v^1 v^2 v^3$,再把它 Weighted Sum 加起来会得到 v
 
-<img src="./images/image-20210506105352521.png" alt="image-20210506105352521" style="zoom:50%;" />
+![](./images/image-20210506105352521.png)
 
 那这一个 V,就是接下来会丢到 Fully-Connected 的,Network 做接下来的处理,那这个步骤就是 q 来自於 Decoder,k 跟 v 来自於 Encoder,这个步骤就叫做 Cross Attention
 
@@ -308,7 +308,7 @@ NAT 的 Decoder,最近它之所以是一个热门研究主题,就是它虽然表
 
 当然这个,就现在假设產生第二个,第一个这个中文的字產生一个“机”,接下来的运作也是一模一样的
 
-<img src="./images/image-20210506105747730.png" alt="image-20210506105747730" style="zoom: 50%;" />
+![](./images/image-20210506105747730.png)
 
 输入 BEGIN 输入机,產生一个向量,这个向量一样乘上一个 Linear 的 Transform,得到 q',得到一个 Query,这个 Query 一样跟 $k^1 k^2 k^3$,去计算 Attention 的分数,一样跟 $v^1 v^2 v^3$ 做 Weighted Sum 做加权,然后加起来得到 v',交给接下来 Fully-Connected Network 做处理
 
@@ -322,7 +322,7 @@ NAT 的 Decoder,最近它之所以是一个热门研究主题,就是它虽然表
 
 **不一定要这样**,你永远可以自己兜一些新的想法,所以我这边就是引用一篇论文告诉你说,也有人尝试不同的 Cross Attension 的方式
 
-<img src="./images/image-20210506111930819.png" alt="image-20210506111930819" style="zoom: 67%;" />
+![](./images/image-20210506111930819.png)
 
 Encoder 这边有很多层,Decoder 这边有很多层,為什麼 Decoder 这边每一层都一定要看,Encoder 的最后一层输出呢,能不能够有各式各样不同的连接方式,这完全可以当做一个研究的问题来 Study
 
@@ -330,7 +330,7 @@ Encoder 这边有很多层,Decoder 这边有很多层,為什麼 Decoder 这边�
 
 已经清楚说 Input 一个 Sequence,是怎麼得到最终的输出,那接下来就进入训练的部分
 
-<img src="./images/image-20210506121209178.png" alt="image-20210506121209178" style="zoom:50%;" />
+![](./images/image-20210506121209178.png)
 
 刚才讲的都还只是,假设你模型训练好以后它是怎麼运作的,它是怎麼做 Testing 的,它是怎麼做 Inference 的,Inference 就是 Testing ，那是怎麼做训练的呢？
 
@@ -344,13 +344,13 @@ Encoder 这边有很多层,Decoder 这边有很多层,為什麼 Decoder 这边�
 
 我们已经知道说输入这段声音讯号,第一个应该要输出的中文字是“机”,所以今天当我们把 BEGIN,丢给这个 Encoder 的时候,它第一个输出应该要跟“机”越接近越好
 
-<img src="./images/image-20210506122929142.png" alt="image-20210506122929142" style="zoom:50%;" />
+![](./images/image-20210506122929142.png)
 
 **“机”这个字会被表示成一个 One-Hot 的 Vector**,在这个 Vector 裡面,只有机对应的那个维度是 1,其他都是 0,这是正确答案,那我们的 Decoder,它的输出是一个 Distribution,是一个机率的分布,我们会希望这一个机率的分布,跟这个 One-Hot 的 Vector 越接近越好
 
 所以你会去计算这个 Ground Truth,跟这个 Distribution 它们之间的 Cross Entropy,然后我们希望这个 ==Cross Entropy== 的值,越小越好
 
-<img src="./images/image-20210506123013981.png" alt="image-20210506123013981" style="zoom:50%;" />
+![](./images/image-20210506123013981.png)
 
 它就**跟分类很像**,刚才助教在讲解作业的时候也有提到这件事情,你可以想成每一次我们在產生,每一次 Decoder 在產生一个中文字的时候,其实就是做了一次分类的问题,中文字假设有四千个,那就是**做有四千个类别的分类的问题**
 
@@ -358,13 +358,13 @@ Encoder 这边有很多层,Decoder 这边有很多层,為什麼 Decoder 这边�
 
 所以实际上训练的时候这个样子,我们已经知道输出应该是“机器学习”这四个字,就告诉你的 Decoder ,现在你第一次的输出 第二次的输出,第三次的输出 第四次输出,应该分别就是“机” “器” “学”跟“习”,这四个中文字的 One-Hot Vector,我们**希望我们的输出,跟这四个字的 One-Hot Vector 越接近越好**
 
-<img src="./images/image-20210506124154943.png" alt="image-20210506124154943" style="zoom:50%;" />
+![](./images/image-20210506124154943.png)
 
 在训练的时候,每一个输出都会有一个 Cross Entropy,每一个输出跟 One-Hot Vector,跟它对应的正确答案都有一个 Cross Entropy,我们要希望所有的 Cross Entropy 的总和最小,越小越好
 
 所以这边做了四次分类的问题,我们希望这些分类的问题,它总合起来的 Cross Entropy 越小越好,**还有 END 这个符号**
 
-<img src="./images/image-20210506150925655.png" alt="image-20210506150925655" style="zoom:50%;" />
+![](./images/image-20210506150925655.png)
 
 那这个就是 Decoder 的训练：**把 Ground Truth ,正确答案给它,希望 Decoder 的输出跟正确答案越接近越好**
 
@@ -394,7 +394,7 @@ Encoder 这边有很多层,Decoder 这边有很多层,為什麼 Decoder 这边�
 
 像这种复製的行為在哪些任务会用得上呢,一个例子是做聊天机器人
 
-<img src="./images/image-20210506160219468.png" alt="image-20210506160219468" style="zoom: 67%;" />
+![](./images/image-20210506160219468.png)
 
 - 人对机器说:你好 我是库洛洛,
 
@@ -410,7 +410,7 @@ Encoder 这边有很多层,Decoder 这边有很多层,為什麼 Decoder 这边�
 
 或者是在做摘要的时候,你可能更需要 Copy 这样子的技能
 
-<img src="./images/image-20210506160548411.png" alt="image-20210506160548411" style="zoom:67%;" />
+![](./images/image-20210506160548411.png)
 
 摘要就是,你要训练一个模型,然后这个**模型去读一篇文章,然后產生这篇文章的摘要**
 
@@ -424,7 +424,7 @@ Encoder 这边有很多层,Decoder 这边有很多层,為什麼 Decoder 这边�
 
 最早有从输入复製东西的能力的模型,叫做 Pointer Network
 
-<img src="./images/image-20210506161130631.png" alt="image-20210506161130631" style="zoom: 67%;" />
+![](./images/image-20210506161130631.png)
 
 那这个过去上课是有讲过的,我把[录影](https://youtu.be/VdOyqNQ9aww)放在这边给大家参考,好 那后来还有一个变形,叫做 Copy Network,那你可以看一下这一篇,Copy Mechanism,就是 Sequence-To-Sequence,有没有问题,你看 Sequence-To-Sequence Model,是怎麼做到从输入复製东西到输出来的
 
@@ -442,7 +442,7 @@ Encoder 这边有很多层,Decoder 这边有很多层,為什麼 Decoder 这边�
 
 像这样的方法做出来结果,其实还不错,
 
-<img src="./images/image-20210506161940442.png" alt="image-20210506161940442" style="zoom:67%;" />
+![](./images/image-20210506161940442.png)
 
 举例来说我叫机器连说 4 次发财,看看它会怎麼讲,机器输出的结果是:发财 发财 发财 发财
 
@@ -460,7 +460,7 @@ Encoder 这边有很多层,Decoder 这边有很多层,為什麼 Decoder 这边�
 
 这个是有可能的,这招就叫做 ==Guided Attention==
 
-<img src="./images/image-20210506162647905.png" alt="image-20210506162647905" style="zoom:80%;" />
+![](./images/image-20210506162647905.png)
 
 像语音辨识这种任务,你其实很难接受说,你讲一句话,今天辨识出来,居然有一段机器没听到,或语音合成你输入一段文字,语音合出来居然有一段没有念到,这个人很难接受
 
@@ -470,7 +470,7 @@ Encoder 这边有很多层,Decoder 这边有很多层,為什麼 Decoder 这边�
 
 Guiding Attention 要做的事情就是,**要求机器它在做 Attention 的时候,是有固定的方式的**,举例来说,对语音合成或者是语音辨识来说,我们想像中的 **Attention,应该就是由左向右**
 
-<img src="./images/image-20210506163030902.png" alt="image-20210506163030902" style="zoom:67%;" />
+![](./images/image-20210506163030902.png)
 
 在这个例子裡面,我们用红色的这个曲线,来代表 Attention 的分数,这个越高就代表 Attention 的值越大
 
@@ -488,7 +488,7 @@ Beam Search ,我们这边举一个例子,在这个例子裡面我们假设说,�
 
 那对 Decoder 而言,它做的事情就是,**每一次在第一个 Time Step,它在 A B 裡面决定一个,然后决定了 A 以后,再把 A 当做输入,然后再决定 A B 要选哪一个**
 
-<img src="./images/image-20210506163652097.png" alt="image-20210506163652097" style="zoom: 50%;" />
+![](./images/image-20210506163652097.png)
 
 那举例来说,它可能选 B 当作输入,再决定 A B 要选哪一个,那在我们刚才讲的 Process 裡面,每一次 Decoder 都是选,分数最高的那一个
 
@@ -500,7 +500,7 @@ Beam Search ,我们这边举一个例子,在这个例子裡面我们假设说,�
 
 但是 Greedy Decoding,一定是更好的方法吗,有没有可能我们在第一步的时候,先稍微捨弃一点东西
 
-<img src="./images/image-20210506164137822.png" alt="image-20210506164137822" style="zoom:50%;" />
+![](./images/image-20210506164137822.png)
 
 比如说第一步虽然 B 是 0.4,但我们就先选 0.4 这个 B,然后接下来我们选了 B 以后,也许接下来的 B 的可能性就大增,就变成 0.9,然后接下来第三个步骤,B 的可能性也是 0.9
 
@@ -518,7 +518,7 @@ Beam Search ,我们这边举一个例子,在这个例子裡面我们假设说,�
 
 举例来说这篇 Paper 叫做,The Curious Case Of Neural Text Degeneration,那这个任务要做的事情是,Sentence Completion,也就是机器先读一段句子,接下来它要把这个句子的后半段,把它完成,你给它一则新闻,或者是一个故事的前半部,哇 它自己发挥它的想像创造力,把这个文章,把故事的后半部把它写完
 
-<img src="./images/image-20210506164817398.png" alt="image-20210506164817398" style="zoom:67%;" />
+![](./images/image-20210506164817398.png)
 
 那你会发现说,Beam Search 在这篇文章裡面,一开头就告诉你说,Beam Search 自己有问题：如果你用 Beam Search 的话,会发现说机器不断讲重复的话,它不断开始陷入鬼打墙 无穷迴圈,不断说重复的话
 
@@ -546,7 +546,7 @@ Beam Search ,我们这边举一个例子,在这个例子裡面我们假设说,�
 
 但我们在训练的时候显然不是这样,**训练**的时候,**每一个词汇是分开考虑的**,训练的时候,我们 Minimize 的是 Cross Entropy,Minimize Cross Entropy,真的可以 Maximize BLEU Score 吗
 
-<img src="./images/image-20210506165953175.png" alt="image-20210506165953175" style="zoom: 67%;" />
+![](./images/image-20210506165953175.png)
 
 不一定,因為这两个根本就是,它们可能有一点点的关联,但它们又没有那麼直接相关,它们根本就是两个不同的数值,所以我们 Minimize Cross Entropy,不见得可以让 BLEU Score 比较大
 
@@ -568,7 +568,7 @@ Beam Search ,我们这边举一个例子,在这个例子裡面我们假设说,�
 
 测试的时候,Decoder 看到的是自己的输出,所以测试的时候,Decoder 会看到一些错误的东西,但是在训练的时候,Decoder 看到的是完全正确的,那这个不一致的现象叫做,==Exposure Bias==
 
-<img src="./images/image-20210506170906750.png" alt="image-20210506170906750" style="zoom:67%;" />
+![](./images/image-20210506170906750.png)
 
 假设 Decoder 在训练的时候,永远只看过正确的东西,那在测试的时候,你只要有一个错,那就会**一步错 步步错**,因為对 Decoder 来说,它从来没有看过错的东西,它看到错的东西会非常的惊奇,然后接下来它產生的结果可能都会错掉
 
@@ -576,11 +576,11 @@ Beam Search ,我们这边举一个例子,在这个例子裡面我们假设说,�
 
 有一个可以的思考的方向是,**给 Decoder 的输入加一些错误的东西**,就这麼直觉,你不要给 Decoder 都是正确的答案,偶尔给它一些错的东西,它反而会学得更好,这一招叫做,==Scheduled Sampling==,它不是那个 Schedule Learning Rate,刚才助教有讲 Schedule Learning Rate,那是另外一件事,不相干的事情,这个是 Scheduled Sampling
 
-<img src="./images/image-20210506171120911.png" alt="image-20210506171120911" style="zoom:67%;" />
+![](./images/image-20210506171120911.png)
 
 Scheduled Sampling 其实很早就有了,这个是 15 年的 Paper,很早就有 Scheduled Sampling,在还没有 Transformer,只有 LSTM 的时候,就已经有 Scheduled Sampling,但是 Scheduled Sampling 这一招,它其实会伤害到,Transformer 的平行化的能力,那细节可以再自己去了解一下,所以对 Transformer 来说,它的 Scheduled Sampling,另有招数跟传统的招数,跟原来最早提在,这个 LSTM上被提出来的招数,也不太一样,那我把一些 Reference 的,列在这边给大家参考
 
-<img src="./images/image-20210506171143270.png" alt="image-20210506171143270" style="zoom:67%;" />
+![](./images/image-20210506171143270.png)
 
 好 那以上我们就讲完了,Transformer 和种种的训练技巧,这个我们已经讲完了 Encoder,讲完了 Decoder,也讲完了它们中间的关係,也讲了怎麼训练,也讲了种种的 Tip
 
