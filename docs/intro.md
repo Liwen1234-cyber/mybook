@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=M2rubMmoocs"><img width="200px" src="http://img.youtube.com/vi/M2rubMmoocs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=M2rubMmoocs">比亚迪巴西工厂因&quot;类奴隶&quot;劳动环境遭起诉；山东高密化工厂爆炸气体泄漏，已造成5死6失联16伤；胡锡进称年轻人性生活能促进消费，对色情不能管太宽【雪花每日新闻】</a></td>
+<td>May 29, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=YTcVog2qlLo"><img width="200px" src="http://img.youtube.com/vi/YTcVog2qlLo/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YTcVog2qlLo">從盟友到敵人：揭開俄羅斯與美國錯綜複雜的關係史 － BBC News 中文</a></td>
 <td>May 28, 2025</td></tr>
@@ -84,10 +87,7 @@ slug: /
 <td>May 27, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=8F2bbo96Bz4"><img width="200px" src="http://img.youtube.com/vi/8F2bbo96Bz4/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=8F2bbo96Bz4">法國總統馬克龍被碧姬「打臉」畫面引輿論關注－ BBC News 中文</a></td>
-<td>May 27, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=nm2ZwzbrXUQ"><img width="200px" src="http://img.youtube.com/vi/nm2ZwzbrXUQ/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=nm2ZwzbrXUQ">英國下架「Labubu」娃娃 因粉絲在店內大打出手－ BBC News 中文</a></td>
-<td>May 26, 2025</td></tr><!-- YOUTUBE:END -->
+<td>May 27, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
