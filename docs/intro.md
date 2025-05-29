@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=zpRR_A3Thoo"><img width="200px" src="http://img.youtube.com/vi/zpRR_A3Thoo/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=zpRR_A3Thoo">【舊影片上傳】DNN Backpropagation &lpar;2015 年上課錄影&rpar;</a></td>
+<td>May 29, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=tabYANDJ9fY"><img width="200px" src="http://img.youtube.com/vi/tabYANDJ9fY/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tabYANDJ9fY">兩隻鴿子誤闖飛機造成混亂－ BBC News 中文</a></td>
 <td>May 29, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>May 28, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=EJcj-Gsd6W4"><img width="200px" src="http://img.youtube.com/vi/EJcj-Gsd6W4/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EJcj-Gsd6W4">中國女大生被要求「脫褲證明」生理期引爭議－ BBC News 中文 #中國</a></td>
-<td>May 28, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=SPM7-fFEXvs"><img width="200px" src="http://img.youtube.com/vi/SPM7-fFEXvs/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SPM7-fFEXvs">中國山東化工廠爆炸至少5死19傷－ BBC News 中文  #中國</a></td>
 <td>May 28, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
