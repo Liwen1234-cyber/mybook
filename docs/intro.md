@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=sldyumUXBpM"><img width="200px" src="http://img.youtube.com/vi/sldyumUXBpM/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=sldyumUXBpM">巴勒斯坦大使談及加沙兒童淚流滿面－ BBC News 中文</a></td>
+<td>May 30, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=pCFrpF_dMw8"><img width="200px" src="http://img.youtube.com/vi/pCFrpF_dMw8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pCFrpF_dMw8">溶洞变垃圾场和排污口，湖南地下洞穴系统和水域被曝严重污染；美国开始吊销与中共有关或在关键领域学习的中国留学生签证；德国新总理梅尔茨承诺将帮助乌克兰生产远程导弹【雪花每日新闻】</a></td>
 <td>May 30, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>May 29, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=YTcVog2qlLo"><img width="200px" src="http://img.youtube.com/vi/YTcVog2qlLo/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YTcVog2qlLo">從盟友到敵人：揭開俄羅斯與美國錯綜複雜的關係史 － BBC News 中文</a></td>
-<td>May 28, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=YKTyXQ7B86I"><img width="200px" src="http://img.youtube.com/vi/YKTyXQ7B86I/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=YKTyXQ7B86I">陸配女子在台灣直播學生校園日常為何引爭議？－ BBC News 中文  #台灣  #中國</a></td>
 <td>May 28, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
