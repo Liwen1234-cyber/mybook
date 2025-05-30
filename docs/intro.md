@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=50kYoARptcc"><img width="200px" src="http://img.youtube.com/vi/50kYoARptcc/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=50kYoARptcc">香港「47人案」第二批被告刑滿出獄 岑子杰形容「四年分隔牽腸掛肚」－ BBC News 中文 #香港</a></td>
+<td>May 30, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=sldyumUXBpM"><img width="200px" src="http://img.youtube.com/vi/sldyumUXBpM/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sldyumUXBpM">巴勒斯坦大使談及加沙兒童淚流滿面－ BBC News 中文</a></td>
 <td>May 30, 2025</td></tr>
@@ -84,10 +87,7 @@ slug: /
 <td>May 29, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=M2rubMmoocs"><img width="200px" src="http://img.youtube.com/vi/M2rubMmoocs/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=M2rubMmoocs">比亚迪巴西工厂因&quot;类奴隶&quot;劳动环境遭起诉；山东高密化工厂爆炸气体泄漏，已造成5死6失联16伤；胡锡进称年轻人性生活能促进消费，对色情不能管太宽【雪花每日新闻】</a></td>
-<td>May 29, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=YTcVog2qlLo"><img width="200px" src="http://img.youtube.com/vi/YTcVog2qlLo/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=YTcVog2qlLo">從盟友到敵人：揭開俄羅斯與美國錯綜複雜的關係史 － BBC News 中文</a></td>
-<td>May 28, 2025</td></tr><!-- YOUTUBE:END -->
+<td>May 29, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
