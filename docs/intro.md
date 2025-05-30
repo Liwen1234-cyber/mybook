@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=kHxV570W5PA"><img width="200px" src="http://img.youtube.com/vi/kHxV570W5PA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kHxV570W5PA">美國學生簽政策頻調整 中國留學生怎麼看？－ BBC News 中文 #特朗普 #美國  #中國</a></td>
+<td>May 30, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=KBPF86lw5Ro"><img width="200px" src="http://img.youtube.com/vi/KBPF86lw5Ro/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KBPF86lw5Ro">留學計劃受阻 中國學生轉向歐洲：「美國已不在選擇範圍」－ BBC News 中文</a></td>
+<td>May 30, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=50kYoARptcc"><img width="200px" src="http://img.youtube.com/vi/50kYoARptcc/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=50kYoARptcc">香港「47人案」第二批被告刑滿出獄 岑子杰形容「四年分隔牽腸掛肚」－ BBC News 中文 #香港</a></td>
 <td>May 30, 2025</td></tr>
@@ -81,12 +87,6 @@ slug: /
 <td>May 29, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=sNHabn2eIVM"><img width="200px" src="http://img.youtube.com/vi/sNHabn2eIVM/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=sNHabn2eIVM">為什麼特朗普政府要積極撤銷在美就學的中國學生簽證？－ BBC News 中文 #美國 #特朗普 #中國</a></td>
-<td>May 29, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=zAVifrj0XMg"><img width="200px" src="http://img.youtube.com/vi/zAVifrj0XMg/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zAVifrj0XMg">修女在直播節目中表演Beatbox而迅速走紅 － BBC News 中文 #節奏口技  #shorts  #天主教</a></td>
-<td>May 29, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=M2rubMmoocs"><img width="200px" src="http://img.youtube.com/vi/M2rubMmoocs/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=M2rubMmoocs">比亚迪巴西工厂因&quot;类奴隶&quot;劳动环境遭起诉；山东高密化工厂爆炸气体泄漏，已造成5死6失联16伤；胡锡进称年轻人性生活能促进消费，对色情不能管太宽【雪花每日新闻】</a></td>
 <td>May 29, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
