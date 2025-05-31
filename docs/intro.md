@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=AFwrNU0b7Ko"><img width="200px" src="http://img.youtube.com/vi/AFwrNU0b7Ko/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=AFwrNU0b7Ko">马斯克白宫告别会字幕完整版。特朗普：他改变了美国！【雪花快报】</a></td>
+<td>May 30, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=kHxV570W5PA"><img width="200px" src="http://img.youtube.com/vi/kHxV570W5PA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kHxV570W5PA">美國學生簽政策頻調整 中國留學生怎麼看？－ BBC News 中文 #特朗普 #美國  #中國</a></td>
 <td>May 30, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>May 29, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=pWcNe3NLdtc"><img width="200px" src="http://img.youtube.com/vi/pWcNe3NLdtc/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pWcNe3NLdtc">美國法院裁定特朗普徵稅越權　白宮斥為「司法政變失控」－ BBC News 中文</a></td>
-<td>May 29, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=sNHabn2eIVM"><img width="200px" src="http://img.youtube.com/vi/sNHabn2eIVM/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sNHabn2eIVM">為什麼特朗普政府要積極撤銷在美就學的中國學生簽證？－ BBC News 中文 #美國 #特朗普 #中國</a></td>
 <td>May 29, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
