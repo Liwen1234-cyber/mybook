@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/">A Lean companion to “Analysis I”</a>- by terrytao - May 31, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/weekly-issue-350.html">科技爱好者周刊（第 350 期）：Java 三十周年</a>- by ruanyifeng - May 30, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/substitutes-for-religion-in-china/?utm_source=rss&utm_medium=rss&utm_campaign=substitutes-for-religion-in-china">论中国人的宗教代用品</a>- by stephenleng - May 29, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/27/%e8%ae%b0%e5%bf%86%e5%a4%96%e5%8c%85/">记忆外包</a>- by onojyun - May 27, 2025</li>
@@ -41,8 +42,7 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/">A proof of concept tool to verify estimates</a>- by terrytao - May 2, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/notebooklm.html">谷歌的 NotebookLM 能生成中文播客了</a>- by ruanyifeng - May 1, 2025</li>
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1e1ca795c9568052a8dbdd0edef8c17c">2025#17 过渡劳动</a>- by 1q43 - Apr 28, 2025</li>
-<li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/04/weekly-issue-346.html">科技爱好者周刊（第 346 期）：未来就是永恒感的丧失</a>- by ruanyifeng - Apr 25, 2025</li>
-<li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/04/23/stonean-spaces-projective-objects-the-riesz-representation-theorem-and-possibly-condensed-mathematics/">Stonean spaces, projective objects, the Riesz representation theorem, and &lpar;possibly&rpar; condensed mathematics</a>- by terrytao - Apr 23, 2025</li><!-- BLOG:END -->
+<li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/04/weekly-issue-346.html">科技爱好者周刊（第 346 期）：未来就是永恒感的丧失</a>- by ruanyifeng - Apr 25, 2025</li><!-- BLOG:END -->
 
 </details>
 
