@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=YNXVtfCP2Wg"><img width="200px" src="http://img.youtube.com/vi/YNXVtfCP2Wg/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YNXVtfCP2Wg">專訪股壇維權先鋒：David Webb臨別寄語「經濟自由不及昔日 信香港不死」－ BBC News 中文</a></td>
+<td>Jun 1, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=KgYhbrHvXic"><img width="200px" src="http://img.youtube.com/vi/KgYhbrHvXic/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KgYhbrHvXic">中国违反协议，特朗普威胁将恢复关税；美国断供C919发动机；原药监局局长落马；被称作车圈恒大？比亚迪表示追究到底【雪花每日新闻】</a></td>
 <td>May 31, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>May 30, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=zpRR_A3Thoo"><img width="200px" src="http://img.youtube.com/vi/zpRR_A3Thoo/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zpRR_A3Thoo">【舊影片上傳】DNN Backpropagation &lpar;2015 年上課錄影&rpar;</a></td>
-<td>May 29, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=tabYANDJ9fY"><img width="200px" src="http://img.youtube.com/vi/tabYANDJ9fY/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tabYANDJ9fY">兩隻鴿子誤闖飛機造成混亂－ BBC News 中文</a></td>
 <td>May 29, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
