@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=2SQ-1Q7Hrqc"><img width="200px" src="http://img.youtube.com/vi/2SQ-1Q7Hrqc/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=2SQ-1Q7Hrqc">科羅拉多州發生攻擊案 嫌疑男子喊「解放巴勒斯坦」－ BBC News 中文 #美國 #特朗普</a></td>
+<td>Jun 2, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=yKIqsWtzbro"><img width="200px" src="http://img.youtube.com/vi/yKIqsWtzbro/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yKIqsWtzbro">陸生赴台升學難重啟 夾在兩岸交流與統戰之間如何自處？－ BBC News 中文</a></td>
+<td>Jun 2, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=eGzwB1h9VbU"><img width="200px" src="http://img.youtube.com/vi/eGzwB1h9VbU/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eGzwB1h9VbU">史達林新雕像重現俄羅斯 政界稱蘇聯未曾合法解體？－ BBC News 中文</a></td>
 <td>Jun 2, 2025</td></tr>
@@ -81,12 +87,6 @@ slug: /
 <td>May 31, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=AFwrNU0b7Ko"><img width="200px" src="http://img.youtube.com/vi/AFwrNU0b7Ko/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AFwrNU0b7Ko">马斯克白宫告别会字幕完整版。特朗普：他改变了美国！【雪花快报】</a></td>
-<td>May 30, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=kHxV570W5PA"><img width="200px" src="http://img.youtube.com/vi/kHxV570W5PA/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kHxV570W5PA">美國學生簽政策頻調整 中國留學生怎麼看？－ BBC News 中文 #特朗普 #美國  #中國</a></td>
-<td>May 30, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=KBPF86lw5Ro"><img width="200px" src="http://img.youtube.com/vi/KBPF86lw5Ro/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KBPF86lw5Ro">留學計劃受阻 中國學生轉向歐洲：「美國已不在選擇範圍」－ BBC News 中文</a></td>
 <td>May 30, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
