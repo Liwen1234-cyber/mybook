@@ -94,6 +94,7 @@ slug: /
 ## GitHub Trending
 ### All language
 
+* 【2025-06-02】[googleapis / go-genai](https://github.com/googleapis/go-genai) - Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.
 * 【2025-06-01】[promptfoo / promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
 
 ### Java
@@ -102,6 +103,8 @@ slug: /
 
 ### Python
 
+* 【2025-06-02】[ivnvxd / arc-export](https://github.com/ivnvxd/arc-export) - Export pinned Arc Browser tabs for importing bookmarks into other browsers
+* 【2025-06-02】[QiuChenly / InjectLib](https://github.com/QiuChenly/InjectLib) - 你知道我要说什么
 
 ### Matlab
 
@@ -111,10 +114,12 @@ slug: /
 
 ### Jupyter-notebook
 
+* 【2025-06-02】[mml-book / mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
 * 【2025-06-01】[google-deepmind / mujoco_playground](https://github.com/google-deepmind/mujoco_playground) - An open-source library for GPU-accelerated robot learning and sim-to-real transfer.
 
 ### Javascript
 
+* 【2025-06-02】[discord / discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 * 【2025-06-01】[netbymatt / ws4kp](https://github.com/netbymatt/ws4kp) - A web-based WeatherStar 4000
 * 【2025-06-01】[its-a-feature / Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi-platform, red teaming framework
 * 【2025-06-01】[hexgrad / kokoro](https://github.com/hexgrad/kokoro) - https://hf.co/hexgrad/Kokoro-82M
@@ -128,6 +133,7 @@ slug: /
 
 ### Unknown
 
+* 【2025-06-02】[geerlingguy / mini-rack](https://github.com/geerlingguy/mini-rack) - Miniature rack builds, for portable or compact Homelabs.
 * 【2025-06-01】[TheRobotStudio / SO-ARM100](https://github.com/TheRobotStudio/SO-ARM100) - Standard Open Arm 100
 * 【2025-06-01】[punkpeye / awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 ### Go
