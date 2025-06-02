@@ -18,6 +18,7 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/substitutes-for-religion-in-china/?utm_source=rss&utm_medium=rss&utm_campaign=substitutes-for-religion-in-china">论中国人的宗教代用品</a>- by stephenleng - May 29, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/27/%e8%ae%b0%e5%bf%86%e5%a4%96%e5%8c%85/">记忆外包</a>- by onojyun - May 27, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/26/%e6%97%a5%e6%9c%ac%e7%a4%be%e4%bc%9a%e7%9a%84%e7%bb%9d%e5%af%b9%e5%b9%b3%e7%ad%89/">日本社会的绝对平等</a>- by onojyun - May 26, 2025</li>
+<li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1feca795c95680ca82a5dcbe3c7fb5e2">2025#21 道在形外</a>- by 1q43 - May 26, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/why-kant-freud-and-einstein-delayed-graduation-of-their-phds/?utm_source=rss&utm_medium=rss&utm_campaign=why-kant-freud-and-einstein-delayed-graduation-of-their-phds">康德、弗洛伊德和爱因斯坦为什么博士延迟毕业？</a>- by stephenleng - May 23, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/weekly-issue-349.html">科技爱好者周刊（第 349 期）：神经网络算法的发明者</a>- by ruanyifeng - May 23, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/institutional-reform-and-cultural-stagnation/?utm_source=rss&utm_medium=rss&utm_campaign=institutional-reform-and-cultural-stagnation">制度改革与文化停滞</a>- by stephenleng - May 19, 2025</li>
@@ -41,8 +42,7 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/">Orders of infinity</a>- by terrytao - May 4, 2025</li>
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/">A proof of concept tool to verify estimates</a>- by terrytao - May 2, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/notebooklm.html">谷歌的 NotebookLM 能生成中文播客了</a>- by ruanyifeng - May 1, 2025</li>
-<li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1e1ca795c9568052a8dbdd0edef8c17c">2025#17 过渡劳动</a>- by 1q43 - Apr 28, 2025</li>
-<li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/04/weekly-issue-346.html">科技爱好者周刊（第 346 期）：未来就是永恒感的丧失</a>- by ruanyifeng - Apr 25, 2025</li><!-- BLOG:END -->
+<li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1e1ca795c9568052a8dbdd0edef8c17c">2025#17 过渡劳动</a>- by 1q43 - Apr 28, 2025</li><!-- BLOG:END -->
 
 </details>
 
