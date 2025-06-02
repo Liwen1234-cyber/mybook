@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=eGzwB1h9VbU"><img width="200px" src="http://img.youtube.com/vi/eGzwB1h9VbU/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=eGzwB1h9VbU">史達林新雕像重現俄羅斯 政界稱蘇聯未曾合法解體？－ BBC News 中文</a></td>
+<td>Jun 2, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=mV4MkrjXqgU"><img width="200px" src="http://img.youtube.com/vi/mV4MkrjXqgU/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mV4MkrjXqgU">從朝鮮偷運出來的手機長什麼樣？－ BBC News 中文  #朝鮮  #韓國</a></td>
+<td>Jun 2, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Guf4_9K78Rg"><img width="200px" src="http://img.youtube.com/vi/Guf4_9K78Rg/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Guf4_9K78Rg">「香港永遠不死」：股壇長毛David Webb給香港的最後一席話 － BBC News 中文</a></td>
 <td>Jun 2, 2025</td></tr>
@@ -81,12 +87,6 @@ slug: /
 <td>May 30, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=KBPF86lw5Ro"><img width="200px" src="http://img.youtube.com/vi/KBPF86lw5Ro/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KBPF86lw5Ro">留學計劃受阻 中國學生轉向歐洲：「美國已不在選擇範圍」－ BBC News 中文</a></td>
-<td>May 30, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=50kYoARptcc"><img width="200px" src="http://img.youtube.com/vi/50kYoARptcc/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=50kYoARptcc">香港「47人案」第二批被告刑滿出獄 岑子杰形容「四年分隔牽腸掛肚」－ BBC News 中文 #香港</a></td>
-<td>May 30, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=sldyumUXBpM"><img width="200px" src="http://img.youtube.com/vi/sldyumUXBpM/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=sldyumUXBpM">巴勒斯坦大使談及加沙兒童淚流滿面－ BBC News 中文</a></td>
 <td>May 30, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
