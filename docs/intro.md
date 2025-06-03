@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=EmDlOTq3yuA"><img width="200px" src="http://img.youtube.com/vi/EmDlOTq3yuA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=EmDlOTq3yuA">哈佛畢業生致詞代表 中國籍學生蔣雨融引爭議－ BBC News 中文  #中國 #美國 #特朗普 #哈佛</a></td>
+<td>Jun 3, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=DqYnUCIgAPc"><img width="200px" src="http://img.youtube.com/vi/DqYnUCIgAPc/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=DqYnUCIgAPc">多名海棠作者被“远洋捕捞”，法律人士批量刑畸重；乌克兰无人机大规模突袭俄罗斯，俄轰炸机损失惨重；中共中央军委原副主席许其亮去世【雪花每日新闻】</a></td>
+<td>Jun 3, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=2SQ-1Q7Hrqc"><img width="200px" src="http://img.youtube.com/vi/2SQ-1Q7Hrqc/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=2SQ-1Q7Hrqc">科羅拉多州發生攻擊案 嫌疑男子喊「解放巴勒斯坦」－ BBC News 中文 #美國 #特朗普</a></td>
 <td>Jun 2, 2025</td></tr>
@@ -81,13 +87,7 @@ slug: /
 <td>Jun 1, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=KgYhbrHvXic"><img width="200px" src="http://img.youtube.com/vi/KgYhbrHvXic/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KgYhbrHvXic">中国违反协议，特朗普威胁将恢复关税；美国断供C919发动机；原药监局局长落马；被称作车圈恒大？比亚迪表示追究到底【雪花每日新闻】</a></td>
-<td>May 31, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=b_5QMV-lAA4"><img width="200px" src="http://img.youtube.com/vi/b_5QMV-lAA4/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=b_5QMV-lAA4">土耳其幼童戰勝白血病 數千人放氣球慶祝－ BBC News 中文</a></td>
-<td>May 31, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=AFwrNU0b7Ko"><img width="200px" src="http://img.youtube.com/vi/AFwrNU0b7Ko/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=AFwrNU0b7Ko">马斯克白宫告别会字幕完整版。特朗普：他改变了美国！【雪花快报】</a></td>
-<td>May 30, 2025</td></tr><!-- YOUTUBE:END -->
+<td>May 31, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
