@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/03/%e8%8a%92%e7%a7%8d-ii/">芒种 II</a>- by onojyun - Jun 3, 2025</li>
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/06/02/on-the-number-of-exceptional-intervals-to-the-prime-number-theorem-in-short-intervals/">On the number of exceptional intervals to the prime number theorem in short intervals</a>- by terrytao - Jun 2, 2025</li>
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/">A Lean companion to “Analysis I”</a>- by terrytao - May 31, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/weekly-issue-350.html">科技爱好者周刊（第 350 期）：Java 三十周年</a>- by ruanyifeng - May 30, 2025</li>
@@ -36,7 +37,6 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/12/%e5%9f%8e%e5%b8%82%e7%9a%84%e5%b9%95%e5%b8%83/">城市的幕布</a>- by onojyun - May 12, 2025</li>
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1f0ca795c95680a592cdd26d14353afa">2025#19 AI不是朋友</a>- by 1q43 - May 12, 2025</li>
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/">A tool to verify estimates, II: a flexible proof assistant</a>- by terrytao - May 10, 2025</li>
-<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/09/%e5%88%bb%e6%9d%bf%e5%81%8f%e8%a7%81%e8%af%9e%e7%94%9f%e8%b7%af%e5%be%84/">刻板偏见诞生路径</a>- by onojyun - May 9, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/weekly-issue-347.html">科技爱好者周刊（第 347 期）：冷启动的破解之道</a>- by ruanyifeng - May 9, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/looking-at-cell-phones-while-eating/?utm_source=rss&utm_medium=rss&utm_campaign=looking-at-cell-phones-while-eating">边吃饭，边看手机</a>- by stephenleng - May 6, 2025</li>
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1e8ca795c95680678834fbcd08ab6ff7">2025#18 节日氛围</a>- by 1q43 - May 5, 2025</li>
