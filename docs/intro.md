@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=C2Uvbs1szWU"><img width="200px" src="http://img.youtube.com/vi/C2Uvbs1szWU/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=C2Uvbs1szWU">韓國大選：中國取代日本 成韓國民眾最不信任的鄰邦－ BBC News 中文</a></td>
+<td>Jun 3, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=EmDlOTq3yuA"><img width="200px" src="http://img.youtube.com/vi/EmDlOTq3yuA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EmDlOTq3yuA">哈佛畢業生致詞代表 中國籍學生蔣雨融引爭議－ BBC News 中文  #中國 #美國 #特朗普 #哈佛</a></td>
 <td>Jun 3, 2025</td></tr>
@@ -84,10 +87,7 @@ slug: /
 <td>Jun 2, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=YNXVtfCP2Wg"><img width="200px" src="http://img.youtube.com/vi/YNXVtfCP2Wg/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=YNXVtfCP2Wg">專訪股壇維權先鋒：David Webb臨別寄語「經濟自由不及昔日 信香港不死」－ BBC News 中文</a></td>
-<td>Jun 1, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=KgYhbrHvXic"><img width="200px" src="http://img.youtube.com/vi/KgYhbrHvXic/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KgYhbrHvXic">中国违反协议，特朗普威胁将恢复关税；美国断供C919发动机；原药监局局长落马；被称作车圈恒大？比亚迪表示追究到底【雪花每日新闻】</a></td>
-<td>May 31, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jun 1, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
