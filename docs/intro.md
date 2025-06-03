@@ -94,6 +94,7 @@ slug: /
 ## GitHub Trending
 ### All language
 
+* 【2025-06-03】[MODSetter / SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
 * 【2025-06-02】[googleapis / go-genai](https://github.com/googleapis/go-genai) - Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.
 * 【2025-06-01】[promptfoo / promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
 
@@ -108,17 +109,20 @@ slug: /
 
 ### Matlab
 
+* 【2025-06-03】[pulseq / pulseq](https://github.com/pulseq/pulseq) - Open source framework for pulse sequences
 
 ### Markdown
 
 
 ### Jupyter-notebook
 
+* 【2025-06-03】[mrdbourke / zero-to-mastery-ml](https://github.com/mrdbourke/zero-to-mastery-ml) - All course materials for the Zero to Mastery Machine Learning and Data Science course.
 * 【2025-06-02】[mml-book / mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
 * 【2025-06-01】[google-deepmind / mujoco_playground](https://github.com/google-deepmind/mujoco_playground) - An open-source library for GPU-accelerated robot learning and sim-to-real transfer.
 
 ### Javascript
 
+* 【2025-06-03】[google-ai-edge / model-explorer](https://github.com/google-ai-edge/model-explorer) - A modern model graph visualizer and debugger
 * 【2025-06-02】[discord / discord-api-docs](https://github.com/discord/discord-api-docs) - Official Discord API Documentation
 * 【2025-06-01】[netbymatt / ws4kp](https://github.com/netbymatt/ws4kp) - A web-based WeatherStar 4000
 * 【2025-06-01】[its-a-feature / Mythic](https://github.com/its-a-feature/Mythic) - A collaborative, multi-platform, red teaming framework
@@ -138,9 +142,11 @@ slug: /
 * 【2025-06-01】[punkpeye / awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 ### Go
 
+* 【2025-06-03】[dagu-org / dagu](https://github.com/dagu-org/dagu) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 
 ### C++
 
+* 【2025-06-03】[ikawrakow / ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
 * 【2025-06-01】[su2code / SU2](https://github.com/su2code/SU2) - SU2: An Open-Source Suite for Multiphysics Simulation and Design
 
 ### Html
