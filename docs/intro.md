@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=tAh6VldlIWE"><img width="200px" src="http://img.youtube.com/vi/tAh6VldlIWE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=tAh6VldlIWE">重溫「廣場四君子」劉曉波的六四見證－ BBC News 中文 #中國 #六四</a></td>
+<td>Jun 4, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=1jpWp5MXMCc"><img width="200px" src="http://img.youtube.com/vi/1jpWp5MXMCc/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1jpWp5MXMCc">六四临近，平台或主播纷纷停播或被停播以避风头；山东菏泽发生疑似无差别冲撞行人事件；乌克兰安全局再度袭击克里米亚大桥【雪花每日新闻】</a></td>
 <td>Jun 3, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 2, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Guf4_9K78Rg"><img width="200px" src="http://img.youtube.com/vi/Guf4_9K78Rg/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Guf4_9K78Rg">「香港永遠不死」：股壇長毛David Webb給香港的最後一席話 － BBC News 中文</a></td>
-<td>Jun 2, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=R2Gzffw05nw"><img width="200px" src="http://img.youtube.com/vi/R2Gzffw05nw/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=R2Gzffw05nw">美防長：中國武力征服台灣將造成「毀滅性」影響－ BBC News 中文 #中國 #美國 #台灣</a></td>
 <td>Jun 2, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
