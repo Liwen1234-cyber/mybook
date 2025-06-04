@@ -58,6 +58,15 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=_LnKdR96MTU"><img width="200px" src="http://img.youtube.com/vi/_LnKdR96MTU/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_LnKdR96MTU">歷經數月政治混亂 李在明當選韓國新任總統－ BBC News 中文</a></td>
+<td>Jun 4, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=m8w0mVI8P28"><img width="200px" src="http://img.youtube.com/vi/m8w0mVI8P28/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=m8w0mVI8P28">「六四」事件36週年 回顧BBC專訪劉曉波的見證－ BBC News 中文 #中國 #六四</a></td>
+<td>Jun 4, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=VeeVg2kdg1Y"><img width="200px" src="http://img.youtube.com/vi/VeeVg2kdg1Y/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=VeeVg2kdg1Y">歷經數月政治混亂 李在明當選韓國新任總統－ BBC News 中文</a></td>
+<td>Jun 4, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=tAh6VldlIWE"><img width="200px" src="http://img.youtube.com/vi/tAh6VldlIWE/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tAh6VldlIWE">重溫「廣場四君子」劉曉波的六四見證－ BBC News 中文 #中國 #六四</a></td>
 <td>Jun 4, 2025</td></tr>
@@ -78,15 +87,6 @@ slug: /
 <td>Jun 2, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=yKIqsWtzbro"><img width="200px" src="http://img.youtube.com/vi/yKIqsWtzbro/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yKIqsWtzbro">陸生赴台升學難重啟 夾在兩岸交流與統戰之間如何自處？－ BBC News 中文</a></td>
-<td>Jun 2, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=eGzwB1h9VbU"><img width="200px" src="http://img.youtube.com/vi/eGzwB1h9VbU/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=eGzwB1h9VbU">史達林新雕像重現俄羅斯 政界稱蘇聯未曾合法解體？－ BBC News 中文</a></td>
-<td>Jun 2, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=mV4MkrjXqgU"><img width="200px" src="http://img.youtube.com/vi/mV4MkrjXqgU/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mV4MkrjXqgU">從朝鮮偷運出來的手機長什麼樣？－ BBC News 中文  #朝鮮  #韓國</a></td>
-<td>Jun 2, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=Guf4_9K78Rg"><img width="200px" src="http://img.youtube.com/vi/Guf4_9K78Rg/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Guf4_9K78Rg">「香港永遠不死」：股壇長毛David Webb給香港的最後一席話 － BBC News 中文</a></td>
 <td>Jun 2, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
