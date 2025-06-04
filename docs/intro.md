@@ -58,8 +58,11 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=1jpWp5MXMCc"><img width="200px" src="http://img.youtube.com/vi/1jpWp5MXMCc/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=1jpWp5MXMCc">六四临近，平台或主播纷纷停播或被停播以避风头；山东菏泽发生疑似无差别冲撞行人事件；乌克兰安全局再度袭击克里米亚大桥【雪花每日新闻】</a></td>
+<td>Jun 3, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=C2Uvbs1szWU"><img width="200px" src="http://img.youtube.com/vi/C2Uvbs1szWU/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=C2Uvbs1szWU">韓國大選：中國取代日本 成韓國民眾最不信任的鄰邦－ BBC News 中文</a></td>
+<td><a href="https://www.youtube.com/watch?v=C2Uvbs1szWU">韓國大選「反中」情緒高漲 李在明當選或使中韓關係破冰－ BBC News 中文</a></td>
 <td>Jun 3, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=EmDlOTq3yuA"><img width="200px" src="http://img.youtube.com/vi/EmDlOTq3yuA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EmDlOTq3yuA">哈佛畢業生致詞代表 中國籍學生蔣雨融引爭議－ BBC News 中文  #中國 #美國 #特朗普 #哈佛</a></td>
@@ -84,10 +87,7 @@ slug: /
 <td>Jun 2, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=R2Gzffw05nw"><img width="200px" src="http://img.youtube.com/vi/R2Gzffw05nw/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=R2Gzffw05nw">美防長：中國武力征服台灣將造成「毀滅性」影響－ BBC News 中文 #中國 #美國 #台灣</a></td>
-<td>Jun 2, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=YNXVtfCP2Wg"><img width="200px" src="http://img.youtube.com/vi/YNXVtfCP2Wg/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=YNXVtfCP2Wg">專訪股壇維權先鋒：David Webb臨別寄語「經濟自由不及昔日 信香港不死」－ BBC News 中文</a></td>
-<td>Jun 1, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jun 2, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
