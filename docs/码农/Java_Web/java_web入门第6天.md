@@ -77,7 +77,7 @@ public Result page(@RequestParam(defaultValue = "1") Integer page, Integer pageS
 ### 删除员工
 ![Alt text](./images/java_web入门第6天06.png)
 
-<div align=center><img src="./images/java_web入门第6天07.png" height="300"></div>
+![](./images/java_web入门第6天07.png)
 
 
 ## 文件上传

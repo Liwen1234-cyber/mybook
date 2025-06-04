@@ -292,7 +292,7 @@ public void insert(Emp emp);
 ## Mybatis 动态 SQL
 ### 动态 SQL
 随着用户的输入或外部条件的变化而变化的 SQL 语句，我们称为 动态 SQL。
-<div align=center><img src="./images/java_web入门第5天07.png" height="260"></div>
+![](./images/java_web入门第5天07.png)
 
 ### `<if>`
 - `<if>`：用于判断条件是否成立。使用test属性进行条件判断，如果条件为true，则拼接SQL。
@@ -300,7 +300,7 @@ public void insert(Emp emp);
 ![Alt text](./images/java_web入门第5天08.png)
 - `<set>`： 动态地在行首插入 SET 关键字，并会删掉额外的逗号。（用在update语句中） ctr + alt + l 格式化 SQL 语句
 
-<div align=center><img src="./images/java_web入门第5天09.png" height="230"></div>
+![](./images/java_web入门第5天09.png)
 
 ### `<foreach>`
 - SQL 语法： `delete from emp where id in (1,2,3);`

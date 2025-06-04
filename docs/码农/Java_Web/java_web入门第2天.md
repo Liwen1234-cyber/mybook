@@ -255,7 +255,7 @@ data: {
 - 地址： http://yapi.smart-xwork.cn/
 - API接口管理、Mock服务
 ### 前端工程化
-<div align=center><img src="./images/java_web入门第2天08.png" height="300"></div>
+![](./images/java_web入门第2天08.png)
 
 前端工程化：是指在企业级的前端项目开发中，把前端开发所需的工具、技术、流程、经验等进行规范化、标准化。
 #### vue - cli
@@ -337,6 +337,6 @@ data: {
 - 官网：https://nginx.org/
 - 部署：将打包好的 dist 目录下的文件，复制到nginx安装目录的html目录下。
 - 启动：双击 nginx.exe 文件即可，Nginx服务器默认占用 80 端口号
-<div align=center><img src="./images/java_web入门第2天12.png" height="200"></div>
+![](./images/java_web入门第2天12.png)
 
 - Nginx默认占用80端口号，如果80端口号被占用，可以在nginx.conf中修改端口号。(netstat –ano | findStr  80)
