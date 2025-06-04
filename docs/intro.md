@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=HF1c_1KMs3A"><img width="200px" src="http://img.youtube.com/vi/HF1c_1KMs3A/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=HF1c_1KMs3A">六四36週年：香港維園悼念者被捕 在台港人復刻燭光晚會－ BBC News 中文</a></td>
+<td>Jun 4, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=_3s3761BNhU"><img width="200px" src="http://img.youtube.com/vi/_3s3761BNhU/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_3s3761BNhU">六四36週年 在台港人首度辦燭光晚會－ BBC News 中文 #香港  #六四</a></td>
+<td>Jun 4, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=_LnKdR96MTU"><img width="200px" src="http://img.youtube.com/vi/_LnKdR96MTU/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_LnKdR96MTU">歷經數月政治混亂 李在明當選韓國新任總統－ BBC News 中文</a></td>
 <td>Jun 4, 2025</td></tr>
@@ -81,13 +87,7 @@ slug: /
 <td>Jun 3, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=DqYnUCIgAPc"><img width="200px" src="http://img.youtube.com/vi/DqYnUCIgAPc/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=DqYnUCIgAPc">多名海棠作者被“远洋捕捞”，法律人士批量刑畸重；乌克兰无人机大规模突袭俄罗斯，俄轰炸机损失惨重；中共中央军委原副主席许其亮去世【雪花每日新闻】</a></td>
-<td>Jun 3, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=2SQ-1Q7Hrqc"><img width="200px" src="http://img.youtube.com/vi/2SQ-1Q7Hrqc/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=2SQ-1Q7Hrqc">科羅拉多州發生攻擊案 嫌疑男子喊「解放巴勒斯坦」－ BBC News 中文 #美國 #特朗普</a></td>
-<td>Jun 2, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=yKIqsWtzbro"><img width="200px" src="http://img.youtube.com/vi/yKIqsWtzbro/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=yKIqsWtzbro">陸生赴台升學難重啟 夾在兩岸交流與統戰之間如何自處？－ BBC News 中文</a></td>
-<td>Jun 2, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jun 3, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
