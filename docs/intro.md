@@ -58,6 +58,15 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=tXT6IzaFRro"><img width="200px" src="http://img.youtube.com/vi/tXT6IzaFRro/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=tXT6IzaFRro">烏克蘭無人機攻擊俄羅斯戰機畫面釋出－ BBC News 中文  #烏克蘭  #俄羅斯</a></td>
+<td>Jun 5, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=eKz5_J7PNgQ"><img width="200px" src="http://img.youtube.com/vi/eKz5_J7PNgQ/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=eKz5_J7PNgQ">中國同志伴侶在泰國完成婚禮夢想：「和你想在一起的人在一起」－ BBC News 中文</a></td>
+<td>Jun 5, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=o9tODcNBKNw"><img width="200px" src="http://img.youtube.com/vi/o9tODcNBKNw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=o9tODcNBKNw">兩岸緊張關係下 陸生赴台升學該如何自處？－ BBC News 中文 #中國 #台灣</a></td>
+<td>Jun 5, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=1N7IH1RyeA4"><img width="200px" src="http://img.youtube.com/vi/1N7IH1RyeA4/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=1N7IH1RyeA4">加拿大總理卡尼上台後 中加關係現轉機？對美政策將成關鍵－ BBC News 中文</a></td>
 <td>Jun 5, 2025</td></tr>
@@ -78,15 +87,6 @@ slug: /
 <td>Jun 4, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=_LnKdR96MTU"><img width="200px" src="http://img.youtube.com/vi/_LnKdR96MTU/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_LnKdR96MTU">歷經數月政治混亂 李在明當選韓國新任總統－ BBC News 中文</a></td>
-<td>Jun 4, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=m8w0mVI8P28"><img width="200px" src="http://img.youtube.com/vi/m8w0mVI8P28/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=m8w0mVI8P28">「六四」事件36週年 回顧BBC專訪劉曉波的見證－ BBC News 中文 #中國 #六四</a></td>
-<td>Jun 4, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=VeeVg2kdg1Y"><img width="200px" src="http://img.youtube.com/vi/VeeVg2kdg1Y/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=VeeVg2kdg1Y">歷經數月政治混亂 李在明當選韓國新任總統－ BBC News 中文</a></td>
-<td>Jun 4, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=tAh6VldlIWE"><img width="200px" src="http://img.youtube.com/vi/tAh6VldlIWE/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tAh6VldlIWE">重溫「廣場四君子」劉曉波的六四見證－ BBC News 中文 #中國 #六四</a></td>
 <td>Jun 4, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
