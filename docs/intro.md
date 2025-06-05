@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/while-parents-live-one-must-travel-far/?utm_source=rss&utm_medium=rss&utm_campaign=while-parents-live-one-must-travel-far">父母在，要远游</a>- by stephenleng - Jun 5, 2025</li>
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/06/03/decomposing-a-factorial-into-large-factors-second-version/">Decomposing a factorial into large factors &lpar;second version&rpar;</a>- by terrytao - Jun 4, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/03/%e8%8a%92%e7%a7%8d-ii/">芒种 II</a>- by onojyun - Jun 3, 2025</li>
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/06/02/on-the-number-of-exceptional-intervals-to-the-prime-number-theorem-in-short-intervals/">On the number of exceptional intervals to the prime number theorem in short intervals</a>- by terrytao - Jun 2, 2025</li>
@@ -41,8 +42,7 @@ slug: /
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/weekly-issue-347.html">科技爱好者周刊（第 347 期）：冷启动的破解之道</a>- by ruanyifeng - May 9, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/looking-at-cell-phones-while-eating/?utm_source=rss&utm_medium=rss&utm_campaign=looking-at-cell-phones-while-eating">边吃饭，边看手机</a>- by stephenleng - May 6, 2025</li>
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1e8ca795c95680678834fbcd08ab6ff7">2025#18 节日氛围</a>- by 1q43 - May 5, 2025</li>
-<li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/">Orders of infinity</a>- by terrytao - May 4, 2025</li>
-<li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/01/a-proof-of-concept-tool-to-verify-estimates/">A proof of concept tool to verify estimates</a>- by terrytao - May 2, 2025</li><!-- BLOG:END -->
+<li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/04/orders-of-infinity/">Orders of infinity</a>- by terrytao - May 4, 2025</li><!-- BLOG:END -->
 
 </details>
 
