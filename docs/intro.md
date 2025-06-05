@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=e7Y7OFapcsk"><img width="200px" src="http://img.youtube.com/vi/e7Y7OFapcsk/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=e7Y7OFapcsk">特朗普：我对马斯克非常失望【雪花快报】</a></td>
+<td>Jun 5, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=tXT6IzaFRro"><img width="200px" src="http://img.youtube.com/vi/tXT6IzaFRro/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tXT6IzaFRro">烏克蘭無人機攻擊俄羅斯戰機畫面釋出－ BBC News 中文  #烏克蘭  #俄羅斯</a></td>
 <td>Jun 5, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 4, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=_3s3761BNhU"><img width="200px" src="http://img.youtube.com/vi/_3s3761BNhU/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_3s3761BNhU">六四36週年 在台港人首度辦燭光晚會－ BBC News 中文 #香港  #六四</a></td>
-<td>Jun 4, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=_LnKdR96MTU"><img width="200px" src="http://img.youtube.com/vi/_LnKdR96MTU/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_LnKdR96MTU">歷經數月政治混亂 李在明當選韓國新任總統－ BBC News 中文</a></td>
 <td>Jun 4, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
