@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=1N7IH1RyeA4"><img width="200px" src="http://img.youtube.com/vi/1N7IH1RyeA4/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=1N7IH1RyeA4">加拿大總理卡尼上台後 中加關係現轉機？對美政策將成關鍵－ BBC News 中文</a></td>
+<td>Jun 5, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=ByWiKyr8pH0"><img width="200px" src="http://img.youtube.com/vi/ByWiKyr8pH0/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ByWiKyr8pH0">中國河南11歲女孩拯救妹妹避免被電動車撞瞬間－ BBC News 中文</a></td>
+<td>Jun 5, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Ald7zWYetb4"><img width="200px" src="http://img.youtube.com/vi/Ald7zWYetb4/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ald7zWYetb4">飢餓大象闖入泰國商店吃米餅後離去－ BBC News 中文</a></td>
 <td>Jun 5, 2025</td></tr>
@@ -81,13 +87,7 @@ slug: /
 <td>Jun 4, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=tAh6VldlIWE"><img width="200px" src="http://img.youtube.com/vi/tAh6VldlIWE/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tAh6VldlIWE">重溫「廣場四君子」劉曉波的六四見證－ BBC News 中文 #中國 #六四</a></td>
-<td>Jun 4, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=1jpWp5MXMCc"><img width="200px" src="http://img.youtube.com/vi/1jpWp5MXMCc/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1jpWp5MXMCc">六四临近，平台或主播纷纷停播或被停播以避风头；山东菏泽发生疑似无差别冲撞行人事件；乌克兰安全局再度袭击克里米亚大桥【雪花每日新闻】</a></td>
-<td>Jun 3, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=C2Uvbs1szWU"><img width="200px" src="http://img.youtube.com/vi/C2Uvbs1szWU/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=C2Uvbs1szWU">韓國大選「反中」情緒高漲 李在明當選或使中韓關係破冰－ BBC News 中文</a></td>
-<td>Jun 3, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jun 4, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
