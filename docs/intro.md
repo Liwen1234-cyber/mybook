@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=Ald7zWYetb4"><img width="200px" src="http://img.youtube.com/vi/Ald7zWYetb4/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Ald7zWYetb4">飢餓大象闖入泰國商店吃米餅後離去－ BBC News 中文</a></td>
+<td>Jun 5, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=bQ3y1rmO-hk"><img width="200px" src="http://img.youtube.com/vi/bQ3y1rmO-hk/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=bQ3y1rmO-hk">政府围堵，民众纪念，六四事件三十六周年全梳理；武汉大学食堂发生无差别持刀砍人事件【雪花每日新闻】</a></td>
+<td>Jun 5, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=HF1c_1KMs3A"><img width="200px" src="http://img.youtube.com/vi/HF1c_1KMs3A/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HF1c_1KMs3A">六四36週年：香港維園悼念者被捕 在台港人復刻燭光晚會－ BBC News 中文</a></td>
 <td>Jun 4, 2025</td></tr>
@@ -81,12 +87,6 @@ slug: /
 <td>Jun 3, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=C2Uvbs1szWU"><img width="200px" src="http://img.youtube.com/vi/C2Uvbs1szWU/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=C2Uvbs1szWU">韓國大選「反中」情緒高漲 李在明當選或使中韓關係破冰－ BBC News 中文</a></td>
-<td>Jun 3, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=EmDlOTq3yuA"><img width="200px" src="http://img.youtube.com/vi/EmDlOTq3yuA/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EmDlOTq3yuA">哈佛畢業生致詞代表 中國籍學生蔣雨融引爭議－ BBC News 中文  #中國 #美國 #特朗普 #哈佛</a></td>
-<td>Jun 3, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=DqYnUCIgAPc"><img width="200px" src="http://img.youtube.com/vi/DqYnUCIgAPc/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=DqYnUCIgAPc">多名海棠作者被“远洋捕捞”，法律人士批量刑畸重；乌克兰无人机大规模突袭俄罗斯，俄轰炸机损失惨重；中共中央军委原副主席许其亮去世【雪花每日新闻】</a></td>
 <td>Jun 3, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
