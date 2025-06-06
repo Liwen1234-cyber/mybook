@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=q3OcF_EkxJ4"><img width="200px" src="http://img.youtube.com/vi/q3OcF_EkxJ4/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=q3OcF_EkxJ4">習近平與特朗普通電話 前美貿易代表：「具表演性質 仍充滿不確定性」－ BBC News 中文</a></td>
+<td>Jun 6, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=3O3jn4z01lE"><img width="200px" src="http://img.youtube.com/vi/3O3jn4z01lE/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3O3jn4z01lE">中國無人駕駛卡車產業為何正崛起？－ BBC News 中文</a></td>
 <td>Jun 6, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 5, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Ald7zWYetb4"><img width="200px" src="http://img.youtube.com/vi/Ald7zWYetb4/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ald7zWYetb4">飢餓大象闖入泰國商店吃米餅後離去－ BBC News 中文</a></td>
-<td>Jun 5, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=bQ3y1rmO-hk"><img width="200px" src="http://img.youtube.com/vi/bQ3y1rmO-hk/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=bQ3y1rmO-hk">政府围堵，民众纪念，六四事件三十六周年全梳理；武汉大学食堂发生无差别持刀砍人事件【雪花每日新闻】</a></td>
 <td>Jun 5, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
