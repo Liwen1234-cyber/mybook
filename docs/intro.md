@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=lXrnK-3mDzU"><img width="200px" src="http://img.youtube.com/vi/lXrnK-3mDzU/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=lXrnK-3mDzU">從偏見到和解：台灣陸配子女在「國安疑慮」下的身份認同－ BBC News 中文</a></td>
+<td>Jun 6, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=q3OcF_EkxJ4"><img width="200px" src="http://img.youtube.com/vi/q3OcF_EkxJ4/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=q3OcF_EkxJ4">習近平與特朗普通電話 前美貿易代表：「具表演性質 仍充滿不確定性」－ BBC News 中文</a></td>
 <td>Jun 6, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 5, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ByWiKyr8pH0"><img width="200px" src="http://img.youtube.com/vi/ByWiKyr8pH0/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ByWiKyr8pH0">中國河南11歲女孩拯救妹妹避免被電動車撞瞬間－ BBC News 中文</a></td>
-<td>Jun 5, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=Ald7zWYetb4"><img width="200px" src="http://img.youtube.com/vi/Ald7zWYetb4/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Ald7zWYetb4">飢餓大象闖入泰國商店吃米餅後離去－ BBC News 中文</a></td>
 <td>Jun 5, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
