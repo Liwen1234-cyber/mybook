@@ -94,17 +94,24 @@ slug: /
 ## GitHub Trending
 ### All language
 
+* 【2025-06-06】[iamgio / quarkdown](https://github.com/iamgio/quarkdown) - 🪐 Markdown with superpowers — from ideas to presentations, articles and books.
+* 【2025-06-06】[modelcontextprotocol / ruby-sdk](https://github.com/modelcontextprotocol/ruby-sdk) - The official Ruby SDK for the Model Context Protocol. Maintained in collaboration with Shopify.
 * 【2025-06-03】[MODSetter / SurfSense](https://github.com/MODSetter/SurfSense) - Open Source Alternative to NotebookLM / Perplexity / Glean, connected to external sources such as search engines (Tavily, Linkup), Slack, Linear, Notion, YouTube, GitHub, Discord and more.
 * 【2025-06-02】[googleapis / go-genai](https://github.com/googleapis/go-genai) - Google Gen AI Go SDK provides an interface for developers to integrate Google's generative models into their Go applications.
 * 【2025-06-01】[promptfoo / promptfoo](https://github.com/promptfoo/promptfoo) - Test your prompts, agents, and RAGs. Red teaming, pentesting, and vulnerability scanning for LLMs. Compare performance of GPT, Claude, Gemini, Llama, and more. Simple declarative configs with command line and CI/CD integration.
 
 ### Java
 
+* 【2025-06-06】[apache / fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
 * 【2025-06-05】[joey-zhou / xiaozhi-esp32-server-java](https://github.com/joey-zhou/xiaozhi-esp32-server-java) - 小智ESP32的Java企业级管理平台，提供设备监控、音色定制、角色切换和对话记录管理的前后端及服务端一体化解决方案
 * 【2025-06-01】[openmrs / openmrs-core](https://github.com/openmrs/openmrs-core) - OpenMRS API and web application code
 
 ### Python
 
+* 【2025-06-06】[dreammis / social-auto-upload](https://github.com/dreammis/social-auto-upload) - 自动化上传视频到社交媒体：抖音、小红书、视频号、tiktok、youtube、bilibili
+* 【2025-06-06】[HKUDS / LightRAG](https://github.com/HKUDS/LightRAG) - "LightRAG: Simple and Fast Retrieval-Augmented Generation"
+* 【2025-06-06】[LMCache / LMCache](https://github.com/LMCache/LMCache) - Redis for LLMs
+* 【2025-06-06】[HKUDS / AutoAgent](https://github.com/HKUDS/AutoAgent) - "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework"
 * 【2025-06-05】[conda / conda](https://github.com/conda/conda) - A system-level, binary package and environment manager running on all major operating systems and platforms.
 * 【2025-06-05】[mit-han-lab / nunchaku](https://github.com/mit-han-lab/nunchaku) - [ICLR2025 Spotlight] SVDQuant: Absorbing Outliers by Low-Rank Components for 4-Bit Diffusion Models
 * 【2025-06-04】[mofeng-git / One-KVM](https://github.com/mofeng-git/One-KVM) - One-KVM 是基于廉价计算机硬件和 PiKVM 软件二次开发的 BIOS 级远程控制项目。
@@ -113,6 +120,7 @@ slug: /
 
 ### Matlab
 
+* 【2025-06-06】[CERN / TIGRE](https://github.com/CERN/TIGRE) - TIGRE: Tomographic Iterative GPU-based Reconstruction Toolbox
 * 【2025-06-04】[mathworks / MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub) - This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and industry directions.
 * 【2025-06-03】[pulseq / pulseq](https://github.com/pulseq/pulseq) - Open source framework for pulse sequences
 
@@ -121,6 +129,7 @@ slug: /
 
 ### Jupyter-notebook
 
+* 【2025-06-06】[AnswerDotAI / llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
 * 【2025-06-05】[py-why / EconML](https://github.com/py-why/EconML) - ALICE (Automated Learning and Intelligence for Causation and Economics) is a Microsoft Research project aimed at applying Artificial Intelligence concepts to economic decision making. One of its goals is to build a toolkit that combines state-of-the-art machine learning techniques with econometrics in order to bring automation to complex causal …
 * 【2025-06-05】[Liuziyu77 / Visual-RFT](https://github.com/Liuziyu77/Visual-RFT) - Official repository of 'Visual-RFT: Visual Reinforcement Fine-Tuning' & 'Visual-ARFT: Visual Agentic Reinforcement Fine-Tuning'’
 * 【2025-06-05】[Lifelong-Robot-Learning / LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO) - Benchmarking Knowledge Transfer in Lifelong Robot Learning
@@ -161,6 +170,7 @@ slug: /
 
 ### C++
 
+* 【2025-06-06】[unitreerobotics / unitree_sdk2](https://github.com/unitreerobotics/unitree_sdk2) - Unitree robot sdk version 2. https://support.unitree.com/home/zh/developer
 * 【2025-06-03】[ikawrakow / ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) - llama.cpp fork with additional SOTA quants and improved performance
 * 【2025-06-01】[su2code / SU2](https://github.com/su2code/SU2) - SU2: An Open-Source Suite for Multiphysics Simulation and Design
 
