@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=Pbe4yETnCNE"><img width="200px" src="http://img.youtube.com/vi/Pbe4yETnCNE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Pbe4yETnCNE">【时评】面对愈加迷惑的贸易战与更加动荡的世道，普通人该如何自处？| 贸易战 | 关税 | 中国经济 | 经济危机 | 习近平 | 特朗普 | 中美关系</a></td>
+<td>Jun 5, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=e7Y7OFapcsk"><img width="200px" src="http://img.youtube.com/vi/e7Y7OFapcsk/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=e7Y7OFapcsk">特朗普：我对马斯克非常失望【雪花快报】</a></td>
 <td>Jun 5, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 5, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=HF1c_1KMs3A"><img width="200px" src="http://img.youtube.com/vi/HF1c_1KMs3A/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HF1c_1KMs3A">六四36週年：香港維園悼念者被捕 在台港人復刻燭光晚會－ BBC News 中文</a></td>
-<td>Jun 4, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=_3s3761BNhU"><img width="200px" src="http://img.youtube.com/vi/_3s3761BNhU/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_3s3761BNhU">六四36週年 在台港人首度辦燭光晚會－ BBC News 中文 #香港  #六四</a></td>
 <td>Jun 4, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
