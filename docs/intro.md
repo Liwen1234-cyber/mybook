@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=3O3jn4z01lE"><img width="200px" src="http://img.youtube.com/vi/3O3jn4z01lE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3O3jn4z01lE">中國無人駕駛卡車產業為何正崛起？－ BBC News 中文</a></td>
+<td>Jun 6, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Pbe4yETnCNE"><img width="200px" src="http://img.youtube.com/vi/Pbe4yETnCNE/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Pbe4yETnCNE">【时评】面对愈加迷惑的贸易战与更加动荡的世道，普通人该如何自处？| 贸易战 | 关税 | 中国经济 | 经济危机 | 习近平 | 特朗普 | 中美关系</a></td>
 <td>Jun 5, 2025</td></tr>
@@ -84,10 +87,7 @@ slug: /
 <td>Jun 5, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=bQ3y1rmO-hk"><img width="200px" src="http://img.youtube.com/vi/bQ3y1rmO-hk/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bQ3y1rmO-hk">政府围堵，民众纪念，六四事件三十六周年全梳理；武汉大学食堂发生无差别持刀砍人事件【雪花每日新闻】</a></td>
-<td>Jun 5, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=HF1c_1KMs3A"><img width="200px" src="http://img.youtube.com/vi/HF1c_1KMs3A/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=HF1c_1KMs3A">六四36週年：香港維園悼念者被捕 在台港人復刻燭光晚會－ BBC News 中文</a></td>
-<td>Jun 4, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jun 5, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
