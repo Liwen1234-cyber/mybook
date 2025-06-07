@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=GDcS655ePkQ"><img width="200px" src="http://img.youtube.com/vi/GDcS655ePkQ/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=GDcS655ePkQ">哪些食物適合冷凍？哪些不適合？－ BBC News 中文</a></td>
+<td>Jun 7, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=XBtenoVzIOE"><img width="200px" src="http://img.youtube.com/vi/XBtenoVzIOE/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=XBtenoVzIOE">「舉報潮」再起：俄羅斯重現蘇聯時代文化－ BBC News 中文</a></td>
 <td>Jun 7, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 5, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=tXT6IzaFRro"><img width="200px" src="http://img.youtube.com/vi/tXT6IzaFRro/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=tXT6IzaFRro">烏克蘭無人機攻擊俄羅斯戰機畫面釋出－ BBC News 中文  #烏克蘭  #俄羅斯</a></td>
-<td>Jun 5, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=eKz5_J7PNgQ"><img width="200px" src="http://img.youtube.com/vi/eKz5_J7PNgQ/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=eKz5_J7PNgQ">中國同志伴侶在泰國完成婚禮夢想：「和你想在一起的人在一起」－ BBC News 中文</a></td>
 <td>Jun 5, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
