@@ -58,6 +58,15 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=XBtenoVzIOE"><img width="200px" src="http://img.youtube.com/vi/XBtenoVzIOE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=XBtenoVzIOE">「舉報潮」再起：俄羅斯重現蘇聯時代文化－ BBC News 中文</a></td>
+<td>Jun 7, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=s7CtK_Fj06w"><img width="200px" src="http://img.youtube.com/vi/s7CtK_Fj06w/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=s7CtK_Fj06w">特朗普和馬斯克為何起爭執？－ BBC News 中文 #美國 #特朗普</a></td>
+<td>Jun 7, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=ITMGaj4fUws"><img width="200px" src="http://img.youtube.com/vi/ITMGaj4fUws/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ITMGaj4fUws">特朗普马斯克反目成仇，俄罗斯称愿意给马斯克提供庇护；就业寒冬，年轻人开始流行“付费假装上班”；习近平邀请特朗普访华【雪花每日新闻】</a></td>
+<td>Jun 7, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=lXrnK-3mDzU"><img width="200px" src="http://img.youtube.com/vi/lXrnK-3mDzU/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=lXrnK-3mDzU">從偏見到和解：台灣陸配子女在「國安疑慮」下的身份認同－ BBC News 中文</a></td>
 <td>Jun 6, 2025</td></tr>
@@ -78,15 +87,6 @@ slug: /
 <td>Jun 5, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=eKz5_J7PNgQ"><img width="200px" src="http://img.youtube.com/vi/eKz5_J7PNgQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eKz5_J7PNgQ">中國同志伴侶在泰國完成婚禮夢想：「和你想在一起的人在一起」－ BBC News 中文</a></td>
-<td>Jun 5, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=o9tODcNBKNw"><img width="200px" src="http://img.youtube.com/vi/o9tODcNBKNw/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=o9tODcNBKNw">兩岸緊張關係下 陸生赴台升學該如何自處？－ BBC News 中文 #中國 #台灣</a></td>
-<td>Jun 5, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=1N7IH1RyeA4"><img width="200px" src="http://img.youtube.com/vi/1N7IH1RyeA4/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1N7IH1RyeA4">加拿大總理卡尼上台後 中加關係現轉機？對美政策將成關鍵－ BBC News 中文</a></td>
-<td>Jun 5, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=ByWiKyr8pH0"><img width="200px" src="http://img.youtube.com/vi/ByWiKyr8pH0/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ByWiKyr8pH0">中國河南11歲女孩拯救妹妹避免被電動車撞瞬間－ BBC News 中文</a></td>
 <td>Jun 5, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
