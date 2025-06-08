@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=07vZ_Mod8To"><img width="200px" src="http://img.youtube.com/vi/07vZ_Mod8To/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=07vZ_Mod8To">习近平接受十一世班禅“拜见”；高考拉开序幕，全国一卷作文题目要写家国精神；中国恢复向美国、欧盟的稀土出口【雪花每日新闻】</a></td>
+<td>Jun 8, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=GDcS655ePkQ"><img width="200px" src="http://img.youtube.com/vi/GDcS655ePkQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=GDcS655ePkQ">哪些食物適合冷凍？哪些不適合？－ BBC News 中文</a></td>
 <td>Jun 7, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 5, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=e7Y7OFapcsk"><img width="200px" src="http://img.youtube.com/vi/e7Y7OFapcsk/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=e7Y7OFapcsk">特朗普：我对马斯克非常失望【雪花快报】</a></td>
-<td>Jun 5, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=tXT6IzaFRro"><img width="200px" src="http://img.youtube.com/vi/tXT6IzaFRro/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=tXT6IzaFRro">烏克蘭無人機攻擊俄羅斯戰機畫面釋出－ BBC News 中文  #烏克蘭  #俄羅斯</a></td>
 <td>Jun 5, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
