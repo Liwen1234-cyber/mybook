@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=PndRar20Fpc"><img width="200px" src="http://img.youtube.com/vi/PndRar20Fpc/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PndRar20Fpc">洛杉磯為何發生暴動？特朗普為何派遣國民兵？－ BBC News 中文 #美國 #特朗普</a></td>
+<td>Jun 9, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=07vZ_Mod8To"><img width="200px" src="http://img.youtube.com/vi/07vZ_Mod8To/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=07vZ_Mod8To">习近平接受十一世班禅“拜见”；高考拉开序幕，全国一卷作文题目要写家国精神；中国恢复向美国、欧盟的稀土出口【雪花每日新闻】</a></td>
 <td>Jun 8, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 6, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Pbe4yETnCNE"><img width="200px" src="http://img.youtube.com/vi/Pbe4yETnCNE/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Pbe4yETnCNE">【时评】面对愈加迷惑的贸易战与更加动荡的世道，普通人该如何自处？| 贸易战 | 关税 | 中国经济 | 经济危机 | 习近平 | 特朗普 | 中美关系</a></td>
-<td>Jun 5, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=e7Y7OFapcsk"><img width="200px" src="http://img.youtube.com/vi/e7Y7OFapcsk/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=e7Y7OFapcsk">特朗普：我对马斯克非常失望【雪花快报】</a></td>
 <td>Jun 5, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
