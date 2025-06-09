@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=eThd1olRsTg"><img width="200px" src="http://img.youtube.com/vi/eThd1olRsTg/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=eThd1olRsTg">台灣陸配子女在「國安疑慮」下的身份認同－ BBC News 中文 #中國 #台灣</a></td>
+<td>Jun 9, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=6PasLo0vb6A"><img width="200px" src="http://img.youtube.com/vi/6PasLo0vb6A/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=6PasLo0vb6A">洛杉磯示威：特朗普打擊無證移民爆抗議潮 加州州長斥此舉越權－ BBC News 中文</a></td>
+<td>Jun 9, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=PndRar20Fpc"><img width="200px" src="http://img.youtube.com/vi/PndRar20Fpc/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PndRar20Fpc">洛杉磯為何發生暴動？特朗普為何派遣國民兵？－ BBC News 中文 #美國 #特朗普</a></td>
 <td>Jun 9, 2025</td></tr>
@@ -81,13 +87,7 @@ slug: /
 <td>Jun 6, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=q3OcF_EkxJ4"><img width="200px" src="http://img.youtube.com/vi/q3OcF_EkxJ4/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=q3OcF_EkxJ4">習近平與特朗普通電話 前美貿易代表：「具表演性質 仍充滿不確定性」－ BBC News 中文</a></td>
-<td>Jun 6, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=3O3jn4z01lE"><img width="200px" src="http://img.youtube.com/vi/3O3jn4z01lE/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3O3jn4z01lE">中國無人駕駛卡車產業為何正崛起？－ BBC News 中文</a></td>
-<td>Jun 6, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=Pbe4yETnCNE"><img width="200px" src="http://img.youtube.com/vi/Pbe4yETnCNE/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Pbe4yETnCNE">【时评】面对愈加迷惑的贸易战与更加动荡的世道，普通人该如何自处？| 贸易战 | 关税 | 中国经济 | 经济危机 | 习近平 | 特朗普 | 中美关系</a></td>
-<td>Jun 5, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jun 6, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
