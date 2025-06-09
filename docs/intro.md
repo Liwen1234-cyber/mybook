@@ -13,12 +13,14 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/09/%e4%b8%89%e5%af%92%e5%9b%9b%e6%b8%a9/">三寒四温</a>- by onojyun - Jun 9, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/07/%e4%b8%8b%e9%99%90/">下限</a>- by onojyun - Jun 7, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html">科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用</a>- by ruanyifeng - Jun 6, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/while-parents-live-one-must-travel-far/?utm_source=rss&utm_medium=rss&utm_campaign=while-parents-live-one-must-travel-far">父母在，要远游</a>- by stephenleng - Jun 5, 2025</li>
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/06/03/decomposing-a-factorial-into-large-factors-second-version/">Decomposing a factorial into large factors &lpar;second version&rpar;</a>- by terrytao - Jun 4, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/03/%e8%8a%92%e7%a7%8d-ii/">芒种 II</a>- by onojyun - Jun 3, 2025</li>
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/06/02/on-the-number-of-exceptional-intervals-to-the-prime-number-theorem-in-short-intervals/">On the number of exceptional intervals to the prime number theorem in short intervals</a>- by terrytao - Jun 2, 2025</li>
+<li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/205ca795c956807192efdee9c237e678">2025#22 镜中自我</a>- by 1q43 - Jun 2, 2025</li>
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/">A Lean companion to “Analysis I”</a>- by terrytao - May 31, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/weekly-issue-350.html">科技爱好者周刊（第 350 期）：Java 三十周年</a>- by ruanyifeng - May 30, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/substitutes-for-religion-in-china/?utm_source=rss&utm_medium=rss&utm_campaign=substitutes-for-religion-in-china">论中国人的宗教代用品</a>- by stephenleng - May 29, 2025</li>
@@ -37,12 +39,10 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/14/%e7%bd%a0/">罠</a>- by onojyun - May 14, 2025</li>
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/12/some-variants-of-the-periodic-tiling-conjecture/">Some variants of the periodic tiling conjecture</a>- by terrytao - May 13, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/zhejiang-people-read-schopenhauer/?utm_source=rss&utm_medium=rss&utm_campaign=zhejiang-people-read-schopenhauer">浙江人，读叔本华吧！</a>- by stephenleng - May 12, 2025</li>
-<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/12/%e6%ad%bb%e7%8c%ab%e9%97%ad%e7%8e%af/">死猫闭环</a>- by onojyun - May 12, 2025</li>
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1f0ca795c95680a592cdd26d14353afa">2025#19 AI不是朋友</a>- by 1q43 - May 12, 2025</li>
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/">A tool to verify estimates, II: a flexible proof assistant</a>- by terrytao - May 10, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/weekly-issue-347.html">科技爱好者周刊（第 347 期）：冷启动的破解之道</a>- by ruanyifeng - May 9, 2025</li>
-<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/looking-at-cell-phones-while-eating/?utm_source=rss&utm_medium=rss&utm_campaign=looking-at-cell-phones-while-eating">边吃饭，边看手机</a>- by stephenleng - May 6, 2025</li>
-<li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1e8ca795c95680678834fbcd08ab6ff7">2025#18 节日氛围</a>- by 1q43 - May 5, 2025</li><!-- BLOG:END -->
+<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/looking-at-cell-phones-while-eating/?utm_source=rss&utm_medium=rss&utm_campaign=looking-at-cell-phones-while-eating">边吃饭，边看手机</a>- by stephenleng - May 6, 2025</li><!-- BLOG:END -->
 
 </details>
 
