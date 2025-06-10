@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=pb2-f9B1_PM"><img width="200px" src="http://img.youtube.com/vi/pb2-f9B1_PM/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=pb2-f9B1_PM">习近平女儿习明泽被曝与白俄总统共进晚餐；中国爆发史上最大数据泄露案；加州再爆发大规模反移民执法抗议【雪花每日新闻】</a></td>
+<td>Jun 10, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=irxcuN_xImo"><img width="200px" src="http://img.youtube.com/vi/irxcuN_xImo/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=irxcuN_xImo">中國微短劇俘獲全球觀眾：「土味卻讓人上癮」－ BBC News 中文</a></td>
 <td>Jun 9, 2025</td></tr>
@@ -84,10 +87,7 @@ slug: /
 <td>Jun 7, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ITMGaj4fUws"><img width="200px" src="http://img.youtube.com/vi/ITMGaj4fUws/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ITMGaj4fUws">特朗普马斯克反目成仇，俄罗斯称愿意给马斯克提供庇护；就业寒冬，年轻人开始流行“付费假装上班”；习近平邀请特朗普访华【雪花每日新闻】</a></td>
-<td>Jun 7, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=lXrnK-3mDzU"><img width="200px" src="http://img.youtube.com/vi/lXrnK-3mDzU/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=lXrnK-3mDzU">從偏見到和解：台灣陸配子女在「國安疑慮」下的身份認同－ BBC News 中文</a></td>
-<td>Jun 6, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jun 7, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
