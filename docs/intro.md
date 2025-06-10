@@ -94,6 +94,7 @@ slug: /
 ## GitHub Trending
 ### All language
 
+* 【2025-06-10】[eythaann / Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 * 【2025-06-09】[tensorzero / tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
 * 【2025-06-08】[jwohlwend / boltz](https://github.com/jwohlwend/boltz) - Official repository for the Boltz biomolecular interaction models
 * 【2025-06-08】[Daymychen / art-design-pro](https://github.com/Daymychen/art-design-pro) - A Vue 3 admin dashboard template using Vite + TypeScript + Element Plus | vue3 admin | vue-admin — focused on user experience and visual design.
@@ -117,6 +118,7 @@ slug: /
 
 ### Python
 
+* 【2025-06-10】[Comfy-Org / ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
 * 【2025-06-09】[r-three / common-pile](https://github.com/r-three/common-pile) - Code for collecting, processing, and preparing datasets for the Common Pile
 * 【2025-06-09】[langchain-ai / langmem](https://github.com/langchain-ai/langmem) - 
 * 【2025-06-08】[haris-musa / excel-mcp-server](https://github.com/haris-musa/excel-mcp-server) - A Model Context Protocol server for Excel file manipulation
@@ -184,6 +186,7 @@ slug: /
 * 【2025-06-01】[punkpeye / awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 ### Go
 
+* 【2025-06-10】[akvorado / akvorado](https://github.com/akvorado/akvorado) - Flow collector, enricher and visualizer
 * 【2025-06-09】[steveiliop56 / tinyauth](https://github.com/steveiliop56/tinyauth) - The simplest way to protect your apps with a login screen.
 * 【2025-06-07】[Glimesh / broadcast-box](https://github.com/Glimesh/broadcast-box) - A broadcast, in a box.
 * 【2025-06-07】[langgenius / dify-plugin-daemon](https://github.com/langgenius/dify-plugin-daemon) - 
@@ -191,6 +194,7 @@ slug: /
 
 ### C++
 
+* 【2025-06-10】[diasurgical / DevilutionX](https://github.com/diasurgical/DevilutionX) - Diablo build for modern operating systems
 * 【2025-06-09】[wjakob / instant-meshes](https://github.com/wjakob/instant-meshes) - Interactive field-aligned mesh generator
 * 【2025-06-07】[kvcache-ai / Mooncake](https://github.com/kvcache-ai/Mooncake) - Mooncake is the serving platform for Kimi, a leading LLM service provided by Moonshot AI.
 * 【2025-06-07】[YuriSizuku / OnscripterYuri](https://github.com/YuriSizuku/OnscripterYuri) - An enhancement ONScripter project porting to many platforms, especially web.
@@ -202,6 +206,7 @@ slug: /
 
 ### Html
 
+* 【2025-06-10】[GetPublii / Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 * 【2025-06-09】[robiningelbrecht / statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your Strava data.
 * 【2025-06-07】[TheKing-OfTime / YandexMusicModClient](https://github.com/TheKing-OfTime/YandexMusicModClient) - Modification for Yandex Music Desktop application to add some features
 
