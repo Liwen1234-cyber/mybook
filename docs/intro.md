@@ -58,6 +58,18 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=M_brvXyTAJQ"><img width="200px" src="http://img.youtube.com/vi/M_brvXyTAJQ/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=M_brvXyTAJQ">美軍派遣海軍陸戰隊至洛杉磯　引發憲政爭議關注－ BBC News 中文</a></td>
+<td>Jun 10, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=Ch7DhKCHmww"><img width="200px" src="http://img.youtube.com/vi/Ch7DhKCHmww/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Ch7DhKCHmww">兩岸緊張關係下 「陸配」子女如何和家庭、和自己和解？－ BBC News 中文 #中國 #台灣 #陸配</a></td>
+<td>Jun 10, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=eRz-RR9mP14"><img width="200px" src="http://img.youtube.com/vi/eRz-RR9mP14/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=eRz-RR9mP14">澳洲媒體記者在洛杉磯報導抗議時中彈－ BBC News 中文</a></td>
+<td>Jun 10, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=iBM1SZQBRTk"><img width="200px" src="http://img.youtube.com/vi/iBM1SZQBRTk/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=iBM1SZQBRTk">特朗普稱「若有需要」會派更多國民兵至加州－ BBC News 中文 #美國 #特朗普</a></td>
+<td>Jun 10, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ANPJtPyYkW4"><img width="200px" src="http://img.youtube.com/vi/ANPJtPyYkW4/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ANPJtPyYkW4">中國推行「媽媽崗」為何引發爭議？－ BBC News 中文</a></td>
 <td>Jun 10, 2025</td></tr>
@@ -75,19 +87,7 @@ slug: /
 <td>Jun 9, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=PndRar20Fpc"><img width="200px" src="http://img.youtube.com/vi/PndRar20Fpc/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PndRar20Fpc">洛杉磯為何發生暴動？特朗普為何派遣國民兵？－ BBC News 中文 #美國 #特朗普</a></td>
-<td>Jun 9, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=07vZ_Mod8To"><img width="200px" src="http://img.youtube.com/vi/07vZ_Mod8To/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=07vZ_Mod8To">习近平接受十一世班禅“拜见”；高考拉开序幕，全国一卷作文题目要写家国精神；中国恢复向美国、欧盟的稀土出口【雪花每日新闻】</a></td>
-<td>Jun 8, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=GDcS655ePkQ"><img width="200px" src="http://img.youtube.com/vi/GDcS655ePkQ/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=GDcS655ePkQ">哪些食物適合冷凍？哪些不適合？－ BBC News 中文</a></td>
-<td>Jun 7, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=XBtenoVzIOE"><img width="200px" src="http://img.youtube.com/vi/XBtenoVzIOE/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=XBtenoVzIOE">「舉報潮」再起：俄羅斯重現蘇聯時代文化－ BBC News 中文</a></td>
-<td>Jun 7, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=s7CtK_Fj06w"><img width="200px" src="http://img.youtube.com/vi/s7CtK_Fj06w/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=s7CtK_Fj06w">特朗普和馬斯克為何起爭執？－ BBC News 中文 #美國 #特朗普</a></td>
-<td>Jun 7, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jun 9, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
