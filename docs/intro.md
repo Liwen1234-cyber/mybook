@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=ANPJtPyYkW4"><img width="200px" src="http://img.youtube.com/vi/ANPJtPyYkW4/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ANPJtPyYkW4">中國推行「媽媽崗」為何引發爭議？－ BBC News 中文</a></td>
+<td>Jun 10, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=pb2-f9B1_PM"><img width="200px" src="http://img.youtube.com/vi/pb2-f9B1_PM/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pb2-f9B1_PM">习近平女儿习明泽被曝与白俄总统共进晚餐；中国爆发史上最大数据泄露案；加州再爆发大规模反移民执法抗议【雪花每日新闻】</a></td>
 <td>Jun 10, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 7, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=s7CtK_Fj06w"><img width="200px" src="http://img.youtube.com/vi/s7CtK_Fj06w/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=s7CtK_Fj06w">特朗普和馬斯克為何起爭執？－ BBC News 中文 #美國 #特朗普</a></td>
-<td>Jun 7, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=ITMGaj4fUws"><img width="200px" src="http://img.youtube.com/vi/ITMGaj4fUws/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ITMGaj4fUws">特朗普马斯克反目成仇，俄罗斯称愿意给马斯克提供庇护；就业寒冬，年轻人开始流行“付费假装上班”；习近平邀请特朗普访华【雪花每日新闻】</a></td>
 <td>Jun 7, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
