@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=PU3fL5GVwbo"><img width="200px" src="http://img.youtube.com/vi/PU3fL5GVwbo/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=PU3fL5GVwbo">安徽原常委被调查，罪名包括违规编印个人文集；社保参保户籍地限制全面取消；馆长陈之汉声称中国没有禁止翻墙【雪花每日新闻】</a></td>
+<td>Jun 10, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=nYJnG7Khc6k"><img width="200px" src="http://img.youtube.com/vi/nYJnG7Khc6k/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nYJnG7Khc6k">馬斯克父親：建議兒子「恢復」與特朗普的關係 － BBC News 中文</a></td>
 <td>Jun 10, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 10, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=irxcuN_xImo"><img width="200px" src="http://img.youtube.com/vi/irxcuN_xImo/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=irxcuN_xImo">中國微短劇俘獲全球觀眾：「土味卻讓人上癮」－ BBC News 中文</a></td>
-<td>Jun 9, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=eThd1olRsTg"><img width="200px" src="http://img.youtube.com/vi/eThd1olRsTg/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=eThd1olRsTg">台灣陸配子女在「國安疑慮」下的身份認同－ BBC News 中文 #中國 #台灣</a></td>
 <td>Jun 9, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
