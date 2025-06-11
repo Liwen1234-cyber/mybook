@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=owpu5650wsQ"><img width="200px" src="http://img.youtube.com/vi/owpu5650wsQ/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=owpu5650wsQ">以色列部隊攔截「環保少女」通貝里加沙援助船－ BBC News 中文 #加沙  #以色列</a></td>
+<td>Jun 11, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=YfbVaosmdzs"><img width="200px" src="http://img.youtube.com/vi/YfbVaosmdzs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YfbVaosmdzs">男子闖入希斯路機場滑行道被制伏－ BBC News 中文 #英國</a></td>
+<td>Jun 11, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=PU3fL5GVwbo"><img width="200px" src="http://img.youtube.com/vi/PU3fL5GVwbo/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PU3fL5GVwbo">安徽原常委被调查，罪名包括违规编印个人文集；社保参保户籍地限制全面取消；馆长陈之汉声称中国没有禁止翻墙【雪花每日新闻】</a></td>
 <td>Jun 10, 2025</td></tr>
@@ -81,13 +87,7 @@ slug: /
 <td>Jun 10, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ANPJtPyYkW4"><img width="200px" src="http://img.youtube.com/vi/ANPJtPyYkW4/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ANPJtPyYkW4">中國推行「媽媽崗」為何引發爭議？－ BBC News 中文</a></td>
-<td>Jun 10, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=pb2-f9B1_PM"><img width="200px" src="http://img.youtube.com/vi/pb2-f9B1_PM/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=pb2-f9B1_PM">习近平女儿习明泽被曝与白俄总统共进晚餐；中国爆发史上最大数据泄露案；加州再爆发大规模反移民执法抗议【雪花每日新闻】</a></td>
-<td>Jun 10, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=irxcuN_xImo"><img width="200px" src="http://img.youtube.com/vi/irxcuN_xImo/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=irxcuN_xImo">中國微短劇俘獲全球觀眾：「土味卻讓人上癮」－ BBC News 中文</a></td>
-<td>Jun 9, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jun 10, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
