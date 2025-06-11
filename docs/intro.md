@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=z59Ais5Z8N0"><img width="200px" src="http://img.youtube.com/vi/z59Ais5Z8N0/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=z59Ais5Z8N0">奧地利校園槍擊案致11人死亡 數十年來最致命襲擊事件－ BBC News 中文</a></td>
+<td>Jun 11, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Q3aH3B2qxJs"><img width="200px" src="http://img.youtube.com/vi/Q3aH3B2qxJs/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Q3aH3B2qxJs">洛杉磯實施宵禁 警方大規模逮捕抗議者－ BBC News 中文</a></td>
 <td>Jun 11, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 10, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Ch7DhKCHmww"><img width="200px" src="http://img.youtube.com/vi/Ch7DhKCHmww/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Ch7DhKCHmww">兩岸緊張關係下 「陸配」子女如何和家庭、和自己和解？－ BBC News 中文 #中國 #台灣 #陸配</a></td>
-<td>Jun 10, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=eRz-RR9mP14"><img width="200px" src="http://img.youtube.com/vi/eRz-RR9mP14/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=eRz-RR9mP14">澳洲媒體記者在洛杉磯報導抗議時中彈－ BBC News 中文</a></td>
 <td>Jun 10, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
