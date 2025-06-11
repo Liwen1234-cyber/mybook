@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=Q3aH3B2qxJs"><img width="200px" src="http://img.youtube.com/vi/Q3aH3B2qxJs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Q3aH3B2qxJs">洛杉磯實施宵禁 警方大規模逮捕抗議者－ BBC News 中文</a></td>
+<td>Jun 11, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=3KQqfaB8vvg"><img width="200px" src="http://img.youtube.com/vi/3KQqfaB8vvg/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3KQqfaB8vvg">機器人移動7500噸上海老建築群 － BBC News 中文</a></td>
+<td>Jun 11, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=owpu5650wsQ"><img width="200px" src="http://img.youtube.com/vi/owpu5650wsQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=owpu5650wsQ">以色列部隊攔截「環保少女」通貝里加沙援助船－ BBC News 中文 #加沙  #以色列</a></td>
 <td>Jun 11, 2025</td></tr>
@@ -81,12 +87,6 @@ slug: /
 <td>Jun 10, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=eRz-RR9mP14"><img width="200px" src="http://img.youtube.com/vi/eRz-RR9mP14/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=eRz-RR9mP14">澳洲媒體記者在洛杉磯報導抗議時中彈－ BBC News 中文</a></td>
-<td>Jun 10, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=iBM1SZQBRTk"><img width="200px" src="http://img.youtube.com/vi/iBM1SZQBRTk/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=iBM1SZQBRTk">特朗普稱「若有需要」會派更多國民兵至加州－ BBC News 中文 #美國 #特朗普</a></td>
-<td>Jun 10, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=ANPJtPyYkW4"><img width="200px" src="http://img.youtube.com/vi/ANPJtPyYkW4/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ANPJtPyYkW4">中國推行「媽媽崗」為何引發爭議？－ BBC News 中文</a></td>
 <td>Jun 10, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
