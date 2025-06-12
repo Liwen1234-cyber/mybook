@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=P4rQEzqzbwg"><img width="200px" src="http://img.youtube.com/vi/P4rQEzqzbwg/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=P4rQEzqzbwg">印度航空客機起飛後墜毀居民區  超過200人死亡－ BBC News 中文</a></td>
+<td>Jun 12, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=h_aPHeLI1rY"><img width="200px" src="http://img.youtube.com/vi/h_aPHeLI1rY/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=h_aPHeLI1rY">香港封禁台灣手遊《逆統戰》 指其煽動「顛覆共產政權」－ BBC News 中文</a></td>
 <td>Jun 12, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 11, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/3KQqfaB8vvg"><img width="200px" src="http://img.youtube.com/vi/3KQqfaB8vvg/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/3KQqfaB8vvg">機器人移動7500噸上海老建築群 － BBC News 中文</a></td>
-<td>Jun 11, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=owpu5650wsQ"><img width="200px" src="http://img.youtube.com/vi/owpu5650wsQ/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=owpu5650wsQ">以色列部隊攔截「環保少女」通貝里加沙援助船－ BBC News 中文 #加沙  #以色列</a></td>
 <td>Jun 11, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
