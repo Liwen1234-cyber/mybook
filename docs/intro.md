@@ -94,6 +94,7 @@ slug: /
 ## GitHub Trending
 ### All language
 
+* 【2025-06-12】[jdepoix / youtube-transcript-api](https://github.com/jdepoix/youtube-transcript-api) - This is a python API which allows you to get the transcript/subtitles for a given YouTube video. It also works for automatically generated subtitles and it does not require an API key nor a headless browser, like other selenium based solutions do!
 * 【2025-06-11】[ourongxing / newsnow](https://github.com/ourongxing/newsnow) - Elegant reading of real-time and hottest news
 * 【2025-06-10】[eythaann / Seelen-UI](https://github.com/eythaann/Seelen-UI) - The Fully Customizable Desktop Environment for Windows 10/11.
 * 【2025-06-09】[tensorzero / tensorzero](https://github.com/tensorzero/tensorzero) - TensorZero creates a feedback loop for optimizing LLM applications — turning production data into smarter, faster, and cheaper models.
@@ -111,6 +112,7 @@ slug: /
 
 ### Java
 
+* 【2025-06-12】[noties / Markwon](https://github.com/noties/Markwon) - Android markdown library (no WebView)
 * 【2025-06-09】[GeyserMC / Hydraulic](https://github.com/GeyserMC/Hydraulic) - A companion mod to Geyser which allows for Bedrock players to join modded Minecraft: Java Edition servers.
 * 【2025-06-07】[DragonKingpin / Hydra](https://github.com/DragonKingpin/Hydra) - Hydra九头龙，面向PB级别知识库取数、情报系统、数据平台、大规模控制调度系统。建设云计算资源管理、任务/服务统一调度、数仓、微服务化、中台基建系统化能力。——以实现大规模分布式爬虫搜索引擎为例。
 * 【2025-06-06】[apache / fory](https://github.com/apache/fory) - A blazingly fast multi-language serialization framework powered by JIT and zero-copy.
@@ -119,6 +121,9 @@ slug: /
 
 ### Python
 
+* 【2025-06-12】[openai / openai-agents-python](https://github.com/openai/openai-agents-python) - A lightweight, powerful framework for multi-agent workflows
+* 【2025-06-12】[NVIDIA / physicsnemo](https://github.com/NVIDIA/physicsnemo) - Open-source deep-learning framework for building, training, and fine-tuning deep learning models using state-of-the-art Physics-ML methods
+* 【2025-06-12】[vllm-project / vllm-ascend](https://github.com/vllm-project/vllm-ascend) - Community maintained hardware plugin for vLLM on Ascend
 * 【2025-06-11】[confident-ai / deepteam](https://github.com/confident-ai/deepteam) - The LLM Red Teaming Framework
 * 【2025-06-11】[canopyai / Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS) - Towards Human-Sounding Speech
 * 【2025-06-10】[Comfy-Org / ComfyUI-Manager](https://github.com/Comfy-Org/ComfyUI-Manager) - ComfyUI-Manager is an extension designed to enhance the usability of ComfyUI. It offers management functions to install, remove, disable, and enable various custom nodes of ComfyUI. Furthermore, this extension provides a hub feature and convenience functions to access a wide range of information within ComfyUI.
@@ -143,11 +148,13 @@ slug: /
 
 ### Markdown
 
+* 【2025-06-12】[swiftlang / swift-migration-guide](https://github.com/swiftlang/swift-migration-guide) - 
 * 【2025-06-09】[walkccc / CLRS](https://github.com/walkccc/CLRS) - 📚 Solutions to Introduction to Algorithms Third Edition
 * 【2025-06-07】[ppy / osu-wiki](https://github.com/ppy/osu-wiki) - home of the osu! wiki
 
 ### Jupyter-notebook
 
+* 【2025-06-12】[huggingface / smol-course](https://github.com/huggingface/smol-course) - A course on aligning smol models.
 * 【2025-06-11】[FareedKhan-dev / all-rag-techniques](https://github.com/FareedKhan-dev/all-rag-techniques) - Implementation of all RAG techniques in a simpler way
 * 【2025-06-09】[maxim5 / cs229-2018-autumn](https://github.com/maxim5/cs229-2018-autumn) - All notes and materials for the CS229: Machine Learning course by Stanford University
 * 【2025-06-06】[AnswerDotAI / llms-txt](https://github.com/AnswerDotAI/llms-txt) - The /llms.txt file, helping language models use your website
@@ -161,6 +168,7 @@ slug: /
 
 ### Javascript
 
+* 【2025-06-12】[ruvnet / rUv-dev](https://github.com/ruvnet/rUv-dev) - Ai power Dev using the rUv approach
 * 【2025-06-11】[adrianhajdin / react-movies](https://github.com/adrianhajdin/react-movies) - Dive straight into React—from basic JSX to advanced hooks—and build a real, modern app in this hands-on crash course!
 * 【2025-06-08】[eyaltoledano / claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
 * 【2025-06-07】[sebastiancarlos / beachpatrol](https://github.com/sebastiancarlos/beachpatrol) - 🏝️ A CLI tool to replace and automate your daily web browser.
@@ -176,6 +184,8 @@ slug: /
 
 ### C
 
+* 【2025-06-12】[aws / pgactive](https://github.com/aws/pgactive) - 
+* 【2025-06-12】[glouw / ctl](https://github.com/glouw/ctl) - The C Template Library
 * 【2025-06-04】[mrexodia / TitanHide](https://github.com/mrexodia/TitanHide) - Hiding kernel-driver for x86/x64.
 
 
@@ -200,6 +210,7 @@ slug: /
 
 ### C++
 
+* 【2025-06-12】[ml-explore / mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
 * 【2025-06-11】[gabrielsoule / resonarium](https://github.com/gabrielsoule/resonarium) - An expressive, semi-modular, and comprehensive physical modeling/waveguide synthesizer.
 * 【2025-06-10】[diasurgical / DevilutionX](https://github.com/diasurgical/DevilutionX) - Diablo build for modern operating systems
 * 【2025-06-09】[wjakob / instant-meshes](https://github.com/wjakob/instant-meshes) - Interactive field-aligned mesh generator
@@ -213,6 +224,7 @@ slug: /
 
 ### Html
 
+* 【2025-06-12】[novitechie / jetbra](https://github.com/novitechie/jetbra) - 
 * 【2025-06-11】[lowcoder-org / lowcoder](https://github.com/lowcoder-org/lowcoder) - 🔥 🔥 🔥 The Open Source Retool, Tooljet and Appsmith Alternative
 * 【2025-06-10】[GetPublii / Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 * 【2025-06-09】[robiningelbrecht / statistics-for-strava](https://github.com/robiningelbrecht/statistics-for-strava) - Self-hosted, open-source dashboard for your Strava data.
