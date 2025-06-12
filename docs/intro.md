@@ -58,23 +58,26 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=rIBy9biPWxw"><img width="200px" src="http://img.youtube.com/vi/rIBy9biPWxw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rIBy9biPWxw">馬斯克坦言對特朗普言辭「過火」稱已感後悔－ BBC News 中文</a></td>
+<td>Jun 12, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Z-zYBeoG4UY"><img width="200px" src="http://img.youtube.com/vi/Z-zYBeoG4UY/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Z-zYBeoG4UY">55%:10%！中美伦敦贸易谈判达成共识；国有邮储银行定期存款爆雷；马斯克向特朗普道歉【雪花每日新闻】</a></td>
 <td>Jun 12, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=z59Ais5Z8N0"><img width="200px" src="http://img.youtube.com/vi/z59Ais5Z8N0/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=z59Ais5Z8N0">奧地利校園槍擊案致11人死亡 數十年來最致命襲擊事件－ BBC News 中文</a></td>
 <td>Jun 11, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/Q3aH3B2qxJs"><img width="200px" src="http://img.youtube.com/vi/Q3aH3B2qxJs/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/Q3aH3B2qxJs">洛杉磯實施宵禁 警方大規模逮捕抗議者－ BBC News 中文</a></td>
+<tr><td><a href="https://www.youtube.com/watch?v=Q3aH3B2qxJs"><img width="200px" src="http://img.youtube.com/vi/Q3aH3B2qxJs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Q3aH3B2qxJs">洛杉磯實施宵禁 警方大規模逮捕抗議者－ BBC News 中文</a></td>
 <td>Jun 11, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/3KQqfaB8vvg"><img width="200px" src="http://img.youtube.com/vi/3KQqfaB8vvg/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/3KQqfaB8vvg">機器人移動7500噸上海老建築群 － BBC News 中文</a></td>
+<tr><td><a href="https://www.youtube.com/watch?v=3KQqfaB8vvg"><img width="200px" src="http://img.youtube.com/vi/3KQqfaB8vvg/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=3KQqfaB8vvg">機器人移動7500噸上海老建築群 － BBC News 中文</a></td>
 <td>Jun 11, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=owpu5650wsQ"><img width="200px" src="http://img.youtube.com/vi/owpu5650wsQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=owpu5650wsQ">以色列部隊攔截「環保少女」通貝里加沙援助船－ BBC News 中文 #加沙  #以色列</a></td>
 <td>Jun 11, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/YfbVaosmdzs"><img width="200px" src="http://img.youtube.com/vi/YfbVaosmdzs/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/YfbVaosmdzs">男子闖入希斯路機場滑行道被制伏－ BBC News 中文 #英國</a></td>
+<tr><td><a href="https://www.youtube.com/watch?v=YfbVaosmdzs"><img width="200px" src="http://img.youtube.com/vi/YfbVaosmdzs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=YfbVaosmdzs">男子闖入希斯路機場滑行道被制伏－ BBC News 中文 #英國</a></td>
 <td>Jun 11, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=PU3fL5GVwbo"><img width="200px" src="http://img.youtube.com/vi/PU3fL5GVwbo/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=PU3fL5GVwbo">安徽原常委被调查，罪名包括违规编印个人文集；社保参保户籍地限制全面取消；馆长陈之汉声称中国没有禁止翻墙【雪花每日新闻】</a></td>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 10, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=pydlZ42j9GA"><img width="200px" src="http://img.youtube.com/vi/pydlZ42j9GA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=pydlZ42j9GA">中國微短劇出海：一分鐘「爽片」如何征服全球觀眾－ BBC News 中文</a></td>
-<td>Jun 10, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=M_brvXyTAJQ"><img width="200px" src="http://img.youtube.com/vi/M_brvXyTAJQ/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=M_brvXyTAJQ">美軍派遣海軍陸戰隊至洛杉磯　引發憲政爭議關注－ BBC News 中文</a></td>
 <td>Jun 10, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
