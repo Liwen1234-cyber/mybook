@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html">科技爱好者周刊（第 352 期）：Bug 追踪系统的正确样子</a>- by ruanyifeng - Jun 12, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/do-parents-have-the-right-to-approve-their-childrens-marriage/?utm_source=rss&utm_medium=rss&utm_campaign=do-parents-have-the-right-to-approve-their-childrens-marriage">父母是否有子女婚姻的批准权？</a>- by stephenleng - Jun 11, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/11/%e5%b8%a6%e7%9d%80%e7%ad%94%e6%a1%88%e6%8f%90%e9%97%ae/">带着答案提问</a>- by onojyun - Jun 11, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/09/%e4%b8%89%e5%af%92%e5%9b%9b%e6%b8%a9/">三寒四温</a>- by onojyun - Jun 9, 2025</li>
@@ -41,8 +42,7 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/12/some-variants-of-the-periodic-tiling-conjecture/">Some variants of the periodic tiling conjecture</a>- by terrytao - May 13, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/zhejiang-people-read-schopenhauer/?utm_source=rss&utm_medium=rss&utm_campaign=zhejiang-people-read-schopenhauer">浙江人，读叔本华吧！</a>- by stephenleng - May 12, 2025</li>
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1f0ca795c95680a592cdd26d14353afa">2025#19 AI不是朋友</a>- by 1q43 - May 12, 2025</li>
-<li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/">A tool to verify estimates, II: a flexible proof assistant</a>- by terrytao - May 10, 2025</li>
-<li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/weekly-issue-347.html">科技爱好者周刊（第 347 期）：冷启动的破解之道</a>- by ruanyifeng - May 9, 2025</li><!-- BLOG:END -->
+<li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/09/a-tool-to-verify-estimates-ii-a-flexible-proof-assistant/">A tool to verify estimates, II: a flexible proof assistant</a>- by terrytao - May 10, 2025</li><!-- BLOG:END -->
 
 </details>
 
