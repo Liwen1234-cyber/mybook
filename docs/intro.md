@@ -58,6 +58,18 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=d7loX-1fOEo"><img width="200px" src="http://img.youtube.com/vi/d7loX-1fOEo/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=d7loX-1fOEo">印度航空空難 英國籍男子成唯一倖存者－ BBC News 中文</a></td>
+<td>Jun 13, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=_2M-hzvNWls"><img width="200px" src="http://img.youtube.com/vi/_2M-hzvNWls/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=_2M-hzvNWls">以色列對伊朗發動大規模襲擊  德黑蘭建築冒出濃煙－ BBC News 中文</a></td>
+<td>Jun 13, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=deBfDxG20Ag"><img width="200px" src="http://img.youtube.com/vi/deBfDxG20Ag/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=deBfDxG20Ag">中國掌握的稀土籌碼為何對美國重要？－ BBC News 中文</a></td>
+<td>Jun 13, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=FztJ_OE1rao"><img width="200px" src="http://img.youtube.com/vi/FztJ_OE1rao/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=FztJ_OE1rao">印度空難逾200人死亡 可能造成墜機原因為何？－ BBC News 中文</a></td>
+<td>Jun 13, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/pGcUJAXRj9M"><img width="200px" src="http://img.youtube.com/vi/pGcUJAXRj9M/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/pGcUJAXRj9M">印度客機墜毀後升起濃濃黑煙－ BBC News 中文 #印度</a></td>
 <td>Jun 13, 2025</td></tr>
@@ -75,19 +87,7 @@ slug: /
 <td>Jun 12, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/rPyesRKrZik"><img width="200px" src="http://img.youtube.com/vi/rPyesRKrZik/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/rPyesRKrZik">飛往倫敦的印度客機墜毀  載有242人－ BBC News 中文</a></td>
-<td>Jun 12, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=1vFn0PBV6xI"><img width="200px" src="http://img.youtube.com/vi/1vFn0PBV6xI/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1vFn0PBV6xI">台灣首宗海纜刑案宣判 中國籍船長是否與「灰色作戰」有關？－ BBC News 中文 #中國 #台灣</a></td>
-<td>Jun 12, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=rIBy9biPWxw"><img width="200px" src="http://img.youtube.com/vi/rIBy9biPWxw/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=rIBy9biPWxw">馬斯克坦言對特朗普言辭「過火」稱已感後悔－ BBC News 中文</a></td>
-<td>Jun 12, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=Z-zYBeoG4UY"><img width="200px" src="http://img.youtube.com/vi/Z-zYBeoG4UY/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Z-zYBeoG4UY">55%:10%！中美伦敦贸易谈判达成共识；国有邮储银行定期存款爆雷；马斯克向特朗普道歉【雪花每日新闻】</a></td>
-<td>Jun 12, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=z59Ais5Z8N0"><img width="200px" src="http://img.youtube.com/vi/z59Ais5Z8N0/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=z59Ais5Z8N0">奧地利校園槍擊案致11人死亡 數十年來最致命襲擊事件－ BBC News 中文</a></td>
-<td>Jun 11, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jun 12, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
