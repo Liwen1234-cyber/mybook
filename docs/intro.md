@@ -58,8 +58,14 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/pGcUJAXRj9M"><img width="200px" src="http://img.youtube.com/vi/pGcUJAXRj9M/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/pGcUJAXRj9M">印度客機墜毀後升起濃濃黑煙－ BBC News 中文 #印度</a></td>
+<td>Jun 13, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/HQqwdLSKL5w"><img width="200px" src="http://img.youtube.com/vi/HQqwdLSKL5w/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/HQqwdLSKL5w">印度空難英國籍生還者墜機後走離現場畫面－ BBC News 中文 #印度  #空難</a></td>
+<td>Jun 13, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=P4rQEzqzbwg"><img width="200px" src="http://img.youtube.com/vi/P4rQEzqzbwg/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=P4rQEzqzbwg">印度航空客機起飛後墜毀居民區  超過200人死亡－ BBC News 中文</a></td>
+<td><a href="https://www.youtube.com/watch?v=P4rQEzqzbwg">印度航空波音客機起飛後墜毀  超過200人死亡－ BBC News 中文</a></td>
 <td>Jun 12, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=h_aPHeLI1rY"><img width="200px" src="http://img.youtube.com/vi/h_aPHeLI1rY/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=h_aPHeLI1rY">香港封禁台灣手遊《逆統戰》 指其煽動「顛覆共產政權」－ BBC News 中文</a></td>
@@ -81,12 +87,6 @@ slug: /
 <td>Jun 12, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=z59Ais5Z8N0"><img width="200px" src="http://img.youtube.com/vi/z59Ais5Z8N0/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=z59Ais5Z8N0">奧地利校園槍擊案致11人死亡 數十年來最致命襲擊事件－ BBC News 中文</a></td>
-<td>Jun 11, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/Q3aH3B2qxJs"><img width="200px" src="http://img.youtube.com/vi/Q3aH3B2qxJs/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/Q3aH3B2qxJs">洛杉磯實施宵禁 警方大規模逮捕抗議者－ BBC News 中文</a></td>
-<td>Jun 11, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/3KQqfaB8vvg"><img width="200px" src="http://img.youtube.com/vi/3KQqfaB8vvg/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/3KQqfaB8vvg">機器人移動7500噸上海老建築群 － BBC News 中文</a></td>
 <td>Jun 11, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
