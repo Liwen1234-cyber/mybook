@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/QY7m7qutUEA"><img width="200px" src="http://img.youtube.com/vi/QY7m7qutUEA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/QY7m7qutUEA">伊朗向以色列發射導彈報復  特拉維夫升起濃煙－ BBC News 中文</a></td>
+<td>Jun 13, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=d7loX-1fOEo"><img width="200px" src="http://img.youtube.com/vi/d7loX-1fOEo/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=d7loX-1fOEo">印度航空空難 英國籍男子成唯一倖存者－ BBC News 中文</a></td>
 <td>Jun 13, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 12, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/JeEf73aKU_E"><img width="200px" src="http://img.youtube.com/vi/JeEf73aKU_E/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/JeEf73aKU_E">中國重慶電單車停車場發生大火－ BBC News 中文 #中國</a></td>
-<td>Jun 12, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/rPyesRKrZik"><img width="200px" src="http://img.youtube.com/vi/rPyesRKrZik/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/rPyesRKrZik">飛往倫敦的印度客機墜毀  載有242人－ BBC News 中文</a></td>
 <td>Jun 12, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
