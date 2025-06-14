@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=KKWi4Z_cwdA"><img width="200px" src="http://img.youtube.com/vi/KKWi4Z_cwdA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KKWi4Z_cwdA">罗帅宇离奇坠楼重上热搜，官方通报疑点重重；河北外国语学院延迟放假，学生聚众抗议；以色列伊朗战争爆发，伊朗军队总司令被“斩首”【雪花每日新闻】</a></td>
+<td>Jun 14, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/QY7m7qutUEA"><img width="200px" src="http://img.youtube.com/vi/QY7m7qutUEA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/QY7m7qutUEA">伊朗向以色列發射導彈報復  特拉維夫升起濃煙－ BBC News 中文</a></td>
 <td>Jun 13, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 12, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=h_aPHeLI1rY"><img width="200px" src="http://img.youtube.com/vi/h_aPHeLI1rY/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=h_aPHeLI1rY">香港封禁台灣手遊《逆統戰》 指其煽動「顛覆共產政權」－ BBC News 中文</a></td>
-<td>Jun 12, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/JeEf73aKU_E"><img width="200px" src="http://img.youtube.com/vi/JeEf73aKU_E/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/JeEf73aKU_E">中國重慶電單車停車場發生大火－ BBC News 中文 #中國</a></td>
 <td>Jun 12, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
