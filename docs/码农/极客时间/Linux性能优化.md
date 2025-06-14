@@ -140,7 +140,6 @@
 其实说到性能工具，就不得不提性能领域的大师布伦丹·格雷格（Brendan Gregg）。他不仅是动态追踪工具 DTrace
 的作者，还开发了许许多多的性能工具。我相信你一定见过他所描绘的 Linux 性能工具图谱：
 
-![img](./images/9ee6c1c5d88b0468af1a3280865a6b7a.png)
 
 （图片来自[brendangregg.com](http://www.brendangregg.com/Perf/linux_perf_tools_full.png)）
 
