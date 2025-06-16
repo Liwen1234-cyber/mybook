@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=AfdIpUxIHNE"><img width="200px" src="http://img.youtube.com/vi/AfdIpUxIHNE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=AfdIpUxIHNE">以色列伊朗激烈互炸  以總理呼籲伊朗人推翻神權統治－ BBC News 中文</a></td>
+<td>Jun 16, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=5ouPGI9JVTg"><img width="200px" src="http://img.youtube.com/vi/5ouPGI9JVTg/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5ouPGI9JVTg">中國湖南實習醫生羅帥宇墜亡案為何引發質疑－ BBC News 中文</a></td>
+<td>Jun 16, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/iA52bdwYCow"><img width="200px" src="http://img.youtube.com/vi/iA52bdwYCow/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/iA52bdwYCow">情侶破壞意大利博物館藝術品「梵谷椅」－ BBC News 中文</a></td>
 <td>Jun 16, 2025</td></tr>
@@ -81,12 +87,6 @@ slug: /
 <td>Jun 14, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/QY7m7qutUEA"><img width="200px" src="http://img.youtube.com/vi/QY7m7qutUEA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/QY7m7qutUEA">伊朗向以色列發射導彈報復  特拉維夫升起濃煙－ BBC News 中文</a></td>
-<td>Jun 13, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=d7loX-1fOEo"><img width="200px" src="http://img.youtube.com/vi/d7loX-1fOEo/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=d7loX-1fOEo">印度航空空難 英國籍男子成唯一倖存者－ BBC News 中文</a></td>
-<td>Jun 13, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=_2M-hzvNWls"><img width="200px" src="http://img.youtube.com/vi/_2M-hzvNWls/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=_2M-hzvNWls">以色列對伊朗發動大規模襲擊  德黑蘭建築冒出濃煙－ BBC News 中文</a></td>
 <td>Jun 13, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
