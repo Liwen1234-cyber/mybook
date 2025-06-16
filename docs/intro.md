@@ -20,7 +20,6 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/do-parents-have-the-right-to-approve-their-childrens-marriage/?utm_source=rss&utm_medium=rss&utm_campaign=do-parents-have-the-right-to-approve-their-childrens-marriage">父母是否有子女婚姻的批准权？</a>- by stephenleng - Jun 11, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/11/%e5%b8%a6%e7%9d%80%e7%ad%94%e6%a1%88%e6%8f%90%e9%97%ae/">带着答案提问</a>- by onojyun - Jun 11, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/09/%e4%b8%89%e5%af%92%e5%9b%9b%e6%b8%a9/">三寒四温</a>- by onojyun - Jun 9, 2025</li>
-<li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/20cca795c956800ab72ae370ef3fe886">2025#23 悠然自得</a>- by 1q43 - Jun 9, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/07/%e4%b8%8b%e9%99%90/">下限</a>- by onojyun - Jun 7, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html">科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用</a>- by ruanyifeng - Jun 6, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/while-parents-live-one-must-travel-far/?utm_source=rss&utm_medium=rss&utm_campaign=while-parents-live-one-must-travel-far">父母在，要远游</a>- by stephenleng - Jun 5, 2025</li>
@@ -42,7 +41,8 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/18/%e5%b0%8f%e5%ad%a6%e7%94%9f/">小学生</a>- by onojyun - May 18, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/weekly-issue-348.html">科技爱好者周刊（第 348 期）：李飞飞，从移民到 AI 明星</a>- by ruanyifeng - May 16, 2025</li>
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/12/some-variants-of-the-periodic-tiling-conjecture/">Some variants of the periodic tiling conjecture</a>- by terrytao - May 13, 2025</li>
-<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/zhejiang-people-read-schopenhauer/?utm_source=rss&utm_medium=rss&utm_campaign=zhejiang-people-read-schopenhauer">浙江人，读叔本华吧！</a>- by stephenleng - May 12, 2025</li><!-- BLOG:END -->
+<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/zhejiang-people-read-schopenhauer/?utm_source=rss&utm_medium=rss&utm_campaign=zhejiang-people-read-schopenhauer">浙江人，读叔本华吧！</a>- by stephenleng - May 12, 2025</li>
+<li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1f0ca795c95680a592cdd26d14353afa">2025#19 AI不是朋友</a>- by 1q43 - May 12, 2025</li><!-- BLOG:END -->
 
 </details>
 
