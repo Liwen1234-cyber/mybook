@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=b6tkv5vp2Og"><img width="200px" src="http://img.youtube.com/vi/b6tkv5vp2Og/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=b6tkv5vp2Og">特朗普舉行盛大閱兵  美國多地爆發「不要國王」抗議－ BBC News 中文</a></td>
+<td>Jun 16, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/bLtu474gWOc"><img width="200px" src="http://img.youtube.com/vi/bLtu474gWOc/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/bLtu474gWOc">德黑蘭居民房屋遭擊毀：「我仍聞得到火藥味」－ BBC News 中文 #伊朗  #以色列</a></td>
+<td>Jun 16, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=QLnHYE_Yhvg"><img width="200px" src="http://img.youtube.com/vi/QLnHYE_Yhvg/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QLnHYE_Yhvg">罗帅宇父亲提出众多疑点反驳官方通报；以色列伊朗战争升级，特朗普呼吁和谈；爱国网友闯入馆长直播送红旗，大骂馆长“台独狗”【雪花每日新闻】</a></td>
 <td>Jun 16, 2025</td></tr>
@@ -81,12 +87,6 @@ slug: /
 <td>Jun 13, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=deBfDxG20Ag"><img width="200px" src="http://img.youtube.com/vi/deBfDxG20Ag/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=deBfDxG20Ag">中國掌握的稀土籌碼為何對美國重要？－ BBC News 中文</a></td>
-<td>Jun 13, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=FztJ_OE1rao"><img width="200px" src="http://img.youtube.com/vi/FztJ_OE1rao/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FztJ_OE1rao">印度空難逾200人死亡 可能造成墜機原因為何？－ BBC News 中文</a></td>
-<td>Jun 13, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/pGcUJAXRj9M"><img width="200px" src="http://img.youtube.com/vi/pGcUJAXRj9M/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/pGcUJAXRj9M">印度客機墜毀後升起濃濃黑煙－ BBC News 中文 #印度</a></td>
 <td>Jun 13, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
