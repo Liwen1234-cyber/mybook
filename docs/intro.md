@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/iA52bdwYCow"><img width="200px" src="http://img.youtube.com/vi/iA52bdwYCow/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/iA52bdwYCow">情侶破壞意大利博物館藝術品「梵谷椅」－ BBC News 中文</a></td>
+<td>Jun 16, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=b6tkv5vp2Og"><img width="200px" src="http://img.youtube.com/vi/b6tkv5vp2Og/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=b6tkv5vp2Og">特朗普舉行盛大閱兵  美國多地爆發「不要國王」抗議－ BBC News 中文</a></td>
 <td>Jun 16, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 13, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=_2M-hzvNWls"><img width="200px" src="http://img.youtube.com/vi/_2M-hzvNWls/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=_2M-hzvNWls">以色列對伊朗發動大規模襲擊  德黑蘭建築冒出濃煙－ BBC News 中文</a></td>
-<td>Jun 13, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=deBfDxG20Ag"><img width="200px" src="http://img.youtube.com/vi/deBfDxG20Ag/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=deBfDxG20Ag">中國掌握的稀土籌碼為何對美國重要？－ BBC News 中文</a></td>
 <td>Jun 13, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
