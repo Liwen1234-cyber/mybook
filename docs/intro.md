@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/gKonK4RgrK0"><img width="200px" src="http://img.youtube.com/vi/gKonK4RgrK0/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/gKonK4RgrK0">以色列空襲 伊朗電視台主持人中斷直播逃離現場－ BBC News 中文 #以色列  #伊朗</a></td>
+<td>Jun 17, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=c1ovGTuOQVA"><img width="200px" src="http://img.youtube.com/vi/c1ovGTuOQVA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=c1ovGTuOQVA">伊朗国家电视台直播中被以色列空军轰炸；罗帅宇父亲再发录音揭露湘雅二院器官买卖黑幕；马英九出席海峡论坛并与王沪宁会面，被夸赞“素有民族情怀”【雪花每日新闻】</a></td>
+<td>Jun 17, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=AfdIpUxIHNE"><img width="200px" src="http://img.youtube.com/vi/AfdIpUxIHNE/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AfdIpUxIHNE">以色列伊朗激烈互炸  以總理呼籲伊朗人推翻神權統治－ BBC News 中文</a></td>
 <td>Jun 16, 2025</td></tr>
@@ -81,13 +87,7 @@ slug: /
 <td>Jun 14, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=3piV1eXTm58"><img width="200px" src="http://img.youtube.com/vi/3piV1eXTm58/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3piV1eXTm58">BBC調查：國際香水品牌的供應鏈如何剝削童工？－ BBC News 中文</a></td>
-<td>Jun 14, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=KKWi4Z_cwdA"><img width="200px" src="http://img.youtube.com/vi/KKWi4Z_cwdA/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KKWi4Z_cwdA">罗帅宇离奇坠楼重上热搜，官方通报疑点重重；河北外国语学院延迟放假，学生聚众抗议；以色列伊朗战争爆发，伊朗军队总司令被“斩首”【雪花每日新闻】</a></td>
-<td>Jun 14, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/QY7m7qutUEA"><img width="200px" src="http://img.youtube.com/vi/QY7m7qutUEA/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/QY7m7qutUEA">伊朗向以色列發射導彈報復  特拉維夫升起濃煙－ BBC News 中文</a></td>
-<td>Jun 13, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jun 14, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
