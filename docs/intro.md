@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=Ov-Jxte1CGw"><img width="200px" src="http://img.youtube.com/vi/Ov-Jxte1CGw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Ov-Jxte1CGw">以色列伊朗激烈互襲 導彈穿透以色列防空系統－ BBC News 中文</a></td>
+<td>Jun 17, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=96wygdWW598"><img width="200px" src="http://img.youtube.com/vi/96wygdWW598/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=96wygdWW598">以色列伊朗衝突升級：伊朗國家電視台遇襲  G7峰會聚焦中東危機－ BBC News 中文</a></td>
+<td>Jun 17, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/4svLtRn_bZg"><img width="200px" src="http://img.youtube.com/vi/4svLtRn_bZg/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/4svLtRn_bZg">南歐反觀光抗議示 威者對遊客、飯店噴水－ BBC News 中文</a></td>
 <td>Jun 17, 2025</td></tr>
@@ -81,12 +87,6 @@ slug: /
 <td>Jun 16, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=b6tkv5vp2Og"><img width="200px" src="http://img.youtube.com/vi/b6tkv5vp2Og/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=b6tkv5vp2Og">特朗普舉行盛大閱兵  美國多地爆發「不要國王」抗議－ BBC News 中文</a></td>
-<td>Jun 16, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/bLtu474gWOc"><img width="200px" src="http://img.youtube.com/vi/bLtu474gWOc/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/bLtu474gWOc">德黑蘭居民房屋遭擊毀：「我仍聞得到火藥味」－ BBC News 中文 #伊朗  #以色列</a></td>
-<td>Jun 16, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=QLnHYE_Yhvg"><img width="200px" src="http://img.youtube.com/vi/QLnHYE_Yhvg/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=QLnHYE_Yhvg">罗帅宇父亲提出众多疑点反驳官方通报；以色列伊朗战争升级，特朗普呼吁和谈；爱国网友闯入馆长直播送红旗，大骂馆长“台独狗”【雪花每日新闻】</a></td>
 <td>Jun 16, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
