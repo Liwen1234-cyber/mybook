@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/4svLtRn_bZg"><img width="200px" src="http://img.youtube.com/vi/4svLtRn_bZg/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/4svLtRn_bZg">南歐反觀光抗議示 威者對遊客、飯店噴水－ BBC News 中文</a></td>
+<td>Jun 17, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/GZiojxilEMk"><img width="200px" src="http://img.youtube.com/vi/GZiojxilEMk/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/GZiojxilEMk">特朗普稱「不介意中國加入G7」－ BBC News 中文</a></td>
+<td>Jun 17, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/gKonK4RgrK0"><img width="200px" src="http://img.youtube.com/vi/gKonK4RgrK0/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/gKonK4RgrK0">以色列空襲 伊朗電視台主持人中斷直播逃離現場－ BBC News 中文 #以色列  #伊朗</a></td>
 <td>Jun 17, 2025</td></tr>
@@ -81,13 +87,7 @@ slug: /
 <td>Jun 16, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=QLnHYE_Yhvg"><img width="200px" src="http://img.youtube.com/vi/QLnHYE_Yhvg/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=QLnHYE_Yhvg">罗帅宇父亲提出众多疑点反驳官方通报；以色列伊朗战争升级，特朗普呼吁和谈；爱国网友闯入馆长直播送红旗，大骂馆长“台独狗”【雪花每日新闻】</a></td>
-<td>Jun 16, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=UkYYq7JK-pc"><img width="200px" src="http://img.youtube.com/vi/UkYYq7JK-pc/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=UkYYq7JK-pc">伊朗空襲報復以色列  特拉維夫市中心火光四起－ BBC News 中文</a></td>
-<td>Jun 14, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=3piV1eXTm58"><img width="200px" src="http://img.youtube.com/vi/3piV1eXTm58/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3piV1eXTm58">BBC調查：國際香水品牌的供應鏈如何剝削童工？－ BBC News 中文</a></td>
-<td>Jun 14, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jun 16, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
