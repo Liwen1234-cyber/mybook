@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/17/%e8%ae%b2%e9%81%93%e7%90%86%ef%bc%9f%e8%bf%98%e6%98%af%e8%ae%b2%e6%95%85%e4%ba%8b%ef%bc%9f/">讲道理？还是讲故事？</a>- by onojyun - Jun 17, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/16/%e5%b0%bf%e5%9c%b0%e7%9b%98/">尿地盘</a>- by onojyun - Jun 16, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/why-material-conditions-are-not-the-foundation-of-marriage/?utm_source=rss&utm_medium=rss&utm_campaign=why-material-conditions-are-not-the-foundation-of-marriage">为什么物质条件不是婚姻的“基础”</a>- by stephenleng - Jun 15, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/13/%e7%a6%81%e4%b8%8d%e8%b5%b7%e6%b5%8b%e8%af%95%e7%9a%84%e4%ba%ba%e6%80%a7/">禁不起测试的人性</a>- by onojyun - Jun 13, 2025</li>
@@ -39,7 +40,6 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/institutional-reform-and-cultural-stagnation/?utm_source=rss&utm_medium=rss&utm_campaign=institutional-reform-and-cultural-stagnation">制度改革与文化停滞</a>- by stephenleng - May 19, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/19/%e7%84%a1%e7%82%ba%e8%87%aa%e7%84%b6/">無為自然</a>- by onojyun - May 19, 2025</li>
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1f7ca795c956800e8529cf3da7fba51c">2025#20 语境变迁</a>- by 1q43 - May 19, 2025</li>
-<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/18/%e5%b0%8f%e5%ad%a6%e7%94%9f/">小学生</a>- by onojyun - May 18, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/weekly-issue-348.html">科技爱好者周刊（第 348 期）：李飞飞，从移民到 AI 明星</a>- by ruanyifeng - May 16, 2025</li>
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/12/some-variants-of-the-periodic-tiling-conjecture/">Some variants of the periodic tiling conjecture</a>- by terrytao - May 13, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/zhejiang-people-read-schopenhauer/?utm_source=rss&utm_medium=rss&utm_campaign=zhejiang-people-read-schopenhauer">浙江人，读叔本华吧！</a>- by stephenleng - May 12, 2025</li><!-- BLOG:END -->
