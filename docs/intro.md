@@ -59,7 +59,7 @@ slug: /
     
 <!-- YOUTUBE:START -->
 <tr><td><a href="https://www.youtube.com/watch?v=IZQcCRPrL1A"><img width="200px" src="http://img.youtube.com/vi/IZQcCRPrL1A/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=IZQcCRPrL1A">特朗普考慮加入以色列打撃伊朗核設施 稱「目前」不會擊殺哈梅內伊－ BBC News 中文</a></td>
+<td><a href="https://www.youtube.com/watch?v=IZQcCRPrL1A">特朗普考慮加入以色列打撃伊朗 稱「目前」不會暗殺哈梅內伊－ BBC News 中文</a></td>
 <td>Jun 18, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/LRjeTc50_aw"><img width="200px" src="http://img.youtube.com/vi/LRjeTc50_aw/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/LRjeTc50_aw">特朗普為何要進軍手機市場？－ BBC News 中文 #特朗普 #美國</a></td>
