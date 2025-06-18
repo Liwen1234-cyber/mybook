@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/iIyF1BN_Qd0"><img width="200px" src="http://img.youtube.com/vi/iIyF1BN_Qd0/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/iIyF1BN_Qd0">北愛爾蘭擁有「大鼻子」的貓咪－ BBC News 中文  #貓</a></td>
+<td>Jun 18, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=0W8_k7w5cug"><img width="200px" src="http://img.youtube.com/vi/0W8_k7w5cug/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=0W8_k7w5cug">沈阳大学门口发生公交车撞人事件造成多人死伤；德国总理默茨称以色列是在为所有人干脏活；那尔那茜低分进上戏引发争议【雪花每日新闻】</a></td>
 <td>Jun 17, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 16, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=5ouPGI9JVTg"><img width="200px" src="http://img.youtube.com/vi/5ouPGI9JVTg/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5ouPGI9JVTg">中國湖南實習醫生羅帥宇墜亡案為何引發質疑－ BBC News 中文</a></td>
-<td>Jun 16, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/iA52bdwYCow"><img width="200px" src="http://img.youtube.com/vi/iA52bdwYCow/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/iA52bdwYCow">情侶破壞意大利博物館藝術品「梵谷椅」－ BBC News 中文</a></td>
 <td>Jun 16, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
