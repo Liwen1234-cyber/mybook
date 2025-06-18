@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/18/%e8%af%bb%e4%b9%a6%e7%9a%84%e4%bd%9c%e7%94%a8/">读书的作用</a>- by onojyun - Jun 18, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/18/%e5%85%85%e6%bb%a1%e6%96%b0%e9%b2%9c%e6%84%9f%e7%9a%84%e6%ad%bb%e4%ba%a1/">充满新鲜感的死亡</a>- by onojyun - Jun 18, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/17/%e8%ae%b2%e9%81%93%e7%90%86%ef%bc%9f%e8%bf%98%e6%98%af%e8%ae%b2%e6%95%85%e4%ba%8b%ef%bc%9f/">讲道理？还是讲故事？</a>- by onojyun - Jun 17, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/16/%e5%b0%bf%e5%9c%b0%e7%9b%98/">尿地盘</a>- by onojyun - Jun 16, 2025</li>
@@ -34,7 +35,6 @@ slug: /
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/weekly-issue-350.html">科技爱好者周刊（第 350 期）：Java 三十周年</a>- by ruanyifeng - May 30, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/substitutes-for-religion-in-china/?utm_source=rss&utm_medium=rss&utm_campaign=substitutes-for-religion-in-china">论中国人的宗教代用品</a>- by stephenleng - May 29, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/27/%e8%ae%b0%e5%bf%86%e5%a4%96%e5%8c%85/">记忆外包</a>- by onojyun - May 27, 2025</li>
-<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/05/26/%e6%97%a5%e6%9c%ac%e7%a4%be%e4%bc%9a%e7%9a%84%e7%bb%9d%e5%af%b9%e5%b9%b3%e7%ad%89/">日本社会的绝对平等</a>- by onojyun - May 26, 2025</li>
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1feca795c95680ca82a5dcbe3c7fb5e2">2025#21 道在形外</a>- by 1q43 - May 26, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/why-kant-freud-and-einstein-delayed-graduation-of-their-phds/?utm_source=rss&utm_medium=rss&utm_campaign=why-kant-freud-and-einstein-delayed-graduation-of-their-phds">康德、弗洛伊德和爱因斯坦为什么博士延迟毕业？</a>- by stephenleng - May 23, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/weekly-issue-349.html">科技爱好者周刊（第 349 期）：神经网络算法的发明者</a>- by ruanyifeng - May 23, 2025</li>
