@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=EDaB-SS6ssM"><img width="200px" src="http://img.youtube.com/vi/EDaB-SS6ssM/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=EDaB-SS6ssM">6月18日特朗普就美国是否出兵伊朗答记者问【雪花快报】</a></td>
+<td>Jun 18, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=IZQcCRPrL1A"><img width="200px" src="http://img.youtube.com/vi/IZQcCRPrL1A/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=IZQcCRPrL1A">特朗普考慮加入以色列打撃伊朗 稱「目前」不會暗殺哈梅內伊－ BBC News 中文</a></td>
 <td>Jun 18, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 17, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/4svLtRn_bZg"><img width="200px" src="http://img.youtube.com/vi/4svLtRn_bZg/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/4svLtRn_bZg">南歐反觀光抗議示 威者對遊客、飯店噴水－ BBC News 中文</a></td>
-<td>Jun 17, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/GZiojxilEMk"><img width="200px" src="http://img.youtube.com/vi/GZiojxilEMk/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/GZiojxilEMk">特朗普稱「不介意中國加入G7」－ BBC News 中文</a></td>
 <td>Jun 17, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
