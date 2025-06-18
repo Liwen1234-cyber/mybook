@@ -58,6 +58,18 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=IZQcCRPrL1A"><img width="200px" src="http://img.youtube.com/vi/IZQcCRPrL1A/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=IZQcCRPrL1A">特朗普考慮加入以色列打撃伊朗核設施 稱「目前」不會擊殺哈梅內伊－ BBC News 中文</a></td>
+<td>Jun 18, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/LRjeTc50_aw"><img width="200px" src="http://img.youtube.com/vi/LRjeTc50_aw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/LRjeTc50_aw">特朗普為何要進軍手機市場？－ BBC News 中文 #特朗普 #美國</a></td>
+<td>Jun 18, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/ga5jlrwj-Uw"><img width="200px" src="http://img.youtube.com/vi/ga5jlrwj-Uw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/ga5jlrwj-Uw">特朗普稱伊朗應「徹底放棄」核武－ BBC News 中文 #特朗普 #伊朗  #以色列</a></td>
+<td>Jun 18, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=rtu80qORJQc"><img width="200px" src="http://img.youtube.com/vi/rtu80qORJQc/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rtu80qORJQc">比亞迪副總裁：「中國電動汽車沒有不公平競爭」－ BBC News 中文</a></td>
+<td>Jun 18, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/iIyF1BN_Qd0"><img width="200px" src="http://img.youtube.com/vi/iIyF1BN_Qd0/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/iIyF1BN_Qd0">北愛爾蘭擁有「大鼻子」的貓咪－ BBC News 中文  #貓</a></td>
 <td>Jun 18, 2025</td></tr>
@@ -75,19 +87,7 @@ slug: /
 <td>Jun 17, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/GZiojxilEMk"><img width="200px" src="http://img.youtube.com/vi/GZiojxilEMk/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/GZiojxilEMk">特朗普稱「不介意中國加入G7」－ BBC News 中文</a></td>
-<td>Jun 17, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/gKonK4RgrK0"><img width="200px" src="http://img.youtube.com/vi/gKonK4RgrK0/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/gKonK4RgrK0">以色列空襲 伊朗電視台主持人中斷直播逃離現場－ BBC News 中文 #以色列  #伊朗</a></td>
-<td>Jun 17, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=c1ovGTuOQVA"><img width="200px" src="http://img.youtube.com/vi/c1ovGTuOQVA/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=c1ovGTuOQVA">伊朗国家电视台直播中被以色列空军轰炸；罗帅宇父亲再发录音揭露湘雅二院器官买卖黑幕；马英九出席海峡论坛并与王沪宁会面，被夸赞“素有民族情怀”【雪花每日新闻】</a></td>
-<td>Jun 17, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=AfdIpUxIHNE"><img width="200px" src="http://img.youtube.com/vi/AfdIpUxIHNE/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=AfdIpUxIHNE">以色列伊朗激烈互炸  以總理呼籲伊朗人推翻神權統治－ BBC News 中文</a></td>
-<td>Jun 16, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=5ouPGI9JVTg"><img width="200px" src="http://img.youtube.com/vi/5ouPGI9JVTg/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5ouPGI9JVTg">中國湖南實習醫生羅帥宇墜亡案為何引發質疑－ BBC News 中文</a></td>
-<td>Jun 16, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jun 17, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
