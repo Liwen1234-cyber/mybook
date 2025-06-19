@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=R8Oo21-rcN8"><img width="200px" src="http://img.youtube.com/vi/R8Oo21-rcN8/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=R8Oo21-rcN8">美國或加入以色列打擊伊朗 中東全面戰爭一觸即發？－ BBC News 中文</a></td>
+<td>Jun 19, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/bJRdZfPi9wA"><img width="200px" src="http://img.youtube.com/vi/bJRdZfPi9wA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/bJRdZfPi9wA">印尼利沃托比火山爆發 噴發11公里灰燼－ BBC News 中文 #印尼 #火山</a></td>
 <td>Jun 19, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 18, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=rtu80qORJQc"><img width="200px" src="http://img.youtube.com/vi/rtu80qORJQc/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rtu80qORJQc">比亞迪副總裁：「中國電動汽車沒有不公平競爭」－ BBC News 中文</a></td>
-<td>Jun 18, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/iIyF1BN_Qd0"><img width="200px" src="http://img.youtube.com/vi/iIyF1BN_Qd0/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/iIyF1BN_Qd0">北愛爾蘭擁有「大鼻子」的貓咪－ BBC News 中文  #貓</a></td>
 <td>Jun 18, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
