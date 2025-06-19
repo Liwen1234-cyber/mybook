@@ -58,6 +58,15 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/bJRdZfPi9wA"><img width="200px" src="http://img.youtube.com/vi/bJRdZfPi9wA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/bJRdZfPi9wA">印尼利沃托比火山爆發 噴發11公里灰燼－ BBC News 中文 #印尼 #火山</a></td>
+<td>Jun 19, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=gpp-OlKZsMc"><img width="200px" src="http://img.youtube.com/vi/gpp-OlKZsMc/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=gpp-OlKZsMc">中國電動車產業為何崛起？－ BBC News 中文</a></td>
+<td>Jun 19, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=nsRNrwnK7_4"><img width="200px" src="http://img.youtube.com/vi/nsRNrwnK7_4/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=nsRNrwnK7_4">中國離婚預約難  催生代「搶號」熱－ BBC News 中文</a></td>
+<td>Jun 19, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ZyyRGH9MpDU"><img width="200px" src="http://img.youtube.com/vi/ZyyRGH9MpDU/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZyyRGH9MpDU">哈梅内伊拒绝无条件投降，中国开始大规模撤侨；中国多地洪水泛滥；禁酒令层层加码餐饮行业陷入萧条，官方开始踩刹车【雪花每日新闻】</a></td>
 <td>Jun 18, 2025</td></tr>
@@ -78,16 +87,7 @@ slug: /
 <td>Jun 18, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/iIyF1BN_Qd0"><img width="200px" src="http://img.youtube.com/vi/iIyF1BN_Qd0/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/iIyF1BN_Qd0">北愛爾蘭擁有「大鼻子」的貓咪－ BBC News 中文  #貓</a></td>
-<td>Jun 18, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=0W8_k7w5cug"><img width="200px" src="http://img.youtube.com/vi/0W8_k7w5cug/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0W8_k7w5cug">沈阳大学门口发生公交车撞人事件造成多人死伤；德国总理默茨称以色列是在为所有人干脏活；那尔那茜低分进上戏引发争议【雪花每日新闻】</a></td>
-<td>Jun 17, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=Ov-Jxte1CGw"><img width="200px" src="http://img.youtube.com/vi/Ov-Jxte1CGw/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Ov-Jxte1CGw">以色列伊朗激烈互襲 導彈穿透以色列防空系統－ BBC News 中文</a></td>
-<td>Jun 17, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=96wygdWW598"><img width="200px" src="http://img.youtube.com/vi/96wygdWW598/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=96wygdWW598">以色列伊朗衝突升級：伊朗國家電視台遇襲  G7峰會聚焦中東危機－ BBC News 中文</a></td>
-<td>Jun 17, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jun 18, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
