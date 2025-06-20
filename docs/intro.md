@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=KiXm1V-ucso"><img width="200px" src="http://img.youtube.com/vi/KiXm1V-ucso/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=KiXm1V-ucso">伊朗副外長：將持續自衛行動 警告特朗普勿捲入這場戰爭－ BBC News 中文</a></td>
+<td>Jun 20, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=IVtbm_RnyPE"><img width="200px" src="http://img.youtube.com/vi/IVtbm_RnyPE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=IVtbm_RnyPE">拉布布熱潮席捲全球  北京快閃店大排長龍－ BBC News 中文</a></td>
+<td>Jun 20, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=MqTeEHGwv0E"><img width="200px" src="http://img.youtube.com/vi/MqTeEHGwv0E/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MqTeEHGwv0E">中國留學生鄒鎮豪因強姦罪被判囚終身 另有24名女性聯絡警方－ BBC News 中文</a></td>
 <td>Jun 20, 2025</td></tr>
@@ -81,12 +87,6 @@ slug: /
 <td>Jun 18, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=EDaB-SS6ssM"><img width="200px" src="http://img.youtube.com/vi/EDaB-SS6ssM/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=EDaB-SS6ssM">6月18日特朗普就美国是否出兵伊朗答记者问【雪花快报】</a></td>
-<td>Jun 18, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=IZQcCRPrL1A"><img width="200px" src="http://img.youtube.com/vi/IZQcCRPrL1A/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=IZQcCRPrL1A">特朗普考慮加入以色列打撃伊朗 稱「目前」不會暗殺哈梅內伊－ BBC News 中文</a></td>
-<td>Jun 18, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/LRjeTc50_aw"><img width="200px" src="http://img.youtube.com/vi/LRjeTc50_aw/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/LRjeTc50_aw">特朗普為何要進軍手機市場？－ BBC News 中文 #特朗普 #美國</a></td>
 <td>Jun 18, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
