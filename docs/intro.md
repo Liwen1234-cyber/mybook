@@ -61,14 +61,14 @@ slug: /
 <tr><td><a href="https://www.youtube.com/watch?v=KiXm1V-ucso"><img width="200px" src="http://img.youtube.com/vi/KiXm1V-ucso/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KiXm1V-ucso">伊朗副外長：將持續自衛行動 警告特朗普勿捲入這場戰爭－ BBC News 中文</a></td>
 <td>Jun 20, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=IVtbm_RnyPE"><img width="200px" src="http://img.youtube.com/vi/IVtbm_RnyPE/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=IVtbm_RnyPE">拉布布熱潮席捲全球  北京快閃店大排長龍－ BBC News 中文</a></td>
+<tr><td><a href="https://www.youtube.com/shorts/IVtbm_RnyPE"><img width="200px" src="http://img.youtube.com/vi/IVtbm_RnyPE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/IVtbm_RnyPE">拉布布熱潮席捲全球  北京快閃店大排長龍－ BBC News 中文</a></td>
 <td>Jun 20, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=MqTeEHGwv0E"><img width="200px" src="http://img.youtube.com/vi/MqTeEHGwv0E/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MqTeEHGwv0E">中國留學生鄒鎮豪因強姦罪被判囚終身 另有24名女性聯絡警方－ BBC News 中文</a></td>
 <td>Jun 20, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=p8_3wuVOjJ0"><img width="200px" src="http://img.youtube.com/vi/p8_3wuVOjJ0/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=p8_3wuVOjJ0">為何一種美國武器可能影響以伊衝突走向？－ BBC News 中文</a></td>
+<tr><td><a href="https://www.youtube.com/shorts/p8_3wuVOjJ0"><img width="200px" src="http://img.youtube.com/vi/p8_3wuVOjJ0/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/p8_3wuVOjJ0">為何一種美國武器可能影響以伊衝突走向？－ BBC News 中文</a></td>
 <td>Jun 20, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=R8Oo21-rcN8"><img width="200px" src="http://img.youtube.com/vi/R8Oo21-rcN8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=R8Oo21-rcN8">美國或加入以色列打擊伊朗 中東全面戰爭一觸即發？－ BBC News 中文</a></td>
@@ -79,8 +79,8 @@ slug: /
 <tr><td><a href="https://www.youtube.com/watch?v=gpp-OlKZsMc"><img width="200px" src="http://img.youtube.com/vi/gpp-OlKZsMc/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gpp-OlKZsMc">中國電動車產業為何崛起？－ BBC News 中文</a></td>
 <td>Jun 19, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=nsRNrwnK7_4"><img width="200px" src="http://img.youtube.com/vi/nsRNrwnK7_4/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=nsRNrwnK7_4">中國離婚預約難  催生代「搶號」熱－ BBC News 中文</a></td>
+<tr><td><a href="https://www.youtube.com/shorts/nsRNrwnK7_4"><img width="200px" src="http://img.youtube.com/vi/nsRNrwnK7_4/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/nsRNrwnK7_4">中國離婚預約難  催生代「搶號」熱－ BBC News 中文</a></td>
 <td>Jun 19, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ZyyRGH9MpDU"><img width="200px" src="http://img.youtube.com/vi/ZyyRGH9MpDU/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZyyRGH9MpDU">哈梅内伊拒绝无条件投降，中国开始大规模撤侨；中国多地洪水泛滥；禁酒令层层加码餐饮行业陷入萧条，官方开始踩刹车【雪花每日新闻】</a></td>
