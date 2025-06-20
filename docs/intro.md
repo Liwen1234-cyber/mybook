@@ -59,7 +59,7 @@ slug: /
     
 <!-- YOUTUBE:START -->
 <tr><td><a href="https://www.youtube.com/watch?v=MqTeEHGwv0E"><img width="200px" src="http://img.youtube.com/vi/MqTeEHGwv0E/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=MqTeEHGwv0E">鄒鎮豪因強姦罪被判囚終身 另有24名女性聯絡警方－ BBC News 中文</a></td>
+<td><a href="https://www.youtube.com/watch?v=MqTeEHGwv0E">中國留學生鄒鎮豪因強姦罪被判囚終身 另有24名女性聯絡警方－ BBC News 中文</a></td>
 <td>Jun 20, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=p8_3wuVOjJ0"><img width="200px" src="http://img.youtube.com/vi/p8_3wuVOjJ0/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=p8_3wuVOjJ0">為何一種美國武器可能影響以伊衝突走向？－ BBC News 中文</a></td>
