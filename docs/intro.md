@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=MqTeEHGwv0E"><img width="200px" src="http://img.youtube.com/vi/MqTeEHGwv0E/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=MqTeEHGwv0E">鄒鎮豪因強姦罪被判囚終身 另有24名女性聯絡警方－ BBC News 中文</a></td>
+<td>Jun 20, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=p8_3wuVOjJ0"><img width="200px" src="http://img.youtube.com/vi/p8_3wuVOjJ0/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=p8_3wuVOjJ0">為何一種美國武器可能影響以伊衝突走向？－ BBC News 中文</a></td>
+<td>Jun 20, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=R8Oo21-rcN8"><img width="200px" src="http://img.youtube.com/vi/R8Oo21-rcN8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=R8Oo21-rcN8">美國或加入以色列打擊伊朗 中東全面戰爭一觸即發？－ BBC News 中文</a></td>
 <td>Jun 19, 2025</td></tr>
@@ -81,12 +87,6 @@ slug: /
 <td>Jun 18, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/LRjeTc50_aw"><img width="200px" src="http://img.youtube.com/vi/LRjeTc50_aw/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/LRjeTc50_aw">特朗普為何要進軍手機市場？－ BBC News 中文 #特朗普 #美國</a></td>
-<td>Jun 18, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/ga5jlrwj-Uw"><img width="200px" src="http://img.youtube.com/vi/ga5jlrwj-Uw/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/ga5jlrwj-Uw">特朗普稱伊朗應「徹底放棄」核武－ BBC News 中文 #特朗普 #伊朗  #以色列</a></td>
-<td>Jun 18, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=rtu80qORJQc"><img width="200px" src="http://img.youtube.com/vi/rtu80qORJQc/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=rtu80qORJQc">比亞迪副總裁：「中國電動汽車沒有不公平競爭」－ BBC News 中文</a></td>
 <td>Jun 18, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
