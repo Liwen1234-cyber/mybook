@@ -267,8 +267,6 @@ public class HashMap<K,V> extends AbstractMap<K,V>
 Map<Integer, Set<String>> map = new HashMap<>();
 ```
 
-
-
 ## 自动拆装箱
 
 
