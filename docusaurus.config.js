@@ -7,8 +7,8 @@ module.exports = {
   tagline: 'Developing with Coisini',
   url: 'https://doc.minddiy.top',
   baseUrl: '/',
-  onBrokenLinks: 'warn',
-  onBrokenMarkdownLinks: 'warn',
+  onBrokenLinks: 'throw',
+  onBrokenMarkdownLinks: 'throw',
   favicon: 'img/favicon.ico',
   organizationName: 'Liwen1234-cyber',
   deploymentBranch: 'gh-pages', // 部署的分支，默认 gh-pages
