@@ -119,6 +119,7 @@ slug: /
 
 ### Java
 
+* 【2025-06-21】[alibaba / fluss](https://github.com/alibaba/fluss) - Fluss is a streaming storage built for real-time analytics.
 * 【2025-06-20】[pixelsdb / pixels](https://github.com/pixelsdb/pixels) - An efficient storage and compute engine for both on-prem and cloud-native data analytics.
 * 【2025-06-17】[guardianproject / orbot-android](https://github.com/guardianproject/orbot-android) - The Github home of Orbot: Tor on Android (Also available on gitlab!)
 * 【2025-06-12】[noties / Markwon](https://github.com/noties/Markwon) - Android markdown library (no WebView)
@@ -130,6 +131,10 @@ slug: /
 
 ### Python
 
+* 【2025-06-21】[hiyouga / EasyR1](https://github.com/hiyouga/EasyR1) - EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL
+* 【2025-06-21】[dottxt-ai / outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
+* 【2025-06-21】[tadata-org / fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
+* 【2025-06-21】[e-p-armstrong / augmentoolkit](https://github.com/e-p-armstrong/augmentoolkit) - Create Custom LLMs
 * 【2025-06-20】[cyclotruc / gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
 * 【2025-06-18】[facebookresearch / vggt](https://github.com/facebookresearch/vggt) - [CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer
 * 【2025-06-17】[pixeltable / pixeltable](https://github.com/pixeltable/pixeltable) - Pixeltable — AI Data infrastructure providing a declarative, incremental approach for multimodal workloads.
@@ -169,6 +174,7 @@ slug: /
 
 ### Jupyter-notebook
 
+* 【2025-06-21】[facebookresearch / EdgeTAM](https://github.com/facebookresearch/EdgeTAM) - [CVPR 2025] Official PyTorch implementation of "EdgeTAM: On-Device Track Anything Model"
 * 【2025-06-18】[gpu-mode / lectures](https://github.com/gpu-mode/lectures) - Material for gpu-mode lectures
 * 【2025-06-17】[wyf3 / llm_related](https://github.com/wyf3/llm_related) - 复现大模型相关算法及一些学习记录
 * 【2025-06-17】[fchollet / deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
@@ -218,6 +224,8 @@ slug: /
 
 ### Css
 
+* 【2025-06-21】[keploy / student-program](https://github.com/keploy/student-program) - 
+* 【2025-06-21】[selkies-project / selkies](https://github.com/selkies-project/selkies) - Open-Source Low-Latency Accelerated Linux WebRTC HTML5 Remote Desktop Streaming Platform for Self-Hosting, Containers, Kubernetes, or Cloud/HPC
 * 【2025-06-13】[google-gemini / gemini-api-quickstart](https://github.com/google-gemini/gemini-api-quickstart) - Get up and running with the Gemini API in under 5 minutes (with Python)
 * 【2025-06-11】[B00merang-Project / Windows-XP](https://github.com/B00merang-Project/Windows-XP) - Windows XP themes
 * 【2025-06-08】[JustAdumbPrsn / Zen-Nebula](https://github.com/JustAdumbPrsn/Zen-Nebula) - A minimalist Glassmorphism based theme to elevate the UI of Zen browser
@@ -250,6 +258,7 @@ slug: /
 
 ### C++
 
+* 【2025-06-21】[lynx-family / lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 * 【2025-06-20】[stereolabs / zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) - ROS 2 wrapper for the ZED SDK
 * 【2025-06-12】[ml-explore / mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
 * 【2025-06-11】[gabrielsoule / resonarium](https://github.com/gabrielsoule/resonarium) - An expressive, semi-modular, and comprehensive physical modeling/waveguide synthesizer.
