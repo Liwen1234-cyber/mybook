@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=M5CRV9PlsUY"><img width="200px" src="http://img.youtube.com/vi/M5CRV9PlsUY/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=M5CRV9PlsUY">美國轟炸伊朗核設施  特朗普稱取得「輝煌軍事勝利」－ BBC News 中文</a></td>
+<td>Jun 22, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=HY3oQVSGZeI"><img width="200px" src="http://img.youtube.com/vi/HY3oQVSGZeI/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=HY3oQVSGZeI">突发！美军轰炸伊朗核设施；鄱阳中考送考车与大货车相撞致多名学生伤亡；《捞女游戏》上架Steam，受到中国男性玩家追捧【雪花每日新闻】</a></td>
+<td>Jun 22, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=KiXm1V-ucso"><img width="200px" src="http://img.youtube.com/vi/KiXm1V-ucso/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KiXm1V-ucso">伊朗副外長：將持續自衛行動 警告特朗普勿捲入這場戰爭－ BBC News 中文</a></td>
 <td>Jun 20, 2025</td></tr>
@@ -81,13 +87,7 @@ slug: /
 <td>Jun 19, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/nsRNrwnK7_4"><img width="200px" src="http://img.youtube.com/vi/nsRNrwnK7_4/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/nsRNrwnK7_4">中國離婚預約難  催生代「搶號」熱－ BBC News 中文</a></td>
-<td>Jun 19, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=ZyyRGH9MpDU"><img width="200px" src="http://img.youtube.com/vi/ZyyRGH9MpDU/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ZyyRGH9MpDU">哈梅内伊拒绝无条件投降，中国开始大规模撤侨；中国多地洪水泛滥；禁酒令层层加码餐饮行业陷入萧条，官方开始踩刹车【雪花每日新闻】</a></td>
-<td>Jun 18, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=EDaB-SS6ssM"><img width="200px" src="http://img.youtube.com/vi/EDaB-SS6ssM/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=EDaB-SS6ssM">6月18日特朗普就美国是否出兵伊朗答记者问【雪花快报】</a></td>
-<td>Jun 18, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jun 19, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
