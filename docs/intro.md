@@ -131,6 +131,8 @@ slug: /
 
 ### Python
 
+* 【2025-06-22】[opengeos / geoai](https://github.com/opengeos/geoai) - GeoAI: Artificial Intelligence for Geospatial Data
+* 【2025-06-22】[kijai / ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper) - 
 * 【2025-06-21】[hiyouga / EasyR1](https://github.com/hiyouga/EasyR1) - EasyR1: An Efficient, Scalable, Multi-Modality RL Training Framework based on veRL
 * 【2025-06-21】[dottxt-ai / outlines](https://github.com/dottxt-ai/outlines) - Structured Text Generation
 * 【2025-06-21】[tadata-org / fastapi_mcp](https://github.com/tadata-org/fastapi_mcp) - Expose your FastAPI endpoints as Model Context Protocol (MCP) tools, with Auth!
@@ -166,6 +168,7 @@ slug: /
 
 ### Markdown
 
+* 【2025-06-22】[hetzneronline / community-content](https://github.com/hetzneronline/community-content) - Hetzner Online Community Project
 * 【2025-06-19】[trinib / trinib](https://github.com/trinib/trinib) - Don't just be a forker🔱...Hit that 🅂🆃🄰🆁⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦My Profile........ Chess♟️ ◉═╬::::::::::::::::::::::::::::::::::::⫸♚ ♛ ♜ ♝ ♞ ▓▒░🔴Connect Dot🟡░▒▓ 🌈☁️Word Cloud ≡͇͇͇͇͇҈҈҈҈≡͇͇͇͇͇͇͇͇͇͇҈҈҈҈≡͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇҈҈҈҈≡͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇҈҈҈҈≡͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇҈҈҈҈≡͇͇͇͇͇͇
 * 【2025-06-18】[lightning / bolts](https://github.com/lightning/bolts) - BOLT: Basis of Lightning Technology (Lightning Network Specifications)
 * 【2025-06-12】[swiftlang / swift-migration-guide](https://github.com/swiftlang/swift-migration-guide) - 
@@ -174,6 +177,7 @@ slug: /
 
 ### Jupyter-notebook
 
+* 【2025-06-22】[GoogleCloudPlatform / asl-ml-immersion](https://github.com/GoogleCloudPlatform/asl-ml-immersion) - This repos contains notebooks for the Advanced Solutions Lab: ML Immersion
 * 【2025-06-21】[facebookresearch / EdgeTAM](https://github.com/facebookresearch/EdgeTAM) - [CVPR 2025] Official PyTorch implementation of "EdgeTAM: On-Device Track Anything Model"
 * 【2025-06-18】[gpu-mode / lectures](https://github.com/gpu-mode/lectures) - Material for gpu-mode lectures
 * 【2025-06-17】[wyf3 / llm_related](https://github.com/wyf3/llm_related) - 复现大模型相关算法及一些学习记录
@@ -195,6 +199,8 @@ slug: /
 
 ### Javascript
 
+* 【2025-06-22】[franceking1 / Flash-Md-V2](https://github.com/franceking1/Flash-Md-V2) - Feel Free To Use FLASH-MD, Remember To STAR🌟 The Repo before Forking
+* 【2025-06-22】[sonnylazuardi / cursor-talk-to-figma-mcp](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp) - Cursor Talk To Figma MCP
 * 【2025-06-18】[rcourtman / Pulse](https://github.com/rcourtman/Pulse) - A responsive monitoring application for Proxmox VE that displays real-time metrics across multiple nodes
 * 【2025-06-18】[frankmcsherry / blog](https://github.com/frankmcsherry/blog) - Some notes on things I find interesting and important.
 * 【2025-06-12】[ruvnet / rUv-dev](https://github.com/ruvnet/rUv-dev) - Ai power Dev using the rUv approach
@@ -233,6 +239,7 @@ slug: /
 
 ### Unknown
 
+* 【2025-06-22】[x1xhlol / system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
 * 【2025-06-20】[Snowflake-Labs / sf-samples](https://github.com/Snowflake-Labs/sf-samples) - Sample files, code snippets and downloads for Snowflake labs and tutorials.
 * 【2025-06-19】[datawhalechina / happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始的大语言模型原理与实践教程
 * 【2025-06-19】[amusi / CVPR2025-Papers-with-Code](https://github.com/amusi/CVPR2025-Papers-with-Code) - CVPR 2025 论文和开源项目合集
@@ -242,6 +249,7 @@ slug: /
 * 【2025-06-01】[punkpeye / awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 ### Go
 
+* 【2025-06-22】[psviderski / uncloud](https://github.com/psviderski/uncloud) - A lightweight tool for deploying and managing containerised applications across a network of Docker hosts. Bridging the gap between Docker and Kubernetes ✨
 * 【2025-06-20】[Ingenimax / agent-sdk-go](https://github.com/Ingenimax/agent-sdk-go) - 
 * 【2025-06-19】[0xJacky / nginx-ui](https://github.com/0xJacky/nginx-ui) - Yet another WebUI for Nginx
 * 【2025-06-19】[github / github-mcp-server](https://github.com/github/github-mcp-server) - GitHub's official MCP Server
@@ -258,6 +266,7 @@ slug: /
 
 ### C++
 
+* 【2025-06-22】[duckdb / ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format
 * 【2025-06-21】[lynx-family / lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 * 【2025-06-20】[stereolabs / zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) - ROS 2 wrapper for the ZED SDK
 * 【2025-06-12】[ml-explore / mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
