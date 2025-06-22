@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=t_fq3qpdGnY"><img width="200px" src="http://img.youtube.com/vi/t_fq3qpdGnY/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=t_fq3qpdGnY">美军参谋长详解轰炸伊朗核设施细节【雪花快报】</a></td>
+<td>Jun 22, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=M5CRV9PlsUY"><img width="200px" src="http://img.youtube.com/vi/M5CRV9PlsUY/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=M5CRV9PlsUY">美國轟炸伊朗核設施  特朗普稱取得「輝煌軍事勝利」－ BBC News 中文</a></td>
 <td>Jun 22, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 19, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=gpp-OlKZsMc"><img width="200px" src="http://img.youtube.com/vi/gpp-OlKZsMc/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=gpp-OlKZsMc">中國電動車產業為何崛起？－ BBC News 中文</a></td>
-<td>Jun 19, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/nsRNrwnK7_4"><img width="200px" src="http://img.youtube.com/vi/nsRNrwnK7_4/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/nsRNrwnK7_4">中國離婚預約難  催生代「搶號」熱－ BBC News 中文</a></td>
 <td>Jun 19, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
