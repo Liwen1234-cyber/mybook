@@ -58,8 +58,11 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/9VC3pKmqR8o"><img width="200px" src="http://img.youtube.com/vi/9VC3pKmqR8o/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/9VC3pKmqR8o">伊朗向卡塔爾美軍基地發射導彈  多哈上空攔截導彈畫面－ BBC News 中文</a></td>
+<td>Jun 23, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=cScK1xx-iqE"><img width="200px" src="http://img.youtube.com/vi/cScK1xx-iqE/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cScK1xx-iqE">美國史無前例空襲伊朗  為何中東局勢危機四伏－ BBC News 中文</a></td>
+<td><a href="https://www.youtube.com/watch?v=cScK1xx-iqE">美國史無前例空襲伊朗  中東局勢為何危機四伏－ BBC News 中文</a></td>
 <td>Jun 23, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=3nUUkEfkRrc"><img width="200px" src="http://img.youtube.com/vi/3nUUkEfkRrc/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3nUUkEfkRrc">伊朗與美國民眾抗議空襲核設施 示威者：擔憂引發第三次世界大戰 － BBC News 中文</a></td>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 20, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/IVtbm_RnyPE"><img width="200px" src="http://img.youtube.com/vi/IVtbm_RnyPE/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/IVtbm_RnyPE">拉布布熱潮席捲全球  北京快閃店大排長龍－ BBC News 中文</a></td>
-<td>Jun 20, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=MqTeEHGwv0E"><img width="200px" src="http://img.youtube.com/vi/MqTeEHGwv0E/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=MqTeEHGwv0E">中國留學生鄒鎮豪因強姦罪被判囚終身 另有24名女性聯絡警方－ BBC News 中文</a></td>
 <td>Jun 20, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
