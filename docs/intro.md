@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=OqhElaJQ94E"><img width="200px" src="http://img.youtube.com/vi/OqhElaJQ94E/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OqhElaJQ94E">伊朗最高议会批准封锁霍尔木兹海峡；禁酒令严打吃喝，有人用矿泉水瓶装茅台；医护人员纷纷分享自己转行干装修、做主播、修车的经历【雪花每日新闻】</a></td>
+<td>Jun 22, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=t_fq3qpdGnY"><img width="200px" src="http://img.youtube.com/vi/t_fq3qpdGnY/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=t_fq3qpdGnY">美军参谋长详解轰炸伊朗核设施细节【雪花快报】</a></td>
 <td>Jun 22, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 19, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/bJRdZfPi9wA"><img width="200px" src="http://img.youtube.com/vi/bJRdZfPi9wA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/bJRdZfPi9wA">印尼利沃托比火山爆發 噴發11公里灰燼－ BBC News 中文 #印尼 #火山</a></td>
-<td>Jun 19, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=gpp-OlKZsMc"><img width="200px" src="http://img.youtube.com/vi/gpp-OlKZsMc/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gpp-OlKZsMc">中國電動車產業為何崛起？－ BBC News 中文</a></td>
 <td>Jun 19, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
