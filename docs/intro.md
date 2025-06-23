@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=cScK1xx-iqE"><img width="200px" src="http://img.youtube.com/vi/cScK1xx-iqE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=cScK1xx-iqE">美國史無前例空襲伊朗  為何中東局勢危機四伏－ BBC News 中文</a></td>
+<td>Jun 23, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=3nUUkEfkRrc"><img width="200px" src="http://img.youtube.com/vi/3nUUkEfkRrc/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=3nUUkEfkRrc">伊朗與美國民眾抗議空襲核設施 示威者：擔憂引發第三次世界大戰 － BBC News 中文</a></td>
 <td>Jun 23, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 20, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=MqTeEHGwv0E"><img width="200px" src="http://img.youtube.com/vi/MqTeEHGwv0E/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MqTeEHGwv0E">中國留學生鄒鎮豪因強姦罪被判囚終身 另有24名女性聯絡警方－ BBC News 中文</a></td>
-<td>Jun 20, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/p8_3wuVOjJ0"><img width="200px" src="http://img.youtube.com/vi/p8_3wuVOjJ0/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/p8_3wuVOjJ0">為何一種美國武器可能影響以伊衝突走向？－ BBC News 中文</a></td>
 <td>Jun 20, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
