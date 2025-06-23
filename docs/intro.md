@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/23/%e8%81%9a%e5%85%89%e7%81%af%e4%b8%8b%e8%88%9e%e5%8f%b0%e4%b9%8b%e4%b8%8a/">聚光灯下舞台之上</a>- by onojyun - Jun 23, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/22/%e6%89%93%e5%8f%b0%e7%90%83/">打台球</a>- by onojyun - Jun 22, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/22/%e5%ad%a6%e4%ba%86%e4%b9%9f%e6%b2%a1%e7%94%a8/">学了也没用</a>- by onojyun - Jun 22, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/is-romantic-love-essentially-narcissism-self-love-or-a-projection-of-the-ideal-self-a-critique-of-anti-romantic-discourse-in-the-chinese-internet/?utm_source=rss&utm_medium=rss&utm_campaign=is-romantic-love-essentially-narcissism-self-love-or-a-projection-of-the-ideal-self-a-critique-of-anti-romantic-discourse-in-the-chinese-internet">浪漫爱情的本质是自恋或自爱或自我理想的投射？评中文互联网中的反浪漫话语</a>- by stephenleng - Jun 21, 2025</li>
@@ -27,7 +28,6 @@ slug: /
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html">科技爱好者周刊（第 352 期）：Bug 追踪系统的正确样子</a>- by ruanyifeng - Jun 12, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/do-parents-have-the-right-to-approve-their-childrens-marriage/?utm_source=rss&utm_medium=rss&utm_campaign=do-parents-have-the-right-to-approve-their-childrens-marriage">父母是否有子女婚姻的批准权？</a>- by stephenleng - Jun 11, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/11/%e5%b8%a6%e7%9d%80%e7%ad%94%e6%a1%88%e6%8f%90%e9%97%ae/">带着答案提问</a>- by onojyun - Jun 11, 2025</li>
-<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/09/%e4%b8%89%e5%af%92%e5%9b%9b%e6%b8%a9/">三寒四温</a>- by onojyun - Jun 9, 2025</li>
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/20cca795c956800ab72ae370ef3fe886">2025#23 悠然自得</a>- by 1q43 - Jun 9, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html">科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用</a>- by ruanyifeng - Jun 6, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/while-parents-live-one-must-travel-far/?utm_source=rss&utm_medium=rss&utm_campaign=while-parents-live-one-must-travel-far">父母在，要远游</a>- by stephenleng - Jun 5, 2025</li>
