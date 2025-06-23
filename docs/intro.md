@@ -94,6 +94,7 @@ slug: /
 ## GitHub Trending
 ### All language
 
+* 【2025-06-23】[microsoft / edit](https://github.com/microsoft/edit) - We all edit.
 * 【2025-06-20】[cloudflare / ai](https://github.com/cloudflare/ai) - 
 * 【2025-06-20】[firebase / genkit](https://github.com/firebase/genkit) - An open source framework for building AI-powered apps with familiar code-centric patterns. Genkit makes it easy to develop, integrate, and test AI features with observability and evaluations. Genkit works with various models and platforms.
 * 【2025-06-19】[php / frankenphp](https://github.com/php/frankenphp) - 🧟 The modern PHP app server
@@ -177,6 +178,7 @@ slug: /
 
 ### Jupyter-notebook
 
+* 【2025-06-23】[ed-donner / agents](https://github.com/ed-donner/agents) - Repo for the Complete Agentic AI Engineering Course
 * 【2025-06-22】[GoogleCloudPlatform / asl-ml-immersion](https://github.com/GoogleCloudPlatform/asl-ml-immersion) - This repos contains notebooks for the Advanced Solutions Lab: ML Immersion
 * 【2025-06-21】[facebookresearch / EdgeTAM](https://github.com/facebookresearch/EdgeTAM) - [CVPR 2025] Official PyTorch implementation of "EdgeTAM: On-Device Track Anything Model"
 * 【2025-06-18】[gpu-mode / lectures](https://github.com/gpu-mode/lectures) - Material for gpu-mode lectures
