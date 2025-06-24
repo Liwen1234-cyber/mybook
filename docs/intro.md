@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=bGOsEYYz3Qs"><img width="200px" src="http://img.youtube.com/vi/bGOsEYYz3Qs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=bGOsEYYz3Qs">韓戰75週年：這場戰爭為何從未結束？－ BBC News 中文</a></td>
+<td>Jun 24, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=jfZUlVFtpHk"><img width="200px" src="http://img.youtube.com/vi/jfZUlVFtpHk/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=jfZUlVFtpHk">伊朗末代王储巴黎演讲：此刻正是我们的柏林墙时刻，西方继续绥靖是对伊朗人民的不尊重</a></td>
 <td>Jun 23, 2025</td></tr>
@@ -84,10 +87,7 @@ slug: /
 <td>Jun 22, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=HY3oQVSGZeI"><img width="200px" src="http://img.youtube.com/vi/HY3oQVSGZeI/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=HY3oQVSGZeI">突发！美军轰炸伊朗核设施；鄱阳中考送考车与大货车相撞致多名学生伤亡；《捞女游戏》上架Steam，受到中国男性玩家追捧【雪花每日新闻】</a></td>
-<td>Jun 22, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=KiXm1V-ucso"><img width="200px" src="http://img.youtube.com/vi/KiXm1V-ucso/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=KiXm1V-ucso">伊朗副外長：將持續自衛行動 警告特朗普勿捲入這場戰爭－ BBC News 中文</a></td>
-<td>Jun 20, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jun 22, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
