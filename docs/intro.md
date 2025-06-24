@@ -13,6 +13,8 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/24/%e5%92%96%e5%95%a1%e5%8e%85%e7%9a%84%e4%bf%a1%e6%81%af%e6%8e%a5%e6%94%b6%e5%99%a8/">咖啡厅的信息接收器</a>- by onojyun - Jun 24, 2025</li>
+<li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html">国产 AI 网页开发工具：豆包 AI 编程简单测评</a>- by ruanyifeng - Jun 24, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/23/%e8%81%9a%e5%85%89%e7%81%af%e4%b8%8b%e8%88%9e%e5%8f%b0%e4%b9%8b%e4%b8%8a/">聚光灯下舞台之上</a>- by onojyun - Jun 23, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/22/%e6%89%93%e5%8f%b0%e7%90%83/">打台球</a>- by onojyun - Jun 22, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/22/%e5%ad%a6%e4%ba%86%e4%b9%9f%e6%b2%a1%e7%94%a8/">学了也没用</a>- by onojyun - Jun 22, 2025</li>
@@ -27,7 +29,6 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/13/%e7%a6%81%e4%b8%8d%e8%b5%b7%e6%b5%8b%e8%af%95%e7%9a%84%e4%ba%ba%e6%80%a7/">禁不起测试的人性</a>- by onojyun - Jun 13, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html">科技爱好者周刊（第 352 期）：Bug 追踪系统的正确样子</a>- by ruanyifeng - Jun 12, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/do-parents-have-the-right-to-approve-their-childrens-marriage/?utm_source=rss&utm_medium=rss&utm_campaign=do-parents-have-the-right-to-approve-their-childrens-marriage">父母是否有子女婚姻的批准权？</a>- by stephenleng - Jun 11, 2025</li>
-<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/11/%e5%b8%a6%e7%9d%80%e7%ad%94%e6%a1%88%e6%8f%90%e9%97%ae/">带着答案提问</a>- by onojyun - Jun 11, 2025</li>
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/20cca795c956800ab72ae370ef3fe886">2025#23 悠然自得</a>- by 1q43 - Jun 9, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html">科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用</a>- by ruanyifeng - Jun 6, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/while-parents-live-one-must-travel-far/?utm_source=rss&utm_medium=rss&utm_campaign=while-parents-live-one-must-travel-far">父母在，要远游</a>- by stephenleng - Jun 5, 2025</li>
@@ -41,8 +42,7 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/why-kant-freud-and-einstein-delayed-graduation-of-their-phds/?utm_source=rss&utm_medium=rss&utm_campaign=why-kant-freud-and-einstein-delayed-graduation-of-their-phds">康德、弗洛伊德和爱因斯坦为什么博士延迟毕业？</a>- by stephenleng - May 23, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/weekly-issue-349.html">科技爱好者周刊（第 349 期）：神经网络算法的发明者</a>- by ruanyifeng - May 23, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/institutional-reform-and-cultural-stagnation/?utm_source=rss&utm_medium=rss&utm_campaign=institutional-reform-and-cultural-stagnation">制度改革与文化停滞</a>- by stephenleng - May 19, 2025</li>
-<li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1f7ca795c956800e8529cf3da7fba51c">2025#20 语境变迁</a>- by 1q43 - May 19, 2025</li>
-<li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/weekly-issue-348.html">科技爱好者周刊（第 348 期）：李飞飞，从移民到 AI 明星</a>- by ruanyifeng - May 16, 2025</li><!-- BLOG:END -->
+<li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1f7ca795c956800e8529cf3da7fba51c">2025#20 语境变迁</a>- by 1q43 - May 19, 2025</li><!-- BLOG:END -->
 
 </details>
 
