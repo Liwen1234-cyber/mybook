@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=jfZUlVFtpHk"><img width="200px" src="http://img.youtube.com/vi/jfZUlVFtpHk/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=jfZUlVFtpHk">伊朗末代王储巴黎演讲：此刻正是我们的柏林墙时刻，西方继续绥靖是对伊朗人民的不尊重</a></td>
+<td>Jun 23, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/9VC3pKmqR8o"><img width="200px" src="http://img.youtube.com/vi/9VC3pKmqR8o/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/9VC3pKmqR8o">伊朗向卡塔爾美軍基地發射導彈  多哈上空攔截導彈畫面－ BBC News 中文</a></td>
 <td>Jun 23, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 22, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=KiXm1V-ucso"><img width="200px" src="http://img.youtube.com/vi/KiXm1V-ucso/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=KiXm1V-ucso">伊朗副外長：將持續自衛行動 警告特朗普勿捲入這場戰爭－ BBC News 中文</a></td>
-<td>Jun 20, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/IVtbm_RnyPE"><img width="200px" src="http://img.youtube.com/vi/IVtbm_RnyPE/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/IVtbm_RnyPE">拉布布熱潮席捲全球  北京快閃店大排長龍－ BBC News 中文</a></td>
 <td>Jun 20, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
