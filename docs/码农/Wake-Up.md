@@ -35,6 +35,8 @@
 
 - [设计模式面试题](./面试笔记/Design%20Pattern.md)
 
+- [JavaNote](./JavaNote/index.md)
+
 ## ☁️工具与实践
 
 - [工具](./面试笔记/Git-ComdLine-REST.md)

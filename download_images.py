@@ -23,7 +23,7 @@ def process_markdown_files():
     images_dir.mkdir(exist_ok=True)
     
     # 遍历所有目录
-    for root, dirs, files in os.walk("./后端-架构/MySQL实战45讲/docs"):
+    for root, dirs, files in os.walk("F:\github_repository\Backend_project\JavaNote"):
         for file in files:
             if file.endswith(".md"):
                 file_path = os.path.join(root, file)
