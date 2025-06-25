@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=Isina-Kt13g"><img width="200px" src="http://img.youtube.com/vi/Isina-Kt13g/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Isina-Kt13g">以伊戰爭：特朗普空襲伊朗核設施成效被質疑　停火能否維持？ － BBC News 中文</a></td>
+<td>Jun 25, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ARsFQtRVudE"><img width="200px" src="http://img.youtube.com/vi/ARsFQtRVudE/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ARsFQtRVudE">中國村民拒絕拆遷 徒手搭十層「城堡」意外爆紅－ BBC News 中文</a></td>
 <td>Jun 25, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 23, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/9VC3pKmqR8o"><img width="200px" src="http://img.youtube.com/vi/9VC3pKmqR8o/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/9VC3pKmqR8o">伊朗向卡塔爾美軍基地發射導彈  多哈上空攔截導彈畫面－ BBC News 中文</a></td>
-<td>Jun 23, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=cScK1xx-iqE"><img width="200px" src="http://img.youtube.com/vi/cScK1xx-iqE/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=cScK1xx-iqE">美國史無前例空襲伊朗  中東局勢為何危機四伏－ BBC News 中文</a></td>
 <td>Jun 23, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
