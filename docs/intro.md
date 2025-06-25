@@ -26,6 +26,7 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/18/%e5%85%85%e6%bb%a1%e6%96%b0%e9%b2%9c%e6%84%9f%e7%9a%84%e6%ad%bb%e4%ba%a1/">充满新鲜感的死亡</a>- by onojyun - Jun 18, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/17/%e8%ae%b2%e9%81%93%e7%90%86%ef%bc%9f%e8%bf%98%e6%98%af%e8%ae%b2%e6%95%85%e4%ba%8b%ef%bc%9f/">讲道理？还是讲故事？</a>- by onojyun - Jun 17, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/16/%e5%b0%bf%e5%9c%b0%e7%9b%98/">尿地盘</a>- by onojyun - Jun 16, 2025</li>
+<li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/212ca795c95680c789b6f321096bab20">2025#24 拒死而生</a>- by 1q43 - Jun 16, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/why-material-conditions-are-not-the-foundation-of-marriage/?utm_source=rss&utm_medium=rss&utm_campaign=why-material-conditions-are-not-the-foundation-of-marriage">为什么物质条件不是婚姻的“基础”</a>- by stephenleng - Jun 15, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html">科技爱好者周刊（第 352 期）：Bug 追踪系统的正确样子</a>- by ruanyifeng - Jun 12, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/do-parents-have-the-right-to-approve-their-childrens-marriage/?utm_source=rss&utm_medium=rss&utm_campaign=do-parents-have-the-right-to-approve-their-childrens-marriage">父母是否有子女婚姻的批准权？</a>- by stephenleng - Jun 11, 2025</li>
@@ -41,8 +42,7 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1feca795c95680ca82a5dcbe3c7fb5e2">2025#21 道在形外</a>- by 1q43 - May 26, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/why-kant-freud-and-einstein-delayed-graduation-of-their-phds/?utm_source=rss&utm_medium=rss&utm_campaign=why-kant-freud-and-einstein-delayed-graduation-of-their-phds">康德、弗洛伊德和爱因斯坦为什么博士延迟毕业？</a>- by stephenleng - May 23, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/weekly-issue-349.html">科技爱好者周刊（第 349 期）：神经网络算法的发明者</a>- by ruanyifeng - May 23, 2025</li>
-<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/institutional-reform-and-cultural-stagnation/?utm_source=rss&utm_medium=rss&utm_campaign=institutional-reform-and-cultural-stagnation">制度改革与文化停滞</a>- by stephenleng - May 19, 2025</li>
-<li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1f7ca795c956800e8529cf3da7fba51c">2025#20 语境变迁</a>- by 1q43 - May 19, 2025</li><!-- BLOG:END -->
+<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/institutional-reform-and-cultural-stagnation/?utm_source=rss&utm_medium=rss&utm_campaign=institutional-reform-and-cultural-stagnation">制度改革与文化停滞</a>- by stephenleng - May 19, 2025</li><!-- BLOG:END -->
 
 </details>
 
