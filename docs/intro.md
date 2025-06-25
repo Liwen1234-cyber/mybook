@@ -58,6 +58,15 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/OAjVAuDhJcA"><img width="200px" src="http://img.youtube.com/vi/OAjVAuDhJcA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/OAjVAuDhJcA">假軍裝、假血……Telegram頻道如何在波蘭傳播親俄假新聞－ BBC News 中文</a></td>
+<td>Jun 25, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/spsqMppIqXM"><img width="200px" src="http://img.youtube.com/vi/spsqMppIqXM/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/spsqMppIqXM">特朗普飆髒話  稱對以色列和伊朗都「不高興」－ BBC News 中文</a></td>
+<td>Jun 25, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=0vucXv7ZrEU"><img width="200px" src="http://img.youtube.com/vi/0vucXv7ZrEU/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=0vucXv7ZrEU">贵州榕江发生特大洪灾，水深三层楼冲垮高架桥；《捞女游戏》新华社先赞扬后删文，网友调侃内部斗争激烈；伊朗“象征性报复“结束，特朗普确认”不希望伊朗政权更迭“【雪花每日新闻】</a></td>
+<td>Jun 25, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=bGOsEYYz3Qs"><img width="200px" src="http://img.youtube.com/vi/bGOsEYYz3Qs/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bGOsEYYz3Qs">韓戰75週年：這場戰爭為何從未結束？－ BBC News 中文</a></td>
 <td>Jun 24, 2025</td></tr>
@@ -78,15 +87,6 @@ slug: /
 <td>Jun 23, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=OqhElaJQ94E"><img width="200px" src="http://img.youtube.com/vi/OqhElaJQ94E/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OqhElaJQ94E">伊朗最高议会批准封锁霍尔木兹海峡；禁酒令严打吃喝，有人用矿泉水瓶装茅台；医护人员纷纷分享自己转行干装修、做主播、修车的经历【雪花每日新闻】</a></td>
-<td>Jun 22, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=t_fq3qpdGnY"><img width="200px" src="http://img.youtube.com/vi/t_fq3qpdGnY/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=t_fq3qpdGnY">美军参谋长详解轰炸伊朗核设施细节【雪花快报】</a></td>
-<td>Jun 22, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=M5CRV9PlsUY"><img width="200px" src="http://img.youtube.com/vi/M5CRV9PlsUY/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=M5CRV9PlsUY">美國轟炸伊朗核設施  特朗普稱取得「輝煌軍事勝利」－ BBC News 中文</a></td>
-<td>Jun 22, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=HY3oQVSGZeI"><img width="200px" src="http://img.youtube.com/vi/HY3oQVSGZeI/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=HY3oQVSGZeI">突发！美军轰炸伊朗核设施；鄱阳中考送考车与大货车相撞致多名学生伤亡；《捞女游戏》上架Steam，受到中国男性玩家追捧【雪花每日新闻】</a></td>
 <td>Jun 22, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
