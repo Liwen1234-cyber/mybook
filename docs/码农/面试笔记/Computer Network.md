@@ -1,30 +1,6 @@
 # 计算机网络
 
-<!-- GFM-TOC -->
-* 传输层：TCP和UDP
-    * [什么是三次握手？](#什么是三次握手-three-way-handshake)
-    * [什么是四次挥手？](#什么是四次挥手)
-    * [TCP如何实现流量控制？](#TCP如何实现流量控制)
-    * [TCP的拥塞控制是怎么实现的？](#TCP的拥塞控制是怎么实现的)
-    * [TCP如何最大利用带宽？](#TCP如何最大利用带宽)
-    * [TCP与UDP的区别](#TCP与UDP的区别)
-    * [TCP如何保证传输的可靠性](#TCP如何保证传输的可靠性)
-    * [~~什么是TCP粘包？~~](#什么是TCP粘包)
-* 应用层：HTTP和HTTPS
-    * [HTTP和HTTPS有什么区别？](#HTTP和HTTPS有什么区别)
-    * [GET与POST的区别？](#GET与POST的区别)
-    * [Session与Cookie的区别？](#Session与Cookie的区别)
-    * [从输入网址到获得页面的过程 (越详细越好)？](#从输入网址到获得页面的过程-越详细越好)
-    * [HTTP请求有哪些常见状态码？](#HTTP请求有哪些常见状态码)
-    * [什么是RIP (距离矢量路由协议)?](#什么是RIP-Routing-Information-Protocol-距离矢量路由协议-算法是什么)
-* [计算机网络体系结构](#计算机网络体系结构)
-* 网络层协议
-    * [IP地址的分类？](#IP地址的分类)
-    * [什么叫划分子网？](#什么叫划分子网)
-    * [什么是ARP协议？](#什么是ARP协议-Address-Resolution-Protocol)
-    * [什么是NAT (网络地址转换)？](#什么是NAT-Network-Address-Translation-网络地址转换)
-* [参考](#参考)
-<!-- GFM-TOC -->
+
 
 ------
 
