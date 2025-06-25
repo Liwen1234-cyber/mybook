@@ -58,6 +58,15 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=ARsFQtRVudE"><img width="200px" src="http://img.youtube.com/vi/ARsFQtRVudE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ARsFQtRVudE">中國村民拒絕拆遷 徒手搭十層「城堡」意外爆紅－ BBC News 中文</a></td>
+<td>Jun 25, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/y3Sz3XyHuHw"><img width="200px" src="http://img.youtube.com/vi/y3Sz3XyHuHw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/y3Sz3XyHuHw">《魷魚遊戲》為何風靡全球？－ BBC News 中文 #韓國  #魷魚遊戲</a></td>
+<td>Jun 25, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/a1emHLgz99g"><img width="200px" src="http://img.youtube.com/vi/a1emHLgz99g/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/a1emHLgz99g">中國橋梁垮塌  貨車司機懸在半空－ BBC News 中文</a></td>
+<td>Jun 25, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/OAjVAuDhJcA"><img width="200px" src="http://img.youtube.com/vi/OAjVAuDhJcA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/OAjVAuDhJcA">假軍裝、假血……Telegram頻道如何在波蘭傳播親俄假新聞－ BBC News 中文</a></td>
 <td>Jun 25, 2025</td></tr>
@@ -78,16 +87,7 @@ slug: /
 <td>Jun 23, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=cScK1xx-iqE"><img width="200px" src="http://img.youtube.com/vi/cScK1xx-iqE/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=cScK1xx-iqE">美國史無前例空襲伊朗  中東局勢為何危機四伏－ BBC News 中文</a></td>
-<td>Jun 23, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=3nUUkEfkRrc"><img width="200px" src="http://img.youtube.com/vi/3nUUkEfkRrc/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=3nUUkEfkRrc">伊朗與美國民眾抗議空襲核設施 示威者：擔憂引發第三次世界大戰 － BBC News 中文</a></td>
-<td>Jun 23, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=N5ppK43wQ8g"><img width="200px" src="http://img.youtube.com/vi/N5ppK43wQ8g/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=N5ppK43wQ8g">美國摧毀了伊朗的核設施嗎？－ BBC News 中文</a></td>
-<td>Jun 23, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=OqhElaJQ94E"><img width="200px" src="http://img.youtube.com/vi/OqhElaJQ94E/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=OqhElaJQ94E">伊朗最高议会批准封锁霍尔木兹海峡；禁酒令严打吃喝，有人用矿泉水瓶装茅台；医护人员纷纷分享自己转行干装修、做主播、修车的经历【雪花每日新闻】</a></td>
-<td>Jun 22, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jun 23, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
