@@ -2998,7 +2998,7 @@ public class ServletDemo extends HttpServlet{
 }
 ```
 
-启动两个浏览器，输入不同的参数(http://localhost:8080/ServletDemo/username=aaa 或者bbb)，访问之后发现输出的结果都是一样，所以出现线程安全问题。
+启动两个浏览器，输入不同的参数(`http://localhost:8080/ServletDemo/username=aaa` 或者bbb)，访问之后发现输出的结果都是一样，所以出现线程安全问题。
 
 在Servlet中定义了类成员之后，多个浏览器都会共享类成员的数据，其中任何一个线程修改了数据，都会影响其他线程。因此，我们可以认为Servlet它不是线程安全的。因为Servlet是单例，单例对象的类成员只会随类实例化时初始化一次，之后的操作都是改变，而不会重新初始化。
 
@@ -3033,7 +3033,7 @@ Servlet支持三种映射方式，三种映射方式的优先级为：第一种>
 
 2. /开头+通配符的方式
    这种方式，只要符合目录结构即可，不用考虑结尾是什么
-   访问URL：http://localhost:8080/servlet/ + 任何字符
+   访问URL：`http://localhost:8080/servlet/` + 任何字符
 
    ```xml
    <servlet>
@@ -3050,7 +3050,7 @@ Servlet支持三种映射方式，三种映射方式的优先级为：第一种>
 
 3. 通配符+固定格式结尾
    这种方式，只要符合固定结尾格式即可，其前面的访问URI无须关心（注意协议，主机和端口必须正确）
-   访问URL：http://localhost:8080/任何字符任何目录 + .do (http://localhost:8080/seazean/i.do)
+   访问URL：`http://localhost:8080/任何字符任何目录` + [.do](http://localhost:8080/seazean/i.do)
 
    ```xml
    <servlet>
@@ -3515,7 +3515,7 @@ Request 作用：
 | int getRemotePort()             | 获取访问者端口                                               |
 | String getMethod();             | 获得请求方式                                                 |
 | String getRequestURI()          | 获取统一资源标识符（/request/servletDemo01）                 |
-| String getRequestURL()          | 获取统一资源定位符（http://localhost:8080/request/servletDemo01） |
+| String getRequestURL()          | 获取统一资源定位符`http://localhost:8080/request/servletDemo01` |
 | String getQueryString()         | 获取请求消息的数据<br />（GET方式 URL中带参字符串：username=aaa&password=123） |
 | String getContextPath()         | 获取虚拟目录名称（/request）                                 |
 | String getServletPath           | 获取Servlet映射路径<br />（<url-pattern>或@WebServlet值: /servletDemo01） |
@@ -3791,7 +3791,7 @@ RequestDispatcher 类方法：
 
 * `void forward(ServletRequest request, ServletResponse response)` : 实现转发，将请求从 Servlet 转发到服务器上的另一个资源（Servlet，JSP 文件或 HTML 文件）
 
-过程：浏览器访问 http://localhost:8080/request/servletDemo09，/servletDemo10也会执行
+过程：浏览器访问 `http://localhost:8080/request/servletDemo09`，/servletDemo10也会执行
 
 ```java
 @WebServlet("/servletDemo09")

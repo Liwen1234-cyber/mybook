@@ -15099,7 +15099,7 @@ public class GeneratedMethodAccessor1 extends MethodAccessorImpl {
 
 2. 性能分析：
 
-   * 打印 GC 日志，通过 GCviewer 或者 http://gceasy.io 来分析异常信息
+   * 打印 GC 日志，通过 GCviewer 或者 `http://gceasy.io` 来分析异常信息
 
    - 运用命令行工具、jstack、jmap、jinfo 等
 

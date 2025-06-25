@@ -10440,7 +10440,7 @@ POJO 中出现集合类型的处理方式
   }
   ```
 
-* POJO 中出现 List 保存对象数据，参数名称与对象层次结构名称保持一致，使用数组格式描述集合中对象的位置访问 URL：http://localhost/requestParam7?addresses[0].province=bj&addresses[1].province=tj  
+* POJO 中出现 List 保存对象数据，参数名称与对象层次结构名称保持一致，使用数组格式描述集合中对象的位置访问 URL：`http://localhost/requestParam7?addresses[0].province=bj&addresses[1].province=tj`  
 
   ```java
   @RequestMapping("/requestParam7")
@@ -10538,7 +10538,7 @@ POJO 中出现集合类型的处理方式
 开启转换配置：`<mvc:annotation-driven />  `
 作用：提供 Controller 请求转发，Json 自动转换等功能
 
-如果访问 URL：http://localhost/requestParam1?name=seazean&age=seazean，会出现报错，类型转化异常
+如果访问 URL：`http://localhost/requestParam1?name=seazean&age=seazean`，会出现报错，类型转化异常
 
 ```java
 @RequestMapping("/requestParam1")
@@ -10565,7 +10565,7 @@ SpringMVC 对接收的数据进行自动类型转换，该工作通过 Converter
 
 ![](./images/SpringMVC-date数据类型转换.png)
 
-如果访问 URL：http://localhost/requestParam11?date=1999-09-09 会报错，所以需要日期类型转换
+如果访问 URL：`http://localhost/requestParam11?date=1999-09-09` 会报错，所以需要日期类型转换
 
 * 声明自定义的转换格式并覆盖系统转换格式，配置 resources / spring-mvc.xml
 
@@ -12113,7 +12113,7 @@ RequestResponseBodyMethodProcessor#handleReturnValue：处理返回值，要进�
 spring.mvc.contentnegotiation:favor-parameter: true  # 开启请求参数内容协商模式
 ```
 
-发请求： http://localhost:8080/person?format=json，解析 format
+发请求： `http://localhost:8080/person?format=json`，解析 format
 
 策略类为 ParameterContentNegotiationStrategy，运行流程如下：
 
@@ -14986,7 +14986,7 @@ SpringBoot 自动配置了很多约定，大多场景都无需自定义配置
       static-path-pattern: /resources/**
   ```
 
-  访问 URL：http://localhost:8080/resources/ + 静态资源名，将所有资源**重定位**到 `/resources/`
+  访问 URL：`http://localhost:8080/resources/` + 静态资源名，将所有资源**重定位**到 `/resources/`
 
 * webjar 访问资源：
 
@@ -14998,7 +14998,7 @@ SpringBoot 自动配置了很多约定，大多场景都无需自定义配置
   </dependency>
   ```
 
-  访问地址：http://localhost:8080/webjars/jquery/3.5.1/jquery.js，后面地址要按照依赖里面的包路径
+  访问地址：`http://localhost:8080/webjars/jquery/3.5.1/jquery.js`，后面地址要按照依赖里面的包路径
 
 
 
@@ -15008,7 +15008,7 @@ SpringBoot 自动配置了很多约定，大多场景都无需自定义配置
 
 #### 欢迎页面
 
-静态资源路径下 index.html 默认作为欢迎页面，访问 http://localhost:8080 出现该页面，使用 welcome page 功能不能修改前缀
+静态资源路径下 index.html 默认作为欢迎页面，访问 `http://localhost:8080` 出现该页面，使用 welcome page 功能不能修改前缀
 
 网页标签上的小图标可以自定义规则，把资源重命名为 favicon.ico 放在静态资源目录下即可
 
@@ -16047,7 +16047,7 @@ management:
         include: '*'  #以web方式暴露
 ```
 
-访问 http://localhost:8080/actuator/[beans/health/metrics/]
+访问 `http://localhost:8080/actuator/[beans/health/metrics/]`
 
 可视化界面：https://github.com/codecentric/spring-boot-admin
 
@@ -16444,7 +16444,7 @@ Server 端高可用集群原理：实现负载均衡和故障容错，互相注�
   }
   ```
 
-* 访问 http://eureka7001.com:7001 和 http://eureka7002.com:7002：
+* 访问 `http://eureka7001.com:7001` 和 `http://eureka7002.com:7002`：
 
   ![Cloud-EurekaServer集群构建成功](./images/Cloud-EurekaServer集群构建成功.png)
 
@@ -17662,7 +17662,7 @@ Gateway 网关路由有两种配置方式，分别为通过 yml 配置和注入 
   ```
 
   * uri + predicate 拼接就是具体的接口请求路径，通过 localhost:9527 映射的地址
-  * predicate 断言 http://localhost:8001下面有一个 /payment/get/** 的地址，如果找到了该地址就返回 true，可以用 9527 端口访问，进行端口的适配
+  * predicate 断言 `http://localhost:8001`下面有一个 /payment/get/** 的地址，如果找到了该地址就返回 true，可以用 9527 端口访问，进行端口的适配
   * `**` 表示通配符，因为这是一个不确定的参数
 
 
@@ -18444,7 +18444,7 @@ Sleuth 负责跟踪整理，zipkin 负责可视化展示
 java -jar zipkin-server-2.12.9-exec.jar # 启动 zipkin 
 ```
 
-访问 http://localhost:9411/zipkin/ 展示交互界面
+访问 `http://localhost:9411/zipkin/` 展示交互界面
 
 一条请求链路通过 Trace ID 唯一标识，Span 标识发起的请求信息
 
