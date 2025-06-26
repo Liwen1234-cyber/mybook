@@ -125,6 +125,7 @@ slug: /
 
 ### Java
 
+* 【2025-06-26】[junit-team / junit-framework](https://github.com/junit-team/junit-framework) - ✅ The programmer-friendly testing framework for Java and the JVM
 * 【2025-06-25】[Winds-Studio / Leaf](https://github.com/Winds-Studio/Leaf) - A Paper fork aim to find balance between performance, vanilla and stability
 * 【2025-06-24】[mafik / echo](https://github.com/mafik/echo) - Time travelling recorder for Android.
 * 【2025-06-21】[alibaba / fluss](https://github.com/alibaba/fluss) - Fluss is a streaming storage built for real-time analytics.
@@ -139,6 +140,9 @@ slug: /
 
 ### Python
 
+* 【2025-06-26】[ROCm / TheRock](https://github.com/ROCm/TheRock) - The HIP Environment and ROCm Kit - A lightweight open source build system for HIP and ROCm
+* 【2025-06-26】[zhaochenyang20 / Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) - My learning notes/codes for ML SYS.
+* 【2025-06-26】[funstory-ai / BabelDOC](https://github.com/funstory-ai/BabelDOC) - Yet Another Document Translator
 * 【2025-06-25】[Epodonios / v2ray-configs](https://github.com/Epodonios/v2ray-configs) - Free vless-vmess-shadowsocks-trojan-xray-V2ray Configs Updating Every 5 minutes
 * 【2025-06-25】[LeCAR-Lab / ASAP](https://github.com/LeCAR-Lab/ASAP) - Official implementation of "ASAP: Aligning Simulation and Real-World Physics for Learning Agile Humanoid Whole-Body Skills"
 * 【2025-06-25】[dendenxu / fast-gaussian-rasterization](https://github.com/dendenxu/fast-gaussian-rasterization) - A geometry-shader-based, global CUDA sorted high-performance 3D Gaussian Splatting rasterizer. Can achieve a 5-10x speedup in rendering compared to the vanialla diff-gaussian-rasterization.
@@ -190,6 +194,7 @@ slug: /
 
 ### Jupyter-notebook
 
+* 【2025-06-26】[openvinotoolkit / openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks) - 📚 Jupyter notebook tutorials for OpenVINO™
 * 【2025-06-25】[GoogleCloudPlatform / vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples) - Notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage machine learning and generative AI workflows using Google Cloud Vertex AI.
 * 【2025-06-25】[huggingface / notebooks](https://github.com/huggingface/notebooks) - Notebooks using the Hugging Face libraries 🤗
 * 【2025-06-24】[jupyter / notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
@@ -267,6 +272,7 @@ slug: /
 * 【2025-06-01】[punkpeye / awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 ### Go
 
+* 【2025-06-26】[oras-project / oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
 * 【2025-06-25】[weibaohui / k8m](https://github.com/weibaohui/k8m) - 一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，支持大模型+智能体+MCP(支持设置操作权限)，集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
 * 【2025-06-24】[Aylur / ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+TypeScript
 * 【2025-06-24】[kitops-ml / kitops](https://github.com/kitops-ml/kitops) - An open source DevOps tool for packaging and versioning AI/ML models, datasets, code, and configuration into an OCI artifact.
@@ -287,6 +293,7 @@ slug: /
 
 ### C++
 
+* 【2025-06-26】[airockchip / rknn-llm](https://github.com/airockchip/rknn-llm) - 
 * 【2025-06-22】[duckdb / ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format
 * 【2025-06-21】[lynx-family / lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
 * 【2025-06-20】[stereolabs / zed-ros2-wrapper](https://github.com/stereolabs/zed-ros2-wrapper) - ROS 2 wrapper for the ZED SDK
