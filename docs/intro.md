@@ -16,6 +16,7 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/revenge-on-gold-diggers/?utm_source=rss&utm_medium=rss&utm_campaign=revenge-on-gold-diggers">《捞女游戏》的局限与舆论困境</a>- by stephenleng - Jun 26, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/26/%e8%87%aa%e7%94%b1%e6%84%8f%e5%bf%97%e6%98%af%e5%86%b3%e5%ae%9a%e7%9b%ae%e7%9a%84%e5%9c%b0%ef%bc%8c%e8%bf%98%e6%98%af%e5%86%b3%e5%ae%9a%e4%bb%80%e4%b9%88%e6%97%b6%e5%80%99%e4%b8%8b%e8%bd%a6%ef%bc%9f/">自由意志是决定目的地，还是决定什么时候下车？</a>- by onojyun - Jun 26, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/25/%e9%81%93%e5%be%b7%e7%91%95%e7%96%b5%e4%b8%8e%e6%b3%95%e5%be%8b%e6%83%a9%e6%88%92/">道德瑕疵与法律惩戒</a>- by onojyun - Jun 25, 2025</li>
+<li style="padding-left: 20px;"><a href="https://shinekid.com/2025/06/the-idealist-and-respectful-silence/">理想主義者と、尊者のために諱むこと</a>- by shinekid - Jun 25, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/24/%e5%92%96%e5%95%a1%e5%8e%85%e7%9a%84%e4%bf%a1%e6%81%af%e6%8e%a5%e6%94%b6%e5%99%a8/">咖啡厅的信息接收器</a>- by onojyun - Jun 24, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html">国产 AI 网页开发工具：豆包 AI 编程简单测评</a>- by ruanyifeng - Jun 24, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/23/%e8%81%9a%e5%85%89%e7%81%af%e4%b8%8b%e8%88%9e%e5%8f%b0%e4%b9%8b%e4%b8%8a/">聚光灯下舞台之上</a>- by onojyun - Jun 23, 2025</li>
@@ -41,8 +42,7 @@ slug: /
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html">科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用</a>- by ruanyifeng - Jun 6, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/while-parents-live-one-must-travel-far/?utm_source=rss&utm_medium=rss&utm_campaign=while-parents-live-one-must-travel-far">父母在，要远游</a>- by stephenleng - Jun 5, 2025</li>
 <li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/06/03/decomposing-a-factorial-into-large-factors-second-version/">Decomposing a factorial into large factors &lpar;second version&rpar;</a>- by terrytao - Jun 4, 2025</li>
-<li style="padding-left: 20px;"><a href="https://shinekid.com/2025/06/mokugeki-sha/">もくげきしゃ</a>- by shinekid - Jun 3, 2025</li>
-<li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/06/02/on-the-number-of-exceptional-intervals-to-the-prime-number-theorem-in-short-intervals/">On the number of exceptional intervals to the prime number theorem in short intervals</a>- by terrytao - Jun 2, 2025</li><!-- BLOG:END -->
+<li style="padding-left: 20px;"><a href="https://shinekid.com/2025/06/mokugeki-sha/">もくげきしゃ</a>- by shinekid - Jun 3, 2025</li><!-- BLOG:END -->
 
 </details>
 
