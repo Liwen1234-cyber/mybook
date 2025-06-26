@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=yF7hcQCQpwE"><img width="200px" src="http://img.youtube.com/vi/yF7hcQCQpwE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yF7hcQCQpwE">北約歷史性提高軍費 特朗普態度大轉彎－ BBC News 中文</a></td>
+<td>Jun 26, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/dF29EGxfeUI"><img width="200px" src="http://img.youtube.com/vi/dF29EGxfeUI/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/dF29EGxfeUI">北約秘書長稱特朗普為「爸爸」－ BBC News 中文 #特朗普 #美國 #北約</a></td>
+<td>Jun 26, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/_QZJm4JgRqM"><img width="200px" src="http://img.youtube.com/vi/_QZJm4JgRqM/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/_QZJm4JgRqM">特朗普告訴BBC烏克蘭記者：「替我向你丈夫問好」－ BBC News 中文 #特朗普 #美國 #烏克蘭</a></td>
 <td>Jun 26, 2025</td></tr>
@@ -81,13 +87,7 @@ slug: /
 <td>Jun 25, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/spsqMppIqXM"><img width="200px" src="http://img.youtube.com/vi/spsqMppIqXM/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/spsqMppIqXM">特朗普飆髒話  稱對以色列和伊朗都「不高興」－ BBC News 中文</a></td>
-<td>Jun 25, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=0vucXv7ZrEU"><img width="200px" src="http://img.youtube.com/vi/0vucXv7ZrEU/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=0vucXv7ZrEU">贵州榕江发生特大洪灾，水深三层楼冲垮高架桥；《捞女游戏》新华社先赞扬后删文，网友调侃内部斗争激烈；伊朗“象征性报复“结束，特朗普确认”不希望伊朗政权更迭“【雪花每日新闻】</a></td>
-<td>Jun 25, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=bGOsEYYz3Qs"><img width="200px" src="http://img.youtube.com/vi/bGOsEYYz3Qs/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=bGOsEYYz3Qs">韓戰75週年：這場戰爭為何從未結束？－ BBC News 中文</a></td>
-<td>Jun 24, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jun 25, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
