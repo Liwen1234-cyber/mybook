@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/_QZJm4JgRqM"><img width="200px" src="http://img.youtube.com/vi/_QZJm4JgRqM/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/_QZJm4JgRqM">特朗普告訴BBC烏克蘭記者：「替我向你丈夫問好」－ BBC News 中文 #特朗普 #美國 #烏克蘭</a></td>
+<td>Jun 26, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=FgNAtnPibIg"><img width="200px" src="http://img.youtube.com/vi/FgNAtnPibIg/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FgNAtnPibIg">张学友澳门演唱会上拒绝观众“讲普通话”的要求；留学生在西安无证驾驶撞死人，48天无处罚、未赔偿；小红书大批留学移民相关账号被一刀切封禁【雪花每日新闻】</a></td>
 <td>Jun 25, 2025</td></tr>
@@ -84,10 +87,7 @@ slug: /
 <td>Jun 25, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=bGOsEYYz3Qs"><img width="200px" src="http://img.youtube.com/vi/bGOsEYYz3Qs/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=bGOsEYYz3Qs">韓戰75週年：這場戰爭為何從未結束？－ BBC News 中文</a></td>
-<td>Jun 24, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=jfZUlVFtpHk"><img width="200px" src="http://img.youtube.com/vi/jfZUlVFtpHk/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=jfZUlVFtpHk">伊朗末代王储巴黎演讲：此刻正是我们的柏林墙时刻，西方继续绥靖是对伊朗人民的不尊重</a></td>
-<td>Jun 23, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jun 24, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
