@@ -17,8 +17,8 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "BLOG"
-          feed_list: "https://onojyun.com/feed/,https://terrytao.wordpress.com/feed/,http://feeds.feedburner.com/ruanyifeng/,https://hsu.cy/feed.xml,https://weekly.1q43.blog/rss/feed.xml,https://stephenleng.com/cn/rss,https://zhangluyao.com/index.xml"
-          feed_names: "onojyun,terrytao,ruanyifeng,hsu,1q43,stephenleng,zhangluyao"
+          feed_list: "https://onojyun.com/feed/,https://terrytao.wordpress.com/feed/,http://feeds.feedburner.com/ruanyifeng/,https://hsu.cy/feed.xml,https://weekly.1q43.blog/rss/feed.xml,https://stephenleng.com/cn/rss"
+          feed_names: "onojyun,terrytao,ruanyifeng,hsu,1q43,stephenleng"
           date_format: 'mmm d, yyyy'
           readme_path: "./docs/intro.md"
           max_post_count: 30
