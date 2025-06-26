@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/X96qsuJIUnw"><img width="200px" src="http://img.youtube.com/vi/X96qsuJIUnw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/X96qsuJIUnw">以色列和伊朗停火後. 德黑蘭局勢如何？－ BBC News 中文</a></td>
+<td>Jun 26, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=CGMNIOuPtIY"><img width="200px" src="http://img.youtube.com/vi/CGMNIOuPtIY/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=CGMNIOuPtIY">哥倫比亞性直播產業：網絡模特背後的潛在剝削陷阱－ BBC News 中文</a></td>
+<td>Jun 26, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=yF7hcQCQpwE"><img width="200px" src="http://img.youtube.com/vi/yF7hcQCQpwE/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yF7hcQCQpwE">北約歷史性提高軍費 特朗普態度大轉彎－ BBC News 中文</a></td>
 <td>Jun 26, 2025</td></tr>
@@ -81,12 +87,6 @@ slug: /
 <td>Jun 25, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/a1emHLgz99g"><img width="200px" src="http://img.youtube.com/vi/a1emHLgz99g/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/a1emHLgz99g">中國橋梁垮塌  貨車司機懸在半空－ BBC News 中文</a></td>
-<td>Jun 25, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/OAjVAuDhJcA"><img width="200px" src="http://img.youtube.com/vi/OAjVAuDhJcA/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/OAjVAuDhJcA">假軍裝、假血……Telegram頻道如何在波蘭傳播親俄假新聞－ BBC News 中文</a></td>
-<td>Jun 25, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/spsqMppIqXM"><img width="200px" src="http://img.youtube.com/vi/spsqMppIqXM/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/spsqMppIqXM">特朗普飆髒話  稱對以色列和伊朗都「不高興」－ BBC News 中文</a></td>
 <td>Jun 25, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
