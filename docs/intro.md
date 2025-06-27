@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/OCyCiJMkhFo"><img width="200px" src="http://img.youtube.com/vi/OCyCiJMkhFo/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/OCyCiJMkhFo">紐約將迎來一位社會主義者市長？－ BBC News 中文</a></td>
+<td>Jun 27, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Uy9wdT8h1Ms"><img width="200px" src="http://img.youtube.com/vi/Uy9wdT8h1Ms/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Uy9wdT8h1Ms">泰國走私至英國的大麻數量激增 政府重列大麻為毒品－ BBC News 中文</a></td>
 <td>Jun 27, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 26, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/dF29EGxfeUI"><img width="200px" src="http://img.youtube.com/vi/dF29EGxfeUI/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/dF29EGxfeUI">北約秘書長稱特朗普為「爸爸」－ BBC News 中文 #特朗普 #美國 #北約</a></td>
-<td>Jun 26, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/_QZJm4JgRqM"><img width="200px" src="http://img.youtube.com/vi/_QZJm4JgRqM/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/_QZJm4JgRqM">特朗普告訴BBC烏克蘭記者：「替我向你丈夫問好」－ BBC News 中文 #特朗普 #美國 #烏克蘭</a></td>
 <td>Jun 26, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
