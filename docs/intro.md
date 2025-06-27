@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/Vq518VJBwso"><img width="200px" src="http://img.youtube.com/vi/Vq518VJBwso/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/Vq518VJBwso">「灰姑娘」搶手機賊因遺落鞋子上的DNA被捕－ BBC News 中文</a></td>
+<td>Jun 27, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/X96qsuJIUnw"><img width="200px" src="http://img.youtube.com/vi/X96qsuJIUnw/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/X96qsuJIUnw">以色列和伊朗停火後. 德黑蘭局勢如何？－ BBC News 中文</a></td>
 <td>Jun 26, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 25, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/y3Sz3XyHuHw"><img width="200px" src="http://img.youtube.com/vi/y3Sz3XyHuHw/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/y3Sz3XyHuHw">《魷魚遊戲》為何風靡全球？－ BBC News 中文 #韓國  #魷魚遊戲</a></td>
-<td>Jun 25, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/a1emHLgz99g"><img width="200px" src="http://img.youtube.com/vi/a1emHLgz99g/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/a1emHLgz99g">中國橋梁垮塌  貨車司機懸在半空－ BBC News 中文</a></td>
 <td>Jun 25, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
