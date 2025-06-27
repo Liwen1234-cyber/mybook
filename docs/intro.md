@@ -58,6 +58,18 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=Uy9wdT8h1Ms"><img width="200px" src="http://img.youtube.com/vi/Uy9wdT8h1Ms/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Uy9wdT8h1Ms">泰國走私至英國的大麻數量激增 政府重列大麻為毒品－ BBC News 中文</a></td>
+<td>Jun 27, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/z0p-kCtlOWU"><img width="200px" src="http://img.youtube.com/vi/z0p-kCtlOWU/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/z0p-kCtlOWU">黑熊闖入日本機場跑道  多趟航班被迫取消－ BBC News 中文</a></td>
+<td>Jun 27, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/zqvr9vBol6U"><img width="200px" src="http://img.youtube.com/vi/zqvr9vBol6U/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/zqvr9vBol6U">金正恩偕女兒參觀竣工的海濱度假區－ BBC News 中文</a></td>
+<td>Jun 27, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=n35JjGanxZk"><img width="200px" src="http://img.youtube.com/vi/n35JjGanxZk/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=n35JjGanxZk">BBC烏克蘭記者：沒想到特朗普會問候我丈夫－ BBC News 中文</a></td>
+<td>Jun 27, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/Vq518VJBwso"><img width="200px" src="http://img.youtube.com/vi/Vq518VJBwso/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/Vq518VJBwso">「灰姑娘」搶手機賊因遺落鞋子上的DNA被捕－ BBC News 中文</a></td>
 <td>Jun 27, 2025</td></tr>
@@ -75,19 +87,7 @@ slug: /
 <td>Jun 26, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/_QZJm4JgRqM"><img width="200px" src="http://img.youtube.com/vi/_QZJm4JgRqM/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/_QZJm4JgRqM">特朗普告訴BBC烏克蘭記者：「替我向你丈夫問好」－ BBC News 中文 #特朗普 #美國 #烏克蘭</a></td>
-<td>Jun 26, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=FgNAtnPibIg"><img width="200px" src="http://img.youtube.com/vi/FgNAtnPibIg/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FgNAtnPibIg">张学友澳门演唱会上拒绝观众“讲普通话”的要求；留学生在西安无证驾驶撞死人，48天无处罚、未赔偿；小红书大批留学移民相关账号被一刀切封禁【雪花每日新闻】</a></td>
-<td>Jun 25, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=Isina-Kt13g"><img width="200px" src="http://img.youtube.com/vi/Isina-Kt13g/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Isina-Kt13g">以伊戰爭：特朗普空襲伊朗核設施成效被質疑　停火能否維持？ － BBC News 中文</a></td>
-<td>Jun 25, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=ARsFQtRVudE"><img width="200px" src="http://img.youtube.com/vi/ARsFQtRVudE/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ARsFQtRVudE">中國村民拒絕拆遷 徒手搭十層「城堡」意外爆紅－ BBC News 中文</a></td>
-<td>Jun 25, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/y3Sz3XyHuHw"><img width="200px" src="http://img.youtube.com/vi/y3Sz3XyHuHw/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/y3Sz3XyHuHw">《魷魚遊戲》為何風靡全球？－ BBC News 中文 #韓國  #魷魚遊戲</a></td>
-<td>Jun 25, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jun 26, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
