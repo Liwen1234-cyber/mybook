@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="https://shinekid.com/2025/06/sudden-vertigo/">突如として襲ってくるめまい</a>- by shinekid - Jun 28, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html">科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？</a>- by ruanyifeng - Jun 27, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/revenge-on-gold-diggers/?utm_source=rss&utm_medium=rss&utm_campaign=revenge-on-gold-diggers">《捞女游戏》的局限与舆论困境</a>- by stephenleng - Jun 26, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/26/%e8%87%aa%e7%94%b1%e6%84%8f%e5%bf%97%e6%98%af%e5%86%b3%e5%ae%9a%e7%9b%ae%e7%9a%84%e5%9c%b0%ef%bc%8c%e8%bf%98%e6%98%af%e5%86%b3%e5%ae%9a%e4%bb%80%e4%b9%88%e6%97%b6%e5%80%99%e4%b8%8b%e8%bd%a6%ef%bc%9f/">自由意志是决定目的地，还是决定什么时候下车？</a>- by onojyun - Jun 26, 2025</li>
@@ -41,8 +42,7 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://shinekid.com/2025/06/about-i-love-you/">關於我愛你</a>- by shinekid - Jun 7, 2025</li>
 <li style="padding-left: 20px;"><a href="https://shinekid.com/2025/06/the-boundaries-and-controversies-of-criminal-offenses-in-danmei-works/">耽美作品涉罪的邊界與爭議</a>- by shinekid - Jun 6, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html">科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用</a>- by ruanyifeng - Jun 6, 2025</li>
-<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/while-parents-live-one-must-travel-far/?utm_source=rss&utm_medium=rss&utm_campaign=while-parents-live-one-must-travel-far">父母在，要远游</a>- by stephenleng - Jun 5, 2025</li>
-<li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/06/03/decomposing-a-factorial-into-large-factors-second-version/">Decomposing a factorial into large factors &lpar;second version&rpar;</a>- by terrytao - Jun 4, 2025</li><!-- BLOG:END -->
+<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/while-parents-live-one-must-travel-far/?utm_source=rss&utm_medium=rss&utm_campaign=while-parents-live-one-must-travel-far">父母在，要远游</a>- by stephenleng - Jun 5, 2025</li><!-- BLOG:END -->
 
 </details>
 
