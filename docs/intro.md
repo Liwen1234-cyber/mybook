@@ -58,11 +58,14 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=z3e5Qk4IXbA"><img width="200px" src="http://img.youtube.com/vi/z3e5Qk4IXbA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=z3e5Qk4IXbA">俄罗斯102团被俘中国士兵 讲述自己的填线经历【雪花快报】</a></td>
+<td>Jun 28, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/OCyCiJMkhFo"><img width="200px" src="http://img.youtube.com/vi/OCyCiJMkhFo/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/OCyCiJMkhFo">紐約將迎來一位社會主義者市長？－ BBC News 中文</a></td>
 <td>Jun 27, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Uy9wdT8h1Ms"><img width="200px" src="http://img.youtube.com/vi/Uy9wdT8h1Ms/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Uy9wdT8h1Ms">泰國走私至英國的大麻數量激增 政府重列大麻為毒品－ BBC News 中文</a></td>
+<td><a href="https://www.youtube.com/watch?v=Uy9wdT8h1Ms">泰國大麻產業被指「失控」 政府重列大麻為毒品－ BBC News 中文</a></td>
 <td>Jun 27, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/z0p-kCtlOWU"><img width="200px" src="http://img.youtube.com/vi/z0p-kCtlOWU/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/z0p-kCtlOWU">黑熊闖入日本機場跑道  多趟航班被迫取消－ BBC News 中文</a></td>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 26, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=yF7hcQCQpwE"><img width="200px" src="http://img.youtube.com/vi/yF7hcQCQpwE/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=yF7hcQCQpwE">北約歷史性提高軍費 特朗普態度大轉彎－ BBC News 中文</a></td>
-<td>Jun 26, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/dF29EGxfeUI"><img width="200px" src="http://img.youtube.com/vi/dF29EGxfeUI/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/dF29EGxfeUI">北約秘書長稱特朗普為「爸爸」－ BBC News 中文 #特朗普 #美國 #北約</a></td>
 <td>Jun 26, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
