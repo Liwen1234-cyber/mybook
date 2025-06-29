@@ -94,6 +94,7 @@ slug: /
 ## GitHub Trending
 ### All language
 
+* 【2025-06-29】[rommapp / romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
 * 【2025-06-27】[nexus-xyz / nexus-cli](https://github.com/nexus-xyz/nexus-cli) - Command line interface for supplying proofs to the Nexus network.
 * 【2025-06-25】[musistudio / claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 * 【2025-06-25】[Effect-TS / effect](https://github.com/Effect-TS/effect) - Build production-ready applications in TypeScript
@@ -126,6 +127,7 @@ slug: /
 
 ### Java
 
+* 【2025-06-29】[Alovoa / alovoa](https://github.com/Alovoa/alovoa) - Free and open-source dating platform that respects your privacy
 * 【2025-06-27】[eclipse-jdtls / eclipse.jdt.ls](https://github.com/eclipse-jdtls/eclipse.jdt.ls) - Java language server
 * 【2025-06-26】[junit-team / junit-framework](https://github.com/junit-team/junit-framework) - ✅ The programmer-friendly testing framework for Java and the JVM
 * 【2025-06-25】[Winds-Studio / Leaf](https://github.com/Winds-Studio/Leaf) - A Paper fork aim to find balance between performance, vanilla and stability
@@ -142,6 +144,8 @@ slug: /
 
 ### Python
 
+* 【2025-06-29】[google-deepmind / alphafold3](https://github.com/google-deepmind/alphafold3) - AlphaFold 3 inference pipeline.
+* 【2025-06-29】[huangjunsen0406 / py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - python版本的小智ai，主要帮助那些没有硬件却想体验小智功能的人,如果可以请点个小星星！在重构！重构完会合并到main
 * 【2025-06-28】[mikel-brostrom / boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models
 * 【2025-06-28】[awslabs / amazon-bedrock-agent-samples](https://github.com/awslabs/amazon-bedrock-agent-samples) - Example Jupyter notebooks 📓 and code scripts 💻 for using Amazon Bedrock Agents 🤖 and its functionalities
 * 【2025-06-27】[microsoft / TRELLIS](https://github.com/microsoft/TRELLIS) - Official repo for paper "Structured 3D Latents for Scalable and Versatile 3D Generation" (CVPR'25 Spotlight).
@@ -202,6 +206,7 @@ slug: /
 
 ### Jupyter-notebook
 
+* 【2025-06-29】[tencentmusic / cube-studio](https://github.com/tencentmusic/cube-studio) - cube studio开源云原生一站式机器学习/深度学习/大模型AI平台，mlops算法链路全流程，支持大数据平台对接，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU虚拟化，边缘计算，标注平台自动化标注，deepseek等大模型sft微调/奖励模型/强化学习训练，vllm/ollama/mindie大模型多机推理，私有知识库，AI模型市场，支持国产cpu/gpu/npu 昇腾生态，支持RDMA，支持pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/ray/volcano等分布式
 * 【2025-06-28】[GoogleCloudPlatform / vertex-ai-creative-studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio) - GenMedia Creative Studio is a Vertex AI generative media example user experience to highlight the use of Imagen, Veo and other generative media APIs on Google Cloud.
 * 【2025-06-26】[openvinotoolkit / openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks) - 📚 Jupyter notebook tutorials for OpenVINO™
 * 【2025-06-25】[GoogleCloudPlatform / vertex-ai-samples](https://github.com/GoogleCloudPlatform/vertex-ai-samples) - Notebooks, code samples, sample apps, and other resources that demonstrate how to use, develop and manage machine learning and generative AI workflows using Google Cloud Vertex AI.
@@ -230,6 +235,8 @@ slug: /
 
 ### Javascript
 
+* 【2025-06-29】[danielmiessler / Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+* 【2025-06-29】[extesy / hoverzoom](https://github.com/extesy/hoverzoom) - Google Chrome extension for zooming images on mouse hover
 * 【2025-06-27】[upstash / context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 * 【2025-06-22】[franceking1 / Flash-Md-V2](https://github.com/franceking1/Flash-Md-V2) - Feel Free To Use FLASH-MD, Remember To STAR🌟 The Repo before Forking
 * 【2025-06-22】[sonnylazuardi / cursor-talk-to-figma-mcp](https://github.com/sonnylazuardi/cursor-talk-to-figma-mcp) - Cursor Talk To Figma MCP
@@ -275,6 +282,8 @@ slug: /
 
 ### Unknown
 
+* 【2025-06-29】[Makerr-Studio / CentrifugalDustSeparator-](https://github.com/Makerr-Studio/CentrifugalDustSeparator-) - Centrifugal Dust Separator - 3D Files for printing
+* 【2025-06-29】[tc39 / proposal-signals](https://github.com/tc39/proposal-signals) - A proposal to add signals to JavaScript.
 * 【2025-06-27】[langgenius / dify-plugins](https://github.com/langgenius/dify-plugins) - All Dify Plugins listed in Dify Marketplace, plus illustrated plugin examples.
 * 【2025-06-25】[appcypher / awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
 * 【2025-06-22】[x1xhlol / system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL v0, Cursor, Manus, Same.dev, Lovable, Devin, Replit Agent, Windsurf Agent, VSCode Agent, Dia Browser & Trae AI (And other Open Sourced) System Prompts, Tools & AI Models.
@@ -326,6 +335,7 @@ slug: /
 
 ### Html
 
+* 【2025-06-29】[yuzono / manga-repo](https://github.com/yuzono/manga-repo) - Extensions for Komikku / Mihon & forks.
 * 【2025-06-12】[novitechie / jetbra](https://github.com/novitechie/jetbra) - 
 * 【2025-06-11】[lowcoder-org / lowcoder](https://github.com/lowcoder-org/lowcoder) - 🔥 🔥 🔥 The Open Source Retool, Tooljet and Appsmith Alternative
 * 【2025-06-10】[GetPublii / Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
