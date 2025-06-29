@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="https://shinekid.com/2025/06/the-beginning-of-change/">変化の始まり</a>- by shinekid - Jun 29, 2025</li>
 <li style="padding-left: 20px;"><a href="https://shinekid.com/2025/06/sudden-vertigo/">突如として襲ってくるめまい</a>- by shinekid - Jun 28, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html">科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？</a>- by ruanyifeng - Jun 27, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/revenge-on-gold-diggers/?utm_source=rss&utm_medium=rss&utm_campaign=revenge-on-gold-diggers">《捞女游戏》的局限与舆论困境</a>- by stephenleng - Jun 26, 2025</li>
@@ -41,8 +42,7 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/20cca795c956800ab72ae370ef3fe886">2025#23 悠然自得</a>- by 1q43 - Jun 9, 2025</li>
 <li style="padding-left: 20px;"><a href="https://shinekid.com/2025/06/about-i-love-you/">關於我愛你</a>- by shinekid - Jun 7, 2025</li>
 <li style="padding-left: 20px;"><a href="https://shinekid.com/2025/06/the-boundaries-and-controversies-of-criminal-offenses-in-danmei-works/">耽美作品涉罪的邊界與爭議</a>- by shinekid - Jun 6, 2025</li>
-<li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html">科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用</a>- by ruanyifeng - Jun 6, 2025</li>
-<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/while-parents-live-one-must-travel-far/?utm_source=rss&utm_medium=rss&utm_campaign=while-parents-live-one-must-travel-far">父母在，要远游</a>- by stephenleng - Jun 5, 2025</li><!-- BLOG:END -->
+<li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html">科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用</a>- by ruanyifeng - Jun 6, 2025</li><!-- BLOG:END -->
 
 </details>
 
