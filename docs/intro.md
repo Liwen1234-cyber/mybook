@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=mMOHvT4Xi9Y"><img width="200px" src="http://img.youtube.com/vi/mMOHvT4Xi9Y/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=mMOHvT4Xi9Y">Labubu熱潮：「中國製造」潮玩如何席捲全球？泡泡瑪特盲盒帝國的營銷密碼－ BBC News 中文</a></td>
+<td>Jun 29, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/nn2knuhzqEc"><img width="200px" src="http://img.youtube.com/vi/nn2knuhzqEc/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/nn2knuhzqEc">陆配小微遭遇铁拳，开直播无奈表示“国富民也富，挑不出任何毛病”</a></td>
 <td>Jun 29, 2025</td></tr>
@@ -84,10 +87,7 @@ slug: /
 <td>Jun 27, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/Vq518VJBwso"><img width="200px" src="http://img.youtube.com/vi/Vq518VJBwso/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/Vq518VJBwso">「灰姑娘」搶手機賊因遺落鞋子上的DNA被捕－ BBC News 中文</a></td>
-<td>Jun 27, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/X96qsuJIUnw"><img width="200px" src="http://img.youtube.com/vi/X96qsuJIUnw/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/X96qsuJIUnw">以色列和伊朗停火後. 德黑蘭局勢如何？－ BBC News 中文</a></td>
-<td>Jun 26, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jun 27, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
