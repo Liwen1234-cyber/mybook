@@ -15,34 +15,34 @@ slug: /
 <!-- BLOG:START -->
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/30/%e7%ac%a8%e4%b8%8e%e8%a0%a2/">笨与蠢</a>- by onojyun - Jun 30, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/29/%e6%9c%aa%e5%ae%8c%e4%b8%8d%e5%be%85%e7%bb%ad%e7%9a%84%e6%95%85%e4%ba%8b/">未完不待续的故事</a>- by onojyun - Jun 29, 2025</li>
-<li style="padding-left: 20px;"><a href="https://shinekid.com/2025/06/the-beginning-of-change/">変化の始まり</a>- by shinekid - Jun 29, 2025</li>
-<li style="padding-left: 20px;"><a href="https://shinekid.com/2025/06/sudden-vertigo/">突如として襲ってくるめまい</a>- by shinekid - Jun 28, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html">科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？</a>- by ruanyifeng - Jun 27, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/revenge-on-gold-diggers/?utm_source=rss&utm_medium=rss&utm_campaign=revenge-on-gold-diggers">《捞女游戏》的局限与舆论困境</a>- by stephenleng - Jun 26, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/26/%e8%87%aa%e7%94%b1%e6%84%8f%e5%bf%97%e6%98%af%e5%86%b3%e5%ae%9a%e7%9b%ae%e7%9a%84%e5%9c%b0%ef%bc%8c%e8%bf%98%e6%98%af%e5%86%b3%e5%ae%9a%e4%bb%80%e4%b9%88%e6%97%b6%e5%80%99%e4%b8%8b%e8%bd%a6%ef%bc%9f/">自由意志是决定目的地，还是决定什么时候下车？</a>- by onojyun - Jun 26, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/25/%e9%81%93%e5%be%b7%e7%91%95%e7%96%b5%e4%b8%8e%e6%b3%95%e5%be%8b%e6%83%a9%e6%88%92/">道德瑕疵与法律惩戒</a>- by onojyun - Jun 25, 2025</li>
-<li style="padding-left: 20px;"><a href="https://shinekid.com/2025/06/the-idealist-and-respectful-silence/">理想主義者と、尊者のために諱むこと</a>- by shinekid - Jun 25, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/24/%e5%92%96%e5%95%a1%e5%8e%85%e7%9a%84%e4%bf%a1%e6%81%af%e6%8e%a5%e6%94%b6%e5%99%a8/">咖啡厅的信息接收器</a>- by onojyun - Jun 24, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html">国产 AI 网页开发工具：豆包 AI 编程简单测评</a>- by ruanyifeng - Jun 24, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/23/%e8%81%9a%e5%85%89%e7%81%af%e4%b8%8b%e8%88%9e%e5%8f%b0%e4%b9%8b%e4%b8%8a/">聚光灯下舞台之上</a>- by onojyun - Jun 23, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/22/%e6%89%93%e5%8f%b0%e7%90%83/">打台球</a>- by onojyun - Jun 22, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/22/%e5%ad%a6%e4%ba%86%e4%b9%9f%e6%b2%a1%e7%94%a8/">学了也没用</a>- by onojyun - Jun 22, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/is-romantic-love-essentially-narcissism-self-love-or-a-projection-of-the-ideal-self-a-critique-of-anti-romantic-discourse-in-the-chinese-internet/?utm_source=rss&utm_medium=rss&utm_campaign=is-romantic-love-essentially-narcissism-self-love-or-a-projection-of-the-ideal-self-a-critique-of-anti-romantic-discourse-in-the-chinese-internet">浪漫爱情的本质是自恋或自爱或自我理想的投射？评中文互联网中的反浪漫话语</a>- by stephenleng - Jun 21, 2025</li>
-<li style="padding-left: 20px;"><a href="https://shinekid.com/2025/06/tea-or-coffee/">紅茶またはコーヒー</a>- by shinekid - Jun 20, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html">科技爱好者周刊（第 353 期）：苹果的&quot;液态玻璃&quot;是为了 AR</a>- by ruanyifeng - Jun 20, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/19/%e7%a1%ac%e5%b8%81%e8%90%bd%e5%ae%9a%e4%b9%8b%e5%89%8d%ef%bc%8c%e6%a6%82%e7%8e%87%e5%b9%b6%e4%b8%8d%e5%ad%98%e5%9c%a8/">硬币落定之前，概率并不存在</a>- by onojyun - Jun 19, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/18/%e8%af%bb%e4%b9%a6%e7%9a%84%e4%bd%9c%e7%94%a8/">读书的作用</a>- by onojyun - Jun 18, 2025</li>
 <li style="padding-left: 20px;"><a href="https://blog.est.im/2025/stdin-06">原研哉《棍子和碗》</a>- by est - Jun 18, 2025</li>
-<li style="padding-left: 20px;"><a href="https://shinekid.com/2025/06/current-goings-on-202506/">六月近況概述</a>- by shinekid - Jun 17, 2025</li>
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/212ca795c95680c789b6f321096bab20">2025#24 拒死而生</a>- by 1q43 - Jun 16, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/why-material-conditions-are-not-the-foundation-of-marriage/?utm_source=rss&utm_medium=rss&utm_campaign=why-material-conditions-are-not-the-foundation-of-marriage">为什么物质条件不是婚姻的“基础”</a>- by stephenleng - Jun 15, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html">科技爱好者周刊（第 352 期）：Bug 追踪系统的正确样子</a>- by ruanyifeng - Jun 12, 2025</li>
-<li style="padding-left: 20px;"><a href="https://shinekid.com/2025/06/county-counseling-rooms-reaching-out-to-at-risk-youth/">縣市心理諮商室，打撈“問題少年”</a>- by shinekid - Jun 12, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/do-parents-have-the-right-to-approve-their-childrens-marriage/?utm_source=rss&utm_medium=rss&utm_campaign=do-parents-have-the-right-to-approve-their-childrens-marriage">父母是否有子女婚姻的批准权？</a>- by stephenleng - Jun 11, 2025</li>
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/20cca795c956800ab72ae370ef3fe886">2025#23 悠然自得</a>- by 1q43 - Jun 9, 2025</li>
-<li style="padding-left: 20px;"><a href="https://shinekid.com/2025/06/about-i-love-you/">關於我愛你</a>- by shinekid - Jun 7, 2025</li>
-<li style="padding-left: 20px;"><a href="https://shinekid.com/2025/06/the-boundaries-and-controversies-of-criminal-offenses-in-danmei-works/">耽美作品涉罪的邊界與爭議</a>- by shinekid - Jun 6, 2025</li>
-<li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html">科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用</a>- by ruanyifeng - Jun 6, 2025</li><!-- BLOG:END -->
+<li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html">科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用</a>- by ruanyifeng - Jun 6, 2025</li>
+<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/while-parents-live-one-must-travel-far/?utm_source=rss&utm_medium=rss&utm_campaign=while-parents-live-one-must-travel-far">父母在，要远游</a>- by stephenleng - Jun 5, 2025</li>
+<li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/06/03/decomposing-a-factorial-into-large-factors-second-version/">Decomposing a factorial into large factors &lpar;second version&rpar;</a>- by terrytao - Jun 4, 2025</li>
+<li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/06/02/on-the-number-of-exceptional-intervals-to-the-prime-number-theorem-in-short-intervals/">On the number of exceptional intervals to the prime number theorem in short intervals</a>- by terrytao - Jun 2, 2025</li>
+<li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/205ca795c956807192efdee9c237e678">2025#22 镜中自我</a>- by 1q43 - Jun 2, 2025</li>
+<li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/">A Lean companion to “Analysis I”</a>- by terrytao - May 31, 2025</li>
+<li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/weekly-issue-350.html">科技爱好者周刊（第 350 期）：Java 三十周年</a>- by ruanyifeng - May 30, 2025</li>
+<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/substitutes-for-religion-in-china/?utm_source=rss&utm_medium=rss&utm_campaign=substitutes-for-religion-in-china">论中国人的宗教代用品</a>- by stephenleng - May 29, 2025</li>
+<li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1feca795c95680ca82a5dcbe3c7fb5e2">2025#21 道在形外</a>- by 1q43 - May 26, 2025</li><!-- BLOG:END -->
 
 </details>
 
