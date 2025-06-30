@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/HwZDKNfXA2w"><img width="200px" src="http://img.youtube.com/vi/HwZDKNfXA2w/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/HwZDKNfXA2w">國安教育下 香港學生是「愛國」還是「被塑造」？－ BBC News 中文  #shorts  #香港</a></td>
+<td>Jun 30, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=LKIt3L_0pCc"><img width="200px" src="http://img.youtube.com/vi/LKIt3L_0pCc/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=LKIt3L_0pCc">香港社民連七一前夕宣布解散 昔日民主派第三大政黨成歷史  － BBC News 中文</a></td>
+<td>Jun 30, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=C9l6qKIyUZI"><img width="200px" src="http://img.youtube.com/vi/C9l6qKIyUZI/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=C9l6qKIyUZI">香港國安法5週年：你愛國嗎？國安教育工程下的師生和公眾怎麼看 － BBC News 中文</a></td>
 <td>Jun 30, 2025</td></tr>
@@ -81,12 +87,6 @@ slug: /
 <td>Jun 27, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Uy9wdT8h1Ms"><img width="200px" src="http://img.youtube.com/vi/Uy9wdT8h1Ms/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Uy9wdT8h1Ms">泰國大麻產業被指「失控」 政府重列大麻為毒品－ BBC News 中文</a></td>
-<td>Jun 27, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/z0p-kCtlOWU"><img width="200px" src="http://img.youtube.com/vi/z0p-kCtlOWU/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/z0p-kCtlOWU">黑熊闖入日本機場跑道  多趟航班被迫取消－ BBC News 中文</a></td>
-<td>Jun 27, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/zqvr9vBol6U"><img width="200px" src="http://img.youtube.com/vi/zqvr9vBol6U/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/zqvr9vBol6U">金正恩偕女兒參觀竣工的海濱度假區－ BBC News 中文</a></td>
 <td>Jun 27, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
