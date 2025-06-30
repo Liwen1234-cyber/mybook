@@ -94,6 +94,9 @@ slug: /
 ## GitHub Trending
 ### All language
 
+* 【2025-06-30】[octra-labs / wallet-gen](https://github.com/octra-labs/wallet-gen) - 
+* 【2025-06-30】[jnsahaj / tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
+* 【2025-06-30】[zyronon / typing-word](https://github.com/zyronon/typing-word) - 在网页上背单词
 * 【2025-06-29】[rommapp / romm](https://github.com/rommapp/romm) - A beautiful, powerful, self-hosted rom manager and player.
 * 【2025-06-27】[nexus-xyz / nexus-cli](https://github.com/nexus-xyz/nexus-cli) - Command line interface for supplying proofs to the Nexus network.
 * 【2025-06-25】[musistudio / claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
@@ -127,6 +130,7 @@ slug: /
 
 ### Java
 
+* 【2025-06-30】[ReSo7200 / InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
 * 【2025-06-29】[Alovoa / alovoa](https://github.com/Alovoa/alovoa) - Free and open-source dating platform that respects your privacy
 * 【2025-06-27】[eclipse-jdtls / eclipse.jdt.ls](https://github.com/eclipse-jdtls/eclipse.jdt.ls) - Java language server
 * 【2025-06-26】[junit-team / junit-framework](https://github.com/junit-team/junit-framework) - ✅ The programmer-friendly testing framework for Java and the JVM
@@ -144,6 +148,7 @@ slug: /
 
 ### Python
 
+* 【2025-06-30】[neo4j-contrib / mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) - Model Context Protocol with Neo4j
 * 【2025-06-29】[google-deepmind / alphafold3](https://github.com/google-deepmind/alphafold3) - AlphaFold 3 inference pipeline.
 * 【2025-06-29】[huangjunsen0406 / py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - python版本的小智ai，主要帮助那些没有硬件却想体验小智功能的人,如果可以请点个小星星！在重构！重构完会合并到main
 * 【2025-06-28】[mikel-brostrom / boxmot](https://github.com/mikel-brostrom/boxmot) - BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models
@@ -190,6 +195,7 @@ slug: /
 
 ### Matlab
 
+* 【2025-06-30】[bids-standard / bids-examples](https://github.com/bids-standard/bids-examples) - A set of BIDS compatible datasets with empty raw data files that can be used for writing lightweight software tests.
 * 【2025-06-25】[SciML / SciMLBenchmarks.jl](https://github.com/SciML/SciMLBenchmarks.jl) - Scientific machine learning (SciML) benchmarks, AI for science, and (differential) equation solvers. Covers Julia, Python (PyTorch, Jax), MATLAB, R
 * 【2025-06-06】[CERN / TIGRE](https://github.com/CERN/TIGRE) - TIGRE: Tomographic Iterative GPU-based Reconstruction Toolbox
 * 【2025-06-04】[mathworks / MATLAB-Simulink-Challenge-Project-Hub](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub) - This MATLAB and Simulink Challenge Project Hub contains a list of research and design project ideas. These projects will help you gain practical experience and insight into technology trends and industry directions.
@@ -197,6 +203,7 @@ slug: /
 
 ### Markdown
 
+* 【2025-06-30】[NixOS / rfcs](https://github.com/NixOS/rfcs) - The Nix community RFCs
 * 【2025-06-22】[hetzneronline / community-content](https://github.com/hetzneronline/community-content) - Hetzner Online Community Project
 * 【2025-06-19】[trinib / trinib](https://github.com/trinib/trinib) - Don't just be a forker🔱...Hit that 🅂🆃🄰🆁⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦My Profile........ Chess♟️ ◉═╬::::::::::::::::::::::::::::::::::::⫸♚ ♛ ♜ ♝ ♞ ▓▒░🔴Connect Dot🟡░▒▓ 🌈☁️Word Cloud ≡͇͇͇͇͇҈҈҈҈≡͇͇͇͇͇͇͇͇͇͇҈҈҈҈≡͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇҈҈҈҈≡͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇҈҈҈҈≡͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇͇҈҈҈҈≡͇͇͇͇͇͇
 * 【2025-06-18】[lightning / bolts](https://github.com/lightning/bolts) - BOLT: Basis of Lightning Technology (Lightning Network Specifications)
@@ -206,6 +213,8 @@ slug: /
 
 ### Jupyter-notebook
 
+* 【2025-06-30】[frankwxu / digital-forensics-lab](https://github.com/frankwxu/digital-forensics-lab) - Free hands-on digital forensics labs for students and faculty
+* 【2025-06-30】[MLEveryday / practicalAI-cn](https://github.com/MLEveryday/practicalAI-cn) - AI实战-practicalAI 中文版
 * 【2025-06-29】[tencentmusic / cube-studio](https://github.com/tencentmusic/cube-studio) - cube studio开源云原生一站式机器学习/深度学习/大模型AI平台，mlops算法链路全流程，支持大数据平台对接，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU虚拟化，边缘计算，标注平台自动化标注，deepseek等大模型sft微调/奖励模型/强化学习训练，vllm/ollama/mindie大模型多机推理，私有知识库，AI模型市场，支持国产cpu/gpu/npu 昇腾生态，支持RDMA，支持pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/ray/volcano等分布式
 * 【2025-06-28】[GoogleCloudPlatform / vertex-ai-creative-studio](https://github.com/GoogleCloudPlatform/vertex-ai-creative-studio) - GenMedia Creative Studio is a Vertex AI generative media example user experience to highlight the use of Imagen, Veo and other generative media APIs on Google Cloud.
 * 【2025-06-26】[openvinotoolkit / openvino_notebooks](https://github.com/openvinotoolkit/openvino_notebooks) - 📚 Jupyter notebook tutorials for OpenVINO™
@@ -235,6 +244,7 @@ slug: /
 
 ### Javascript
 
+* 【2025-06-30】[Worklenz / worklenz](https://github.com/Worklenz/worklenz) - All in one project management tool for efficient teams
 * 【2025-06-29】[danielmiessler / Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 * 【2025-06-29】[extesy / hoverzoom](https://github.com/extesy/hoverzoom) - Google Chrome extension for zooming images on mouse hover
 * 【2025-06-27】[upstash / context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
@@ -282,6 +292,8 @@ slug: /
 
 ### Unknown
 
+* 【2025-06-30】[biliticket / BHYG](https://github.com/biliticket/BHYG) - B站 BW bilibiliworld 会员购 抢票 脚本
+* 【2025-06-30】[TechHutTV / homelab](https://github.com/TechHutTV/homelab) - Homelab stacks, templates, and more fun resources!
 * 【2025-06-29】[Makerr-Studio / CentrifugalDustSeparator-](https://github.com/Makerr-Studio/CentrifugalDustSeparator-) - Centrifugal Dust Separator - 3D Files for printing
 * 【2025-06-29】[tc39 / proposal-signals](https://github.com/tc39/proposal-signals) - A proposal to add signals to JavaScript.
 * 【2025-06-27】[langgenius / dify-plugins](https://github.com/langgenius/dify-plugins) - All Dify Plugins listed in Dify Marketplace, plus illustrated plugin examples.
@@ -296,6 +308,8 @@ slug: /
 * 【2025-06-01】[punkpeye / awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 ### Go
 
+* 【2025-06-30】[Dyneteq / reconya](https://github.com/Dyneteq/reconya) - Network reconnaissance and asset discovery tool
+* 【2025-06-30】[blampe / rreading-glasses](https://github.com/blampe/rreading-glasses) - Corrective lenses for curmudgeonly readars in your life
 * 【2025-06-26】[oras-project / oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
 * 【2025-06-25】[weibaohui / k8m](https://github.com/weibaohui/k8m) - 一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，支持大模型+智能体+MCP(支持设置操作权限)，集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
 * 【2025-06-24】[Aylur / ags](https://github.com/Aylur/ags) - Scaffolding CLI for Astal+TypeScript
@@ -317,6 +331,8 @@ slug: /
 
 ### C++
 
+* 【2025-06-30】[anthwlock / untrunc](https://github.com/anthwlock/untrunc) - Restore a truncated mp4/mov. Improved version of ponchio/untrunc
+* 【2025-06-30】[Mahdi-zarei / nekoray](https://github.com/Mahdi-zarei/nekoray) - Qt based cross-platform GUI proxy configuration manager (backend: sing-box)
 * 【2025-06-26】[airockchip / rknn-llm](https://github.com/airockchip/rknn-llm) - 
 * 【2025-06-22】[duckdb / ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format
 * 【2025-06-21】[lynx-family / lynx](https://github.com/lynx-family/lynx) - Empower the Web community and invite more to build across platforms.
