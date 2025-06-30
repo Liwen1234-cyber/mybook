@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=C9l6qKIyUZI"><img width="200px" src="http://img.youtube.com/vi/C9l6qKIyUZI/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=C9l6qKIyUZI">香港國安法5週年：你愛國嗎？國安教育工程下的師生和公眾怎麼看 － BBC News 中文</a></td>
+<td>Jun 30, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=MHvxzEUWOY8"><img width="200px" src="http://img.youtube.com/vi/MHvxzEUWOY8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MHvxzEUWOY8">“帮倒忙”！上届国民党籍副总统候选人赵少康劝国台办少讲话；“惠农补贴变惠官补贴”，多省挪用惠农补贴给官员发工资；不回应学生的装空调诉求，东北师大学生深扒学校空调采购贪【雪花每日新闻】</a></td>
 <td>Jun 30, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 27, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/zqvr9vBol6U"><img width="200px" src="http://img.youtube.com/vi/zqvr9vBol6U/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/zqvr9vBol6U">金正恩偕女兒參觀竣工的海濱度假區－ BBC News 中文</a></td>
-<td>Jun 27, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=n35JjGanxZk"><img width="200px" src="http://img.youtube.com/vi/n35JjGanxZk/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=n35JjGanxZk">BBC烏克蘭記者：沒想到特朗普會問候我丈夫－ BBC News 中文</a></td>
 <td>Jun 27, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
