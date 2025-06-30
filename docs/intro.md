@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/30/%e7%ac%a8%e4%b8%8e%e8%a0%a2/">笨与蠢</a>- by onojyun - Jun 30, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/29/%e6%9c%aa%e5%ae%8c%e4%b8%8d%e5%be%85%e7%bb%ad%e7%9a%84%e6%95%85%e4%ba%8b/">未完不待续的故事</a>- by onojyun - Jun 29, 2025</li>
 <li style="padding-left: 20px;"><a href="https://shinekid.com/2025/06/the-beginning-of-change/">変化の始まり</a>- by shinekid - Jun 29, 2025</li>
 <li style="padding-left: 20px;"><a href="https://shinekid.com/2025/06/sudden-vertigo/">突如として襲ってくるめまい</a>- by shinekid - Jun 28, 2025</li>
@@ -32,7 +33,6 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/19/%e7%a1%ac%e5%b8%81%e8%90%bd%e5%ae%9a%e4%b9%8b%e5%89%8d%ef%bc%8c%e6%a6%82%e7%8e%87%e5%b9%b6%e4%b8%8d%e5%ad%98%e5%9c%a8/">硬币落定之前，概率并不存在</a>- by onojyun - Jun 19, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/18/%e8%af%bb%e4%b9%a6%e7%9a%84%e4%bd%9c%e7%94%a8/">读书的作用</a>- by onojyun - Jun 18, 2025</li>
 <li style="padding-left: 20px;"><a href="https://blog.est.im/2025/stdin-06">原研哉《棍子和碗》</a>- by est - Jun 18, 2025</li>
-<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/18/%e5%85%85%e6%bb%a1%e6%96%b0%e9%b2%9c%e6%84%9f%e7%9a%84%e6%ad%bb%e4%ba%a1/">充满新鲜感的死亡</a>- by onojyun - Jun 18, 2025</li>
 <li style="padding-left: 20px;"><a href="https://shinekid.com/2025/06/current-goings-on-202506/">六月近況概述</a>- by shinekid - Jun 17, 2025</li>
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/212ca795c95680c789b6f321096bab20">2025#24 拒死而生</a>- by 1q43 - Jun 16, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/why-material-conditions-are-not-the-foundation-of-marriage/?utm_source=rss&utm_medium=rss&utm_campaign=why-material-conditions-are-not-the-foundation-of-marriage">为什么物质条件不是婚姻的“基础”</a>- by stephenleng - Jun 15, 2025</li>
