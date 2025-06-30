@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=MHvxzEUWOY8"><img width="200px" src="http://img.youtube.com/vi/MHvxzEUWOY8/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=MHvxzEUWOY8">“帮倒忙”！上届国民党籍副总统候选人赵少康劝国台办少讲话；“惠农补贴变惠官补贴”，多省挪用惠农补贴给官员发工资；不回应学生的装空调诉求，东北师大学生深扒学校空调采购贪【雪花每日新闻】</a></td>
+<td>Jun 30, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=mMOHvT4Xi9Y"><img width="200px" src="http://img.youtube.com/vi/mMOHvT4Xi9Y/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mMOHvT4Xi9Y">Labubu熱潮：「中國製造」潮玩如何席捲全球？泡泡瑪特盲盒帝國的營銷密碼－ BBC News 中文</a></td>
 <td>Jun 29, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 27, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=n35JjGanxZk"><img width="200px" src="http://img.youtube.com/vi/n35JjGanxZk/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=n35JjGanxZk">BBC烏克蘭記者：沒想到特朗普會問候我丈夫－ BBC News 中文</a></td>
-<td>Jun 27, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/Vq518VJBwso"><img width="200px" src="http://img.youtube.com/vi/Vq518VJBwso/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/Vq518VJBwso">「灰姑娘」搶手機賊因遺落鞋子上的DNA被捕－ BBC News 中文</a></td>
 <td>Jun 27, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
