@@ -58,8 +58,11 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
-<tr><td><a href="https://www.youtube.com/shorts/DH-p56I0GZw"><img width="200px" src="http://img.youtube.com/vi/DH-p56I0GZw/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/DH-p56I0GZw">中國機器人足球賽亮相 自主決策肉搏搶球－ BBC News 中文</a></td>
+<tr><td><a href="https://www.youtube.com/watch?v=SAyH3svUbBA"><img width="200px" src="http://img.youtube.com/vi/SAyH3svUbBA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SAyH3svUbBA">中國機器人足球賽亮相 AI決策肉搏搶球－ BBC News 中文</a></td>
+<td>Jul 1, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=MoqM4SIR6tA"><img width="200px" src="http://img.youtube.com/vi/MoqM4SIR6tA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=MoqM4SIR6tA">達賴喇嘛迎接90歲生日：將設立轉世「框架」尋繼任者－ BBC News 中文</a></td>
 <td>Jul 1, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/LVp55Wg9INQ"><img width="200px" src="http://img.youtube.com/vi/LVp55Wg9INQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/LVp55Wg9INQ">碧昂絲巡演道具車側翻  抓旗桿吊在半空－ BBC News 中文</a></td>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 30, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=mMOHvT4Xi9Y"><img width="200px" src="http://img.youtube.com/vi/mMOHvT4Xi9Y/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=mMOHvT4Xi9Y">Labubu熱潮：「中國製造」潮玩如何席捲全球？泡泡瑪特盲盒帝國的營銷密碼－ BBC News 中文</a></td>
-<td>Jun 29, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/nn2knuhzqEc"><img width="200px" src="http://img.youtube.com/vi/nn2knuhzqEc/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/nn2knuhzqEc">陆配小微遭遇铁拳，开直播无奈表示“国富民也富，挑不出任何毛病”</a></td>
 <td>Jun 29, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
