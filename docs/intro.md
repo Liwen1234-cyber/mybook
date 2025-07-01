@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/TY9WILcVXbk"><img width="200px" src="http://img.youtube.com/vi/TY9WILcVXbk/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/TY9WILcVXbk">為什麼在中國各大機場充電寶堆積如山？－ BBC News 中文</a></td>
+<td>Jul 1, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=v203jGW4eRs"><img width="200px" src="http://img.youtube.com/vi/v203jGW4eRs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=v203jGW4eRs">中共宣布党员数量破亿，网友纷纷评论“若有战，请先上”；中国重开日本水产进口，胡锡进奉劝老百姓“跟着政府的态度走”；伊朗宗教领袖颁布教令，呼吁全球穆斯林刺杀内塔尼亚胡和特朗普【雪花每日新闻】</a></td>
+<td>Jun 30, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/HwZDKNfXA2w"><img width="200px" src="http://img.youtube.com/vi/HwZDKNfXA2w/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/HwZDKNfXA2w">國安教育下 香港學生是「愛國」還是「被塑造」？－ BBC News 中文  #shorts  #香港</a></td>
 <td>Jun 30, 2025</td></tr>
@@ -81,13 +87,7 @@ slug: /
 <td>Jun 29, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=z3e5Qk4IXbA"><img width="200px" src="http://img.youtube.com/vi/z3e5Qk4IXbA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=z3e5Qk4IXbA">俄罗斯102团被俘中国士兵 讲述自己的填线经历【雪花快报】</a></td>
-<td>Jun 28, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/OCyCiJMkhFo"><img width="200px" src="http://img.youtube.com/vi/OCyCiJMkhFo/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/OCyCiJMkhFo">紐約將迎來一位社會主義者市長？－ BBC News 中文</a></td>
-<td>Jun 27, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=Uy9wdT8h1Ms"><img width="200px" src="http://img.youtube.com/vi/Uy9wdT8h1Ms/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Uy9wdT8h1Ms">泰國大麻產業被指「失控」 政府重列大麻為毒品－ BBC News 中文</a></td>
-<td>Jun 27, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jun 28, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
