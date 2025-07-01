@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/DH-p56I0GZw"><img width="200px" src="http://img.youtube.com/vi/DH-p56I0GZw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/DH-p56I0GZw">中國機器人足球賽亮相 自主決策肉搏搶球－ BBC News 中文</a></td>
+<td>Jul 1, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/LVp55Wg9INQ"><img width="200px" src="http://img.youtube.com/vi/LVp55Wg9INQ/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/LVp55Wg9INQ">碧昂絲巡演道具車側翻  抓旗桿吊在半空－ BBC News 中文</a></td>
+<td>Jul 1, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/TY9WILcVXbk"><img width="200px" src="http://img.youtube.com/vi/TY9WILcVXbk/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/TY9WILcVXbk">為什麼在中國各大機場充電寶堆積如山？－ BBC News 中文</a></td>
 <td>Jul 1, 2025</td></tr>
@@ -81,13 +87,7 @@ slug: /
 <td>Jun 29, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/nn2knuhzqEc"><img width="200px" src="http://img.youtube.com/vi/nn2knuhzqEc/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/nn2knuhzqEc">陆配小微遭遇铁拳，开直播无奈表示“国富民也富，挑不出任何毛病”</a></td>
-<td>Jun 29, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=ex45iSOcZ7w"><img width="200px" src="http://img.youtube.com/vi/ex45iSOcZ7w/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ex45iSOcZ7w">陆配小薇网上求助称拿不到补偿金，半夜还被警方警告；洪洞县窃贼流氓履历造假成财政局局长；1岁工作，22岁退休，养老基金被大量骗取【雪花每日新闻】</a></td>
-<td>Jun 29, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=z3e5Qk4IXbA"><img width="200px" src="http://img.youtube.com/vi/z3e5Qk4IXbA/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=z3e5Qk4IXbA">俄罗斯102团被俘中国士兵 讲述自己的填线经历【雪花快报】</a></td>
-<td>Jun 28, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jun 29, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
