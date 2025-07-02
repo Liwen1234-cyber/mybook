@@ -9,6 +9,9 @@ slug: /
 
 [![](/img/68747470733a2f2f692e696d6775722e636f6d2f5a64686174626a2e6a7067.jpg)](./分享/好玩的网站、工具)
 
+## 极客时间
+- [白话法律42讲](https://learn.lianglianglee.com/%E4%B8%93%E6%A0%8F/%E7%99%BD%E8%AF%9D%E6%B3%95%E5%BE%8B42%E8%AE%B2)
+
 ## 🎯Latest ARTICLES
 <details open>
   <summary>ARTICLES LIST</summary>
