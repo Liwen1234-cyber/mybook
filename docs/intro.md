@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=rRkA3yliDjs"><img width="200px" src="http://img.youtube.com/vi/rRkA3yliDjs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rRkA3yliDjs">中共中央决定设立党中央决策议事协调机构；建党节网警表忠心，称“党旗所指，即是网警铁翼所向”；迎来90岁生日，达赖喇嘛将商讨其继任者问题【雪花每日新闻】</a></td>
+<td>Jul 2, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=SAyH3svUbBA"><img width="200px" src="http://img.youtube.com/vi/SAyH3svUbBA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SAyH3svUbBA">中國機器人足球賽亮相 AI決策肉搏搶球－ BBC News 中文</a></td>
 <td>Jul 1, 2025</td></tr>
@@ -84,10 +87,7 @@ slug: /
 <td>Jun 30, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=MHvxzEUWOY8"><img width="200px" src="http://img.youtube.com/vi/MHvxzEUWOY8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MHvxzEUWOY8">“帮倒忙”！上届国民党籍副总统候选人赵少康劝国台办少讲话；“惠农补贴变惠官补贴”，多省挪用惠农补贴给官员发工资；不回应学生的装空调诉求，东北师大学生深扒学校空调采购贪【雪花每日新闻】</a></td>
-<td>Jun 30, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=mMOHvT4Xi9Y"><img width="200px" src="http://img.youtube.com/vi/mMOHvT4Xi9Y/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mMOHvT4Xi9Y">Labubu熱潮：「中國製造」潮玩如何席捲全球？泡泡瑪特盲盒帝國的營銷密碼－ BBC News 中文</a></td>
-<td>Jun 29, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jun 30, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
