@@ -219,6 +219,8 @@ slug: /
 
 ### Jupyter-notebook
 
+* 【2025-07-02】[google-research / vision_transformer](https://github.com/google-research/vision_transformer) - 
+* 【2025-07-02】[shap / shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model.
 * 【2025-07-01】[langchain-ai / agents-from-scratch](https://github.com/langchain-ai/agents-from-scratch) - Build an email assistant with human-in-the-loop and memory
 * 【2025-06-30】[frankwxu / digital-forensics-lab](https://github.com/frankwxu/digital-forensics-lab) - Free hands-on digital forensics labs for students and faculty
 * 【2025-06-30】[MLEveryday / practicalAI-cn](https://github.com/MLEveryday/practicalAI-cn) - AI实战-practicalAI 中文版
@@ -300,6 +302,7 @@ slug: /
 
 ### Unknown
 
+* 【2025-07-02】[galaxy-s10 / billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Electron搭建的远程桌面控制
 * 【2025-06-30】[biliticket / BHYG](https://github.com/biliticket/BHYG) - B站 BW bilibiliworld 会员购 抢票 脚本
 * 【2025-06-30】[TechHutTV / homelab](https://github.com/TechHutTV/homelab) - Homelab stacks, templates, and more fun resources!
 * 【2025-06-29】[Makerr-Studio / CentrifugalDustSeparator-](https://github.com/Makerr-Studio/CentrifugalDustSeparator-) - Centrifugal Dust Separator - 3D Files for printing
