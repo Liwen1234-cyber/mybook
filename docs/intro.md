@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=AszC80V-9R8"><img width="200px" src="http://img.youtube.com/vi/AszC80V-9R8/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=AszC80V-9R8">磁鐵在烏克蘭戰場拯救生命：「他們從我的心臟取出了彈片」－ BBC News 中文</a></td>
+<td>Jul 2, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/gM4BvaGmVPs"><img width="200px" src="http://img.youtube.com/vi/gM4BvaGmVPs/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/gM4BvaGmVPs">女童迪士尼郵輪墜海  父親跳海營救－ BBC News 中文</a></td>
 <td>Jul 2, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 30, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/HwZDKNfXA2w"><img width="200px" src="http://img.youtube.com/vi/HwZDKNfXA2w/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/HwZDKNfXA2w">國安教育下 香港學生是「愛國」還是「被塑造」？－ BBC News 中文  #shorts  #香港</a></td>
-<td>Jun 30, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=LKIt3L_0pCc"><img width="200px" src="http://img.youtube.com/vi/LKIt3L_0pCc/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=LKIt3L_0pCc">香港社民連七一前夕宣布解散 昔日民主派第三大政黨成歷史  － BBC News 中文</a></td>
 <td>Jun 30, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
