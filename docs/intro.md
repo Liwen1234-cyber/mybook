@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/02/%e6%b4%bb%e4%ba%ba%e6%84%9f/">活人感</a>- by onojyun - Jul 2, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/30/%e7%ac%a8%e4%b8%8e%e8%a0%a2/">笨与蠢</a>- by onojyun - Jun 30, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/29/%e6%9c%aa%e5%ae%8c%e4%b8%8d%e5%be%85%e7%bb%ad%e7%9a%84%e6%95%85%e4%ba%8b/">未完不待续的故事</a>- by onojyun - Jun 29, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html">科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？</a>- by ruanyifeng - Jun 27, 2025</li>
@@ -27,7 +28,6 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/is-romantic-love-essentially-narcissism-self-love-or-a-projection-of-the-ideal-self-a-critique-of-anti-romantic-discourse-in-the-chinese-internet/?utm_source=rss&utm_medium=rss&utm_campaign=is-romantic-love-essentially-narcissism-self-love-or-a-projection-of-the-ideal-self-a-critique-of-anti-romantic-discourse-in-the-chinese-internet">浪漫爱情的本质是自恋或自爱或自我理想的投射？评中文互联网中的反浪漫话语</a>- by stephenleng - Jun 21, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html">科技爱好者周刊（第 353 期）：苹果的&quot;液态玻璃&quot;是为了 AR</a>- by ruanyifeng - Jun 20, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/19/%e7%a1%ac%e5%b8%81%e8%90%bd%e5%ae%9a%e4%b9%8b%e5%89%8d%ef%bc%8c%e6%a6%82%e7%8e%87%e5%b9%b6%e4%b8%8d%e5%ad%98%e5%9c%a8/">硬币落定之前，概率并不存在</a>- by onojyun - Jun 19, 2025</li>
-<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/18/%e8%af%bb%e4%b9%a6%e7%9a%84%e4%bd%9c%e7%94%a8/">读书的作用</a>- by onojyun - Jun 18, 2025</li>
 <li style="padding-left: 20px;"><a href="https://blog.est.im/2025/stdin-06">原研哉《棍子和碗》</a>- by est - Jun 18, 2025</li>
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/212ca795c95680c789b6f321096bab20">2025#24 拒死而生</a>- by 1q43 - Jun 16, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/why-material-conditions-are-not-the-foundation-of-marriage/?utm_source=rss&utm_medium=rss&utm_campaign=why-material-conditions-are-not-the-foundation-of-marriage">为什么物质条件不是婚姻的“基础”</a>- by stephenleng - Jun 15, 2025</li>
@@ -36,13 +36,13 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/20cca795c956800ab72ae370ef3fe886">2025#23 悠然自得</a>- by 1q43 - Jun 9, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html">科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用</a>- by ruanyifeng - Jun 6, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/while-parents-live-one-must-travel-far/?utm_source=rss&utm_medium=rss&utm_campaign=while-parents-live-one-must-travel-far">父母在，要远游</a>- by stephenleng - Jun 5, 2025</li>
-<li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/06/03/decomposing-a-factorial-into-large-factors-second-version/">Decomposing a factorial into large factors &lpar;second version&rpar;</a>- by terrytao - Jun 4, 2025</li>
-<li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/06/02/on-the-number-of-exceptional-intervals-to-the-prime-number-theorem-in-short-intervals/">On the number of exceptional intervals to the prime number theorem in short intervals</a>- by terrytao - Jun 2, 2025</li>
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/205ca795c956807192efdee9c237e678">2025#22 镜中自我</a>- by 1q43 - Jun 2, 2025</li>
-<li style="padding-left: 20px;"><a href="https://terrytao.wordpress.com/2025/05/31/a-lean-companion-to-analysis-i/">A Lean companion to “Analysis I”</a>- by terrytao - May 31, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/05/weekly-issue-350.html">科技爱好者周刊（第 350 期）：Java 三十周年</a>- by ruanyifeng - May 30, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/substitutes-for-religion-in-china/?utm_source=rss&utm_medium=rss&utm_campaign=substitutes-for-religion-in-china">论中国人的宗教代用品</a>- by stephenleng - May 29, 2025</li>
-<li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1feca795c95680ca82a5dcbe3c7fb5e2">2025#21 道在形外</a>- by 1q43 - May 26, 2025</li><!-- BLOG:END -->
+<li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1feca795c95680ca82a5dcbe3c7fb5e2">2025#21 道在形外</a>- by 1q43 - May 26, 2025</li>
+<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/why-kant-freud-and-einstein-delayed-graduation-of-their-phds/?utm_source=rss&utm_medium=rss&utm_campaign=why-kant-freud-and-einstein-delayed-graduation-of-their-phds">康德、弗洛伊德和爱因斯坦为什么博士延迟毕业？</a>- by stephenleng - May 23, 2025</li>
+<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/institutional-reform-and-cultural-stagnation/?utm_source=rss&utm_medium=rss&utm_campaign=institutional-reform-and-cultural-stagnation">制度改革与文化停滞</a>- by stephenleng - May 19, 2025</li>
+<li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/1f7ca795c956800e8529cf3da7fba51c">2025#20 语境变迁</a>- by 1q43 - May 19, 2025</li><!-- BLOG:END -->
 
 </details>
 
@@ -58,42 +58,45 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
-<tr><td><a href="https://www.youtube.com/watch?v=C9l6qKIyUZI"><img width="200px" src="http://img.youtube.com/vi/C9l6qKIyUZI/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=C9l6qKIyUZI">香港國安法5週年：你愛國嗎？國安教育工程下的師生和公眾怎麼看 － BBC News 中文</a></td>
+<tr><td><a href="https://www.youtube.com/shorts/gM4BvaGmVPs"><img width="200px" src="http://img.youtube.com/vi/gM4BvaGmVPs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/gM4BvaGmVPs">女童迪士尼郵輪墜海  父親跳海營救－ BBC News 中文</a></td>
+<td>Jul 2, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/B4CEcykqIig"><img width="200px" src="http://img.youtube.com/vi/B4CEcykqIig/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/B4CEcykqIig">韓國登山客遇數百萬隻「愛情蟲」－ BBC News 中文 #韓國</a></td>
+<td>Jul 2, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=rRkA3yliDjs"><img width="200px" src="http://img.youtube.com/vi/rRkA3yliDjs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=rRkA3yliDjs">中共中央决定设立党中央决策议事协调机构；建党节网警表忠心，称“党旗所指，即是网警铁翼所向”；迎来90岁生日，达赖喇嘛将商讨其继任者问题【雪花每日新闻】</a></td>
+<td>Jul 2, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=SAyH3svUbBA"><img width="200px" src="http://img.youtube.com/vi/SAyH3svUbBA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=SAyH3svUbBA">中國機器人足球賽亮相 AI決策肉搏搶球－ BBC News 中文</a></td>
+<td>Jul 1, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=MoqM4SIR6tA"><img width="200px" src="http://img.youtube.com/vi/MoqM4SIR6tA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=MoqM4SIR6tA">達賴喇嘛迎接90歲生日：將設立轉世「框架」尋繼任者－ BBC News 中文</a></td>
+<td>Jul 1, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/LVp55Wg9INQ"><img width="200px" src="http://img.youtube.com/vi/LVp55Wg9INQ/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/LVp55Wg9INQ">碧昂絲巡演道具車側翻  抓旗桿吊在半空－ BBC News 中文</a></td>
+<td>Jul 1, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/TY9WILcVXbk"><img width="200px" src="http://img.youtube.com/vi/TY9WILcVXbk/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/TY9WILcVXbk">為什麼在中國各大機場充電寶堆積如山？－ BBC News 中文</a></td>
+<td>Jul 1, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=v203jGW4eRs"><img width="200px" src="http://img.youtube.com/vi/v203jGW4eRs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=v203jGW4eRs">中共宣布党员数量破亿，网友纷纷评论“若有战，请先上”；中国重开日本水产进口，胡锡进奉劝老百姓“跟着政府的态度走”；伊朗宗教领袖颁布教令，呼吁全球穆斯林刺杀内塔尼亚胡和特朗普【雪花每日新闻】</a></td>
 <td>Jun 30, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=MHvxzEUWOY8"><img width="200px" src="http://img.youtube.com/vi/MHvxzEUWOY8/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=MHvxzEUWOY8">“帮倒忙”！上届国民党籍副总统候选人赵少康劝国台办少讲话；“惠农补贴变惠官补贴”，多省挪用惠农补贴给官员发工资；不回应学生的装空调诉求，东北师大学生深扒学校空调采购贪【雪花每日新闻】</a></td>
+<tr><td><a href="https://www.youtube.com/shorts/HwZDKNfXA2w"><img width="200px" src="http://img.youtube.com/vi/HwZDKNfXA2w/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/HwZDKNfXA2w">國安教育下 香港學生是「愛國」還是「被塑造」？－ BBC News 中文  #shorts  #香港</a></td>
 <td>Jun 30, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=mMOHvT4Xi9Y"><img width="200px" src="http://img.youtube.com/vi/mMOHvT4Xi9Y/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=mMOHvT4Xi9Y">Labubu熱潮：「中國製造」潮玩如何席捲全球？泡泡瑪特盲盒帝國的營銷密碼－ BBC News 中文</a></td>
-<td>Jun 29, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/nn2knuhzqEc"><img width="200px" src="http://img.youtube.com/vi/nn2knuhzqEc/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/nn2knuhzqEc">陆配小微遭遇铁拳，开直播无奈表示“国富民也富，挑不出任何毛病”</a></td>
-<td>Jun 29, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=ex45iSOcZ7w"><img width="200px" src="http://img.youtube.com/vi/ex45iSOcZ7w/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=ex45iSOcZ7w">陆配小薇网上求助称拿不到补偿金，半夜还被警方警告；洪洞县窃贼流氓履历造假成财政局局长；1岁工作，22岁退休，养老基金被大量骗取【雪花每日新闻】</a></td>
-<td>Jun 29, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=z3e5Qk4IXbA"><img width="200px" src="http://img.youtube.com/vi/z3e5Qk4IXbA/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=z3e5Qk4IXbA">俄罗斯102团被俘中国士兵 讲述自己的填线经历【雪花快报】</a></td>
-<td>Jun 28, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/OCyCiJMkhFo"><img width="200px" src="http://img.youtube.com/vi/OCyCiJMkhFo/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/OCyCiJMkhFo">紐約將迎來一位社會主義者市長？－ BBC News 中文</a></td>
-<td>Jun 27, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=Uy9wdT8h1Ms"><img width="200px" src="http://img.youtube.com/vi/Uy9wdT8h1Ms/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Uy9wdT8h1Ms">泰國大麻產業被指「失控」 政府重列大麻為毒品－ BBC News 中文</a></td>
-<td>Jun 27, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/z0p-kCtlOWU"><img width="200px" src="http://img.youtube.com/vi/z0p-kCtlOWU/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/z0p-kCtlOWU">黑熊闖入日本機場跑道  多趟航班被迫取消－ BBC News 中文</a></td>
-<td>Jun 27, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/zqvr9vBol6U"><img width="200px" src="http://img.youtube.com/vi/zqvr9vBol6U/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/zqvr9vBol6U">金正恩偕女兒參觀竣工的海濱度假區－ BBC News 中文</a></td>
-<td>Jun 27, 2025</td></tr><!-- YOUTUBE:END -->
+<tr><td><a href="https://www.youtube.com/watch?v=LKIt3L_0pCc"><img width="200px" src="http://img.youtube.com/vi/LKIt3L_0pCc/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=LKIt3L_0pCc">香港社民連七一前夕宣布解散 昔日民主派第三大政黨成歷史  － BBC News 中文</a></td>
+<td>Jun 30, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
 ## GitHub Trending
 ### All language
 
+* 【2025-07-01】[aldinokemal / go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - API for Whatsapp Web Multi Device Version, Support UI, Webhook & MCP
+* 【2025-07-01】[snailyp / gemini-balance](https://github.com/snailyp/gemini-balance) - Gemini polling proxy service （gemini轮询代理服务）
+* 【2025-07-01】[007revad / Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more
 * 【2025-06-30】[octra-labs / wallet-gen](https://github.com/octra-labs/wallet-gen) - 
 * 【2025-06-30】[jnsahaj / tweakcn](https://github.com/jnsahaj/tweakcn) - A visual no-code theme editor for shadcn/ui components
 * 【2025-06-30】[zyronon / typing-word](https://github.com/zyronon/typing-word) - 在网页上背单词
@@ -130,6 +133,7 @@ slug: /
 
 ### Java
 
+* 【2025-07-01】[CatimaLoyalty / Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android
 * 【2025-06-30】[ReSo7200 / InstaEclipse](https://github.com/ReSo7200/InstaEclipse) - An Instagram Xposed module with features like Developer Options, Ghost Mode, Ad-Free browsing, and Distraction-Free Mode.
 * 【2025-06-29】[Alovoa / alovoa](https://github.com/Alovoa/alovoa) - Free and open-source dating platform that respects your privacy
 * 【2025-06-27】[eclipse-jdtls / eclipse.jdt.ls](https://github.com/eclipse-jdtls/eclipse.jdt.ls) - Java language server
@@ -148,6 +152,8 @@ slug: /
 
 ### Python
 
+* 【2025-07-01】[fatihak / InkyPi](https://github.com/fatihak/InkyPi) - E-Ink Display with a Raspberry Pi and a Web Interface to customize and update the display with various plugins
+* 【2025-07-01】[wyeeeee / hajimi](https://github.com/wyeeeee/hajimi) - 这是一个基于 FastAPI 构建的 Gemini API 代理
 * 【2025-06-30】[neo4j-contrib / mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) - Model Context Protocol with Neo4j
 * 【2025-06-29】[google-deepmind / alphafold3](https://github.com/google-deepmind/alphafold3) - AlphaFold 3 inference pipeline.
 * 【2025-06-29】[huangjunsen0406 / py-xiaozhi](https://github.com/huangjunsen0406/py-xiaozhi) - python版本的小智ai，主要帮助那些没有硬件却想体验小智功能的人,如果可以请点个小星星！在重构！重构完会合并到main
@@ -213,6 +219,9 @@ slug: /
 
 ### Jupyter-notebook
 
+* 【2025-07-02】[google-research / vision_transformer](https://github.com/google-research/vision_transformer) - 
+* 【2025-07-02】[shap / shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model.
+* 【2025-07-01】[langchain-ai / agents-from-scratch](https://github.com/langchain-ai/agents-from-scratch) - Build an email assistant with human-in-the-loop and memory
 * 【2025-06-30】[frankwxu / digital-forensics-lab](https://github.com/frankwxu/digital-forensics-lab) - Free hands-on digital forensics labs for students and faculty
 * 【2025-06-30】[MLEveryday / practicalAI-cn](https://github.com/MLEveryday/practicalAI-cn) - AI实战-practicalAI 中文版
 * 【2025-06-29】[tencentmusic / cube-studio](https://github.com/tencentmusic/cube-studio) - cube studio开源云原生一站式机器学习/深度学习/大模型AI平台，mlops算法链路全流程，支持大数据平台对接，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU虚拟化，边缘计算，标注平台自动化标注，deepseek等大模型sft微调/奖励模型/强化学习训练，vllm/ollama/mindie大模型多机推理，私有知识库，AI模型市场，支持国产cpu/gpu/npu 昇腾生态，支持RDMA，支持pytorch/tf/mxnet/deepspeed/paddle/colossalai/horovod/ray/volcano等分布式
@@ -281,6 +290,7 @@ slug: /
 
 ### Css
 
+* 【2025-07-01】[leanprover-community / leanprover-community.github.io](https://github.com/leanprover-community/leanprover-community.github.io) - Hosts the website for mathlib and other Lean community infrastructure.
 * 【2025-06-27】[Wombosvideo / tw-animate-css](https://github.com/Wombosvideo/tw-animate-css) - TailwindCSS v4.0 compatible replacement for `tailwindcss-animate`
 * 【2025-06-27】[civilblur / mazanoke](https://github.com/civilblur/mazanoke) - A self-hosted local image optimizer that runs in your browser.
 * 【2025-06-21】[keploy / student-program](https://github.com/keploy/student-program) - 
@@ -292,6 +302,7 @@ slug: /
 
 ### Unknown
 
+* 【2025-07-02】[galaxy-s10 / billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Electron搭建的远程桌面控制
 * 【2025-06-30】[biliticket / BHYG](https://github.com/biliticket/BHYG) - B站 BW bilibiliworld 会员购 抢票 脚本
 * 【2025-06-30】[TechHutTV / homelab](https://github.com/TechHutTV/homelab) - Homelab stacks, templates, and more fun resources!
 * 【2025-06-29】[Makerr-Studio / CentrifugalDustSeparator-](https://github.com/Makerr-Studio/CentrifugalDustSeparator-) - Centrifugal Dust Separator - 3D Files for printing
@@ -308,6 +319,7 @@ slug: /
 * 【2025-06-01】[punkpeye / awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
 ### Go
 
+* 【2025-07-01】[bootdotdev / bootdev](https://github.com/bootdotdev/bootdev) - A CLI used to complete coding challenges and lessons on Boot.dev
 * 【2025-06-30】[Dyneteq / reconya](https://github.com/Dyneteq/reconya) - Network reconnaissance and asset discovery tool
 * 【2025-06-30】[blampe / rreading-glasses](https://github.com/blampe/rreading-glasses) - Corrective lenses for curmudgeonly readars in your life
 * 【2025-06-26】[oras-project / oras](https://github.com/oras-project/oras) - OCI registry client - managing content like artifacts, images, packages
@@ -351,6 +363,7 @@ slug: /
 
 ### Html
 
+* 【2025-07-01】[vimichael / make-windows-pretty](https://github.com/vimichael/make-windows-pretty) - Some tools I used for making Windows 11 look nice.
 * 【2025-06-29】[yuzono / manga-repo](https://github.com/yuzono/manga-repo) - Extensions for Komikku / Mihon & forks.
 * 【2025-06-12】[novitechie / jetbra](https://github.com/novitechie/jetbra) - 
 * 【2025-06-11】[lowcoder-org / lowcoder](https://github.com/lowcoder-org/lowcoder) - 🔥 🔥 🔥 The Open Source Retool, Tooljet and Appsmith Alternative
