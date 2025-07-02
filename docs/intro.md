@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/B4CEcykqIig"><img width="200px" src="http://img.youtube.com/vi/B4CEcykqIig/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/B4CEcykqIig">韓國登山客遇數百萬隻「愛情蟲」－ BBC News 中文 #韓國</a></td>
+<td>Jul 2, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=rRkA3yliDjs"><img width="200px" src="http://img.youtube.com/vi/rRkA3yliDjs/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rRkA3yliDjs">中共中央决定设立党中央决策议事协调机构；建党节网警表忠心，称“党旗所指，即是网警铁翼所向”；迎来90岁生日，达赖喇嘛将商讨其继任者问题【雪花每日新闻】</a></td>
 <td>Jul 2, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 30, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=C9l6qKIyUZI"><img width="200px" src="http://img.youtube.com/vi/C9l6qKIyUZI/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=C9l6qKIyUZI">香港國安法5週年：你愛國嗎？國安教育工程下的師生和公眾怎麼看 － BBC News 中文</a></td>
-<td>Jun 30, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=MHvxzEUWOY8"><img width="200px" src="http://img.youtube.com/vi/MHvxzEUWOY8/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=MHvxzEUWOY8">“帮倒忙”！上届国民党籍副总统候选人赵少康劝国台办少讲话；“惠农补贴变惠官补贴”，多省挪用惠农补贴给官员发工资；不回应学生的装空调诉求，东北师大学生深扒学校空调采购贪【雪花每日新闻】</a></td>
 <td>Jun 30, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
