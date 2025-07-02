@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/02/%e6%b4%bb%e4%ba%ba%e6%84%9f/">活人感</a>- by onojyun - Jul 2, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/30/%e7%ac%a8%e4%b8%8e%e8%a0%a2/">笨与蠢</a>- by onojyun - Jun 30, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/29/%e6%9c%aa%e5%ae%8c%e4%b8%8d%e5%be%85%e7%bb%ad%e7%9a%84%e6%95%85%e4%ba%8b/">未完不待续的故事</a>- by onojyun - Jun 29, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html">科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？</a>- by ruanyifeng - Jun 27, 2025</li>
@@ -27,7 +28,6 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/is-romantic-love-essentially-narcissism-self-love-or-a-projection-of-the-ideal-self-a-critique-of-anti-romantic-discourse-in-the-chinese-internet/?utm_source=rss&utm_medium=rss&utm_campaign=is-romantic-love-essentially-narcissism-self-love-or-a-projection-of-the-ideal-self-a-critique-of-anti-romantic-discourse-in-the-chinese-internet">浪漫爱情的本质是自恋或自爱或自我理想的投射？评中文互联网中的反浪漫话语</a>- by stephenleng - Jun 21, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html">科技爱好者周刊（第 353 期）：苹果的&quot;液态玻璃&quot;是为了 AR</a>- by ruanyifeng - Jun 20, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/19/%e7%a1%ac%e5%b8%81%e8%90%bd%e5%ae%9a%e4%b9%8b%e5%89%8d%ef%bc%8c%e6%a6%82%e7%8e%87%e5%b9%b6%e4%b8%8d%e5%ad%98%e5%9c%a8/">硬币落定之前，概率并不存在</a>- by onojyun - Jun 19, 2025</li>
-<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/18/%e8%af%bb%e4%b9%a6%e7%9a%84%e4%bd%9c%e7%94%a8/">读书的作用</a>- by onojyun - Jun 18, 2025</li>
 <li style="padding-left: 20px;"><a href="https://blog.est.im/2025/stdin-06">原研哉《棍子和碗》</a>- by est - Jun 18, 2025</li>
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/212ca795c95680c789b6f321096bab20">2025#24 拒死而生</a>- by 1q43 - Jun 16, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/why-material-conditions-are-not-the-foundation-of-marriage/?utm_source=rss&utm_medium=rss&utm_campaign=why-material-conditions-are-not-the-foundation-of-marriage">为什么物质条件不是婚姻的“基础”</a>- by stephenleng - Jun 15, 2025</li>
