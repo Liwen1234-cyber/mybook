@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/gM4BvaGmVPs"><img width="200px" src="http://img.youtube.com/vi/gM4BvaGmVPs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/gM4BvaGmVPs">女童迪士尼郵輪墜海  父親跳海營救－ BBC News 中文</a></td>
+<td>Jul 2, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/B4CEcykqIig"><img width="200px" src="http://img.youtube.com/vi/B4CEcykqIig/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/B4CEcykqIig">韓國登山客遇數百萬隻「愛情蟲」－ BBC News 中文 #韓國</a></td>
 <td>Jul 2, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jun 30, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=LKIt3L_0pCc"><img width="200px" src="http://img.youtube.com/vi/LKIt3L_0pCc/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=LKIt3L_0pCc">香港社民連七一前夕宣布解散 昔日民主派第三大政黨成歷史  － BBC News 中文</a></td>
-<td>Jun 30, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=C9l6qKIyUZI"><img width="200px" src="http://img.youtube.com/vi/C9l6qKIyUZI/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=C9l6qKIyUZI">香港國安法5週年：你愛國嗎？國安教育工程下的師生和公眾怎麼看 － BBC News 中文</a></td>
 <td>Jun 30, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
