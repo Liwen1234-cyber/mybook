@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=OPGVm-sNzRo"><img width="200px" src="http://img.youtube.com/vi/OPGVm-sNzRo/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=OPGVm-sNzRo">英國王室的錢花在哪裡？－ BBC News 中文</a></td>
+<td>Jul 3, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=y8tHPxV_-Eg"><img width="200px" src="http://img.youtube.com/vi/y8tHPxV_-Eg/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=y8tHPxV_-Eg">達賴喇嘛迎接90歲生日  走訪曾經的藏區抗議中心－ BBC News 中文</a></td>
 <td>Jul 3, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jul 2, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=SAyH3svUbBA"><img width="200px" src="http://img.youtube.com/vi/SAyH3svUbBA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=SAyH3svUbBA">中國機器人足球賽亮相 AI決策肉搏搶球－ BBC News 中文</a></td>
-<td>Jul 1, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=MoqM4SIR6tA"><img width="200px" src="http://img.youtube.com/vi/MoqM4SIR6tA/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=MoqM4SIR6tA">達賴喇嘛迎接90歲生日：將設立轉世「框架」尋繼任者－ BBC News 中文</a></td>
 <td>Jul 1, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
