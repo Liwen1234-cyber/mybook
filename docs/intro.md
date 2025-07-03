@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=a9WHxrgRjCM"><img width="200px" src="http://img.youtube.com/vi/a9WHxrgRjCM/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=a9WHxrgRjCM">南航机长刀捅领导后自杀；危机严峻，广西书记要求举全自治区之力帮助柳州化债；达赖喇嘛宣布达赖办公室是认证未来转世灵童的唯一机构【雪花每日新闻】</a></td>
+<td>Jul 3, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=AszC80V-9R8"><img width="200px" src="http://img.youtube.com/vi/AszC80V-9R8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AszC80V-9R8">磁鐵在烏克蘭戰場拯救生命：「他們從我的心臟取出了彈片」－ BBC News 中文</a></td>
 <td>Jul 2, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jul 1, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=v203jGW4eRs"><img width="200px" src="http://img.youtube.com/vi/v203jGW4eRs/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=v203jGW4eRs">中共宣布党员数量破亿，网友纷纷评论“若有战，请先上”；中国重开日本水产进口，胡锡进奉劝老百姓“跟着政府的态度走”；伊朗宗教领袖颁布教令，呼吁全球穆斯林刺杀内塔尼亚胡和特朗普【雪花每日新闻】</a></td>
-<td>Jun 30, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/HwZDKNfXA2w"><img width="200px" src="http://img.youtube.com/vi/HwZDKNfXA2w/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/HwZDKNfXA2w">國安教育下 香港學生是「愛國」還是「被塑造」？－ BBC News 中文  #shorts  #香港</a></td>
 <td>Jun 30, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
