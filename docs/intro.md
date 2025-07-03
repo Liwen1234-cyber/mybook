@@ -101,6 +101,7 @@ slug: /
 
 ### Java
 
+* 【2025-07-03】[apache / fluss](https://github.com/apache/fluss) - Apache Fluss is a streaming storage built for real-time analytics.
 * 【2025-07-01】[CatimaLoyalty / Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android
 
 
@@ -120,6 +121,9 @@ slug: /
 
 ### Jupyter-notebook
 
+* 【2025-07-03】[langchain-ai / rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) - 
+* 【2025-07-03】[DS-AI-GATE / dsai-gate](https://github.com/DS-AI-GATE/dsai-gate) - A Repository consisting resources primarily of the Gate DA and AI
+* 【2025-07-03】[Azure / azure-search-vector-samples](https://github.com/Azure/azure-search-vector-samples) - A repository of code samples for Vector search capabilities in Azure AI Search.
 * 【2025-07-02】[google-research / vision_transformer](https://github.com/google-research/vision_transformer) - 
 * 【2025-07-02】[shap / shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model.
 * 【2025-07-01】[langchain-ai / agents-from-scratch](https://github.com/langchain-ai/agents-from-scratch) - Build an email assistant with human-in-the-loop and memory
@@ -131,6 +135,7 @@ slug: /
 
 ### C
 
+* 【2025-07-03】[revk / ESP32-Faikin](https://github.com/revk/ESP32-Faikin) - ESP32 based module to control Daikin aircon units
 
 
 ### Css
@@ -140,6 +145,7 @@ slug: /
 
 ### Unknown
 
+* 【2025-07-03】[SimplifyJobs / Summer2026-Internships](https://github.com/SimplifyJobs/Summer2026-Internships) - Collection of Summer 2026 tech internships!
 * 【2025-07-02】[galaxy-s10 / billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Electron搭建的远程桌面控制
 
 
@@ -150,6 +156,7 @@ slug: /
 
 ### C++
 
+* 【2025-07-03】[ggml-org / ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
 
 
 ### Html
