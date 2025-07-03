@@ -58,6 +58,15 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=y8tHPxV_-Eg"><img width="200px" src="http://img.youtube.com/vi/y8tHPxV_-Eg/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=y8tHPxV_-Eg">達賴喇嘛迎接90歲生日  走訪曾經的藏區抗議中心－ BBC News 中文</a></td>
+<td>Jul 3, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/9wjszulwP58"><img width="200px" src="http://img.youtube.com/vi/9wjszulwP58/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/9wjszulwP58">Labubu熱潮：「中國製造」潮玩走紅全球背後－ BBC News 中文</a></td>
+<td>Jul 3, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/cM7JKG-eL_E"><img width="200px" src="http://img.youtube.com/vi/cM7JKG-eL_E/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/cM7JKG-eL_E">「我已經有七年沒買過新衣服了」－ BBC News 中文</a></td>
+<td>Jul 3, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=a9WHxrgRjCM"><img width="200px" src="http://img.youtube.com/vi/a9WHxrgRjCM/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=a9WHxrgRjCM">南航机长刀捅领导后自杀；危机严峻，广西书记要求举全自治区之力帮助柳州化债；达赖喇嘛宣布达赖办公室是认证未来转世灵童的唯一机构【雪花每日新闻】</a></td>
 <td>Jul 3, 2025</td></tr>
@@ -78,16 +87,7 @@ slug: /
 <td>Jul 1, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=MoqM4SIR6tA"><img width="200px" src="http://img.youtube.com/vi/MoqM4SIR6tA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=MoqM4SIR6tA">達賴喇嘛迎接90歲生日：將設立轉世「框架」尋繼任者－ BBC News 中文</a></td>
-<td>Jul 1, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/LVp55Wg9INQ"><img width="200px" src="http://img.youtube.com/vi/LVp55Wg9INQ/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/LVp55Wg9INQ">碧昂絲巡演道具車側翻  抓旗桿吊在半空－ BBC News 中文</a></td>
-<td>Jul 1, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/TY9WILcVXbk"><img width="200px" src="http://img.youtube.com/vi/TY9WILcVXbk/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/TY9WILcVXbk">為什麼在中國各大機場充電寶堆積如山？－ BBC News 中文</a></td>
-<td>Jul 1, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=v203jGW4eRs"><img width="200px" src="http://img.youtube.com/vi/v203jGW4eRs/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=v203jGW4eRs">中共宣布党员数量破亿，网友纷纷评论“若有战，请先上”；中国重开日本水产进口，胡锡进奉劝老百姓“跟着政府的态度走”；伊朗宗教领袖颁布教令，呼吁全球穆斯林刺杀内塔尼亚胡和特朗普【雪花每日新闻】</a></td>
-<td>Jun 30, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jul 1, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
