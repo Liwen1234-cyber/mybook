@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/04/%e5%86%99%e5%9c%a8%e4%b8%96%e7%95%8c%e6%9c%ab%e6%97%a5%e4%b9%8b%e5%89%8d/">写在世界末日之前</a>- by onojyun - Jul 4, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html">科技爱好者周刊（第 355 期）：两本《芯片战争》</a>- by ruanyifeng - Jul 4, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/03/%e8%bd%a6%e7%a5%b8-iv/">车祸 IV</a>- by onojyun - Jul 3, 2025</li>
 <li style="padding-left: 20px;"><a href="https://lozhu.happy365.day/2025/07/02/5e4bf064e5ad/">使用STMP协议发送邮件</a>- by lozhu - Jul 2, 2025</li>
@@ -27,7 +28,6 @@ slug: /
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html">国产 AI 网页开发工具：豆包 AI 编程简单测评</a>- by ruanyifeng - Jun 24, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/23/%e8%81%9a%e5%85%89%e7%81%af%e4%b8%8b%e8%88%9e%e5%8f%b0%e4%b9%8b%e4%b8%8a/">聚光灯下舞台之上</a>- by onojyun - Jun 23, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/22/%e6%89%93%e5%8f%b0%e7%90%83/">打台球</a>- by onojyun - Jun 22, 2025</li>
-<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/22/%e5%ad%a6%e4%ba%86%e4%b9%9f%e6%b2%a1%e7%94%a8/">学了也没用</a>- by onojyun - Jun 22, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/is-romantic-love-essentially-narcissism-self-love-or-a-projection-of-the-ideal-self-a-critique-of-anti-romantic-discourse-in-the-chinese-internet/?utm_source=rss&utm_medium=rss&utm_campaign=is-romantic-love-essentially-narcissism-self-love-or-a-projection-of-the-ideal-self-a-critique-of-anti-romantic-discourse-in-the-chinese-internet">浪漫爱情的本质是自恋或自爱或自我理想的投射？评中文互联网中的反浪漫话语</a>- by stephenleng - Jun 21, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html">科技爱好者周刊（第 353 期）：苹果的&quot;液态玻璃&quot;是为了 AR</a>- by ruanyifeng - Jun 20, 2025</li>
 <li style="padding-left: 20px;"><a href="https://blog.est.im/2025/stdin-06">原研哉《棍子和碗》</a>- by est - Jun 18, 2025</li>
