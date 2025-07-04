@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=ZuEHHocuI74"><img width="200px" src="http://img.youtube.com/vi/ZuEHHocuI74/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=ZuEHHocuI74">日本7/5發生大地震？「末日預言」為何引發遊客恐慌－ BBC News 中文</a></td>
+<td>Jul 4, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=HsUsE5hP75g"><img width="200px" src="http://img.youtube.com/vi/HsUsE5hP75g/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=HsUsE5hP75g">特朗普「大而美」法案正式通過 預計將成為法律－ BBC News 中文</a></td>
+<td>Jul 4, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/-tejuULS2sg"><img width="200px" src="http://img.youtube.com/vi/-tejuULS2sg/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/-tejuULS2sg">世界最高峰淪為垃圾場  無人機助力清理－ BBC News 中文</a></td>
 <td>Jul 4, 2025</td></tr>
@@ -81,12 +87,6 @@ slug: /
 <td>Jul 2, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/gM4BvaGmVPs"><img width="200px" src="http://img.youtube.com/vi/gM4BvaGmVPs/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/gM4BvaGmVPs">女童迪士尼郵輪墜海  父親跳海營救－ BBC News 中文</a></td>
-<td>Jul 2, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/B4CEcykqIig"><img width="200px" src="http://img.youtube.com/vi/B4CEcykqIig/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/B4CEcykqIig">韓國登山客遇數百萬隻「愛情蟲」－ BBC News 中文 #韓國</a></td>
-<td>Jul 2, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=rRkA3yliDjs"><img width="200px" src="http://img.youtube.com/vi/rRkA3yliDjs/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=rRkA3yliDjs">中共中央决定设立党中央决策议事协调机构；建党节网警表忠心，称“党旗所指，即是网警铁翼所向”；迎来90岁生日，达赖喇嘛将商讨其继任者问题【雪花每日新闻】</a></td>
 <td>Jul 2, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
