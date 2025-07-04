@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/-tejuULS2sg"><img width="200px" src="http://img.youtube.com/vi/-tejuULS2sg/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/-tejuULS2sg">世界最高峰淪為垃圾場  無人機助力清理－ BBC News 中文</a></td>
+<td>Jul 4, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=OPGVm-sNzRo"><img width="200px" src="http://img.youtube.com/vi/OPGVm-sNzRo/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=OPGVm-sNzRo">英國王室的錢花在哪裡？－ BBC News 中文</a></td>
 <td>Jul 3, 2025</td></tr>
@@ -84,10 +87,7 @@ slug: /
 <td>Jul 2, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=rRkA3yliDjs"><img width="200px" src="http://img.youtube.com/vi/rRkA3yliDjs/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=rRkA3yliDjs">中共中央决定设立党中央决策议事协调机构；建党节网警表忠心，称“党旗所指，即是网警铁翼所向”；迎来90岁生日，达赖喇嘛将商讨其继任者问题【雪花每日新闻】</a></td>
-<td>Jul 2, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=SAyH3svUbBA"><img width="200px" src="http://img.youtube.com/vi/SAyH3svUbBA/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=SAyH3svUbBA">中國機器人足球賽亮相 AI決策肉搏搶球－ BBC News 中文</a></td>
-<td>Jul 1, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jul 2, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
