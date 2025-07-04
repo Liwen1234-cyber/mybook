@@ -94,6 +94,8 @@ slug: /
 ## GitHub Trending
 ### All language
 
+* 【2025-07-04】[btjawa / BiliTools](https://github.com/btjawa/BiliTools) - A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源
+* 【2025-07-04】[MotiaDev / motia](https://github.com/MotiaDev/motia) - Unified Backend Framework for APIs, Events, and AI Agents
 * 【2025-07-01】[aldinokemal / go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice) - API for Whatsapp Web Multi Device Version, Support UI, Webhook & MCP
 * 【2025-07-01】[snailyp / gemini-balance](https://github.com/snailyp/gemini-balance) - Gemini polling proxy service （gemini轮询代理服务）
 * 【2025-07-01】[007revad / Synology_HDD_db](https://github.com/007revad/Synology_HDD_db) - Add your HDD, SSD and NVMe drives to your Synology's compatible drive database and a lot more
@@ -121,6 +123,8 @@ slug: /
 
 ### Jupyter-notebook
 
+* 【2025-07-04】[agentica-project / rllm](https://github.com/agentica-project/rllm) - Democratizing Reinforcement Learning for LLMs
+* 【2025-07-04】[IHP-GmbH / IHP-AnalogAcademy](https://github.com/IHP-GmbH/IHP-AnalogAcademy) - 
 * 【2025-07-03】[langchain-ai / rag-from-scratch](https://github.com/langchain-ai/rag-from-scratch) - 
 * 【2025-07-03】[DS-AI-GATE / dsai-gate](https://github.com/DS-AI-GATE/dsai-gate) - A Repository consisting resources primarily of the Gate DA and AI
 * 【2025-07-03】[Azure / azure-search-vector-samples](https://github.com/Azure/azure-search-vector-samples) - A repository of code samples for Vector search capabilities in Azure AI Search.
@@ -131,6 +135,7 @@ slug: /
 
 ### Javascript
 
+* 【2025-07-04】[ppl-ai / modelcontextprotocol](https://github.com/ppl-ai/modelcontextprotocol) - A Model Context Protocol Server connector for Perplexity API, to enable web search without leaving the MCP ecosystem.
 
 
 ### C
@@ -151,11 +156,16 @@ slug: /
 
 ### Go
 
+* 【2025-07-04】[go-dev-frame / sponge](https://github.com/go-dev-frame/sponge) - A powerful and easy-to-use Go development framework that enables you to effortlessly build stable, reliable, and high-performance backend services with a "low-code" approach.
+* 【2025-07-04】[hypermodeinc / ristretto](https://github.com/hypermodeinc/ristretto) - A high performance memory-bound Go cache
+* 【2025-07-04】[kagent-dev / kagent](https://github.com/kagent-dev/kagent) - Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord
 * 【2025-07-01】[bootdotdev / bootdev](https://github.com/bootdotdev/bootdev) - A CLI used to complete coding challenges and lessons on Boot.dev
 
 
 ### C++
 
+* 【2025-07-04】[bytedance / btrace](https://github.com/bytedance/btrace) - 🔥🔥 btrace (AKA RheaTrace) is a high-performance Android & iOS tracing tool built on Perfetto. It not only times your methods but also reveals why they’re slow.
+* 【2025-07-04】[topling / toplingdb](https://github.com/topling/toplingdb) - ToplingDB is a cloud native LSM Key-Value Store with searchable compression algo and distributed compaction
 * 【2025-07-03】[ggml-org / ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
 
 
