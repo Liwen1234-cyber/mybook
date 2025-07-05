@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=1n9PwQi-2qs"><img width="200px" src="http://img.youtube.com/vi/1n9PwQi-2qs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=1n9PwQi-2qs">上海交管推出外卖骑手安全码，绿码才能从业；习近平亲自勉励问候92岁高龄入党的游本昌；多地开始排查有编制人员心理健康【雪花每日新闻】</a></td>
+<td>Jul 4, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ZuEHHocuI74"><img width="200px" src="http://img.youtube.com/vi/ZuEHHocuI74/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZuEHHocuI74">日本7/5發生大地震？「末日預言」為何引發遊客恐慌－ BBC News 中文</a></td>
 <td>Jul 4, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jul 3, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=AszC80V-9R8"><img width="200px" src="http://img.youtube.com/vi/AszC80V-9R8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=AszC80V-9R8">磁鐵在烏克蘭戰場拯救生命：「他們從我的心臟取出了彈片」－ BBC News 中文</a></td>
-<td>Jul 2, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/gM4BvaGmVPs"><img width="200px" src="http://img.youtube.com/vi/gM4BvaGmVPs/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/gM4BvaGmVPs">女童迪士尼郵輪墜海  父親跳海營救－ BBC News 中文</a></td>
 <td>Jul 2, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
