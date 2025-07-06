@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=Yvt9zTdf_UY"><img width="200px" src="http://img.youtube.com/vi/Yvt9zTdf_UY/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Yvt9zTdf_UY">香港幼童合唱《国安法顶呱呱》纪念国安法实施五周年；韩国爆发大规模反华抗议，抗议者声称韩国大选存在中国干预；25届毕业大学生哭诉找工作难，工资低【雪花每日新闻】</a></td>
+<td>Jul 5, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=L51_z-LNtRI"><img width="200px" src="http://img.youtube.com/vi/L51_z-LNtRI/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=L51_z-LNtRI">美軍跨性別士兵面臨「生存考驗」　特朗普服役禁令生效－ BBC News 中文</a></td>
 <td>Jul 5, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jul 3, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/cM7JKG-eL_E"><img width="200px" src="http://img.youtube.com/vi/cM7JKG-eL_E/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/cM7JKG-eL_E">「我已經有七年沒買過新衣服了」－ BBC News 中文</a></td>
-<td>Jul 3, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=a9WHxrgRjCM"><img width="200px" src="http://img.youtube.com/vi/a9WHxrgRjCM/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=a9WHxrgRjCM">南航机长刀捅领导后自杀；危机严峻，广西书记要求举全自治区之力帮助柳州化债；达赖喇嘛宣布达赖办公室是认证未来转世灵童的唯一机构【雪花每日新闻】</a></td>
 <td>Jul 3, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
