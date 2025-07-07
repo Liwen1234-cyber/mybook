@@ -58,6 +58,18 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/PpBpPGBxO6c"><img width="200px" src="http://img.youtube.com/vi/PpBpPGBxO6c/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/PpBpPGBxO6c">馬斯克稱他正在組建「美國黨」－ BBC News 中文</a></td>
+<td>Jul 7, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/Zmn7pFoeR3o"><img width="200px" src="http://img.youtube.com/vi/Zmn7pFoeR3o/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/Zmn7pFoeR3o">法國警方破壞前往英國移民「計程船」－ BBC News 中文 #法國</a></td>
+<td>Jul 7, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/UXN9AWI1Fkw"><img width="200px" src="http://img.youtube.com/vi/UXN9AWI1Fkw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/UXN9AWI1Fkw">德克薩斯洪水導致至少78人死亡－ BBC News 中文</a></td>
+<td>Jul 7, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/w0coG10e70Q"><img width="200px" src="http://img.youtube.com/vi/w0coG10e70Q/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/w0coG10e70Q">達賴喇嘛在印度與信徒慶祝90歲生日 － BBC News 中文</a></td>
+<td>Jul 7, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=7kGsZB1zVK4"><img width="200px" src="http://img.youtube.com/vi/7kGsZB1zVK4/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=7kGsZB1zVK4">誰發明了飛機？這取決於你問誰－ BBC News 中文</a></td>
 <td>Jul 7, 2025</td></tr>
@@ -75,19 +87,7 @@ slug: /
 <td>Jul 4, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=ZuEHHocuI74"><img width="200px" src="http://img.youtube.com/vi/ZuEHHocuI74/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=ZuEHHocuI74">日本7/5發生大地震？「末日預言」為何引發遊客恐慌－ BBC News 中文</a></td>
-<td>Jul 4, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=HsUsE5hP75g"><img width="200px" src="http://img.youtube.com/vi/HsUsE5hP75g/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=HsUsE5hP75g">特朗普「大而美」法案正式通過 預計將成為法律－ BBC News 中文</a></td>
-<td>Jul 4, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/-tejuULS2sg"><img width="200px" src="http://img.youtube.com/vi/-tejuULS2sg/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/-tejuULS2sg">世界最高峰淪為垃圾場  無人機助力清理－ BBC News 中文</a></td>
-<td>Jul 4, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=OPGVm-sNzRo"><img width="200px" src="http://img.youtube.com/vi/OPGVm-sNzRo/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=OPGVm-sNzRo">英國王室的錢花在哪裡？－ BBC News 中文</a></td>
-<td>Jul 3, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=y8tHPxV_-Eg"><img width="200px" src="http://img.youtube.com/vi/y8tHPxV_-Eg/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=y8tHPxV_-Eg">達賴喇嘛迎接90歲生日  走訪曾經的藏區抗議中心－ BBC News 中文</a></td>
-<td>Jul 3, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jul 4, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
