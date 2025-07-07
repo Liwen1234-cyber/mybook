@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=7kGsZB1zVK4"><img width="200px" src="http://img.youtube.com/vi/7kGsZB1zVK4/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=7kGsZB1zVK4">誰發明了飛機？這取決於你問誰－ BBC News 中文</a></td>
+<td>Jul 7, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/4QmMUW-6AnA"><img width="200px" src="http://img.youtube.com/vi/4QmMUW-6AnA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/4QmMUW-6AnA">Labubu熱潮：泡泡瑪特盲盒帝國的走紅密碼－ BBC News 中文</a></td>
 <td>Jul 6, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jul 3, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=y8tHPxV_-Eg"><img width="200px" src="http://img.youtube.com/vi/y8tHPxV_-Eg/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=y8tHPxV_-Eg">達賴喇嘛迎接90歲生日  走訪曾經的藏區抗議中心－ BBC News 中文</a></td>
-<td>Jul 3, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/9wjszulwP58"><img width="200px" src="http://img.youtube.com/vi/9wjszulwP58/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/9wjszulwP58">Labubu熱潮：「中國製造」潮玩走紅全球背後－ BBC News 中文</a></td>
 <td>Jul 3, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
