@@ -94,6 +94,7 @@ slug: /
 ## GitHub Trending
 ### All language
 
+* 【2025-07-08】[humanlayer / 12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 * 【2025-07-06】[rustfs / rustfs](https://github.com/rustfs/rustfs) - 🚀 High-performance distributed object storage for MinIO alternative.
 * 【2025-07-04】[btjawa / BiliTools](https://github.com/btjawa/BiliTools) - A cross-platform bilibili toolbox. 跨平台哔哩哔哩工具箱，支持下载视频、番剧等等各类资源
 * 【2025-07-04】[MotiaDev / motia](https://github.com/MotiaDev/motia) - Unified Backend Framework for APIs, Events, and AI Agents
@@ -104,6 +105,7 @@ slug: /
 
 ### Java
 
+* 【2025-07-08】[Aefyr / SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
 * 【2025-07-05】[FaceAISDK / FaceAISDK_Android](https://github.com/FaceAISDK/FaceAISDK_Android) - Android on_device 1:1 Face Recognition 、 Liveness detection and 1:N & M:N Face Search SDK 🧒 离线版设备端Android1:1人脸识别 动作活体、静默活体、近红外双目活体检测 以及1:N M:N 人脸搜索算法SDK 封装。全程可开飞行模式不用联网
 * 【2025-07-03】[apache / fluss](https://github.com/apache/fluss) - Apache Fluss is a streaming storage built for real-time analytics.
 * 【2025-07-01】[CatimaLoyalty / Android](https://github.com/CatimaLoyalty/Android) - Catima, a Loyalty Card & Ticket Manager for Android
@@ -111,6 +113,9 @@ slug: /
 
 ### Python
 
+* 【2025-07-08】[Alibaba-NLP / WebAgent](https://github.com/Alibaba-NLP/WebAgent) - 🌐 WebAgent for Information Seeking bulit by Tongyi Lab: WebWalker & WebDancer & WebSailor https://arxiv.org/pdf/2507.02592
+* 【2025-07-08】[joeyism / linkedin_scraper](https://github.com/joeyism/linkedin_scraper) - A library that scrapes Linkedin for user data
+* 【2025-07-08】[dongshuyan / Upload_Machine](https://github.com/dongshuyan/Upload_Machine) - Upload local resources to PT trackers automatically using requests.
 * 【2025-07-06】[grapeot / devin.cursorrules](https://github.com/grapeot/devin.cursorrules) - Magic to turn Cursor/Windsurf as 90% of Devin
 * 【2025-07-06】[aipotheosis-labs / aci](https://github.com/aipotheosis-labs/aci) - ACI.dev is the open source platform for VibeOps and infrastructure that connects your AI agents to 600+ tool integrations with multi-tenant auth, granular permissions, and access through direct function calling or a unified MCP server.
 * 【2025-07-05】[megadose / toutatis](https://github.com/megadose/toutatis) - Toutatis is a tool that allows you to extract information from instagrams accounts such as e-mails, phone numbers and more
@@ -125,10 +130,13 @@ slug: /
 
 ### Markdown
 
+* 【2025-07-08】[project-trans / MtF-wiki](https://github.com/project-trans/MtF-wiki) - MtF.wiki is a free, open, and continuously updating transgender female knowledge integration site.
 
 
 ### Jupyter-notebook
 
+* 【2025-07-08】[HandsOnLLM / Hands-On-Large-Language-Models](https://github.com/HandsOnLLM/Hands-On-Large-Language-Models) - Official code repo for the O'Reilly Book - "Hands-On Large Language Models"
+* 【2025-07-08】[hemansnation / AI-Engineer-Headquarters](https://github.com/hemansnation/AI-Engineer-Headquarters) - A collection of scientific methods, processes, algorithms, and systems to build stories & models.
 * 【2025-07-06】[datawhalechina / tiny-universe](https://github.com/datawhalechina/tiny-universe) - 《大模型白盒子构建指南》：一个全手搓的Tiny-Universe
 * 【2025-07-06】[TradeMaster-NTU / TradeMaster](https://github.com/TradeMaster-NTU/TradeMaster) - TradeMaster is an open-source platform for quantitative trading empowered by reinforcement learning 🔥 ⚡ 🌈
 * 【2025-07-05】[zjunlp / EasyEdit](https://github.com/zjunlp/EasyEdit) - [ACL 2024] An Easy-to-use Knowledge Editing Framework for LLMs.
@@ -151,11 +159,15 @@ slug: /
 
 ### C
 
+* 【2025-07-08】[ripplebiz / MeshCore](https://github.com/ripplebiz/MeshCore) - A new lightweight, hybrid routing mesh protocol for packet radios
+* 【2025-07-08】[manaskamal / XenevaOS](https://github.com/manaskamal/XenevaOS) - The Xeneva Operating System
 * 【2025-07-03】[revk / ESP32-Faikin](https://github.com/revk/ESP32-Faikin) - ESP32 based module to control Daikin aircon units
 
 
 ### Css
 
+* 【2025-07-08】[MicrosoftDocs / Azure-RMSDocs](https://github.com/MicrosoftDocs/Azure-RMSDocs) - Public content repo for Azure RMS content in OPS
+* 【2025-07-08】[myfreeer / cppreference2mshelp](https://github.com/myfreeer/cppreference2mshelp) - cppreference.com html archive converter to microsoft help (for Visual Studio 2012+) and chm help (for Windows)
 * 【2025-07-06】[microsoft / mvp](https://github.com/microsoft/mvp) - Microsoft MVP Program GitHub Repository
 * 【2025-07-06】[microsoft / TypeSearch](https://github.com/microsoft/TypeSearch) - 
 * 【2025-07-06】[microsoft / ngconf2015demo](https://github.com/microsoft/ngconf2015demo) - TodoMVC application demo for ng-conf 2015
@@ -171,6 +183,8 @@ slug: /
 
 ### Go
 
+* 【2025-07-08】[qichiyuhub / rule](https://github.com/qichiyuhub/rule) - Clash、Sing-box、等分流规则
+* 【2025-07-08】[PlakarKorp / plakar](https://github.com/PlakarKorp/plakar) - plakar is a backup solution powered by Kloset and ptar
 * 【2025-07-05】[yusing / godoxy](https://github.com/yusing/godoxy) - Easy to use reverse proxy with docker integration
 * 【2025-07-04】[go-dev-frame / sponge](https://github.com/go-dev-frame/sponge) - A powerful and easy-to-use Go development framework that enables you to effortlessly build stable, reliable, and high-performance backend services with a "low-code" approach.
 * 【2025-07-04】[hypermodeinc / ristretto](https://github.com/hypermodeinc/ristretto) - A high performance memory-bound Go cache
@@ -180,6 +194,8 @@ slug: /
 
 ### C++
 
+* 【2025-07-08】[LeagueToolkit / cslol-manager](https://github.com/LeagueToolkit/cslol-manager) - 
+* 【2025-07-08】[nomacs / nomacs](https://github.com/nomacs/nomacs) - nomacs is a free image viewer for windows, linux, and mac systems.
 * 【2025-07-04】[bytedance / btrace](https://github.com/bytedance/btrace) - 🔥🔥 btrace (AKA RheaTrace) is a high-performance Android & iOS tracing tool built on Perfetto. It not only times your methods but also reveals why they’re slow.
 * 【2025-07-04】[topling / toplingdb](https://github.com/topling/toplingdb) - ToplingDB is a cloud native LSM Key-Value Store with searchable compression algo and distributed compaction
 * 【2025-07-03】[ggml-org / ggml](https://github.com/ggml-org/ggml) - Tensor library for machine learning
@@ -187,6 +203,7 @@ slug: /
 
 ### Html
 
+* 【2025-07-08】[syoius / MaaYuan](https://github.com/syoius/MaaYuan) - 代号鸢 / 如鸢 一键长草小助手
 * 【2025-07-01】[vimichael / make-windows-pretty](https://github.com/vimichael/make-windows-pretty) - Some tools I used for making Windows 11 look nice.
 
 
