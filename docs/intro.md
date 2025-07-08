@@ -58,6 +58,18 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/xFj7j8xaF6M"><img width="200px" src="http://img.youtube.com/vi/xFj7j8xaF6M/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/xFj7j8xaF6M">這是世界上最窄的汽車嗎？－ BBC News 中文</a></td>
+<td>Jul 8, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=w88jqiXa_PE"><img width="200px" src="http://img.youtube.com/vi/w88jqiXa_PE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=w88jqiXa_PE">BBC走訪全球最大稀土礦場：中國稀土供應鏈背後的污染災害－ BBC News 中文</a></td>
+<td>Jul 8, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/ttuARKUAY5g"><img width="200px" src="http://img.youtube.com/vi/ttuARKUAY5g/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/ttuARKUAY5g">為何這名中國律師每次出門都被一群人跟蹤？－ BBC News 中文 #中國</a></td>
+<td>Jul 8, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/NzJYMWYZ5Nk"><img width="200px" src="http://img.youtube.com/vi/NzJYMWYZ5Nk/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/NzJYMWYZ5Nk">母象為何拖著小象屍體行走三天？－ BBC News 中文</a></td>
+<td>Jul 8, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=xC1pZ_-5BUc"><img width="200px" src="http://img.youtube.com/vi/xC1pZ_-5BUc/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=xC1pZ_-5BUc">甘肃天水幼儿集体血铅超标，当地官员前往西安干预医院检测；青岛大学学生献花悼念中暑去世的宿管爷爷；华为被曝光旗下盘古大模型是套壳【雪花每日新闻】</a></td>
 <td>Jul 8, 2025</td></tr>
@@ -75,19 +87,7 @@ slug: /
 <td>Jul 7, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/w0coG10e70Q"><img width="200px" src="http://img.youtube.com/vi/w0coG10e70Q/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/w0coG10e70Q">達賴喇嘛在印度與信徒慶祝90歲生日 － BBC News 中文</a></td>
-<td>Jul 7, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=7kGsZB1zVK4"><img width="200px" src="http://img.youtube.com/vi/7kGsZB1zVK4/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=7kGsZB1zVK4">誰發明了飛機？這取決於你問誰－ BBC News 中文</a></td>
-<td>Jul 7, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/4QmMUW-6AnA"><img width="200px" src="http://img.youtube.com/vi/4QmMUW-6AnA/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/4QmMUW-6AnA">泡泡瑪特盲盒帝國的走紅密碼－ BBC News 中文</a></td>
-<td>Jul 6, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=Yvt9zTdf_UY"><img width="200px" src="http://img.youtube.com/vi/Yvt9zTdf_UY/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Yvt9zTdf_UY">香港幼童合唱《国安法顶呱呱》纪念国安法实施五周年；韩国爆发大规模反华抗议，抗议者声称韩国大选存在中国干预；25届毕业大学生哭诉找工作难，工资低【雪花每日新闻】</a></td>
-<td>Jul 5, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=L51_z-LNtRI"><img width="200px" src="http://img.youtube.com/vi/L51_z-LNtRI/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=L51_z-LNtRI">美軍跨性別士兵面臨「生存考驗」　特朗普服役禁令生效－ BBC News 中文</a></td>
-<td>Jul 5, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jul 7, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
