@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=xC1pZ_-5BUc"><img width="200px" src="http://img.youtube.com/vi/xC1pZ_-5BUc/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=xC1pZ_-5BUc">甘肃天水幼儿集体血铅超标，当地官员前往西安干预医院检测；青岛大学学生献花悼念中暑去世的宿管爷爷；华为被曝光旗下盘古大模型是套壳【雪花每日新闻】</a></td>
+<td>Jul 8, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=kNomnS7iSI0"><img width="200px" src="http://img.youtube.com/vi/kNomnS7iSI0/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kNomnS7iSI0">美國德州洪災 至少10名夏令營女童失蹤－ BBC News 中文</a></td>
 <td>Jul 7, 2025</td></tr>
@@ -84,10 +87,7 @@ slug: /
 <td>Jul 5, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=L51_z-LNtRI"><img width="200px" src="http://img.youtube.com/vi/L51_z-LNtRI/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=L51_z-LNtRI">美軍跨性別士兵面臨「生存考驗」　特朗普服役禁令生效－ BBC News 中文</a></td>
-<td>Jul 5, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=1n9PwQi-2qs"><img width="200px" src="http://img.youtube.com/vi/1n9PwQi-2qs/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=1n9PwQi-2qs">上海交管推出外卖骑手安全码，绿码才能从业；习近平亲自勉励问候92岁高龄入党的游本昌；多地开始排查有编制人员心理健康【雪花每日新闻】</a></td>
-<td>Jul 4, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jul 5, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
