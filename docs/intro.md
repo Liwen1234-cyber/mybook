@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/UsKDeDWQzV4"><img width="200px" src="http://img.youtube.com/vi/UsKDeDWQzV4/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/UsKDeDWQzV4">88歲老太太站在飛機翼上飛行－ BBC News 中文</a></td>
+<td>Jul 8, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/xFj7j8xaF6M"><img width="200px" src="http://img.youtube.com/vi/xFj7j8xaF6M/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/xFj7j8xaF6M">這是世界上最窄的汽車嗎？－ BBC News 中文</a></td>
 <td>Jul 8, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jul 7, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/UXN9AWI1Fkw"><img width="200px" src="http://img.youtube.com/vi/UXN9AWI1Fkw/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/UXN9AWI1Fkw">德克薩斯洪水導致至少78人死亡－ BBC News 中文</a></td>
-<td>Jul 7, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/w0coG10e70Q"><img width="200px" src="http://img.youtube.com/vi/w0coG10e70Q/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/w0coG10e70Q">達賴喇嘛在印度與信徒慶祝90歲生日 － BBC News 中文</a></td>
 <td>Jul 7, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
