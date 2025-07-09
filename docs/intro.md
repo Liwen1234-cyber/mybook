@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/2NCiALcf2Aw"><img width="200px" src="http://img.youtube.com/vi/2NCiALcf2Aw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/2NCiALcf2Aw">法國男子大火中站上大樓窗台救出嬰兒－ BBC News 中文</a></td>
+<td>Jul 9, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=oXKAxWnUIKU"><img width="200px" src="http://img.youtube.com/vi/oXKAxWnUIKU/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oXKAxWnUIKU">中國「709大抓捕」十週年：維權律師向BBC述說出獄後的監控人生 － BBC News 中文</a></td>
 <td>Jul 9, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jul 8, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/ttuARKUAY5g"><img width="200px" src="http://img.youtube.com/vi/ttuARKUAY5g/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/ttuARKUAY5g">為何這名中國律師每次出門都被一群人跟蹤？－ BBC News 中文 #中國</a></td>
-<td>Jul 8, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/NzJYMWYZ5Nk"><img width="200px" src="http://img.youtube.com/vi/NzJYMWYZ5Nk/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/NzJYMWYZ5Nk">母象為何拖著小象屍體行走三天？－ BBC News 中文</a></td>
 <td>Jul 8, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
