@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=5QMJ0OUtevI"><img width="200px" src="http://img.youtube.com/vi/5QMJ0OUtevI/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=5QMJ0OUtevI">武汉原市长周先旺落马，曾暗示疫情初期隐瞒数据是中央指示；官方称天水铅中毒系后厨用颜料做发糕，网友怀疑附近的铅锌公司【雪花每日新闻】</a></td>
+<td>Jul 9, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/UsKDeDWQzV4"><img width="200px" src="http://img.youtube.com/vi/UsKDeDWQzV4/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/UsKDeDWQzV4">88歲老太太站在飛機翼上飛行－ BBC News 中文</a></td>
 <td>Jul 8, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jul 7, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/Zmn7pFoeR3o"><img width="200px" src="http://img.youtube.com/vi/Zmn7pFoeR3o/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/Zmn7pFoeR3o">法國警方破壞前往英國移民「計程船」－ BBC News 中文 #法國</a></td>
-<td>Jul 7, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/UXN9AWI1Fkw"><img width="200px" src="http://img.youtube.com/vi/UXN9AWI1Fkw/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/UXN9AWI1Fkw">德克薩斯洪水導致至少78人死亡－ BBC News 中文</a></td>
 <td>Jul 7, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
