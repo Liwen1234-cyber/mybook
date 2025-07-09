@@ -58,6 +58,15 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=oXKAxWnUIKU"><img width="200px" src="http://img.youtube.com/vi/oXKAxWnUIKU/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=oXKAxWnUIKU">中國「709大抓捕」十週年：維權律師向BBC述說出獄後的監控人生 － BBC News 中文</a></td>
+<td>Jul 9, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/KPDfjG79uzE"><img width="200px" src="http://img.youtube.com/vi/KPDfjG79uzE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/KPDfjG79uzE">「避難包」為何在台灣社交媒體掀起討論熱潮？－ BBC News 中文 #台灣</a></td>
+<td>Jul 9, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=-sxH3z9ZDVk"><img width="200px" src="http://img.youtube.com/vi/-sxH3z9ZDVk/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=-sxH3z9ZDVk">台灣民眾有在準備避難包嗎？－ BBC News 中文</a></td>
+<td>Jul 9, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/zJIzU6Keu3A"><img width="200px" src="http://img.youtube.com/vi/zJIzU6Keu3A/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/zJIzU6Keu3A">以色列總理提名特朗普角逐諾貝爾和平獎－ BBC News 中文 #美國 #特朗普 #以色列</a></td>
 <td>Jul 9, 2025</td></tr>
@@ -78,16 +87,7 @@ slug: /
 <td>Jul 8, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/NzJYMWYZ5Nk"><img width="200px" src="http://img.youtube.com/vi/NzJYMWYZ5Nk/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/NzJYMWYZ5Nk">母象為何拖著小象屍體行走三天？－ BBC News 中文</a></td>
-<td>Jul 8, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=xC1pZ_-5BUc"><img width="200px" src="http://img.youtube.com/vi/xC1pZ_-5BUc/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=xC1pZ_-5BUc">甘肃天水幼儿集体血铅超标，当地官员前往西安干预医院检测；青岛大学学生献花悼念中暑去世的宿管爷爷；华为被曝光旗下盘古大模型是套壳【雪花每日新闻】</a></td>
-<td>Jul 8, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=kNomnS7iSI0"><img width="200px" src="http://img.youtube.com/vi/kNomnS7iSI0/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kNomnS7iSI0">美國德州洪災 至少10名夏令營女童失蹤－ BBC News 中文</a></td>
-<td>Jul 7, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/PpBpPGBxO6c"><img width="200px" src="http://img.youtube.com/vi/PpBpPGBxO6c/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/PpBpPGBxO6c">馬斯克稱他正在組建「美國黨」－ BBC News 中文</a></td>
-<td>Jul 7, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jul 8, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
