@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/zJIzU6Keu3A"><img width="200px" src="http://img.youtube.com/vi/zJIzU6Keu3A/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/zJIzU6Keu3A">以色列總理提名特朗普角逐諾貝爾和平獎－ BBC News 中文 #美國 #特朗普 #以色列</a></td>
+<td>Jul 9, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=5QMJ0OUtevI"><img width="200px" src="http://img.youtube.com/vi/5QMJ0OUtevI/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5QMJ0OUtevI">武汉原市长周先旺落马，曾暗示疫情初期隐瞒数据是中央指示；官方称天水铅中毒系后厨用颜料做发糕，网友怀疑附近的铅锌公司【雪花每日新闻】</a></td>
 <td>Jul 9, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jul 7, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/PpBpPGBxO6c"><img width="200px" src="http://img.youtube.com/vi/PpBpPGBxO6c/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/PpBpPGBxO6c">馬斯克稱他正在組建「美國黨」－ BBC News 中文</a></td>
-<td>Jul 7, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/Zmn7pFoeR3o"><img width="200px" src="http://img.youtube.com/vi/Zmn7pFoeR3o/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/Zmn7pFoeR3o">法國警方破壞前往英國移民「計程船」－ BBC News 中文 #法國</a></td>
 <td>Jul 7, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
