@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/MzBzjl4oudE"><img width="200px" src="http://img.youtube.com/vi/MzBzjl4oudE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/MzBzjl4oudE">台灣首度結合連鎖超市「全聯福利中心」舉行避難演習－ BBC News 中文 #台灣</a></td>
+<td>Jul 10, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/gSDuJFoosK8"><img width="200px" src="http://img.youtube.com/vi/gSDuJFoosK8/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/gSDuJFoosK8">南京「紅老頭」：中國男子扮女性偷拍大量性愛影片被捕－ BBC News 中文</a></td>
+<td>Jul 10, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/fcmv-8J2inY"><img width="200px" src="http://img.youtube.com/vi/fcmv-8J2inY/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/fcmv-8J2inY">特朗普稱讚英語國家利比里亞總統「英語好」－ BBC News 中文</a></td>
 <td>Jul 10, 2025</td></tr>
@@ -81,13 +87,7 @@ slug: /
 <td>Jul 9, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=5QMJ0OUtevI"><img width="200px" src="http://img.youtube.com/vi/5QMJ0OUtevI/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5QMJ0OUtevI">武汉原市长周先旺落马，曾暗示疫情初期隐瞒数据是中央指示；官方称天水铅中毒系后厨用颜料做发糕，网友怀疑附近的铅锌公司【雪花每日新闻】</a></td>
-<td>Jul 9, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/UsKDeDWQzV4"><img width="200px" src="http://img.youtube.com/vi/UsKDeDWQzV4/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/UsKDeDWQzV4">88歲老太太站在飛機翼上飛行－ BBC News 中文</a></td>
-<td>Jul 8, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/xFj7j8xaF6M"><img width="200px" src="http://img.youtube.com/vi/xFj7j8xaF6M/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/xFj7j8xaF6M">這是世界上最窄的汽車嗎？－ BBC News 中文</a></td>
-<td>Jul 8, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jul 9, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
