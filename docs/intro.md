@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/fcmv-8J2inY"><img width="200px" src="http://img.youtube.com/vi/fcmv-8J2inY/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/fcmv-8J2inY">特朗普稱讚英語國家利比里亞總統「英語好」－ BBC News 中文</a></td>
+<td>Jul 10, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=zlBEuEf-BKA"><img width="200px" src="http://img.youtube.com/vi/zlBEuEf-BKA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zlBEuEf-BKA">709维权律师大抓捕10周年；天水铅中毒幼儿家长围堵幼儿园讨说法；曾在泰山高举‘日本投降’的少年发视频哭诉工作环境恶劣10分钟【雪花每日新闻】</a></td>
 <td>Jul 10, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jul 8, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/xFj7j8xaF6M"><img width="200px" src="http://img.youtube.com/vi/xFj7j8xaF6M/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/xFj7j8xaF6M">這是世界上最窄的汽車嗎？－ BBC News 中文</a></td>
-<td>Jul 8, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=w88jqiXa_PE"><img width="200px" src="http://img.youtube.com/vi/w88jqiXa_PE/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=w88jqiXa_PE">BBC走訪全球最大稀土礦場：中國稀土供應鏈背後的污染災害－ BBC News 中文</a></td>
 <td>Jul 8, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
