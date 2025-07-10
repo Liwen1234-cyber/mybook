@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/10/%e5%bf%8c%e6%97%a5%e5%9b%9b%e5%91%a8%e5%b9%b4/">忌日四周年</a>- by onojyun - Jul 10, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/09/%e4%b8%8e%e5%85%b6%e6%a3%80%e8%ae%a8%e8%87%aa%e5%b7%b1%ef%bc%8c%e4%b8%8d%e5%a6%82%e8%b4%a3%e5%a4%87%e4%bb%96%e4%ba%ba/">与其检讨自己，不如责备他人</a>- by onojyun - Jul 9, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/08/%e5%a4%b1%e4%b8%9a%e7%8e%87/">失业率</a>- by onojyun - Jul 8, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/07/%e8%80%81%e5%a4%a9%e7%88%b7%e7%82%b9%e5%88%b0%e4%b8%ba%e6%ad%a2/">老天爷点到为止</a>- by onojyun - Jul 7, 2025</li>
@@ -27,7 +28,6 @@ slug: /
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html">科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？</a>- by ruanyifeng - Jun 27, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/revenge-on-gold-diggers/?utm_source=rss&utm_medium=rss&utm_campaign=revenge-on-gold-diggers">《捞女游戏》的局限与舆论困境</a>- by stephenleng - Jun 26, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/26/%e8%87%aa%e7%94%b1%e6%84%8f%e5%bf%97%e6%98%af%e5%86%b3%e5%ae%9a%e7%9b%ae%e7%9a%84%e5%9c%b0%ef%bc%8c%e8%bf%98%e6%98%af%e5%86%b3%e5%ae%9a%e4%bb%80%e4%b9%88%e6%97%b6%e5%80%99%e4%b8%8b%e8%bd%a6%ef%bc%9f/">自由意志是决定目的地，还是决定什么时候下车？</a>- by onojyun - Jun 26, 2025</li>
-<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/25/%e9%81%93%e5%be%b7%e7%91%95%e7%96%b5%e4%b8%8e%e6%b3%95%e5%be%8b%e6%83%a9%e6%88%92/">道德瑕疵与法律惩戒</a>- by onojyun - Jun 25, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html">国产 AI 网页开发工具：豆包 AI 编程简单测评</a>- by ruanyifeng - Jun 24, 2025</li>
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/219ca795c9568040ae22d38e449a5699">2025#25 暮雨将至</a>- by 1q43 - Jun 23, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/is-romantic-love-essentially-narcissism-self-love-or-a-projection-of-the-ideal-self-a-critique-of-anti-romantic-discourse-in-the-chinese-internet/?utm_source=rss&utm_medium=rss&utm_campaign=is-romantic-love-essentially-narcissism-self-love-or-a-projection-of-the-ideal-self-a-critique-of-anti-romantic-discourse-in-the-chinese-internet">浪漫爱情的本质是自恋或自爱或自我理想的投射？评中文互联网中的反浪漫话语</a>- by stephenleng - Jun 21, 2025</li>
