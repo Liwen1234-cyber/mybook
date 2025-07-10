@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=zlBEuEf-BKA"><img width="200px" src="http://img.youtube.com/vi/zlBEuEf-BKA/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=zlBEuEf-BKA">709维权律师大抓捕10周年；天水铅中毒幼儿家长围堵幼儿园讨说法；曾在泰山高举‘日本投降’的少年发视频哭诉工作环境恶劣10分钟【雪花每日新闻】</a></td>
+<td>Jul 10, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/2NCiALcf2Aw"><img width="200px" src="http://img.youtube.com/vi/2NCiALcf2Aw/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/2NCiALcf2Aw">法國男子大火中站上大樓窗台救出嬰兒－ BBC News 中文</a></td>
 <td>Jul 9, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jul 8, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=w88jqiXa_PE"><img width="200px" src="http://img.youtube.com/vi/w88jqiXa_PE/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=w88jqiXa_PE">BBC走訪全球最大稀土礦場：中國稀土供應鏈背後的污染災害－ BBC News 中文</a></td>
-<td>Jul 8, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/ttuARKUAY5g"><img width="200px" src="http://img.youtube.com/vi/ttuARKUAY5g/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/ttuARKUAY5g">為何這名中國律師每次出門都被一群人跟蹤？－ BBC News 中文 #中國</a></td>
 <td>Jul 8, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
