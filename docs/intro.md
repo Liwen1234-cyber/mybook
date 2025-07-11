@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=X3Jm072FFh8"><img width="200px" src="http://img.youtube.com/vi/X3Jm072FFh8/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=X3Jm072FFh8">伊朗戰場遇挫後  中國殲-10戰機將成為「救命稻草」？－ BBC News 中文</a></td>
+<td>Jul 11, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/kR_dDG5XbV8"><img width="200px" src="http://img.youtube.com/vi/kR_dDG5XbV8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/kR_dDG5XbV8">愛聽民謠歌曲的貓咪在網路爆紅－ BBC News 中文 #貓</a></td>
 <td>Jul 11, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jul 9, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=oXKAxWnUIKU"><img width="200px" src="http://img.youtube.com/vi/oXKAxWnUIKU/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=oXKAxWnUIKU">中國「709大抓捕」十週年：維權律師向BBC述說出獄後的監控人生 － BBC News 中文</a></td>
-<td>Jul 9, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/KPDfjG79uzE"><img width="200px" src="http://img.youtube.com/vi/KPDfjG79uzE/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/KPDfjG79uzE">「避難包」為何在台灣社交媒體掀起討論熱潮？－ BBC News 中文 #台灣</a></td>
 <td>Jul 9, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
