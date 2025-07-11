@@ -58,6 +58,15 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/kR_dDG5XbV8"><img width="200px" src="http://img.youtube.com/vi/kR_dDG5XbV8/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/kR_dDG5XbV8">愛聽民謠歌曲的貓咪在網路爆紅－ BBC News 中文 #貓</a></td>
+<td>Jul 11, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/lnBSO4jeQQM"><img width="200px" src="http://img.youtube.com/vi/lnBSO4jeQQM/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/lnBSO4jeQQM">中國一些年輕人為何「假裝上班」－ BBC News 中文</a></td>
+<td>Jul 11, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/cW6i0y-3ApE"><img width="200px" src="http://img.youtube.com/vi/cW6i0y-3ApE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/cW6i0y-3ApE">巴基斯坦街頭寵物獅子撲倒女子瞬間－ BBC News 中文</a></td>
+<td>Jul 11, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/MzBzjl4oudE"><img width="200px" src="http://img.youtube.com/vi/MzBzjl4oudE/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/MzBzjl4oudE">台灣首度結合連鎖超市「全聯福利中心」舉行避難演習－ BBC News 中文 #台灣</a></td>
 <td>Jul 10, 2025</td></tr>
@@ -78,15 +87,6 @@ slug: /
 <td>Jul 9, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/KPDfjG79uzE"><img width="200px" src="http://img.youtube.com/vi/KPDfjG79uzE/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/KPDfjG79uzE">「避難包」為何在台灣社交媒體掀起討論熱潮？－ BBC News 中文 #台灣</a></td>
-<td>Jul 9, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=-sxH3z9ZDVk"><img width="200px" src="http://img.youtube.com/vi/-sxH3z9ZDVk/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=-sxH3z9ZDVk">台灣民眾有在準備避難包嗎？－ BBC News 中文</a></td>
-<td>Jul 9, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/zJIzU6Keu3A"><img width="200px" src="http://img.youtube.com/vi/zJIzU6Keu3A/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/zJIzU6Keu3A">以色列總理提名特朗普角逐諾貝爾和平獎－ BBC News 中文 #美國 #特朗普 #以色列</a></td>
-<td>Jul 9, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=5QMJ0OUtevI"><img width="200px" src="http://img.youtube.com/vi/5QMJ0OUtevI/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=5QMJ0OUtevI">武汉原市长周先旺落马，曾暗示疫情初期隐瞒数据是中央指示；官方称天水铅中毒系后厨用颜料做发糕，网友怀疑附近的铅锌公司【雪花每日新闻】</a></td>
 <td>Jul 9, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
