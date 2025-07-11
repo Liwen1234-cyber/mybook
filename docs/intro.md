@@ -25,24 +25,24 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://lozhu.happy365.day/2025/07/02/5e4bf064e5ad/">使用STMP协议发送邮件</a>- by lozhu - Jul 2, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/02/%e6%b4%bb%e4%ba%ba%e6%84%9f/">活人感</a>- by onojyun - Jul 2, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/30/%e7%ac%a8%e4%b8%8e%e8%a0%a2/">笨与蠢</a>- by onojyun - Jun 30, 2025</li>
+<li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/220ca795c95680cb8ec0e6b9361c5a5b">2025#26 大西洋月刊</a>- by 1q43 - Jun 30, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/29/%e6%9c%aa%e5%ae%8c%e4%b8%8d%e5%be%85%e7%bb%ad%e7%9a%84%e6%95%85%e4%ba%8b/">未完不待续的故事</a>- by onojyun - Jun 29, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html">科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？</a>- by ruanyifeng - Jun 27, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/revenge-on-gold-diggers/?utm_source=rss&utm_medium=rss&utm_campaign=revenge-on-gold-diggers">《捞女游戏》的局限与舆论困境</a>- by stephenleng - Jun 26, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/26/%e8%87%aa%e7%94%b1%e6%84%8f%e5%bf%97%e6%98%af%e5%86%b3%e5%ae%9a%e7%9b%ae%e7%9a%84%e5%9c%b0%ef%bc%8c%e8%bf%98%e6%98%af%e5%86%b3%e5%ae%9a%e4%bb%80%e4%b9%88%e6%97%b6%e5%80%99%e4%b8%8b%e8%bd%a6%ef%bc%9f/">自由意志是决定目的地，还是决定什么时候下车？</a>- by onojyun - Jun 26, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html">国产 AI 网页开发工具：豆包 AI 编程简单测评</a>- by ruanyifeng - Jun 24, 2025</li>
+<li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/219ca795c9568040ae22d38e449a5699">2025#25 暮雨将至</a>- by 1q43 - Jun 23, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/is-romantic-love-essentially-narcissism-self-love-or-a-projection-of-the-ideal-self-a-critique-of-anti-romantic-discourse-in-the-chinese-internet/?utm_source=rss&utm_medium=rss&utm_campaign=is-romantic-love-essentially-narcissism-self-love-or-a-projection-of-the-ideal-self-a-critique-of-anti-romantic-discourse-in-the-chinese-internet">浪漫爱情的本质是自恋或自爱或自我理想的投射？评中文互联网中的反浪漫话语</a>- by stephenleng - Jun 21, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html">科技爱好者周刊（第 353 期）：苹果的&quot;液态玻璃&quot;是为了 AR</a>- by ruanyifeng - Jun 20, 2025</li>
 <li style="padding-left: 20px;"><a href="https://blog.est.im/2025/stdin-06">原研哉《棍子和碗》</a>- by est - Jun 18, 2025</li>
+<li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/212ca795c95680c789b6f321096bab20">2025#24 拒死而生</a>- by 1q43 - Jun 16, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/why-material-conditions-are-not-the-foundation-of-marriage/?utm_source=rss&utm_medium=rss&utm_campaign=why-material-conditions-are-not-the-foundation-of-marriage">为什么物质条件不是婚姻的“基础”</a>- by stephenleng - Jun 15, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html">科技爱好者周刊（第 352 期）：Bug 追踪系统的正确样子</a>- by ruanyifeng - Jun 12, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/do-parents-have-the-right-to-approve-their-childrens-marriage/?utm_source=rss&utm_medium=rss&utm_campaign=do-parents-have-the-right-to-approve-their-childrens-marriage">父母是否有子女婚姻的批准权？</a>- by stephenleng - Jun 11, 2025</li>
+<li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/20cca795c956800ab72ae370ef3fe886">2025#23 悠然自得</a>- by 1q43 - Jun 9, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/while-parents-live-one-must-travel-far/?utm_source=rss&utm_medium=rss&utm_campaign=while-parents-live-one-must-travel-far">父母在，要远游</a>- by stephenleng - Jun 5, 2025</li>
-<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/substitutes-for-religion-in-china/?utm_source=rss&utm_medium=rss&utm_campaign=substitutes-for-religion-in-china">论中国人的宗教代用品</a>- by stephenleng - May 29, 2025</li>
-<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/why-kant-freud-and-einstein-delayed-graduation-of-their-phds/?utm_source=rss&utm_medium=rss&utm_campaign=why-kant-freud-and-einstein-delayed-graduation-of-their-phds">康德、弗洛伊德和爱因斯坦为什么博士延迟毕业？</a>- by stephenleng - May 23, 2025</li>
-<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/institutional-reform-and-cultural-stagnation/?utm_source=rss&utm_medium=rss&utm_campaign=institutional-reform-and-cultural-stagnation">制度改革与文化停滞</a>- by stephenleng - May 19, 2025</li>
-<li style="padding-left: 20px;"><a href="https://blog.est.im/2025/stdout-04">A single Python function for both async/sync</a>- by est - May 14, 2025</li>
-<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/zhejiang-people-read-schopenhauer/?utm_source=rss&utm_medium=rss&utm_campaign=zhejiang-people-read-schopenhauer">浙江人，读叔本华吧！</a>- by stephenleng - May 12, 2025</li>
-<li style="padding-left: 20px;"><a href="https://lozhu.happy365.day/2025/05/03/6dedb1702b09/">iCloud Drive中无法创建Documents文件夹</a>- by lozhu - May 3, 2025</li><!-- BLOG:END -->
+<li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/205ca795c956807192efdee9c237e678">2025#22 镜中自我</a>- by 1q43 - Jun 2, 2025</li>
+<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/substitutes-for-religion-in-china/?utm_source=rss&utm_medium=rss&utm_campaign=substitutes-for-religion-in-china">论中国人的宗教代用品</a>- by stephenleng - May 29, 2025</li><!-- BLOG:END -->
 
 </details>
 
