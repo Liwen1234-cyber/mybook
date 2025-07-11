@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/07/weekly-issue-356.html">科技爱好者周刊（第 356 期）：公司强推 AI 编程，我该怎么办</a>- by ruanyifeng - Jul 11, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/10/%e5%bf%8c%e6%97%a5%e5%9b%9b%e5%91%a8%e5%b9%b4/">忌日四周年</a>- by onojyun - Jul 10, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/09/%e4%b8%8e%e5%85%b6%e6%a3%80%e8%ae%a8%e8%87%aa%e5%b7%b1%ef%bc%8c%e4%b8%8d%e5%a6%82%e8%b4%a3%e5%a4%87%e4%bb%96%e4%ba%ba/">与其检讨自己，不如责备他人</a>- by onojyun - Jul 9, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/08/%e5%a4%b1%e4%b8%9a%e7%8e%87/">失业率</a>- by onojyun - Jul 8, 2025</li>
@@ -38,7 +39,6 @@ slug: /
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html">科技爱好者周刊（第 352 期）：Bug 追踪系统的正确样子</a>- by ruanyifeng - Jun 12, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/do-parents-have-the-right-to-approve-their-childrens-marriage/?utm_source=rss&utm_medium=rss&utm_campaign=do-parents-have-the-right-to-approve-their-childrens-marriage">父母是否有子女婚姻的批准权？</a>- by stephenleng - Jun 11, 2025</li>
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/20cca795c956800ab72ae370ef3fe886">2025#23 悠然自得</a>- by 1q43 - Jun 9, 2025</li>
-<li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-351.html">科技爱好者周刊（第 351 期）：GitHub Issues（几乎）是最好的笔记应用</a>- by ruanyifeng - Jun 6, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/while-parents-live-one-must-travel-far/?utm_source=rss&utm_medium=rss&utm_campaign=while-parents-live-one-must-travel-far">父母在，要远游</a>- by stephenleng - Jun 5, 2025</li>
 <li style="padding-left: 20px;"><a href="https://weekly.1q43.blog/article/205ca795c956807192efdee9c237e678">2025#22 镜中自我</a>- by 1q43 - Jun 2, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/substitutes-for-religion-in-china/?utm_source=rss&utm_medium=rss&utm_campaign=substitutes-for-religion-in-china">论中国人的宗教代用品</a>- by stephenleng - May 29, 2025</li>
