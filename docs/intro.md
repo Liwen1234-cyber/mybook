@@ -68,7 +68,7 @@ slug: /
 <td><a href="https://www.youtube.com/shorts/kR_dDG5XbV8">愛聽民謠歌曲的貓咪在網路爆紅－ BBC News 中文 #貓</a></td>
 <td>Jul 11, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/lnBSO4jeQQM"><img width="200px" src="http://img.youtube.com/vi/lnBSO4jeQQM/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/lnBSO4jeQQM">中國一些年輕人為何「假裝上班」－ BBC News 中文</a></td>
+<td><a href="https://www.youtube.com/shorts/lnBSO4jeQQM">中國一些年輕人為何「假裝上班」？－ BBC News 中文</a></td>
 <td>Jul 11, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/cW6i0y-3ApE"><img width="200px" src="http://img.youtube.com/vi/cW6i0y-3ApE/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/cW6i0y-3ApE">巴基斯坦街頭寵物獅子撲倒女子瞬間－ BBC News 中文</a></td>
