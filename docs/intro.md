@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="https://lozhu.happy365.day/2025/07/13/492061bb9bbc/">操作系统的圆角内卷</a>- by lozhu - Jul 13, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/12/%e5%a4%96%e5%9b%b4%e4%b8%8a%e9%97%a8%e8%a6%81%e4%b8%8d%e8%a6%81%e5%9c%a8%e9%85%92%e5%ba%97%e5%89%8d%e5%8f%b0%e7%99%bb%e8%ae%b0%ef%bc%9f/">外围上门要不要在酒店前台登记？</a>- by onojyun - Jul 12, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/golden-bowl-vs-iron-bowl-why-auto-mechanics-are-more-respected-than-civil-servants/?utm_source=rss&utm_medium=rss&utm_campaign=golden-bowl-vs-iron-bowl-why-auto-mechanics-are-more-respected-than-civil-servants">金饭碗与铁饭碗：为什么汽修工比公务员更受人尊敬</a>- by stephenleng - Jul 11, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/07/weekly-issue-356.html">科技爱好者周刊（第 356 期）：公司强推 AI 编程，我该怎么办</a>- by ruanyifeng - Jul 11, 2025</li>
@@ -41,8 +42,7 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/why-kant-freud-and-einstein-delayed-graduation-of-their-phds/?utm_source=rss&utm_medium=rss&utm_campaign=why-kant-freud-and-einstein-delayed-graduation-of-their-phds">康德、弗洛伊德和爱因斯坦为什么博士延迟毕业？</a>- by stephenleng - May 23, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/institutional-reform-and-cultural-stagnation/?utm_source=rss&utm_medium=rss&utm_campaign=institutional-reform-and-cultural-stagnation">制度改革与文化停滞</a>- by stephenleng - May 19, 2025</li>
 <li style="padding-left: 20px;"><a href="https://blog.est.im/2025/stdout-04">A single Python function for both async/sync</a>- by est - May 14, 2025</li>
-<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/zhejiang-people-read-schopenhauer/?utm_source=rss&utm_medium=rss&utm_campaign=zhejiang-people-read-schopenhauer">浙江人，读叔本华吧！</a>- by stephenleng - May 12, 2025</li>
-<li style="padding-left: 20px;"><a href="https://lozhu.happy365.day/2025/05/03/6dedb1702b09/">iCloud Drive中无法创建Documents文件夹</a>- by lozhu - May 3, 2025</li><!-- BLOG:END -->
+<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/zhejiang-people-read-schopenhauer/?utm_source=rss&utm_medium=rss&utm_campaign=zhejiang-people-read-schopenhauer">浙江人，读叔本华吧！</a>- by stephenleng - May 12, 2025</li><!-- BLOG:END -->
 
 </details>
 
