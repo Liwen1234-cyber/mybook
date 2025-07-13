@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=FXlNlq8pq80"><img width="200px" src="http://img.youtube.com/vi/FXlNlq8pq80/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=FXlNlq8pq80">甘肃宣布提级调查天水幼儿铅中毒事件；上海医生不敢再接收治疗天水铅中毒患儿；餐馆发布展示菜品的广告先被罚45万后处罚又被撤销【雪花每日新闻】</a></td>
+<td>Jul 13, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=X3Jm072FFh8"><img width="200px" src="http://img.youtube.com/vi/X3Jm072FFh8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=X3Jm072FFh8">伊朗戰場遇挫後  中國殲-10戰機將成為「救命稻草」？－ BBC News 中文</a></td>
 <td>Jul 11, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jul 10, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/2NCiALcf2Aw"><img width="200px" src="http://img.youtube.com/vi/2NCiALcf2Aw/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/2NCiALcf2Aw">法國男子大火中站上大樓窗台救出嬰兒－ BBC News 中文</a></td>
-<td>Jul 9, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=oXKAxWnUIKU"><img width="200px" src="http://img.youtube.com/vi/oXKAxWnUIKU/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=oXKAxWnUIKU">中國「709大抓捕」十週年：維權律師向BBC述說出獄後的監控人生 － BBC News 中文</a></td>
 <td>Jul 9, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
