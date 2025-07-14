@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/14/%e4%bb%8e%e8%bf%b7%e5%9b%a0%e5%88%b0%e6%94%bf%e6%b2%bb%e7%ac%a6%e5%8f%b7/">从迷因到政治符号</a>- by onojyun - Jul 14, 2025</li>
 <li style="padding-left: 20px;"><a href="https://lozhu.happy365.day/2025/07/13/492061bb9bbc/">操作系统的圆角内卷</a>- by lozhu - Jul 13, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/12/%e5%a4%96%e5%9b%b4%e4%b8%8a%e9%97%a8%e8%a6%81%e4%b8%8d%e8%a6%81%e5%9c%a8%e9%85%92%e5%ba%97%e5%89%8d%e5%8f%b0%e7%99%bb%e8%ae%b0%ef%bc%9f/">外围上门要不要在酒店前台登记？</a>- by onojyun - Jul 12, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/golden-bowl-vs-iron-bowl-why-auto-mechanics-are-more-respected-than-civil-servants/?utm_source=rss&utm_medium=rss&utm_campaign=golden-bowl-vs-iron-bowl-why-auto-mechanics-are-more-respected-than-civil-servants">金饭碗与铁饭碗：为什么汽修工比公务员更受人尊敬</a>- by stephenleng - Jul 11, 2025</li>
@@ -27,7 +28,6 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://lozhu.happy365.day/2025/07/02/5e4bf064e5ad/">使用STMP协议发送邮件</a>- by lozhu - Jul 2, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/02/%e6%b4%bb%e4%ba%ba%e6%84%9f/">活人感</a>- by onojyun - Jul 2, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/30/%e7%ac%a8%e4%b8%8e%e8%a0%a2/">笨与蠢</a>- by onojyun - Jun 30, 2025</li>
-<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/29/%e6%9c%aa%e5%ae%8c%e4%b8%8d%e5%be%85%e7%bb%ad%e7%9a%84%e6%95%85%e4%ba%8b/">未完不待续的故事</a>- by onojyun - Jun 29, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html">科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？</a>- by ruanyifeng - Jun 27, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/revenge-on-gold-diggers/?utm_source=rss&utm_medium=rss&utm_campaign=revenge-on-gold-diggers">《捞女游戏》的局限与舆论困境</a>- by stephenleng - Jun 26, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html">国产 AI 网页开发工具：豆包 AI 编程简单测评</a>- by ruanyifeng - Jun 24, 2025</li>
