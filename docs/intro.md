@@ -16,7 +16,6 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/14/%e4%bb%8e%e8%bf%b7%e5%9b%a0%e5%88%b0%e6%94%bf%e6%b2%bb%e7%ac%a6%e5%8f%b7/">从迷因到政治符号</a>- by onojyun - Jul 14, 2025</li>
 <li style="padding-left: 20px;"><a href="https://lozhu.happy365.day/2025/07/13/492061bb9bbc/">操作系统的圆角内卷</a>- by lozhu - Jul 13, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/12/%e5%a4%96%e5%9b%b4%e4%b8%8a%e9%97%a8%e8%a6%81%e4%b8%8d%e8%a6%81%e5%9c%a8%e9%85%92%e5%ba%97%e5%89%8d%e5%8f%b0%e7%99%bb%e8%ae%b0%ef%bc%9f/">外围上门要不要在酒店前台登记？</a>- by onojyun - Jul 12, 2025</li>
-<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/golden-bowl-vs-iron-bowl-why-auto-mechanics-are-more-respected-than-civil-servants/?utm_source=rss&utm_medium=rss&utm_campaign=golden-bowl-vs-iron-bowl-why-auto-mechanics-are-more-respected-than-civil-servants">金饭碗与铁饭碗：为什么汽修工比公务员更受人尊敬</a>- by stephenleng - Jul 11, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/07/weekly-issue-356.html">科技爱好者周刊（第 356 期）：公司强推 AI 编程，我该怎么办</a>- by ruanyifeng - Jul 11, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/10/%e5%bf%8c%e6%97%a5%e5%9b%9b%e5%91%a8%e5%b9%b4/">忌日四周年</a>- by onojyun - Jul 10, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/09/%e4%b8%8e%e5%85%b6%e6%a3%80%e8%ae%a8%e8%87%aa%e5%b7%b1%ef%bc%8c%e4%b8%8d%e5%a6%82%e8%b4%a3%e5%a4%87%e4%bb%96%e4%ba%ba/">与其检讨自己，不如责备他人</a>- by onojyun - Jul 9, 2025</li>
@@ -29,20 +28,21 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/02/%e6%b4%bb%e4%ba%ba%e6%84%9f/">活人感</a>- by onojyun - Jul 2, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/06/30/%e7%ac%a8%e4%b8%8e%e8%a0%a2/">笨与蠢</a>- by onojyun - Jun 30, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html">科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？</a>- by ruanyifeng - Jun 27, 2025</li>
-<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/revenge-on-gold-diggers/?utm_source=rss&utm_medium=rss&utm_campaign=revenge-on-gold-diggers">《捞女游戏》的局限与舆论困境</a>- by stephenleng - Jun 26, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html">国产 AI 网页开发工具：豆包 AI 编程简单测评</a>- by ruanyifeng - Jun 24, 2025</li>
-<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/is-romantic-love-essentially-narcissism-self-love-or-a-projection-of-the-ideal-self-a-critique-of-anti-romantic-discourse-in-the-chinese-internet/?utm_source=rss&utm_medium=rss&utm_campaign=is-romantic-love-essentially-narcissism-self-love-or-a-projection-of-the-ideal-self-a-critique-of-anti-romantic-discourse-in-the-chinese-internet">浪漫爱情的本质是自恋或自爱或自我理想的投射？评中文互联网中的反浪漫话语</a>- by stephenleng - Jun 21, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html">科技爱好者周刊（第 353 期）：苹果的&quot;液态玻璃&quot;是为了 AR</a>- by ruanyifeng - Jun 20, 2025</li>
 <li style="padding-left: 20px;"><a href="https://blog.est.im/2025/stdin-06">原研哉《棍子和碗》</a>- by est - Jun 18, 2025</li>
-<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/why-material-conditions-are-not-the-foundation-of-marriage/?utm_source=rss&utm_medium=rss&utm_campaign=why-material-conditions-are-not-the-foundation-of-marriage">为什么物质条件不是婚姻的“基础”</a>- by stephenleng - Jun 15, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html">科技爱好者周刊（第 352 期）：Bug 追踪系统的正确样子</a>- by ruanyifeng - Jun 12, 2025</li>
-<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/do-parents-have-the-right-to-approve-their-childrens-marriage/?utm_source=rss&utm_medium=rss&utm_campaign=do-parents-have-the-right-to-approve-their-childrens-marriage">父母是否有子女婚姻的批准权？</a>- by stephenleng - Jun 11, 2025</li>
-<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/while-parents-live-one-must-travel-far/?utm_source=rss&utm_medium=rss&utm_campaign=while-parents-live-one-must-travel-far">父母在，要远游</a>- by stephenleng - Jun 5, 2025</li>
-<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/substitutes-for-religion-in-china/?utm_source=rss&utm_medium=rss&utm_campaign=substitutes-for-religion-in-china">论中国人的宗教代用品</a>- by stephenleng - May 29, 2025</li>
-<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/why-kant-freud-and-einstein-delayed-graduation-of-their-phds/?utm_source=rss&utm_medium=rss&utm_campaign=why-kant-freud-and-einstein-delayed-graduation-of-their-phds">康德、弗洛伊德和爱因斯坦为什么博士延迟毕业？</a>- by stephenleng - May 23, 2025</li>
-<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/institutional-reform-and-cultural-stagnation/?utm_source=rss&utm_medium=rss&utm_campaign=institutional-reform-and-cultural-stagnation">制度改革与文化停滞</a>- by stephenleng - May 19, 2025</li>
 <li style="padding-left: 20px;"><a href="https://blog.est.im/2025/stdout-04">A single Python function for both async/sync</a>- by est - May 14, 2025</li>
-<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/zhejiang-people-read-schopenhauer/?utm_source=rss&utm_medium=rss&utm_campaign=zhejiang-people-read-schopenhauer">浙江人，读叔本华吧！</a>- by stephenleng - May 12, 2025</li><!-- BLOG:END -->
+<li style="padding-left: 20px;"><a href="https://lozhu.happy365.day/2025/05/03/6dedb1702b09/">iCloud Drive中无法创建Documents文件夹</a>- by lozhu - May 3, 2025</li>
+<li style="padding-left: 20px;"><a href="https://lozhu.happy365.day/2025/05/01/cf9622d9262a/">Elasticsearch入门</a>- by lozhu - May 1, 2025</li>
+<li style="padding-left: 20px;"><a href="https://lozhu.happy365.day/2025/05/01/8d39054318ab/">macOS提示无法验证APP是否包含恶意软件无法打开</a>- by lozhu - May 1, 2025</li>
+<li style="padding-left: 20px;"><a href="https://blog.est.im/2025/stdin-05">听 彭罗斯 吹了90分钟波函数的坍塌</a>- by est - Apr 30, 2025</li>
+<li style="padding-left: 20px;"><a href="https://blog.est.im/2025/stdin-04">光 的本质是什么？</a>- by est - Apr 29, 2025</li>
+<li style="padding-left: 20px;"><a href="https://blog.est.im/2025/stdout-03">Windows 自动设置开机锁屏壁纸 V3</a>- by est - Apr 25, 2025</li>
+<li style="padding-left: 20px;"><a href="https://blog.est.im/2025/stderr-03">语言，逆差</a>- by est - Apr 14, 2025</li>
+<li style="padding-left: 20px;"><a href="https://codechina.org/2025/04/31083/">宫崎骏最新拍摄的刘邦的故事</a>- by Tinyfool - Apr 8, 2025</li>
+<li style="padding-left: 20px;"><a href="https://codechina.org/2025/04/31071/">读史杂感 – 北京户口</a>- by Tinyfool - Apr 7, 2025</li>
+<li style="padding-left: 20px;"><a href="https://blog.est.im/2025/stderr-02">Su7🔥，智驾，假风口</a>- by est - Apr 1, 2025</li><!-- BLOG:END -->
 
 </details>
 
