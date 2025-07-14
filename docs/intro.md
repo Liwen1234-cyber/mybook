@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/WO7IS1komLM"><img width="200px" src="http://img.youtube.com/vi/WO7IS1komLM/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/WO7IS1komLM">印尼爪哇道路成「游泳池」影片於社媒爆紅－ BBC News 中文 #印尼</a></td>
+<td>Jul 14, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=FXlNlq8pq80"><img width="200px" src="http://img.youtube.com/vi/FXlNlq8pq80/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FXlNlq8pq80">甘肃宣布提级调查天水幼儿铅中毒事件；上海医生不敢再接收治疗天水铅中毒患儿；餐馆发布展示菜品的广告先被罚45万后处罚又被撤销【雪花每日新闻】</a></td>
 <td>Jul 13, 2025</td></tr>
@@ -84,10 +87,7 @@ slug: /
 <td>Jul 10, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=zlBEuEf-BKA"><img width="200px" src="http://img.youtube.com/vi/zlBEuEf-BKA/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=zlBEuEf-BKA">709维权律师大抓捕10周年；天水铅中毒幼儿家长围堵幼儿园讨说法；曾在泰山高举‘日本投降’的少年发视频哭诉工作环境恶劣10分钟【雪花每日新闻】</a></td>
-<td>Jul 10, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/2NCiALcf2Aw"><img width="200px" src="http://img.youtube.com/vi/2NCiALcf2Aw/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/2NCiALcf2Aw">法國男子大火中站上大樓窗台救出嬰兒－ BBC News 中文</a></td>
-<td>Jul 9, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jul 10, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
