@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=WdQ9GuK3pXQ"><img width="200px" src="http://img.youtube.com/vi/WdQ9GuK3pXQ/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=WdQ9GuK3pXQ">從「臉基尼」到「水上麻將」：中國高溫下民眾尋涼方－ BBC News 中文</a></td>
+<td>Jul 14, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/Y244_EYmuA8"><img width="200px" src="http://img.youtube.com/vi/Y244_EYmuA8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/Y244_EYmuA8">美國雷暴空中形成「罕見雲層」－ BBC News 中文 #美國</a></td>
 <td>Jul 14, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jul 10, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/gSDuJFoosK8"><img width="200px" src="http://img.youtube.com/vi/gSDuJFoosK8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/gSDuJFoosK8">南京「紅老頭」：中國男子扮女性偷拍大量性愛影片被捕－ BBC News 中文</a></td>
-<td>Jul 10, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/fcmv-8J2inY"><img width="200px" src="http://img.youtube.com/vi/fcmv-8J2inY/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/fcmv-8J2inY">特朗普稱讚英語國家利比里亞總統「英語好」－ BBC News 中文</a></td>
 <td>Jul 10, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
