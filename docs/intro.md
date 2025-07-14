@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/Y244_EYmuA8"><img width="200px" src="http://img.youtube.com/vi/Y244_EYmuA8/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/Y244_EYmuA8">美國雷暴空中形成「罕見雲層」－ BBC News 中文 #美國</a></td>
+<td>Jul 14, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/WO7IS1komLM"><img width="200px" src="http://img.youtube.com/vi/WO7IS1komLM/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/WO7IS1komLM">印尼爪哇道路成「游泳池」影片於社媒爆紅－ BBC News 中文 #印尼</a></td>
 <td>Jul 14, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jul 10, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/fcmv-8J2inY"><img width="200px" src="http://img.youtube.com/vi/fcmv-8J2inY/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/fcmv-8J2inY">特朗普稱讚英語國家利比里亞總統「英語好」－ BBC News 中文</a></td>
-<td>Jul 10, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=zlBEuEf-BKA"><img width="200px" src="http://img.youtube.com/vi/zlBEuEf-BKA/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=zlBEuEf-BKA">709维权律师大抓捕10周年；天水铅中毒幼儿家长围堵幼儿园讨说法；曾在泰山高举‘日本投降’的少年发视频哭诉工作环境恶劣10分钟【雪花每日新闻】</a></td>
 <td>Jul 10, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
