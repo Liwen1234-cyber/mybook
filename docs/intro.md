@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/A2OQeWf8WO0"><img width="200px" src="http://img.youtube.com/vi/A2OQeWf8WO0/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/A2OQeWf8WO0">特朗普要求普京50天內達成停戰協議－ BBC News 中文 #特朗普 #美國 #俄羅斯</a></td>
+<td>Jul 15, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/8FY6KFQeTds"><img width="200px" src="http://img.youtube.com/vi/8FY6KFQeTds/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/8FY6KFQeTds">洩露音頻揭示孟加拉前領導人授權致命鎮壓－ BBC News 中文</a></td>
 <td>Jul 15, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jul 11, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/lnBSO4jeQQM"><img width="200px" src="http://img.youtube.com/vi/lnBSO4jeQQM/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/lnBSO4jeQQM">中國一些年輕人為何「假裝上班」？－ BBC News 中文</a></td>
-<td>Jul 11, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/cW6i0y-3ApE"><img width="200px" src="http://img.youtube.com/vi/cW6i0y-3ApE/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/cW6i0y-3ApE">巴基斯坦街頭寵物獅子撲倒女子瞬間－ BBC News 中文</a></td>
 <td>Jul 11, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
