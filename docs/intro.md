@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=kvT207-vvIo"><img width="200px" src="http://img.youtube.com/vi/kvT207-vvIo/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=kvT207-vvIo">网证网号将于今日起正式施行；大连工业大学女生被指“有辱国格”遭开除和网暴；刘克清因长得像习近平，儿歌视频评论区一夜被清空【雪花每日新闻】</a></td>
+<td>Jul 14, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=WdQ9GuK3pXQ"><img width="200px" src="http://img.youtube.com/vi/WdQ9GuK3pXQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WdQ9GuK3pXQ">從「臉基尼」到「水上麻將」：中國高溫下民眾尋涼方－ BBC News 中文</a></td>
 <td>Jul 14, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jul 11, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/MzBzjl4oudE"><img width="200px" src="http://img.youtube.com/vi/MzBzjl4oudE/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/MzBzjl4oudE">台灣首度結合連鎖超市「全聯福利中心」舉行避難演習－ BBC News 中文 #台灣</a></td>
-<td>Jul 10, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/gSDuJFoosK8"><img width="200px" src="http://img.youtube.com/vi/gSDuJFoosK8/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/gSDuJFoosK8">南京「紅老頭」：中國男子扮女性偷拍大量性愛影片被捕－ BBC News 中文</a></td>
 <td>Jul 10, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
