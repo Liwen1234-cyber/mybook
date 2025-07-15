@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/8FY6KFQeTds"><img width="200px" src="http://img.youtube.com/vi/8FY6KFQeTds/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/8FY6KFQeTds">洩露音頻揭示孟加拉前領導人授權致命鎮壓－ BBC News 中文</a></td>
+<td>Jul 15, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=kvT207-vvIo"><img width="200px" src="http://img.youtube.com/vi/kvT207-vvIo/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=kvT207-vvIo">网证网号将于今日起正式施行；大连工业大学女生被指“有辱国格”遭开除和网暴；刘克清因长得像习近平，儿歌视频评论区一夜被清空【雪花每日新闻】</a></td>
 <td>Jul 14, 2025</td></tr>
@@ -84,10 +87,7 @@ slug: /
 <td>Jul 11, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/cW6i0y-3ApE"><img width="200px" src="http://img.youtube.com/vi/cW6i0y-3ApE/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/cW6i0y-3ApE">巴基斯坦街頭寵物獅子撲倒女子瞬間－ BBC News 中文</a></td>
-<td>Jul 11, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/MzBzjl4oudE"><img width="200px" src="http://img.youtube.com/vi/MzBzjl4oudE/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/MzBzjl4oudE">台灣首度結合連鎖超市「全聯福利中心」舉行避難演習－ BBC News 中文 #台灣</a></td>
-<td>Jul 10, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jul 11, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
