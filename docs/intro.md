@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/16/%e6%96%87%e8%89%ba%e7%89%87%e5%85%b1%e7%8a%af/">文艺片共犯</a>- by onojyun - Jul 16, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/15/%e7%ae%97%e5%92%8c%e4%b8%8d%e7%ae%97/">算和不算</a>- by onojyun - Jul 15, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/14/%e4%bb%8e%e8%bf%b7%e5%9b%a0%e5%88%b0%e6%94%bf%e6%b2%bb%e7%ac%a6%e5%8f%b7/">从迷因到政治符号</a>- by onojyun - Jul 14, 2025</li>
 <li style="padding-left: 20px;"><a href="https://lozhu.happy365.day/2025/07/13/492061bb9bbc/">操作系统的圆角内卷</a>- by lozhu - Jul 13, 2025</li>
@@ -27,7 +28,6 @@ slug: /
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html">科技爱好者周刊（第 355 期）：两本《芯片战争》</a>- by ruanyifeng - Jul 4, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/03/%e8%bd%a6%e7%a5%b8-iv/">车祸 IV</a>- by onojyun - Jul 3, 2025</li>
 <li style="padding-left: 20px;"><a href="https://lozhu.happy365.day/2025/07/02/5e4bf064e5ad/">使用STMP协议发送邮件</a>- by lozhu - Jul 2, 2025</li>
-<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/02/%e6%b4%bb%e4%ba%ba%e6%84%9f/">活人感</a>- by onojyun - Jul 2, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html">科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？</a>- by ruanyifeng - Jun 27, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/revenge-on-gold-diggers/?utm_source=rss&utm_medium=rss&utm_campaign=revenge-on-gold-diggers">《捞女游戏》的局限与舆论困境</a>- by stephenleng - Jun 26, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/doubao-ai-coding.html">国产 AI 网页开发工具：豆包 AI 编程简单测评</a>- by ruanyifeng - Jun 24, 2025</li>
