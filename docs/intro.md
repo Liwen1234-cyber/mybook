@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/HfgVXTW3Qcs"><img width="200px" src="http://img.youtube.com/vi/HfgVXTW3Qcs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/HfgVXTW3Qcs">中國女大學生被指「有損國格」遭開除引爭議－ BBC News 中文</a></td>
+<td>Jul 16, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/J6m74HuiQV0"><img width="200px" src="http://img.youtube.com/vi/J6m74HuiQV0/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/J6m74HuiQV0">黃仁勳訪問北京  稱用中文演講「很緊張」－ BBC News 中文</a></td>
 <td>Jul 16, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jul 14, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=WdQ9GuK3pXQ"><img width="200px" src="http://img.youtube.com/vi/WdQ9GuK3pXQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=WdQ9GuK3pXQ">從「臉基尼」到「水上麻將」：中國高溫下民眾尋涼方－ BBC News 中文</a></td>
-<td>Jul 14, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/Y244_EYmuA8"><img width="200px" src="http://img.youtube.com/vi/Y244_EYmuA8/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/Y244_EYmuA8">美國雷暴空中形成「罕見雲層」－ BBC News 中文 #美國</a></td>
 <td>Jul 14, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
