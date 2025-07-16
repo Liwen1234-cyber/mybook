@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/MbwSX1CVZe0"><img width="200px" src="http://img.youtube.com/vi/MbwSX1CVZe0/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/MbwSX1CVZe0">特朗普在世界俱樂部盃頒獎儀式上讓球員「困惑」－ BBC News 中文 #特朗普 #美國</a></td>
+<td>Jul 16, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/9kTboPfr6pw"><img width="200px" src="http://img.youtube.com/vi/9kTboPfr6pw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/9kTboPfr6pw">紐約暴雨地鐵遭突發洪水侵襲－ BBC News 中文 #美國</a></td>
+<td>Jul 16, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=9k0AmWQd3pw"><img width="200px" src="http://img.youtube.com/vi/9k0AmWQd3pw/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9k0AmWQd3pw">讽刺“有辱国格”说法，女性网友把来月经叫“国潮来袭”；外卖商战引发底层矛盾，外卖员和奶茶店员激烈冲突；国家统计局宣布上半年中国GDP同比增长5.3%【雪花每日新闻】</a></td>
 <td>Jul 16, 2025</td></tr>
@@ -81,13 +87,7 @@ slug: /
 <td>Jul 14, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=FXlNlq8pq80"><img width="200px" src="http://img.youtube.com/vi/FXlNlq8pq80/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=FXlNlq8pq80">甘肃宣布提级调查天水幼儿铅中毒事件；上海医生不敢再接收治疗天水铅中毒患儿；餐馆发布展示菜品的广告先被罚45万后处罚又被撤销【雪花每日新闻】</a></td>
-<td>Jul 13, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=X3Jm072FFh8"><img width="200px" src="http://img.youtube.com/vi/X3Jm072FFh8/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=X3Jm072FFh8">伊朗戰場遇挫後  中國殲-10戰機將成為「救命稻草」？－ BBC News 中文</a></td>
-<td>Jul 11, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/kR_dDG5XbV8"><img width="200px" src="http://img.youtube.com/vi/kR_dDG5XbV8/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/kR_dDG5XbV8">愛聽民謠歌曲的貓咪在網路爆紅－ BBC News 中文 #貓</a></td>
-<td>Jul 11, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jul 13, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
