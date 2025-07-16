@@ -122,6 +122,7 @@ slug: /
 
 ### Python
 
+* 【2025-07-16】[kvcache-ai / ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
 * 【2025-07-14】[OpenPipe / ART](https://github.com/OpenPipe/ART) - Agent Reinforcement Trainer: train multi-step agents for real-world tasks using GRPO. Give your agents on-the-job training. Reinforcement learning for Qwen2.5, Qwen3, Llama, Kimi, and more!
 * 【2025-07-13】[jax-ml / jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 * 【2025-07-13】[markqvist / Reticulum](https://github.com/markqvist/Reticulum) - The cryptography-based networking stack for building unstoppable networks with LoRa, Packet Radio, WiFi and everything in between.
@@ -150,12 +151,14 @@ slug: /
 
 ### Markdown
 
+* 【2025-07-16】[mendix / docs](https://github.com/mendix/docs) - Mendix documentation repository
 * 【2025-07-10】[dreamportdev / Osdev-Notes](https://github.com/dreamportdev/Osdev-Notes) - A book that explore how to write an Operating System from scratch
 * 【2025-07-08】[project-trans / MtF-wiki](https://github.com/project-trans/MtF-wiki) - MtF.wiki is a free, open, and continuously updating transgender female knowledge integration site.
 
 
 ### Jupyter-notebook
 
+* 【2025-07-16】[microsoft / PhiCookBook](https://github.com/microsoft/PhiCookBook) - This is a Phi Family of SLMs book for getting started with Phi Models. Phi a family of open sourced AI models developed by Microsoft. Phi models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks
 * 【2025-07-15】[Nixtla / nixtla](https://github.com/Nixtla/nixtla) - TimeGPT-1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's capable of accurately predicting various domains such as retail, electricity, finance, and IoT with just a few lines of code 🚀.
 * 【2025-07-14】[CamDavidsonPilon / Probabilistic-Programming-and-Bayesian-Methods-for-Hackers](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers) - aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)
 * 【2025-07-14】[NVIDIA / accelerated-computing-hub](https://github.com/NVIDIA/accelerated-computing-hub) - NVIDIA curated collection of educational resources related to general purpose GPU programming.
@@ -215,6 +218,7 @@ slug: /
 
 ### Unknown
 
+* 【2025-07-16】[MoonshotAI / Kimi-VL](https://github.com/MoonshotAI/Kimi-VL) - Kimi-VL: Mixture-of-Experts Vision-Language Model for Multimodal Reasoning, Long-Context Understanding, and Strong Agent Capabilities
 * 【2025-07-13】[arcprize / ARC-AGI-2](https://github.com/arcprize/ARC-AGI-2) - 
 * 【2025-07-03】[SimplifyJobs / Summer2026-Internships](https://github.com/SimplifyJobs/Summer2026-Internships) - Collection of Summer 2026 tech internships!
 * 【2025-07-02】[galaxy-s10 / billd-desk](https://github.com/galaxy-s10/billd-desk) - 基于Vue3 + WebRTC + Nodejs + Electron搭建的远程桌面控制
@@ -239,6 +243,7 @@ slug: /
 
 ### C++
 
+* 【2025-07-16】[sonicdcer / MarioKart64Recomp](https://github.com/sonicdcer/MarioKart64Recomp) - Recompilation of MarioKart 64
 * 【2025-07-14】[sipeed / NanoKVM](https://github.com/sipeed/NanoKVM) - Affordable, Multifunctional, Nano RISC-V IP-KVM
 * 【2025-07-12】[lraton / FlopperZiro](https://github.com/lraton/FlopperZiro) - A Flipper Zero clone, but cheapest, DIY and simply Open Source, made with Arduino IDE
 * 【2025-07-12】[NVIDIA-RTX / NVRHI](https://github.com/NVIDIA-RTX/NVRHI) - 
