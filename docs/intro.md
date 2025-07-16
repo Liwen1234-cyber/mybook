@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/J6m74HuiQV0"><img width="200px" src="http://img.youtube.com/vi/J6m74HuiQV0/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/J6m74HuiQV0">黃仁勳訪問北京  稱用中文演講「很緊張」－ BBC News 中文</a></td>
+<td>Jul 16, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/EXtKuwIg5Ps"><img width="200px" src="http://img.youtube.com/vi/EXtKuwIg5Ps/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/EXtKuwIg5Ps">特朗普接受BBC專訪：對普京失望但未決裂－ BBC News 中文</a></td>
+<td>Jul 16, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/MbwSX1CVZe0"><img width="200px" src="http://img.youtube.com/vi/MbwSX1CVZe0/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/MbwSX1CVZe0">特朗普在世界俱樂部盃頒獎儀式上讓球員「困惑」－ BBC News 中文 #特朗普 #美國</a></td>
 <td>Jul 16, 2025</td></tr>
@@ -81,13 +87,7 @@ slug: /
 <td>Jul 14, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/Y244_EYmuA8"><img width="200px" src="http://img.youtube.com/vi/Y244_EYmuA8/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/Y244_EYmuA8">美國雷暴空中形成「罕見雲層」－ BBC News 中文 #美國</a></td>
-<td>Jul 14, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/WO7IS1komLM"><img width="200px" src="http://img.youtube.com/vi/WO7IS1komLM/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/WO7IS1komLM">印尼爪哇道路成「游泳池」影片於社媒爆紅－ BBC News 中文 #印尼</a></td>
-<td>Jul 14, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=FXlNlq8pq80"><img width="200px" src="http://img.youtube.com/vi/FXlNlq8pq80/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=FXlNlq8pq80">甘肃宣布提级调查天水幼儿铅中毒事件；上海医生不敢再接收治疗天水铅中毒患儿；餐馆发布展示菜品的广告先被罚45万后处罚又被撤销【雪花每日新闻】</a></td>
-<td>Jul 13, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jul 14, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
