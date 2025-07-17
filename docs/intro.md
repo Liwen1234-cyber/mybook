@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/69OddbKINOc"><img width="200px" src="http://img.youtube.com/vi/69OddbKINOc/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/69OddbKINOc">半島電視台記者播報時背後大樓遭轟炸－ BBC News 中文 #以色列  #敘利亞</a></td>
+<td>Jul 17, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/lR_2dTdBxKE"><img width="200px" src="http://img.youtube.com/vi/lR_2dTdBxKE/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/lR_2dTdBxKE">特朗普：中國將對製造芬太尼者處死刑－ BBC News 中文</a></td>
+<td>Jul 17, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/izKYOqs0Aso"><img width="200px" src="http://img.youtube.com/vi/izKYOqs0Aso/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/izKYOqs0Aso">敘利亞主播播報時遇以色列空襲 節目中斷－ BBC News 中文 #以色列  #敘利亞</a></td>
 <td>Jul 17, 2025</td></tr>
@@ -81,13 +87,7 @@ slug: /
 <td>Jul 16, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=9k0AmWQd3pw"><img width="200px" src="http://img.youtube.com/vi/9k0AmWQd3pw/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9k0AmWQd3pw">讽刺“有辱国格”说法，女性网友把来月经叫“国潮来袭”；外卖商战引发底层矛盾，外卖员和奶茶店员激烈冲突；国家统计局宣布上半年中国GDP同比增长5.3%【雪花每日新闻】</a></td>
-<td>Jul 16, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/A2OQeWf8WO0"><img width="200px" src="http://img.youtube.com/vi/A2OQeWf8WO0/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/A2OQeWf8WO0">特朗普要求普京50天內達成停戰協議－ BBC News 中文 #特朗普 #美國 #俄羅斯</a></td>
-<td>Jul 15, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/8FY6KFQeTds"><img width="200px" src="http://img.youtube.com/vi/8FY6KFQeTds/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/8FY6KFQeTds">洩露音頻揭示孟加拉前領導人授權致命鎮壓－ BBC News 中文</a></td>
-<td>Jul 15, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jul 16, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
