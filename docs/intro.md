@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/izKYOqs0Aso"><img width="200px" src="http://img.youtube.com/vi/izKYOqs0Aso/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/izKYOqs0Aso">敘利亞主播播報時遇以色列空襲 節目中斷－ BBC News 中文 #以色列  #敘利亞</a></td>
+<td>Jul 17, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=Hao0TmMcKqQ"><img width="200px" src="http://img.youtube.com/vi/Hao0TmMcKqQ/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Hao0TmMcKqQ">撞脸圣上，干犯天颜！B站清空刘克清的视频；黄仁勋着唐装亮相链博会，称英伟达将努力向华为学习；宗庆后曝出美国私生子和财产，当初捧娃哈哈的网友情感受伤【雪花每日新闻】</a></td>
 <td>Jul 16, 2025</td></tr>
@@ -84,10 +87,7 @@ slug: /
 <td>Jul 15, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/8FY6KFQeTds"><img width="200px" src="http://img.youtube.com/vi/8FY6KFQeTds/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/8FY6KFQeTds">洩露音頻揭示孟加拉前領導人授權致命鎮壓－ BBC News 中文</a></td>
-<td>Jul 15, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=kvT207-vvIo"><img width="200px" src="http://img.youtube.com/vi/kvT207-vvIo/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=kvT207-vvIo">网证网号将于今日起正式施行；大连工业大学女生被指“有辱国格”遭开除和网暴；刘克清因长得像习近平，儿歌视频评论区一夜被清空【雪花每日新闻】</a></td>
-<td>Jul 14, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jul 15, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
