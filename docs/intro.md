@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/EXmvZFx3Pkw"><img width="200px" src="http://img.youtube.com/vi/EXmvZFx3Pkw/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/EXmvZFx3Pkw">台灣師範大學「抽血換學分」事件引廣泛爭議－ BBC News 中文 #台灣</a></td>
+<td>Jul 18, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/shorts/4Y-n6zafpB0"><img width="200px" src="http://img.youtube.com/vi/4Y-n6zafpB0/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/4Y-n6zafpB0">BBC拍攝到無人機偷偷向英國監獄投擲包裹－ BBC News 中文</a></td>
+<td>Jul 18, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/e6_ZQArW_D0"><img width="200px" src="http://img.youtube.com/vi/e6_ZQArW_D0/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/e6_ZQArW_D0">台灣城鎮韌性演習亮點有哪些？－ BBC News 中文 #台灣</a></td>
 <td>Jul 17, 2025</td></tr>
@@ -81,12 +87,6 @@ slug: /
 <td>Jul 16, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/HfgVXTW3Qcs"><img width="200px" src="http://img.youtube.com/vi/HfgVXTW3Qcs/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/HfgVXTW3Qcs">中國女大學生被指「有損國格」遭開除引爭議－ BBC News 中文</a></td>
-<td>Jul 16, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/J6m74HuiQV0"><img width="200px" src="http://img.youtube.com/vi/J6m74HuiQV0/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/J6m74HuiQV0">黃仁勳訪問北京  稱用中文演講「很緊張」－ BBC News 中文</a></td>
-<td>Jul 16, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/EXtKuwIg5Ps"><img width="200px" src="http://img.youtube.com/vi/EXtKuwIg5Ps/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/EXtKuwIg5Ps">特朗普接受BBC專訪：對普京失望但未決裂－ BBC News 中文</a></td>
 <td>Jul 16, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
