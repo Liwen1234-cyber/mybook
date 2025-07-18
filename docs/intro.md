@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/18/%e6%81%90%e6%83%a7%e7%9a%84%e5%b0%bd%e5%a4%b4%e6%98%af%e6%84%a4%e6%80%92/">恐惧的尽头是愤怒</a>- by onojyun - Jul 18, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/07/weekly-issue-357.html">科技爱好者周刊（第 357 期）：稳定币的博弈</a>- by ruanyifeng - Jul 17, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/16/%e6%96%87%e8%89%ba%e7%89%87%e5%85%b1%e7%8a%af/">文艺片共犯</a>- by onojyun - Jul 16, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/15/%e7%ae%97%e5%92%8c%e4%b8%8d%e7%ae%97/">算和不算</a>- by onojyun - Jul 15, 2025</li>
@@ -27,7 +28,6 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/07/%e8%80%81%e5%a4%a9%e7%88%b7%e7%82%b9%e5%88%b0%e4%b8%ba%e6%ad%a2/">老天爷点到为止</a>- by onojyun - Jul 7, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/04/%e5%86%99%e5%9c%a8%e4%b8%96%e7%95%8c%e6%9c%ab%e6%97%a5%e4%b9%8b%e5%89%8d/">写在世界末日之前</a>- by onojyun - Jul 4, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/07/weekly-issue-355.html">科技爱好者周刊（第 355 期）：两本《芯片战争》</a>- by ruanyifeng - Jul 4, 2025</li>
-<li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/03/%e8%bd%a6%e7%a5%b8-iv/">车祸 IV</a>- by onojyun - Jul 3, 2025</li>
 <li style="padding-left: 20px;"><a href="https://lozhu.happy365.day/2025/07/02/5e4bf064e5ad/">使用STMP协议发送邮件</a>- by lozhu - Jul 2, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-354.html">科技爱好者周刊（第 354 期）：8000mAh 手机电池，说明了什么？</a>- by ruanyifeng - Jun 27, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/revenge-on-gold-diggers/?utm_source=rss&utm_medium=rss&utm_campaign=revenge-on-gold-diggers">《捞女游戏》的局限与舆论困境</a>- by stephenleng - Jun 26, 2025</li>
