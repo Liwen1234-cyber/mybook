@@ -94,6 +94,7 @@ slug: /
 ## GitHub Trending
 ### All language
 
+* 【2025-07-18】[Kyome22 / RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar.
 * 【2025-07-17】[aws / amazon-q-developer-cli](https://github.com/aws/amazon-q-developer-cli) - ✨ Agentic chat experience in your terminal. Build applications using natural language.
 * 【2025-07-17】[nicklockwood / SwiftFormat](https://github.com/nicklockwood/SwiftFormat) - A command-line tool and Xcode Extension for formatting Swift code
 * 【2025-07-15】[TomBursch / kitchenowl](https://github.com/TomBursch/kitchenowl) - KitchenOwl is a self-hosted grocery list and recipe manager. The backend is made with Flask and the frontend with Flutter. Easily add items to your shopping list before you go shopping. You can also create recipes and add items based on what you want to cook.
@@ -114,6 +115,7 @@ slug: /
 
 ### Java
 
+* 【2025-07-18】[spinnaker / spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 * 【2025-07-14】[re-zero001 / LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena) - Useless LSPosed Framework Fork
 * 【2025-07-13】[GumTreeDiff / gumtree](https://github.com/GumTreeDiff/gumtree) - An awesome code differencing tool
 * 【2025-07-08】[Aefyr / SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
@@ -162,6 +164,7 @@ slug: /
 
 ### Jupyter-notebook
 
+* 【2025-07-18】[iamvaibhavmehra / LangGraph-Course-freeCodeCamp](https://github.com/iamvaibhavmehra/LangGraph-Course-freeCodeCamp) - Repository for all of the code that was written for the FreeCodeCamp Course and the answers for all of the exercises.
 * 【2025-07-17】[microsoft / fabric-toolbox](https://github.com/microsoft/fabric-toolbox) - Fabric toolbox is a repository of tools, accelerators, scripts, and samples to accelerate your success with Microsoft Fabric, brought to you by Fabric CAT.
 * 【2025-07-17】[veb-101 / Data-Science-Projects](https://github.com/veb-101/Data-Science-Projects) - Collection of data science projects in Python
 * 【2025-07-16】[microsoft / PhiCookBook](https://github.com/microsoft/PhiCookBook) - This is a Phi Family of SLMs book for getting started with Phi Models. Phi a family of open sourced AI models developed by Microsoft. Phi models are the most capable and cost-effective small language models (SLMs) available, outperforming models of the same size and next size up across a variety of language, reasoning, coding, and math benchmarks
@@ -189,6 +192,7 @@ slug: /
 
 ### Javascript
 
+* 【2025-07-18】[phcode-dev / phoenix](https://github.com/phcode-dev/phoenix) - The text editor designed to make coding as simple and fun as playing a video game
 * 【2025-07-14】[Parcoil / Sparkle](https://github.com/Parcoil/Sparkle) - Ultimate Windows Optimizer
 * 【2025-07-14】[hmjz100 / LinkSwift](https://github.com/hmjz100/LinkSwift) - 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
 * 【2025-07-12】[elastic / mcp-server-elasticsearch](https://github.com/elastic/mcp-server-elasticsearch) - 
