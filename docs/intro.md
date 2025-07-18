@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/07/weekly-issue-357.html">科技爱好者周刊（第 357 期）：稳定币的博弈</a>- by ruanyifeng - Jul 17, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/16/%e6%96%87%e8%89%ba%e7%89%87%e5%85%b1%e7%8a%af/">文艺片共犯</a>- by onojyun - Jul 16, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/15/%e7%ae%97%e5%92%8c%e4%b8%8d%e7%ae%97/">算和不算</a>- by onojyun - Jul 15, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/14/%e4%bb%8e%e8%bf%b7%e5%9b%a0%e5%88%b0%e6%94%bf%e6%b2%bb%e7%ac%a6%e5%8f%b7/">从迷因到政治符号</a>- by onojyun - Jul 14, 2025</li>
@@ -35,7 +36,6 @@ slug: /
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-353.html">科技爱好者周刊（第 353 期）：苹果的&quot;液态玻璃&quot;是为了 AR</a>- by ruanyifeng - Jun 20, 2025</li>
 <li style="padding-left: 20px;"><a href="https://blog.est.im/2025/stdin-06">原研哉《棍子和碗》</a>- by est - Jun 18, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/why-material-conditions-are-not-the-foundation-of-marriage/?utm_source=rss&utm_medium=rss&utm_campaign=why-material-conditions-are-not-the-foundation-of-marriage">为什么物质条件不是婚姻的“基础”</a>- by stephenleng - Jun 15, 2025</li>
-<li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/06/weekly-issue-352.html">科技爱好者周刊（第 352 期）：Bug 追踪系统的正确样子</a>- by ruanyifeng - Jun 12, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/do-parents-have-the-right-to-approve-their-childrens-marriage/?utm_source=rss&utm_medium=rss&utm_campaign=do-parents-have-the-right-to-approve-their-childrens-marriage">父母是否有子女婚姻的批准权？</a>- by stephenleng - Jun 11, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/while-parents-live-one-must-travel-far/?utm_source=rss&utm_medium=rss&utm_campaign=while-parents-live-one-must-travel-far">父母在，要远游</a>- by stephenleng - Jun 5, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/substitutes-for-religion-in-china/?utm_source=rss&utm_medium=rss&utm_campaign=substitutes-for-religion-in-china">论中国人的宗教代用品</a>- by stephenleng - May 29, 2025</li>
