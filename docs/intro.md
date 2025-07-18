@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/CrbKmroXxx0"><img width="200px" src="http://img.youtube.com/vi/CrbKmroXxx0/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/CrbKmroXxx0">白宮稱特朗普有「慢性靜脈功能不全」－ BBC News 中文 #特朗普 #美國</a></td>
+<td>Jul 18, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=yJUS48VFP-o"><img width="200px" src="http://img.youtube.com/vi/yJUS48VFP-o/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=yJUS48VFP-o">避難包、急救班、體能訓練：台灣女性如何「備戰」？－ BBC News 中文</a></td>
+<td>Jul 18, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=-GI3m6zLWgE"><img width="200px" src="http://img.youtube.com/vi/-GI3m6zLWgE/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=-GI3m6zLWgE">BBC專訪德國總理默茨：美國要與中國競爭而無暇顧及歐洲－ BBC News 中文</a></td>
 <td>Jul 18, 2025</td></tr>
@@ -81,13 +87,7 @@ slug: /
 <td>Jul 17, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/lR_2dTdBxKE"><img width="200px" src="http://img.youtube.com/vi/lR_2dTdBxKE/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/lR_2dTdBxKE">特朗普：中國將對製造芬太尼者處死刑－ BBC News 中文</a></td>
-<td>Jul 17, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/izKYOqs0Aso"><img width="200px" src="http://img.youtube.com/vi/izKYOqs0Aso/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/izKYOqs0Aso">敘利亞主播播報時遇以色列空襲 節目中斷－ BBC News 中文 #以色列  #敘利亞</a></td>
-<td>Jul 17, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=Hao0TmMcKqQ"><img width="200px" src="http://img.youtube.com/vi/Hao0TmMcKqQ/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=Hao0TmMcKqQ">撞脸圣上，干犯天颜！B站清空刘克清的视频；黄仁勋着唐装亮相链博会，称英伟达将努力向华为学习；宗庆后曝出美国私生子和财产，当初捧娃哈哈的网友情感受伤【雪花每日新闻】</a></td>
-<td>Jul 16, 2025</td></tr><!-- YOUTUBE:END -->
+<td>Jul 17, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
 
