@@ -58,6 +58,12 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/shorts/1ppKIlHlcr0"><img width="200px" src="http://img.youtube.com/vi/1ppKIlHlcr0/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/1ppKIlHlcr0">朝鮮全新「度假村」能吸引外國遊客嗎？－ BBC News 中文 #朝鮮  #俄羅斯</a></td>
+<td>Jul 19, 2025</td></tr>
+<tr><td><a href="https://www.youtube.com/watch?v=6YszlkvqSr0"><img width="200px" src="http://img.youtube.com/vi/6YszlkvqSr0/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=6YszlkvqSr0">人工智慧如何消耗我們的飲用水？－ BBC News 中文</a></td>
+<td>Jul 19, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=vTIn_5F2PPU"><img width="200px" src="http://img.youtube.com/vi/vTIn_5F2PPU/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=vTIn_5F2PPU">杭州发生水污染事件，自来水臭如粪水；马云被拍摄到在杭州西湖边骑自行车；美国驻武汉总领馆宣布因物业“虐待“来申签的中国人，停止预约面试【雪花每日新闻】</a></td>
 <td>Jul 18, 2025</td></tr>
@@ -81,12 +87,6 @@ slug: /
 <td>Jul 17, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/watch?v=fhGsLs1tBms"><img width="200px" src="http://img.youtube.com/vi/fhGsLs1tBms/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=fhGsLs1tBms">核武器：哪些國家擁有它們？這些國家是如何獲得的？－ BBC News 中文</a></td>
-<td>Jul 17, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/watch?v=n2aHVw4QCd4"><img width="200px" src="http://img.youtube.com/vi/n2aHVw4QCd4/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=n2aHVw4QCd4">黃仁勳訪華受明星般關注  稱讚中國AI是「優秀的技術」－ BBC News 中文</a></td>
-<td>Jul 17, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/69OddbKINOc"><img width="200px" src="http://img.youtube.com/vi/69OddbKINOc/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/69OddbKINOc">半島電視台記者播報時背後大樓遭轟炸－ BBC News 中文 #以色列  #敘利亞</a></td>
 <td>Jul 17, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
