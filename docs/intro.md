@@ -58,6 +58,9 @@ slug: /
   <tbody>
     
 <!-- YOUTUBE:START -->
+<tr><td><a href="https://www.youtube.com/watch?v=vTIn_5F2PPU"><img width="200px" src="http://img.youtube.com/vi/vTIn_5F2PPU/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=vTIn_5F2PPU">杭州发生水污染事件，自来水臭如粪水；马云被拍摄到在杭州西湖边骑自行车；美国驻武汉总领馆宣布因物业“虐待“来申签的中国人，停止预约面试【雪花每日新闻】</a></td>
+<td>Jul 18, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/CrbKmroXxx0"><img width="200px" src="http://img.youtube.com/vi/CrbKmroXxx0/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/CrbKmroXxx0">白宮稱特朗普有「慢性靜脈功能不全」－ BBC News 中文 #特朗普 #美國</a></td>
 <td>Jul 18, 2025</td></tr>
@@ -84,9 +87,6 @@ slug: /
 <td>Jul 17, 2025</td></tr>
 <tr><td><a href="https://www.youtube.com/shorts/69OddbKINOc"><img width="200px" src="http://img.youtube.com/vi/69OddbKINOc/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/shorts/69OddbKINOc">半島電視台記者播報時背後大樓遭轟炸－ BBC News 中文 #以色列  #敘利亞</a></td>
-<td>Jul 17, 2025</td></tr>
-<tr><td><a href="https://www.youtube.com/shorts/lR_2dTdBxKE"><img width="200px" src="http://img.youtube.com/vi/lR_2dTdBxKE/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/shorts/lR_2dTdBxKE">特朗普：中國將對製造芬太尼者處死刑－ BBC News 中文</a></td>
 <td>Jul 17, 2025</td></tr><!-- YOUTUBE:END -->
 </tbody>
 </table>
