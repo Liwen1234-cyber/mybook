@@ -13,6 +13,7 @@ slug: /
 <details open>
   <summary>ARTICLES LIST</summary>
 <!-- BLOG:START -->
+<li style="padding-left: 20px;"><a href="https://lozhu.happy365.day/2025/07/19/b0a04d6723ef/">curl 学习笔记</a>- by lozhu - Jul 19, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/18/%e6%81%90%e6%83%a7%e7%9a%84%e5%b0%bd%e5%a4%b4%e6%98%af%e6%84%a4%e6%80%92/">恐惧的尽头是愤怒</a>- by onojyun - Jul 18, 2025</li>
 <li style="padding-left: 20px;"><a href="http://www.ruanyifeng.com/blog/2025/07/weekly-issue-357.html">科技爱好者周刊（第 357 期）：稳定币的博弈</a>- by ruanyifeng - Jul 17, 2025</li>
 <li style="padding-left: 20px;"><a href="https://onojyun.com/2025/07/16/%e6%96%87%e8%89%ba%e7%89%87%e5%85%b1%e7%8a%af/">文艺片共犯</a>- by onojyun - Jul 16, 2025</li>
@@ -41,8 +42,7 @@ slug: /
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/substitutes-for-religion-in-china/?utm_source=rss&utm_medium=rss&utm_campaign=substitutes-for-religion-in-china">论中国人的宗教代用品</a>- by stephenleng - May 29, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/why-kant-freud-and-einstein-delayed-graduation-of-their-phds/?utm_source=rss&utm_medium=rss&utm_campaign=why-kant-freud-and-einstein-delayed-graduation-of-their-phds">康德、弗洛伊德和爱因斯坦为什么博士延迟毕业？</a>- by stephenleng - May 23, 2025</li>
 <li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/institutional-reform-and-cultural-stagnation/?utm_source=rss&utm_medium=rss&utm_campaign=institutional-reform-and-cultural-stagnation">制度改革与文化停滞</a>- by stephenleng - May 19, 2025</li>
-<li style="padding-left: 20px;"><a href="https://blog.est.im/2025/stdout-04">A single Python function for both async/sync</a>- by est - May 14, 2025</li>
-<li style="padding-left: 20px;"><a href="https://stephenleng.com/cn/zhejiang-people-read-schopenhauer/?utm_source=rss&utm_medium=rss&utm_campaign=zhejiang-people-read-schopenhauer">浙江人，读叔本华吧！</a>- by stephenleng - May 12, 2025</li><!-- BLOG:END -->
+<li style="padding-left: 20px;"><a href="https://blog.est.im/2025/stdout-04">A single Python function for both async/sync</a>- by est - May 14, 2025</li><!-- BLOG:END -->
 
 </details>
 
